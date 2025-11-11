@@ -1,36 +1,135 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# ragTech Website
 
-## Getting Started
+A modern, responsive Next.js website for ragTech - home of the Bytes & Banter podcast, Techie Taboo game, and communication workshops. Making technology fun, engaging, and accessible to everyone!
 
-First, run the development server:
+## 🚀 Features
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+- **Cute Capybara Aesthetic**: Colorful brand colors with a playful, approachable design
+- **Fully Responsive**: Optimized for desktop, tablet, and mobile devices
+- **Smooth Animations**: Powered by Framer Motion for elegant transitions
+- **Contact Form**: Integrated with EmailJS for real contact submissions
+- **Episodes Gallery**: Browse all podcast episodes with direct YouTube links
+- **Static Export**: Pre-rendered for optimal performance and SEO
+- **Dark Mode**: Automatic dark mode support based on system preferences
+
+## 📁 Project Structure
+
+```
+ragtech-website/
+├── app/
+│   ├── components/           # Reusable components
+│   │   ├── Header.tsx       # Sticky navigation header
+│   │   ├── Footer.tsx       # Site footer with social links
+│   │   ├── Hero.tsx         # Hero section component
+│   │   ├── ProjectCard.tsx  # Project showcase cards
+│   │   ├── EpisodeCard.tsx  # Podcast episode cards
+│   │   └── ContactForm.tsx  # Contact form with validation
+│   ├── about/               # About page
+│   ├── podcast/             # Podcast page with episodes
+│   ├── blog/                # Blog/insights page
+│   ├── contact/             # Contact page
+│   ├── layout.tsx           # Root layout with Header/Footer
+│   ├── page.tsx             # Home page
+│   └── globals.css          # Global styles
+├── public/                  # Static assets
+├── tailwind.config.ts       # Tailwind configuration
+└── package.json
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🎨 Design & Branding
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Cute capybara aesthetic with vibrant brand colors:
+- **Brand Colors**: 
+  - Primary Pink: `#fda2a9`
+  - Secondary Turquoise: `#a2d4d1`
+  - Accent Cream: `#fff3c1`
+  - Brown: `#a2805d`
+  - Brown Dark: `#8b5a49`
+- **Typography**: Inter font family
+- **Style**: Playful, colorful with gradients, custom images, and friendly emojis
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## 📄 Pages
 
-## Learn More
+1. **Home** (`/`) - Hero with mic.png, projects (Podcast, Techie Taboo, Workshops), about section, CTA
+2. **About** (`/about`) - Story, team profiles with photos, core values, mission, episodes gallery
+3. **Contact** (`/contact`) - Contact form with EmailJS, direct contact info, social media links
 
-To learn more about Next.js, take a look at the following resources:
+## 🛠️ Tech Stack
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- **Framework**: Next.js 14 (App Router) with Static Export
+- **Styling**: Tailwind CSS with custom brand colors
+- **Animations**: Framer Motion
+- **Icons**: React Icons
+- **Contact Form**: EmailJS (@emailjs/browser)
+- **Language**: TypeScript
+- **Deployment**: Netlify
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## 📦 Getting Started
 
-## Deploy on Vercel
+1. **Install dependencies:**
+```bash
+npm install
+```
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+2. **Set up environment variables:**
+   - Copy `.env.local.example` to `.env.local`
+   - Add your EmailJS credentials:
+     - `NEXT_PUBLIC_EMAILJS_SERVICE_ID`
+     - `NEXT_PUBLIC_EMAILJS_TEMPLATE_ID`
+     - `NEXT_PUBLIC_EMAILJS_PUBLIC_KEY`
+   - Get credentials from [EmailJS](https://www.emailjs.com/)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+3. **Run the development server:**
+```bash
+npm run dev
+```
+
+4. **Open [http://localhost:3000](http://localhost:3000)** in your browser
+
+## 🚀 Build & Deploy
+
+### Build for Production
+```bash
+npm run build
+```
+
+This creates a static export in the `out` directory.
+
+### Deploy to Netlify
+The site is configured for Netlify deployment with `netlify.toml`:
+
+1. Push your code to GitHub
+2. Connect your repository to Netlify
+3. Add environment variables in Netlify dashboard:
+   - `NEXT_PUBLIC_EMAILJS_SERVICE_ID`
+   - `NEXT_PUBLIC_EMAILJS_TEMPLATE_ID`
+   - `NEXT_PUBLIC_EMAILJS_PUBLIC_KEY`
+4. Configure custom domain `ragtechdev.com`
+5. Deploy!
+
+Netlify will automatically detect the configuration and build settings.
+
+## 🎯 What We Offer
+
+- **Bytes & Banter Podcast**: Making tech topics fun and accessible
+- **Techie Taboo Game**: The ultimate tech communication challenge
+- **Workshops**: Helping engineers communicate better and non-techies understand technology
+
+## 🔗 Important Links
+
+- **Website**: https://ragtechdev.com
+- **Techie Taboo**: https://techie-taboo.ragtechdev.com/
+- **YouTube**: https://www.youtube.com/@ragTechDev
+- **Instagram**: https://www.instagram.com/ragtechdev/
+- **Spotify**: https://open.spotify.com/show/1KfM9JTWsDQ5QoMYEh489d
+- **Linktree**: https://linktr.ee/ragtechdev
+- **Blog**: https://ragtech.hashnode.dev/
+- **Email**: hello@ragtechdev.com
+
+## 📧 Contact
+
+For workshops, collaborations, or general inquiries: hello@ragtechdev.com
+
+---
+
+Built with ❤️ by ragTech | © 2025 ragTech | Where bytes meet banter ✨
