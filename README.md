@@ -22,16 +22,15 @@ ragtech-website/
 │   │   ├── Footer.tsx       # Site footer with social links
 │   │   ├── Hero.tsx         # Hero section component
 │   │   ├── ProjectCard.tsx  # Project showcase cards
-│   │   ├── EpisodeCard.tsx  # Podcast episode cards
-│   │   └── ContactForm.tsx  # Contact form with validation
-│   ├── about/               # About page
-│   ├── podcast/             # Podcast page with episodes
-│   ├── blog/                # Blog/insights page
-│   ├── contact/             # Contact page
+│   │   ├── EpisodeCard.tsx  # Podcast episode cards (for future use)
+│   │   └── ContactForm.tsx  # Contact form with EmailJS
+│   ├── about/               # About page with episodes gallery
+│   ├── contact/             # Contact page with form
 │   ├── layout.tsx           # Root layout with Header/Footer
 │   ├── page.tsx             # Home page
 │   └── globals.css          # Global styles
-├── public/                  # Static assets
+├── public/                  # Static assets (images, episodes)
+├── netlify.toml             # Netlify deployment config
 ├── tailwind.config.ts       # Tailwind configuration
 └── package.json
 ```
