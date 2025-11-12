@@ -182,7 +182,7 @@ export default function AboutPage() {
                 transition={{ duration: 0.6, delay: index * 0.1 }}
                 className="bg-white dark:bg-neutral-800 rounded-2xl p-8 text-center shadow-lg hover:shadow-2xl transition-all duration-300 border border-neutral-200 dark:border-neutral-700"
               >
-                <div className="mb-6">{value.icon}</div>
+                <div className="mb-6 flex justify-center">{value.icon}</div>
                 <h3 className="text-2xl font-bold mb-4 text-neutral-900 dark:text-white">
                   {value.title}
                 </h3>

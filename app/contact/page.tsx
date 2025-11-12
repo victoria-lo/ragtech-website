@@ -2,7 +2,7 @@
 
 import Image from 'next/image';
 import { motion } from 'framer-motion';
-import { FaEnvelope, FaYoutube, FaInstagram, FaSpotify } from 'react-icons/fa';
+import { FaEnvelope, FaYoutube, FaInstagram, FaSpotify, FaLinkedin, FaGithub, FaTiktok } from 'react-icons/fa';
 import { SiLinktree } from 'react-icons/si';
 import Hero from '../components/Hero';
 import ContactForm from '../components/ContactForm';
@@ -14,24 +14,28 @@ export default function ContactPage() {
       icon: FaYoutube,
       label: 'YouTube',
       color: 'text-red-600 hover:text-red-700',
+      handle: '@ragTechDev',
     },
     {
       href: 'https://www.instagram.com/ragtechdev/',
       icon: FaInstagram,
       label: 'Instagram',
       color: 'text-pink-600 hover:text-pink-700',
+      handle: '@ragtechdev',
     },
     {
       href: 'https://open.spotify.com/show/1KfM9JTWsDQ5QoMYEh489d',
       icon: FaSpotify,
       label: 'Spotify',
       color: 'text-green-600 hover:text-green-700',
+      handle: 'Bytes & Banter',
     },
     {
-      href: 'https://linktr.ee/ragtechdev',
-      icon: SiLinktree,
-      label: 'Linktree',
-      color: 'text-green-500 hover:text-green-600',
+      href: 'https://sg.linkedin.com/company/ragtechdev',
+      icon: FaLinkedin,
+      label: 'LinkedIn',
+      color: 'text-blue-600 hover:text-blue-700',
+      handle: 'ragtechdev',
     },
   ];
 
@@ -207,7 +211,7 @@ export default function ContactPage() {
                         {social.label}
                       </h4>
                       <p className="text-sm text-neutral-600 dark:text-neutral-400">
-                        @ragTechDev
+                        {social.handle}
                       </p>
                     </div>
                   </a>

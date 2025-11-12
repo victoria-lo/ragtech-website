@@ -1,7 +1,7 @@
 'use client';
 
 import Link from 'next/link';
-import { FaYoutube, FaInstagram, FaSpotify, FaEnvelope } from 'react-icons/fa';
+import { FaYoutube, FaInstagram, FaSpotify, FaEnvelope, FaLinkedin, FaGithub, FaTiktok } from 'react-icons/fa';
 import { SiLinktree } from 'react-icons/si';
 
 export default function Footer() {
@@ -19,6 +19,12 @@ export default function Footer() {
       color: 'hover:text-pink-600',
     },
     {
+      href: 'https://www.tiktok.com/@ragtechdev',
+      icon: FaTiktok,
+      label: 'TikTok',
+      color: 'hover:text-gray-900',
+    },
+    {
       href: 'https://open.spotify.com/show/1KfM9JTWsDQ5QoMYEh489d',
       icon: FaSpotify,
       label: 'Spotify',
@@ -29,6 +35,18 @@ export default function Footer() {
       icon: SiLinktree,
       label: 'Linktree',
       color: 'hover:text-green-500',
+    },
+    {
+      href: 'https://sg.linkedin.com/company/ragtechdev',
+      icon: FaLinkedin,
+      label: 'LinkedIn',
+      color: 'hover:text-blue-600',
+    },
+    {
+      href: 'https://github.com/ragTechDev',
+      icon: FaGithub,
+      label: 'GitHub',
+      color: 'hover:text-gray-600',
     },
     {
       href: 'mailto:hello@ragtechdev.com',
