@@ -120,9 +120,12 @@ Netlify will automatically detect the configuration and build settings.
 - **Techie Taboo**: https://techie-taboo.ragtechdev.com/
 - **YouTube**: https://www.youtube.com/@ragTechDev
 - **Instagram**: https://www.instagram.com/ragtechdev/
+- **TikTok**: https://www.tiktok.com/@ragtechdev
 - **Spotify**: https://open.spotify.com/show/1KfM9JTWsDQ5QoMYEh489d
+- **LinkedIn**: https://sg.linkedin.com/company/ragtechdev
+- **GitHub**: https://github.com/ragTechDev
 - **Linktree**: https://linktr.ee/ragtechdev
-- **Blog**: https://ragtech.hashnode.dev/
+- **Blog**: https://blog.ragtechdev.com/
 - **Email**: hello@ragtechdev.com
 
 ## 📧 Contact

@@ -110,7 +110,7 @@ export default function Footer() {
               </li>
               <li>
                 <a
-                  href="https://ragtech.hashnode.dev/"
+                  href="https://blog.ragtechdev.com/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-accent/80 hover:text-accent transition-colors duration-300"

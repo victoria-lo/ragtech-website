@@ -22,7 +22,7 @@ export default function Header() {
     { href: '/', label: 'Home', external: false },
     { href: '/about', label: 'About', external: false },
     { href: 'https://www.youtube.com/@ragTechDev', label: 'Podcast', external: true },
-    { href: 'https://ragtech.hashnode.dev/', label: 'Blog', external: true },
+    { href: 'https://blog.ragtechdev.com/', label: 'Blog', external: true },
     { href: '/contact', label: 'Contact', external: false },
     { href: 'https://techie-taboo.ragtechdev.com/', label: 'Techie Taboo', external: true },
   ];
