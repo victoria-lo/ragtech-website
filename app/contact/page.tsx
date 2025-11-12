@@ -240,9 +240,7 @@ export default function ContactPage() {
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <a
-                href="https://techie-taboo.ragtechdev.com/"
-                target="_blank"
-                rel="noopener noreferrer"
+                href="/techie-taboo"
                 className="px-8 py-4 bg-gradient-primary text-white rounded-full font-semibold hover:opacity-90 transition-all duration-300 shadow-lg"
               >
                 Join Techie Taboo Waitlist

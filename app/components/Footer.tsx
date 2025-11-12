@@ -69,9 +69,7 @@ export default function Footer() {
               Where bytes meet banter. Making technology fun, engaging, and accessible to everyone through podcasts and creative projects.
             </p>
             <Link
-              href="https://techie-taboo.ragtechdev.com/"
-              target="_blank"
-              rel="noopener noreferrer"
+              href="/techie-taboo"
               className="inline-block px-6 py-2 bg-accent text-brownDark rounded-full hover:shadow-xl hover:scale-105 transition-all duration-300 font-semibold"
             >
               Join Techie Taboo Waitlist
@@ -127,14 +125,12 @@ export default function Footer() {
                 </Link>
               </li>
               <li>
-                <a
-                  href="https://techie-taboo.ragtechdev.com/"
-                  target="_blank"
-                  rel="noopener noreferrer"
+                <Link
+                  href="/techie-taboo"
                   className="text-accent/80 hover:text-accent transition-colors duration-300"
                 >
                   Techie Taboo
-                </a>
+                </Link>
               </li>
             </ul>
           </div>

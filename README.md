@@ -76,7 +76,11 @@ npm install
      - `NEXT_PUBLIC_EMAILJS_SERVICE_ID`
      - `NEXT_PUBLIC_EMAILJS_TEMPLATE_ID`
      - `NEXT_PUBLIC_EMAILJS_PUBLIC_KEY`
-   - Get credentials from [EmailJS](https://www.emailjs.com/)
+   - Add Netlify API credentials (for Techie Taboo pledge count):
+     - `SITE_ID` - Your Netlify site ID
+     - `NETLIFY_API_TOKEN` - Your Netlify API token
+   - Get EmailJS credentials from [EmailJS](https://www.emailjs.com/)
+   - Get Netlify credentials from Netlify dashboard
 
 3. **Run the development server:**
 ```bash
@@ -103,6 +107,8 @@ The site is configured for Netlify deployment with `netlify.toml`:
    - `NEXT_PUBLIC_EMAILJS_SERVICE_ID`
    - `NEXT_PUBLIC_EMAILJS_TEMPLATE_ID`
    - `NEXT_PUBLIC_EMAILJS_PUBLIC_KEY`
+   - `SITE_ID` - Your Netlify site ID (found in Site settings > General)
+   - `NETLIFY_API_TOKEN` - Personal access token from User settings > Applications
 4. Configure custom domain `ragtechdev.com`
 5. Deploy!
 
@@ -117,7 +123,7 @@ Netlify will automatically detect the configuration and build settings.
 ## 🔗 Important Links
 
 - **Website**: https://ragtechdev.com
-- **Techie Taboo**: https://techie-taboo.ragtechdev.com/
+- **Techie Taboo**: https://ragtechdev.com/techie-taboo
 - **YouTube**: https://www.youtube.com/@ragTechDev
 - **Instagram**: https://www.instagram.com/ragtechdev/
 - **TikTok**: https://www.tiktok.com/@ragtechdev

@@ -18,9 +18,7 @@ export default function Home() {
         heroImage="/assets/mic.png"
       >
         <Link
-          href="https://techie-taboo.ragtechdev.com/"
-          target="_blank"
-          rel="noopener noreferrer"
+          href="/techie-taboo"
           className="px-8 py-4 bg-gradient-primary text-white rounded-full font-semibold hover:opacity-90 transition-all duration-300 shadow-lg hover:shadow-xl"
         >
           Play Techie Taboo!
@@ -64,7 +62,7 @@ export default function Home() {
             <ProjectCard
               title="Techie Taboo Game"
               description="The ultimate tech communication challenge! Explain complex tech concepts, programming languages, and industry buzzwords without using the obvious terms. Perfect for tech teams and coding bootcamps."
-              link="https://techie-taboo.ragtechdev.com/"
+              link="/techie-taboo"
               linkText="Join Waitlist"
               image="/assets/games.png"
             />

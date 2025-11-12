@@ -24,7 +24,7 @@ export default function Header() {
     { href: 'https://www.youtube.com/@ragTechDev', label: 'Podcast', external: true },
     { href: 'https://blog.ragtechdev.com/', label: 'Blog', external: true },
     { href: '/contact', label: 'Contact', external: false },
-    { href: 'https://techie-taboo.ragtechdev.com/', label: 'Techie Taboo', external: true },
+    { href: '/techie-taboo', label: 'Techie Taboo', external: false },
   ];
 
   return (
