@@ -7,6 +7,7 @@ A modern, responsive Next.js website for ragTech - home of the Bytes & Banter po
 - **Cute Capybara Aesthetic**: Colorful brand colors with a playful, approachable design
 - **Fully Responsive**: Optimized for desktop, tablet, and mobile devices
 - **Smooth Animations**: Powered by Framer Motion for elegant transitions
+- **Internal Blog**: Integrated with Hashnode headless CMS with newsletter subscription
 - **Contact Form**: Integrated with EmailJS for real contact submissions
 - **Episodes Gallery**: Browse all podcast episodes with direct YouTube links
 - **Static Export**: Pre-rendered for optimal performance and SEO
@@ -25,7 +26,10 @@ ragtech-website/
 │   │   ├── EpisodeCard.tsx  # Podcast episode cards (for future use)
 │   │   └── ContactForm.tsx  # Contact form with EmailJS
 │   ├── about/               # About page with episodes gallery
+│   ├── blog/                # Blog listing page
+│   │   └── [slug]/         # Individual blog post pages
 │   ├── contact/             # Contact page with form
+│   ├── techie-taboo/        # Techie Taboo waitlist page
 │   ├── layout.tsx           # Root layout with Header/Footer
 │   ├── page.tsx             # Home page
 │   └── globals.css          # Global styles
@@ -51,14 +55,18 @@ Cute capybara aesthetic with vibrant brand colors:
 
 1. **Home** (`/`) - Hero with mic.png, projects (Podcast, Techie Taboo, Workshops), about section, CTA
 2. **About** (`/about`) - Story, team profiles with photos, core values, mission, episodes gallery
-3. **Contact** (`/contact`) - Contact form with EmailJS, direct contact info, social media links
+3. **Blog** (`/blog`) - Blog listing with newsletter subscription, powered by Hashnode headless CMS
+4. **Blog Post** (`/blog/[slug]`) - Individual blog posts with custom styling and formatting
+5. **Techie Taboo** (`/techie-taboo`) - Waitlist page with pledge form
+6. **Contact** (`/contact`) - Contact form with EmailJS, direct contact info, social media links
 
 ## 🛠️ Tech Stack
 
 - **Framework**: Next.js 14 (App Router) with Static Export
-- **Styling**: Tailwind CSS with custom brand colors
+- **Styling**: Tailwind CSS with custom brand colors & @tailwindcss/typography
 - **Animations**: Framer Motion
 - **Icons**: React Icons
+- **Blog**: Hashnode GraphQL API (Headless CMS)
 - **Contact Form**: EmailJS (@emailjs/browser)
 - **Language**: TypeScript
 - **Deployment**: Netlify
@@ -131,7 +139,7 @@ Netlify will automatically detect the configuration and build settings.
 - **LinkedIn**: https://sg.linkedin.com/company/ragtechdev
 - **GitHub**: https://github.com/ragTechDev
 - **Linktree**: https://linktr.ee/ragtechdev
-- **Blog**: https://blog.ragtechdev.com/
+- **Blog**: https://ragtechdev.com/blog
 - **Email**: hello@ragtechdev.com
 
 ## 📧 Contact

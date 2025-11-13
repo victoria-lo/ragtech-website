@@ -107,14 +107,12 @@ export default function Footer() {
                 </a>
               </li>
               <li>
-                <a
-                  href="https://blog.ragtechdev.com/"
-                  target="_blank"
-                  rel="noopener noreferrer"
+                <Link
+                  href="/blog"
                   className="text-accent/80 hover:text-accent transition-colors duration-300"
                 >
                   Blog
-                </a>
+                </Link>
               </li>
               <li>
                 <Link

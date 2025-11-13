@@ -11,6 +11,7 @@ interface HeroProps {
   backgroundGradient?: boolean;
   heroImage?: string;
   titleOnImage?: boolean;
+  largeImage?: boolean;
 }
 
 export default function Hero({
@@ -21,6 +22,7 @@ export default function Hero({
   backgroundGradient = true,
   heroImage,
   titleOnImage = false,
+  largeImage = false,
 }: HeroProps) {
   return (
     <section
@@ -90,7 +92,7 @@ export default function Hero({
                 <img
                   src={heroImage}
                   alt={title}
-                  className="w-48 md:w-60 h-auto"
+                  className={largeImage ? "w-64 md:w-80 lg:w-96 h-auto" : "w-48 md:w-60 h-auto"}
                 />
               </motion.div>
             )}
