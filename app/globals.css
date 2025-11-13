@@ -102,7 +102,7 @@
     @apply prose-blockquote:font-medium;
     @apply prose-ul:list-disc prose-ul:pl-6 prose-ol:list-decimal prose-ol:pl-6;
     @apply prose-li:text-neutral-700 dark:prose-li:text-neutral-300 prose-li:my-2;
-    @apply prose-img:rounded-2xl prose-img:shadow-2xl prose-img:my-8;
+    @apply prose-img:rounded-2xl prose-img:my-8;
     @apply prose-hr:border-neutral-300 dark:prose-hr:border-neutral-700 prose-hr:my-8;
     @apply prose-table:border-collapse prose-table:w-full;
     @apply prose-th:bg-secondary/20 prose-th:p-3 prose-th:text-left prose-th:font-semibold;

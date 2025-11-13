@@ -154,6 +154,7 @@ export default function BlogPage() {
         description="Insights, tutorials, and stories from the ragTech team. Scroll down to read!"
         heroImage="/assets/laptop.png"
         backgroundGradient={true}
+        largeImage={true}
       >
         {/* Newsletter Subscription */}
         <div className="max-w-2xl mx-auto">
