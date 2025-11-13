@@ -171,11 +171,11 @@ export default function ContactPage() {
                 </div>
                 <div className="mt-8 flex justify-center">
                   <Image
-                    src="/assets/laptop.png"
+                    src="/assets/email.png"
                     alt="Contact Us"
                     width={200}
                     height={200}
-                    className="w-96 h-auto"
+                    className="w-56 h-auto"
                   />
                 </div>
               </div>
