@@ -75,7 +75,7 @@ export default function FlippableCard({
         >
           {/* Front Side */}
           <motion.div
-            className="absolute inset-0 backface-hidden overflow-hidden shadow-2xl"
+            className="absolute inset-0 backface-hidden overflow-hidden shadow-2xl rounded-3xl"
             style={{
               backfaceVisibility: 'hidden',
               WebkitBackfaceVisibility: 'hidden',
@@ -85,14 +85,14 @@ export default function FlippableCard({
               src={frontImage}
               alt={`${alt} - Front`}
               fill
-              className="object-contain"
+              className="object-cover rounded-3xl"
               priority
             />
           </motion.div>
 
           {/* Back Side */}
           <motion.div
-            className="absolute inset-0 backface-hidden overflow-hidden shadow-2xls"
+            className="absolute inset-0 backface-hidden overflow-hidden shadow-2xl rounded-3xl"
             style={{
               backfaceVisibility: 'hidden',
               WebkitBackfaceVisibility: 'hidden',
@@ -103,7 +103,7 @@ export default function FlippableCard({
               src={backImage}
               alt={`${alt} - Back`}
               fill
-              className="object-contain"
+              className="object-cover rounded-3xl"
             />
           </motion.div>
         </motion.div>
