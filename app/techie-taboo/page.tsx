@@ -257,10 +257,10 @@ export default function TechieTabooPage() {
                 How to Play
               </h2>
               <p className="text-xl text-primary dark:text-primary-light font-semibold mb-4">
-                Never played before? It's easy!
+                Never played before? It&apos;s easy!
               </p>
               <p className="text-lg text-neutral-600 dark:text-neutral-400 mb-8">
-                Follow these 4 simple steps and you'll be explaining "API" without saying "programming" in no time.
+                Follow these 4 simple steps and you&apos;ll be explaining &quot;API&quot; without saying &quot;programming&quot; in no time.
               </p>
 
               <div className="space-y-4">
