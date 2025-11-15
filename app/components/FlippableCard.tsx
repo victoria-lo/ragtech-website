@@ -43,7 +43,7 @@ export default function FlippableCard({
             <span className="bg-primary text-white px-2 py-0.5 rounded font-semibold">Click card</span> to flip it front/back
           </p>
           <p className="flex items-center justify-center gap-2">
-            <span className="bg-secondary text-white px-2 py-0.5 rounded font-semibold">Click button</span> below to rotate card & read bottom word
+            <span className="bg-secondary text-white px-2 py-0.5 rounded font-semibold">Click button</span> below to rotate card
           </p>
         </div>
       </motion.div>
