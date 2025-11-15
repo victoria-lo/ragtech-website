@@ -134,8 +134,8 @@ export default async function BlogPostPage({ params }: { params: { slug: string 
   }
 
   return (
-    <main className="min-h-screen pt-24 pb-20 px-6">
-      <article className="container mx-auto max-w-4xl">
+    <main className="min-h-screen pt-24 pb-20 px-4 sm:px-6 overflow-x-hidden">
+      <article className="container mx-auto max-w-4xl w-full">
         {/* Back Button */}
         <div className="mb-8">
           <Link

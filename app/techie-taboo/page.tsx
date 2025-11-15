@@ -4,6 +4,7 @@ import { useState, useEffect } from 'react';
 import Image from 'next/image';
 import Link from 'next/link';
 import { motion } from 'framer-motion';
+import FlippableCard from '../components/FlippableCard';
 
 export default function TechieTabooPage() {
   const [pledgeCount, setPledgeCount] = useState<number>(0);
@@ -17,21 +18,32 @@ export default function TechieTabooPage() {
   const [showThankYou, setShowThankYou] = useState(false);
 
   const features = [
+    { icon: '🎯', text: 'Perfect for tech teams, bootcamps, and meetups' },
+    { icon: '⚡', text: 'Fast-paced rounds that test your tech vocabulary' },
+    { icon: '🧠', text: 'Learn to explain complex concepts simply' },
+    { icon: '😄', text: 'Hilarious moments guaranteed!' },
+  ];
+
+  const howToPlay = [
     {
-      icon: '🎯',
-      text: 'Explain "API" without saying "interface" or "programming"',
+      icon: '1️⃣',
+      title: 'Draw a Card',
+      text: 'Pick a card! We will color code based on category',
     },
     {
-      icon: '⚡',
-      text: 'Fast-paced rounds that test your tech vocabulary',
+      icon: '2️⃣',
+      title: 'Choose Your Word',
+      text: 'Select which buzzword you want to explain to your team',
     },
     {
-      icon: '🧠',
-      text: 'Perfect for tech teams and coding bootcamps',
+      icon: '3️⃣',
+      title: 'Explain Without Taboo Words',
+      text: 'Describe the buzzword without using any of the forbidden taboo words listed under it',
     },
     {
-      icon: '😄',
-      text: 'Hilarious moments when explaining "recursion"',
+      icon: '4️⃣',
+      title: 'Race Against Time',
+      text: 'Get your team to guess correctly before time runs out! ⏰',
     },
   ];
 
@@ -174,13 +186,22 @@ export default function TechieTabooPage() {
               We&apos;re building a fun social game for techies to explain buzzwords without using the buzzwords — think Taboo meets Tech Talk!
             </p>
 
-            <a
-              href="#waitlist"
-              className="inline-flex items-center gap-3 px-8 py-4 bg-gradient-primary text-white rounded-full font-semibold text-lg hover:opacity-90 transition-all duration-300 shadow-lg hover:shadow-xl hover:scale-105"
-            >
-              <span>Join Waitlist Now</span>
-              <span className="text-2xl">🚀</span>
-            </a>
+            <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
+              <a
+                href="#cards"
+                className="inline-flex items-center gap-3 px-8 py-4 bg-white dark:bg-neutral-800 text-brownDark dark:text-brown border-2 border-primary rounded-full font-semibold text-lg hover:bg-primary hover:text-white hover:border-primary transition-all duration-300 shadow-lg hover:shadow-xl hover:scale-105"
+              >
+                <span>View Cards</span>
+                <span className="text-2xl">🎴</span>
+              </a>
+              <a
+                href="#waitlist"
+                className="inline-flex items-center gap-3 px-8 py-4 bg-gradient-primary text-white rounded-full font-semibold text-lg hover:opacity-90 transition-all duration-300 shadow-lg hover:shadow-xl hover:scale-105"
+              >
+                <span>Join Waitlist Now</span>
+                <span className="text-2xl">🚀</span>
+              </a>
+            </div>
             <div className="mt-6 max-w-xl mx-auto bg-white/80 dark:bg-neutral-800/80 backdrop-blur-sm rounded-2xl p-6 shadow-md border-2 border-primary/20">
               <p className="text-xl font-bold text-primary dark:text-primary-light mb-2">
                 Secure your spot for $1!
@@ -193,8 +214,37 @@ export default function TechieTabooPage() {
         </div>
       </section>
 
-      {/* About Techie Taboo Section */}
-      <section className="py-20 px-6 bg-gradient-to-br from-accent/10 via-white to-primary/10 dark:bg-neutral-900" id="about-game">
+      {/* Why Play Section */}
+      <section className="py-12 px-6 bg-white dark:bg-neutral-900">
+        <div className="container mx-auto max-w-6xl">
+          <motion.h2
+            initial={{ opacity: 0, y: 20 }}
+            whileInView={{ opacity: 1, y: 0 }}
+            viewport={{ once: true }}
+            className="text-3xl md:text-4xl font-bold text-center mb-8 text-brownDark dark:text-brown"
+          >
+            Why Play Techie Taboo?
+          </motion.h2>
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
+            {features.map((feature, index) => (
+              <motion.div
+                key={index}
+                initial={{ opacity: 0, y: 20 }}
+                whileInView={{ opacity: 1, y: 0 }}
+                viewport={{ once: true }}
+                transition={{ duration: 0.4, delay: index * 0.1 }}
+                className={`flex flex-col items-center text-center p-4 bg-gradient-to-br from-primary/5 to-secondary/5 rounded-xl shadow-md hover:shadow-lg transition-all duration-300 border-2 ${borderColors[index]}`}
+              >
+                <span className="text-4xl mb-2">{feature.icon}</span>
+                <p className="text-sm text-neutral-700 dark:text-neutral-300">{feature.text}</p>
+              </motion.div>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* How to Play Section */}
+      <section className="py-16 px-6 bg-gradient-to-br from-accent/10 via-white to-primary/10 dark:bg-neutral-900" id="about-game">
         <div className="container mx-auto max-w-6xl">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
             <motion.div
@@ -204,17 +254,17 @@ export default function TechieTabooPage() {
               transition={{ duration: 0.6 }}
             >
               <h2 className="text-4xl md:text-5xl font-bold mb-4 text-brownDark dark:text-brown">
-                About Techie Taboo
+                How to Play
               </h2>
               <p className="text-xl text-primary dark:text-primary-light font-semibold mb-4">
-                A Taboo Game with a Tech Twist!
+                Never played before? It's easy!
               </p>
               <p className="text-lg text-neutral-600 dark:text-neutral-400 mb-8">
-                Get ready for the ultimate tech communication challenge! Techie Taboo puts a fun spin on the classic game by making you explain complex tech concepts, programming languages, and industry buzzwords without using the obvious terms.
+                Follow these 4 simple steps and you'll be explaining "API" without saying "programming" in no time.
               </p>
 
               <div className="space-y-4">
-                {features.map((feature, index) => (
+                {howToPlay.map((step, index) => (
                   <motion.div
                     key={index}
                     initial={{ opacity: 0, x: -20 }}
@@ -223,8 +273,11 @@ export default function TechieTabooPage() {
                     transition={{ duration: 0.4, delay: index * 0.1 }}
                     className={`flex items-start gap-4 p-4 bg-white dark:bg-neutral-800 rounded-xl shadow-md hover:shadow-lg transition-all duration-300 border-2 ${borderColors[index]}`}
                   >
-                    <span className="text-3xl">{feature.icon}</span>
-                    <p className="text-neutral-700 dark:text-neutral-300">{feature.text}</p>
+                    <span className="text-3xl">{step.icon}</span>
+                    <div>
+                      <p className="font-bold text-brownDark dark:text-brown mb-1">{step.title}</p>
+                      <p className="text-neutral-700 dark:text-neutral-300">{step.text}</p>
+                    </div>
                   </motion.div>
                 ))}
               </div>
@@ -254,8 +307,81 @@ export default function TechieTabooPage() {
         </div>
       </section>
 
+      {/* Interactive Card Demo Section */}
+      <section id="cards" className="py-20 px-6 bg-gradient-to-br from-primary/20 via-accent/15 to-secondary/20 dark:bg-gradient-to-br dark:from-neutral-800 dark:via-neutral-900 dark:to-neutral-800 relative overflow-hidden">
+        {/* Decorative elements */}
+        <div className="absolute top-10 left-0 w-64 h-64 bg-primary/20 rounded-full blur-3xl animate-pulse" />
+        <div className="absolute bottom-10 right-0 w-64 h-64 bg-secondary/20 rounded-full blur-3xl animate-pulse" style={{ animationDelay: '1s' }} />
+        <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-96 h-96 bg-accent/10 rounded-full blur-3xl" />
+        
+        {/* Floating emojis */}
+        <motion.div 
+          className="absolute top-20 left-[10%] text-6xl opacity-20"
+          animate={{ y: [0, -20, 0], rotate: [0, 10, 0] }}
+          transition={{ duration: 4, repeat: Infinity, ease: "easeInOut" }}
+        >
+          🎮
+        </motion.div>
+        <motion.div 
+          className="absolute bottom-32 right-[15%] text-6xl opacity-20"
+          animate={{ y: [0, 20, 0], rotate: [0, -10, 0] }}
+          transition={{ duration: 5, repeat: Infinity, ease: "easeInOut" }}
+        >
+          💻
+        </motion.div>
+        <motion.div 
+          className="absolute top-40 right-[20%] text-5xl opacity-20"
+          animate={{ y: [0, -15, 0], x: [0, 10, 0] }}
+          transition={{ duration: 4.5, repeat: Infinity, ease: "easeInOut" }}
+        >
+          🎯
+        </motion.div>
+        
+        <div className="container mx-auto max-w-6xl relative z-10">
+          <motion.div
+            initial={{ opacity: 0, y: 20 }}
+            whileInView={{ opacity: 1, y: 0 }}
+            viewport={{ once: true }}
+            transition={{ duration: 0.6 }}
+            className="text-center mb-4"
+          >
+            <h2 className="text-4xl md:text-5xl font-bold mb-4 text-brownDark dark:text-brown pb-2">
+              See the Cards in Action!
+            </h2>
+            <div className="max-w-2xl mx-auto bg-white/60 dark:bg-neutral-800/60 backdrop-blur-sm rounded-2xl p-6 border-2 border-primary/30 shadow-lg">
+              <p className="text-lg font-semibold text-neutral-700 dark:text-neutral-300 mb-4">
+                Each card has <span className="text-primary font-bold">2 tech buzzwords</span> (top and bottom)<br/>and <span className="text-secondary font-bold">5 taboo words</span> under each word.
+              </p>
+              <p className="text-sm text-neutral-600 dark:text-neutral-400 italic mb-4">
+                Sample card below. Launch includes multiple color-coded categories! 🎨
+              </p>
+              <a
+                href="#waitlist"
+                className="inline-flex items-center gap-2 px-6 py-3 bg-gradient-primary text-white rounded-full font-semibold text-base hover:opacity-90 transition-all duration-300 shadow-md hover:shadow-lg hover:scale-105"
+              >
+                <span>Join Waitlist</span>
+                <span className="text-xl">🚀</span>
+              </a>
+            </div>
+          </motion.div>
+
+          <motion.div
+            initial={{ opacity: 0, scale: 0.9 }}
+            whileInView={{ opacity: 1, scale: 1 }}
+            viewport={{ once: true }}
+            transition={{ duration: 0.6, delay: 0.2 }}
+          >
+            <FlippableCard
+              frontImage="/assets/cards/front.png"
+              backImage="/assets/cards/back.png"
+              alt="Techie Taboo Sample Card"
+            />
+          </motion.div>
+        </div>
+      </section>
+
       {/* About ragTech Section */}
-      <section className="py-20 px-6 bg-gradient-to-br from-secondary/15 via-primary/10 to-accent/15" id="about-ragtech">
+      <section className="py-20 px-6 bg-white dark:bg-neutral-900" id="about-ragtech">
         <div className="container mx-auto max-w-6xl">
           <motion.div
             initial={{ opacity: 0, y: 20 }}
@@ -287,7 +413,7 @@ export default function TechieTabooPage() {
               href="/about"
               className="inline-flex items-center gap-3 px-8 py-4 bg-gradient-primary text-white rounded-full font-semibold text-lg hover:opacity-90 transition-all duration-300 shadow-lg hover:shadow-xl hover:scale-105"
             >
-              <span>Learn More About ragTech</span>
+              <span>Learn More</span>
               <span className="text-2xl">→</span>
             </Link>
           </motion.div>
