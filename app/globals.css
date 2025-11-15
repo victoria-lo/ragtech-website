@@ -59,6 +59,11 @@
     -webkit-box-orient: vertical;
     overflow: hidden;
   }
+
+  .backface-hidden {
+    backface-visibility: hidden;
+    -webkit-backface-visibility: hidden;
+  }
 }
 
 /* Custom Scrollbar */
@@ -82,7 +87,7 @@
 @layer components {
   /* Blog Post Content Styles */
   .blog-content {
-    @apply prose prose-lg dark:prose-invert max-w-none;
+    @apply prose prose-lg dark:prose-invert max-w-none overflow-x-hidden;
     @apply prose-headings:font-bold prose-headings:text-brownDark dark:prose-headings:text-brown;
     @apply prose-h1:text-4xl prose-h2:text-3xl prose-h3:text-2xl;
     @apply prose-p:text-neutral-700 dark:prose-p:text-neutral-300 prose-p:leading-relaxed;
@@ -92,7 +97,7 @@
     @apply prose-code:rounded prose-code:font-mono prose-code:text-sm;
     @apply prose-code:before:content-none prose-code:after:content-none;
     @apply prose-pre:bg-neutral-900 prose-pre:text-neutral-100 prose-pre:rounded-xl;
-    @apply prose-pre:shadow-lg prose-pre:p-6;
+    @apply prose-pre:shadow-lg prose-pre:p-6 prose-pre:overflow-x-auto prose-pre:max-w-full;
     @apply prose-blockquote:border-l-8 prose-blockquote:border-l-secondary;
     @apply prose-blockquote:bg-gradient-to-r prose-blockquote:from-secondary/20;
     @apply prose-blockquote:to-accent/10 prose-blockquote:py-4 prose-blockquote:px-8;
@@ -102,9 +107,9 @@
     @apply prose-blockquote:font-medium;
     @apply prose-ul:list-disc prose-ul:pl-6 prose-ol:list-decimal prose-ol:pl-6;
     @apply prose-li:text-neutral-700 dark:prose-li:text-neutral-300 prose-li:my-2;
-    @apply prose-img:rounded-2xl prose-img:my-8;
+    @apply prose-img:rounded-2xl prose-img:my-8 prose-img:max-w-full prose-img:h-auto;
     @apply prose-hr:border-neutral-300 dark:prose-hr:border-neutral-700 prose-hr:my-8;
-    @apply prose-table:border-collapse prose-table:w-full;
+    @apply prose-table:border-collapse prose-table:w-full prose-table:overflow-x-auto prose-table:block;
     @apply prose-th:bg-secondary/20 prose-th:p-3 prose-th:text-left prose-th:font-semibold;
     @apply prose-td:border prose-td:border-neutral-300 dark:prose-td:border-neutral-700 prose-td:p-3;
   }
