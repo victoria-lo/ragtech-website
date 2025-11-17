@@ -86,6 +86,7 @@ export async function generateStaticParams() {
         'Content-Type': 'application/json',
         'Cache-Control': 'no-cache, no-store, must-revalidate',
       },
+      cache: 'no-store',
       body: JSON.stringify({
         query: `
           query Publication {
@@ -94,6 +95,8 @@ export async function generateStaticParams() {
                 edges {
                   node {
                     slug
+                    title
+                    publishedAt
                   }
                 }
               }
