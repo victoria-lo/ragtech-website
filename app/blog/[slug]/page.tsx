@@ -84,7 +84,9 @@ export async function generateStaticParams() {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
+        'Cache-Control': 'no-cache, no-store, must-revalidate',
       },
+      cache: 'no-store',
       body: JSON.stringify({
         query: `
           query Publication {
@@ -93,6 +95,8 @@ export async function generateStaticParams() {
                 edges {
                   node {
                     slug
+                    title
+                    publishedAt
                   }
                 }
               }
@@ -108,9 +112,13 @@ export async function generateStaticParams() {
       return [];
     }
 
-    return data.data.publication.posts.edges.map((edge: any) => ({
+    const slugs = data.data.publication.posts.edges.map((edge: any) => ({
       slug: edge.node.slug,
     }));
+    
+    console.log(`[generateStaticParams] Generated ${slugs.length} slugs:`, slugs.map((s: any) => s.slug));
+    
+    return slugs;
   } catch (error) {
     console.error('Error generating static params:', error);
     return [];
