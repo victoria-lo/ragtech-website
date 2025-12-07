@@ -97,9 +97,13 @@ export async function generateStaticParams() {
               posts(first: 50) {
                 edges {
                   node {
+                    id
                     slug
                     title
                     publishedAt
+                    author {
+                      name
+                    }
                   }
                 }
               }
