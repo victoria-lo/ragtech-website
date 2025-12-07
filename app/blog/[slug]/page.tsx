@@ -80,11 +80,14 @@ async function getPost(slug: string): Promise<PostData | null> {
 // This function is required for static export with dynamic routes
 export async function generateStaticParams() {
   try {
-    const response = await fetch('https://gql.hashnode.com', {
+    const timestamp = Date.now();
+    const response = await fetch(`https://gql.hashnode.com?_=${timestamp}`, {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
         'Cache-Control': 'no-cache, no-store, must-revalidate',
+        'Pragma': 'no-cache',
+        'Expires': '0',
       },
       cache: 'no-store',
       body: JSON.stringify({
@@ -109,6 +112,7 @@ export async function generateStaticParams() {
     const data = await response.json();
     
     if (data.errors || !data.data?.publication?.posts) {
+      console.error('[generateStaticParams] Error or no posts:', data.errors);
       return [];
     }
 
