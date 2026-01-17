@@ -2,7 +2,7 @@ export async function convertFromSGD(target: string, amount = 1): Promise<number
   if (!target || target.toUpperCase() === 'SGD') return amount;
 
   try {
-    const url = `/api/exchange-rate?target=${encodeURIComponent(target)}&amount=${encodeURIComponent(String(amount))}`;
+    const url = `/.netlify/functions/exchange-rate?target=${encodeURIComponent(target)}&amount=${encodeURIComponent(String(amount))}`;
     const res = await fetch(url);
     if (!res.ok) return amount;
     

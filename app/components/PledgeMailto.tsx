@@ -56,7 +56,7 @@ export default function PledgeMailto({ amountSGD = 1, onClose }: Props) {
 
       <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
         <div>
-          <label className="block text-sm font-semibold mb-2 text-brownDark dark:text-brown">Country I'm living in</label>
+          <label className="block text-sm font-semibold mb-2 text-brownDark dark:text-brown">Country I&apos;m living in</label>
           <input 
             value={country} 
             onChange={(e)=>setCountry(e.target.value)} 
