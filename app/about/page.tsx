@@ -1,8 +1,10 @@
 'use client';
 
+import { useState } from 'react';
 import { motion } from 'framer-motion';
 import { FaRocket, FaUsers, FaLightbulb, FaHeart } from 'react-icons/fa';
 import Hero from '../components/Hero';
+import BusinessCard from '../components/BusinessCard';
 
 const team = [
   {
@@ -13,6 +15,8 @@ const team = [
     color: 'from-primary/20 to-primary/5',
     roleColor: '#fda2a9',
     image: '/assets/saloni.png',
+    email: 'saloni@ragtechdev.com',
+    linkedInUrl: 'https://www.linkedin.com/in/saloni-kaur/',
   },
   {
     name: 'Victoria',
@@ -22,6 +26,8 @@ const team = [
     color: 'from-secondary/20 to-secondary/5',
     roleColor: '#a2d4d1',
     image: '/assets/victoria.png',
+    email: 'victoria@ragtechdev.com',
+    linkedInUrl: 'https://www.linkedin.com/in/victoria2666/',
   },
   {
     name: 'Natasha',
@@ -31,6 +37,8 @@ const team = [
     color: 'from-accent/20 to-accent/5',
     roleColor: '#eec08c',
     image: '/assets/natasha.png',
+    email: 'natasha@ragtechdev.com',
+    linkedInUrl: 'https://www.linkedin.com/in/natashaannn/',
   },
 ];
 
@@ -84,6 +92,7 @@ const missionPoints = [
 ];
 
 export default function AboutPage() {
+  const [selectedMember, setSelectedMember] = useState<typeof team[0] | null>(null);
 
   return (
     <main>
@@ -222,9 +231,10 @@ export default function AboutPage() {
                 whileInView={{ opacity: 1, y: 0 }}
                 viewport={{ once: true }}
                 transition={{ duration: 0.6, delay: index * 0.1 }}
-                className="bg-white dark:bg-neutral-800 rounded-2xl overflow-hidden shadow-lg hover:shadow-2xl transition-all duration-300 border border-neutral-200 dark:border-neutral-700"
+                className="bg-white dark:bg-neutral-800 rounded-2xl overflow-hidden shadow-lg hover:shadow-2xl transition-all duration-300 border border-neutral-200 dark:border-neutral-700 cursor-pointer group"
+                onClick={() => setSelectedMember(member)}
               >
-                <div className={`h-48 bg-gradient-to-br ${member.color} flex items-center justify-center`}>
+                <div className={`h-48 bg-gradient-to-br ${member.color} flex items-center justify-center group-hover:scale-105 transition-transform duration-300`}>
                   <img
                     src={member.image}
                     alt={member.name}
@@ -240,6 +250,9 @@ export default function AboutPage() {
                   </p>
                   <p className="text-neutral-600 dark:text-neutral-400 leading-relaxed">
                     {member.description}
+                  </p>
+                  <p className="mt-4 text-sm text-brownDark dark:text-brown font-semibold group-hover:underline">
+                    Tap to view business card →
                   </p>
                 </div>
               </motion.div>
@@ -317,6 +330,21 @@ export default function AboutPage() {
           </div>
         </div>
       </section>
+
+      {/* Business Card Modal */}
+      {selectedMember && (
+        <BusinessCard
+          isOpen={!!selectedMember}
+          onClose={() => setSelectedMember(null)}
+          name={selectedMember.name}
+          role={selectedMember.role}
+          email={selectedMember.email}
+          linkedInUrl={selectedMember.linkedInUrl}
+          image={selectedMember.image}
+          color={selectedMember.color.includes('primary') ? '#fda2a9' : selectedMember.color.includes('secondary') ? '#a2d4d1' : '#fff3c1'}
+          roleColor={selectedMember.roleColor}
+        />
+      )}
     </main>
   );
 }

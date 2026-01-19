@@ -21,6 +21,7 @@ export default function Header() {
   const navLinks = [
     { href: '/', label: 'Home', external: false },
     { href: '/about', label: 'About', external: false },
+    { href: '/futurenet', label: 'FutureNet', external: false },
     { href: 'https://www.youtube.com/@ragTechDev', label: 'Podcast', external: true },
     { href: '/blog', label: 'Blog', external: false },
     { href: '/contact', label: 'Contact', external: false },
