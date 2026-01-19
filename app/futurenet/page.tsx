@@ -124,7 +124,7 @@ export default function FutureNetPage() {
             className="text-center mb-16"
           >
             <h2 className="text-4xl md:text-5xl font-bold mb-6 text-neutral-900 dark:text-white">
-              The Challenge We're Facing
+              The Challenge We&apos;re Facing
             </h2>
             <p className="text-xl text-neutral-600 dark:text-neutral-400 max-w-3xl mx-auto leading-relaxed">
               Modern parents are navigating uncharted territory. The digital landscape is evolving faster than our understanding of its impact on children.
@@ -143,7 +143,7 @@ export default function FutureNetPage() {
                   className="bg-white dark:bg-neutral-800 rounded-2xl p-8 shadow-lg border-l-4 border-primary"
                 >
                   <p className="text-lg italic text-neutral-700 dark:text-neutral-300 mb-4">
-                    "{item.quote}"
+                    &ldquo;{item.quote}&rdquo;
                   </p>
                   <p className="text-sm text-neutral-500 dark:text-neutral-400">
                     — {item.context}
@@ -197,7 +197,7 @@ export default function FutureNetPage() {
               Our Research in Action
             </h2>
             <p className="text-xl text-neutral-600 dark:text-neutral-400 max-w-3xl mx-auto leading-relaxed">
-              We're building a comprehensive understanding of digital parenting through community engagement, interviews, and data-driven insights.
+              We&apos;re building a comprehensive understanding of digital parenting through community engagement, interviews, and data-driven insights.
             </p>
           </motion.div>
 
@@ -241,7 +241,7 @@ export default function FutureNetPage() {
               Why This Matters
             </h2>
             <p className="text-xl text-neutral-600 dark:text-neutral-400 max-w-3xl mx-auto leading-relaxed">
-              This isn't just about devices and apps—it's about shaping the kind of childhood we want for the next generation.
+              This isn&apos;t just about devices and apps—it&apos;s about shaping the kind of childhood we want for the next generation.
             </p>
           </motion.div>
 
@@ -273,7 +273,7 @@ export default function FutureNetPage() {
             className="mt-12 bg-gradient-to-r from-primary/20 to-secondary/20 dark:from-primary/30 dark:to-secondary/30 rounded-2xl p-8 text-center"
           >
             <p className="text-xl font-semibold text-neutral-900 dark:text-white mb-4">
-              We're a group of technologists who care deeply about parents and future generations
+              We&apos;re a group of technologists who care deeply about parents and future generations
             </p>
             <p className="text-lg text-neutral-700 dark:text-neutral-300 leading-relaxed max-w-3xl mx-auto">
               Working together to help the next generation grow up with the same freedom, creativity, and authentic connections we experienced in our own childhoods.
