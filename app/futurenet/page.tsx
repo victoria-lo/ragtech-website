@@ -2,16 +2,17 @@
 
 import { motion } from "framer-motion";
 import { useState, useEffect } from "react";
+import Image from "next/image";
 import { FaBrain, FaUsers, FaHeart, FaChartLine } from "react-icons/fa";
 import Hero from "../components/Hero";
 
 const problemQuotes = [
   {
-    quote: "It's very hard to get her off the screen every time.",
+    quote: "It&apos;s very hard to get her off the screen every time.",
     context: "Parent struggling with screen time management",
   },
   {
-    quote: "I don't know how she ends up figuring out DuckDuckGo and discover all these streamers.",
+    quote: "I don&apos;t know how she ends up figuring out DuckDuckGo and discover all these streamers.",
     context: "Parent concerned about content discovery",
   },
   {
@@ -31,7 +32,7 @@ const researchInsights = [
     icon: <FaUsers className="text-5xl text-secondary" />,
     title: "Community-Driven Approach",
     stat: "15-20 parent interviews • 8-10 educator sessions • Multiple user personas",
-    description: "We're building with real families, understanding diverse parenting styles from 'The Unbreakable Boundary Setter' to 'The Trust-Based Self-Regulator'.",
+    description: "We&apos;re building with real families, understanding diverse parenting styles from &lsquo;The Unbreakable Boundary Setter&rsquo; to &lsquo;The Trust-Based Self-Regulator&rsquo;.",
   },
   {
     icon: <FaHeart className="text-5xl text-accent" />,
@@ -53,7 +54,7 @@ const whyCarePoints = [
     description: "Kids today face digital challenges we never experienced: algorithmic feeds, constant connectivity, and pressure to be online. The choices we make now shape their relationship with technology for life.",
   },
   {
-    title: "Parents shouldn't navigate this alone",
+    title: "Parents shouldn&apos;t navigate this alone",
     description: "From anxious screen management to trust-based autonomy, every family has a unique digital parenting journey. Research helps us build tools that actually support diverse needs.",
   },
   {
@@ -158,9 +159,11 @@ export default function FutureNetPage() {
               transition={{ duration: 0.6, delay: 0.2 }}
               className="flex items-center justify-center"
             >
-              <img
+              <Image
                 src="/assets/children.png"
                 alt="Child engrossed in digital device"
+                width={400}
+                height={400}
                 className="rounded-2xl w-full max-w-md h-auto object-cover"
               />
             </motion.div>
@@ -334,7 +337,7 @@ export default function FutureNetPage() {
             </div>
 
             <p className="text-sm text-neutral-500 dark:text-neutral-400 mt-8 italic">
-              From "The Unbreakable Boundary Setter" to "The Trust-Based Self-Regulator"—discover which 2000s phone matches your digital parenting style.
+              From &ldquo;The Unbreakable Boundary Setter&rdquo; to &ldquo;The Trust-Based Self-Regulator&rdquo;—discover which 2000s phone matches your digital parenting style.
             </p>
           </motion.div>
         </div>
