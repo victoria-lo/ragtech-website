@@ -54,7 +54,7 @@ const whyCarePoints = [
     description: "Kids today face digital challenges we never experienced: algorithmic feeds, constant connectivity, and pressure to be online. The choices we make now shape their relationship with technology for life.",
   },
   {
-    title: "Parents shouldn&apos;t navigate this alone",
+    title: "Parents should not navigate this alone",
     description: "From anxious screen management to trust-based autonomy, every family has a unique digital parenting journey. Research helps us build tools that actually support diverse needs.",
   },
   {
