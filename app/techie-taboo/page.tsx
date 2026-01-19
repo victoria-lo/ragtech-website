@@ -5,6 +5,7 @@ import Image from 'next/image';
 import Link from 'next/link';
 import { motion } from 'framer-motion';
 import FlippableCard from '../components/FlippableCard';
+import PledgeMailto from '../components/PledgeMailto';
 
 export default function TechieTabooPage() {
   const [pledgeCount, setPledgeCount] = useState<number>(0);
@@ -16,6 +17,7 @@ export default function TechieTabooPage() {
   const [isSubmitting, setIsSubmitting] = useState(false);
   const [error, setError] = useState('');
   const [showThankYou, setShowThankYou] = useState(false);
+  const [showPledge, setShowPledge] = useState(false);
 
   const features = [
     { icon: '🎯', text: 'Perfect for tech teams, bootcamps, and meetups' },
@@ -445,28 +447,48 @@ export default function TechieTabooPage() {
             </div>
 
             <div className="max-w-2xl mx-auto mb-8 bg-gradient-to-r from-primary/20 via-secondary/20 to-accent/20 rounded-2xl p-6 border-2 border-primary/30 shadow-lg">
-              <p className="text-xl font-bold text-brownDark dark:text-brown text-center leading-relaxed">
+              <p className="text-xl font-bold text-brownDark dark:text-brown text-center leading-relaxed mb-4">
                 To confirm your spot, pledge $1 via PayNow and upload a screenshot of your transaction.
               </p>
+              <div className="text-center">
+                <p className="text-sm text-neutral-600 dark:text-neutral-400 mb-2">
+                  {showPledge ? 'In Singapore?' : 'Not in Singapore?'}
+                </p>
+                <button
+                  type="button"
+                  onClick={() => setShowPledge(!showPledge)}
+                  className="inline-flex items-center gap-2 px-4 py-2 bg-secondary text-white rounded-full text-sm font-semibold hover:opacity-90 transition-opacity"
+                >
+                  {showPledge ? 'Pay $1 via PayNow' : 'Request to pledge in your currency'}
+                </button>
+              </div>
             </div>
 
-            {/* PayNow QR Code */}
-            <div className="bg-white dark:bg-neutral-800 rounded-2xl p-8 inline-block shadow-xl mb-12 border-4 border-dashed border-secondary">
-              <Image
-                src="/assets/paynow-qr.jpg"
-                alt="PayNow QR Code"
-                width={300}
-                height={300}
-                className="w-64 h-64 mx-auto rounded-lg"
-              />
-              <p className="text-sm text-neutral-600 dark:text-neutral-400 mt-4">
-                Scan to pay $1 via PayNow
-              </p>
-            </div>
+            {!showPledge ? (
+              <>
+                {/* PayNow QR Code */}
+                <div className="bg-white dark:bg-neutral-800 rounded-2xl p-8 inline-block shadow-xl mb-12 border-4 border-dashed border-secondary">
+                  <Image
+                    src="/assets/paynow-qr.jpg"
+                    alt="PayNow QR Code"
+                    width={300}
+                    height={300}
+                    className="w-64 h-64 mx-auto rounded-lg"
+                  />
+                  <p className="text-sm text-neutral-600 dark:text-neutral-400 mt-4">
+                    Scan to pay $1 via PayNow
+                  </p>
+                </div>
+              </>
+            ) : (
+              <div className="max-w-2xl mx-auto mb-8">
+                <PledgeMailto amountSGD={1} onClose={() => setShowPledge(false)} />
+              </div>
+            )}
           </motion.div>
 
-          {/* Form */}
-          {!showThankYou ? (
+          {/* Form - For Singaporeans */}
+          {!showThankYou && !showPledge ? (
             <motion.form
               initial={{ opacity: 0, y: 20 }}
               whileInView={{ opacity: 1, y: 0 }}
@@ -555,7 +577,7 @@ export default function TechieTabooPage() {
                 </button>
               </div>
             </motion.form>
-          ) : (
+          ) : showThankYou && !showPledge ? (
             <motion.div
               initial={{ opacity: 0, scale: 0.9 }}
               animate={{ opacity: 1, scale: 1 }}
@@ -600,7 +622,7 @@ export default function TechieTabooPage() {
                 </div>
               </div>
             </motion.div>
-          )}
+          ) : null}
         </div>
       </section>
     </main>
