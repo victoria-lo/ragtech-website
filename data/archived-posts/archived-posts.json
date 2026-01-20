@@ -1,0 +1,126 @@
+{
+  "version": "1.0",
+  "source": "hashnode",
+  "archived_date": "2026-01-20T03:54:58.980Z",
+  "posts": [
+    {
+      "slug": "we-made-a-physical-card-game-for-techies",
+      "title": "We made a physical card game for TECHIES!",
+      "publishedAt": "2025-12-25T10:19:58.606Z",
+      "source": "hashnode",
+      "filePath": "posts/we-made-a-physical-card-game-for-techies.json"
+    },
+    {
+      "slug": "leading-through-systems-what-the-fifth-discipline-taught-me-about-people-processes-and-code",
+      "title": "Leading Through Systems: What The Fifth Discipline Taught Me About People, Processes, and Code",
+      "publishedAt": "2025-12-15T06:56:48.758Z",
+      "source": "hashnode",
+      "filePath": "posts/leading-through-systems-what-the-fifth-discipline-taught-me-about-people-processes-and-code.json"
+    },
+    {
+      "slug": "a-day-in-the-life-of-a-solutions-engineer-lead",
+      "title": "A Day in the Life of a Solutions Engineer Lead",
+      "publishedAt": "2025-12-09T23:00:46.294Z",
+      "source": "hashnode",
+      "filePath": "posts/a-day-in-the-life-of-a-solutions-engineer-lead.json"
+    },
+    {
+      "slug": "searchable",
+      "title": "Your Name Is Already a Search Term, You Just Need to be Searchable",
+      "publishedAt": "2025-12-02T23:00:26.160Z",
+      "source": "hashnode",
+      "filePath": "posts/searchable.json"
+    },
+    {
+      "slug": "inside-the-anthropic-cyberattack",
+      "title": "Inside the Anthropic Cyberattack: When AI Is Used to Hack at Scale",
+      "publishedAt": "2025-11-25T23:00:15.083Z",
+      "source": "hashnode",
+      "filePath": "posts/inside-the-anthropic-cyberattack.json"
+    },
+    {
+      "slug": "uncovering-ai-chatbots-when-private-conversations-arent-really-private",
+      "title": "Uncovering AI chatbots: When \"Private\" Conversations Aren’t Really Private",
+      "publishedAt": "2025-11-19T12:00:44.571Z",
+      "source": "hashnode",
+      "filePath": "posts/uncovering-ai-chatbots-when-private-conversations-arent-really-private.json"
+    },
+    {
+      "slug": "demystifying-ai-assurance-an-interview-with-april-chin-of-resaro",
+      "title": "Demystifying AI Assurance: An Interview with April Chin of Resaro",
+      "publishedAt": "2025-11-19T01:00:09.327Z",
+      "source": "hashnode",
+      "filePath": "posts/demystifying-ai-assurance-an-interview-with-april-chin-of-resaro.json"
+    },
+    {
+      "slug": "before-tech-my-first-love-was-literature",
+      "title": "Before Tech, My First Love was Literature",
+      "publishedAt": "2025-11-16T07:22:38.247Z",
+      "source": "hashnode",
+      "filePath": "posts/before-tech-my-first-love-was-literature.json"
+    },
+    {
+      "slug": "leonard-kleinrock-on-ai-lessons-from-the-father-of-the-internet",
+      "title": "Leonard Kleinrock on AI: Lessons from the Father of the Internet",
+      "publishedAt": "2025-11-13T08:02:39.282Z",
+      "source": "hashnode",
+      "filePath": "posts/leonard-kleinrock-on-ai-lessons-from-the-father-of-the-internet.json"
+    },
+    {
+      "slug": "key-insights-from-2024-learnings-from-our-podcast-guests",
+      "title": "Key Insights from 2024: Learnings from Our Podcast Guests",
+      "publishedAt": "2024-12-23T05:14:47.324Z",
+      "source": "hashnode",
+      "filePath": "posts/key-insights-from-2024-learnings-from-our-podcast-guests.json"
+    },
+    {
+      "slug": "ragtech-website-deploying-a-nextjs-app-on-github-pages-with-our-custom-domain",
+      "title": "🖥️ ragTech Website: Deploying a Next.js App on GitHub Pages With Our Custom Domain",
+      "publishedAt": "2024-08-17T10:52:07.420Z",
+      "source": "hashnode",
+      "filePath": "posts/ragtech-website-deploying-a-nextjs-app-on-github-pages-with-our-custom-domain.json"
+    },
+    {
+      "slug": "how-to-elevate-your-tech-careers-yumins-journey-to-staff-software-engineer",
+      "title": "How to Elevate Your Tech Careers: Yumin's Journey to Staff Software Engineer",
+      "publishedAt": "2024-04-18T16:00:27.205Z",
+      "source": "hashnode",
+      "filePath": "posts/how-to-elevate-your-tech-careers-yumins-journey-to-staff-software-engineer.json"
+    },
+    {
+      "slug": "cracking-the-code-mastering-tech-interviews-preparation-strategies",
+      "title": "Cracking the Code: Mastering Tech Interviews & Preparation Strategies",
+      "publishedAt": "2024-04-02T03:34:49.389Z",
+      "source": "hashnode",
+      "filePath": "posts/cracking-the-code-mastering-tech-interviews-preparation-strategies.json"
+    },
+    {
+      "slug": "navigating-the-agile-waters-what-it-takes-to-embrace-scrum-in-any-workplace",
+      "title": "Navigating the Agile Waters: What it takes to embrace Scrum in any workplace",
+      "publishedAt": "2024-02-09T16:00:00.000Z",
+      "source": "hashnode",
+      "filePath": "posts/navigating-the-agile-waters-what-it-takes-to-embrace-scrum-in-any-workplace.json"
+    },
+    {
+      "slug": "ragtech-ep-3-probing-a-software-developers-odyssey",
+      "title": "Probing a Software Developer's Odyssey",
+      "publishedAt": "2024-01-09T16:00:00.000Z",
+      "source": "hashnode",
+      "filePath": "posts/ragtech-ep-3-probing-a-software-developers-odyssey.json"
+    },
+    {
+      "slug": "ragtech-ep-2-a-look-into-solutions-engineering-and-tech-blogging",
+      "title": "A Look into Solutions Engineering and Tech Blogging",
+      "publishedAt": "2023-12-23T15:39:50.109Z",
+      "source": "hashnode",
+      "filePath": "posts/ragtech-ep-2-a-look-into-solutions-engineering-and-tech-blogging.json"
+    },
+    {
+      "slug": "ragtech-ep-1-introducing-ragtech-meet-our-team-and-demystify-tech-with-us",
+      "title": "Introducing ragTech, Meet Our Team and Demystify Tech with us!",
+      "publishedAt": "2023-12-02T12:16:39.425Z",
+      "source": "hashnode",
+      "filePath": "posts/ragtech-ep-1-introducing-ragtech-meet-our-team-and-demystify-tech-with-us.json"
+    }
+  ]
+}

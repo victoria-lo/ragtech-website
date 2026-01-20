@@ -1,10 +1,20 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
     basePath: "",
-    output: "export",  // <=== enables static exports
     reactStrictMode: true,
+    skipTrailingSlashRedirect: true,
     images: {
-      unoptimized: true,  // Disable image optimization for static export
+      unoptimized: true,
+      remotePatterns: [
+        {
+          protocol: 'https',
+          hostname: 'cdn.hashnode.com',
+        },
+        {
+          protocol: 'https',
+          hostname: '**.beehiiv.com',
+        },
+      ],
     },
   };
   

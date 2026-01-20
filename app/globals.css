@@ -125,6 +125,50 @@
     @apply prose-td:border prose-td:border-neutral-300 dark:prose-td:border-neutral-700 prose-td:p-3;
   }
 
+  /* Force override any inline styles from Beehiiv */
+  .blog-content * {
+    font-family: inherit !important;
+    line-height: inherit !important;
+  }
+
+  .blog-content h1,
+  .blog-content h2,
+  .blog-content h3,
+  .blog-content h4,
+  .blog-content h5,
+  .blog-content h6 {
+    color: #8b5a49 !important;
+    font-weight: 700 !important;
+  }
+
+  .dark .blog-content h1,
+  .dark .blog-content h2,
+  .dark .blog-content h3,
+  .dark .blog-content h4,
+  .dark .blog-content h5,
+  .dark .blog-content h6 {
+    color: #d4a89a !important;
+  }
+
+  .blog-content p {
+    color: #404040 !important;
+    line-height: 1.75 !important;
+  }
+
+  .dark .blog-content p {
+    color: #d4d4d4 !important;
+  }
+
+  .blog-content a {
+    color: #fc8b94 !important;
+    text-decoration: none !important;
+  }
+
+  .blog-content a:hover {
+    text-decoration: underline !important;
+    color: rgba(252, 139, 148, 0.8) !important;
+  }
+
   .prose [data-node-type="callout"] {
     margin: 2rem 0;
     padding: 1.5rem 1.75rem;
