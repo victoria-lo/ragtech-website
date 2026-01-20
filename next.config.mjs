@@ -1,10 +1,20 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
     basePath: "",
-    output: "export",  // <=== enables static exports
+    // Removed output: "export" to enable hybrid rendering with ISR
     reactStrictMode: true,
     images: {
-      unoptimized: true,  // Disable image optimization for static export
+      unoptimized: true,  // Keep unoptimized for compatibility
+      remotePatterns: [
+        {
+          protocol: 'https',
+          hostname: 'cdn.hashnode.com',
+        },
+        {
+          protocol: 'https',
+          hostname: '**.beehiiv.com',
+        },
+      ],
     },
   };
   
