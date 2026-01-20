@@ -153,13 +153,6 @@ export default function TechieTabooPage() {
 
   return (
     <main className="min-h-screen">
-      {/* Hidden form for Netlify detection */}
-      <form name="techie-taboo-waitlist" data-netlify="true" netlify-honeypot="bot-field" hidden>
-        <input type="text" name="name" />
-        <input type="email" name="email" />
-        <input type="file" name="payment-screenshot" />
-      </form>
-
       {/* Hero Section */}
       <section className="relative py-20 px-6 bg-gradient-to-br from-primary/20 via-secondary/15 to-accent/20 overflow-hidden">
         <div className="container mx-auto max-w-6xl">
