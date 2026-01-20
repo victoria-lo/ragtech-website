@@ -22,6 +22,7 @@ export async function POST(request: NextRequest) {
 
     // Get request metadata
     const referrer = request.headers.get('referer') || 'direct';
+    const origin = request.headers.get('origin') || request.headers.get('referer')?.split('/').slice(0, 3).join('/') || 'https://ragtechdev.com';
 
     // Workflow: Submit to Netlify Forms
     try {
@@ -34,7 +35,7 @@ export async function POST(request: NextRequest) {
         netlifyFormData.append('payment-screenshot', screenshotData);
       }
 
-      const netlifyResponse = await fetch(`${process.env.NEXT_PUBLIC_SITE_URL || 'https://ragtechdev.com'}/__forms.html`, {
+      const netlifyResponse = await fetch(`${origin}/__forms.html`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
         body: netlifyFormData.toString(),
