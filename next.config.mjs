@@ -1,11 +1,10 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
     basePath: "",
-    // Removed output: "export" to enable hybrid rendering with ISR
     reactStrictMode: true,
     skipTrailingSlashRedirect: true,
     images: {
-      unoptimized: true,  // Keep unoptimized for compatibility
+      unoptimized: true,
       remotePatterns: [
         {
           protocol: 'https',

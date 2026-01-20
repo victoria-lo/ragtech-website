@@ -111,25 +111,38 @@ export default function TechieTabooPage() {
     setIsSubmitting(true);
 
     try {
-      // Create FormData for file upload
-      const submitData = new FormData();
-      submitData.append('name', formData.name);
-      submitData.append('email', formData.email);
-      submitData.append('payment-screenshot', formData.screenshot!);
-      submitData.append('form-name', 'techie-taboo-waitlist');
+      // Convert file to base64 if present
+      let screenshotData = null;
+      if (formData.screenshot) {
+        const reader = new FileReader();
+        screenshotData = await new Promise((resolve, reject) => {
+          reader.onload = () => resolve(reader.result);
+          reader.onerror = reject;
+          reader.readAsDataURL(formData.screenshot!);
+        });
+      }
 
-      // Submit to Netlify Forms
-      const response = await fetch('/', {
+      // Submit to API route
+      const response = await fetch('/api/submit-waitlist', {
         method: 'POST',
-        body: submitData,
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({
+          name: formData.name,
+          email: formData.email,
+          screenshotData,
+        }),
       });
+
+      const data = await response.json();
 
       if (response.ok) {
         setShowThankYou(true);
         setFormData({ name: '', email: '', screenshot: null });
         setPledgeCount(prev => prev + 1);
       } else {
-        throw new Error('Form submission failed');
+        throw new Error(data.error || 'Form submission failed');
       }
     } catch (err) {
       setError('There was an error submitting your form. Please try again.');

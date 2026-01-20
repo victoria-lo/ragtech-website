@@ -4,62 +4,31 @@ import { notFound } from 'next/navigation';
 import {
   fetchBeehiivPostBySlug,
   loadArchivedPostBySlug,
-  getArchivedPostSlugs,
-  isArchivedPost,
   BeehiivPost,
   ArchivedPost,
 } from '@/lib/beehiiv';
 
-export const dynamic = 'force-dynamic'; // Force dynamic rendering (no caching)
-export const revalidate = 0; // No ISR caching
+export const dynamic = 'force-dynamic';
+export const revalidate = 0;
 
 type PostData = BeehiivPost | ArchivedPost;
 
-// Fetch post data from Beehiiv or archived files
+function isArchivedPost(post: PostData): post is ArchivedPost {
+  return 'publishedAt' in post && 'coverImage' in post;
+}
+
 async function getPost(slug: string): Promise<PostData | null> {
   try {
-    // Try Beehiiv first
     const beehiivPost = await fetchBeehiivPostBySlug(slug);
     if (beehiivPost) {
       return beehiivPost;
     }
 
-    // Fallback to archived posts
     const archivedPost = await loadArchivedPostBySlug(slug);
     return archivedPost;
   } catch (error) {
     console.error('Error fetching post:', error);
     return null;
-  }
-}
-
-// Generate static params for all posts (Beehiiv + archived)
-export async function generateStaticParams() {
-  try {
-    // Get archived post slugs
-    const archivedSlugs = await getArchivedPostSlugs();
-
-    // Get Beehiiv post slugs
-    let beehiivSlugs: string[] = [];
-    
-    try {
-      const { fetchBeehiivPosts } = await import('@/lib/beehiiv');
-      const response = await fetchBeehiivPosts(1, 100);
-      beehiivSlugs = response.data.map((post) => post.slug);
-    } catch (error) {
-      console.error('Error fetching Beehiiv slugs:', error);
-    }
-
-    // Combine both sources
-    const allSlugs = [...beehiivSlugs, ...archivedSlugs].map((slug) => ({
-      slug,
-    }));
-
-    console.log(`[generateStaticParams] Generated ${allSlugs.length} slugs`);
-    return allSlugs;
-  } catch (error) {
-    console.error('Error generating static params:', error);
-    return [];
   }
 }
 

@@ -3,11 +3,10 @@ import { fetchBeehiivPosts, loadArchivedPosts } from '@/lib/beehiiv';
 import BlogPosts from './BlogPosts';
 import NewsletterSection from './NewsletterSection';
 
-export const dynamic = 'force-dynamic'; // Force dynamic rendering (no caching)
-export const revalidate = 0; // No ISR caching
+export const dynamic = 'force-dynamic';
+export const revalidate = 0;
 
 export default async function BlogPage() {
-  // Fetch initial Beehiiv posts server-side
   const beehiivResponse = await fetchBeehiivPosts(1, 6);
   const archivedPosts = await loadArchivedPosts();
 
