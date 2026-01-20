@@ -3,16 +3,16 @@
 import { motion } from "framer-motion";
 import { useState, useEffect } from "react";
 import Image from "next/image";
-import { FaBrain, FaUsers, FaHeart, FaChartLine } from "react-icons/fa";
+import { FaMobile, FaUsers, FaLightbulb, FaChartLine } from "react-icons/fa";
 import Hero from "../components/Hero";
 
 const problemQuotes = [
   {
-    quote: "It&apos;s very hard to get her off the screen every time.",
+    quote: "It's very hard to get her off the screen every time.",
     context: "Parent struggling with screen time management",
   },
   {
-    quote: "I don&apos;t know how she ends up figuring out DuckDuckGo and discover all these streamers.",
+    quote: "I don't know how she ends up figuring out DuckDuckGo and discover all these streamers.",
     context: "Parent concerned about content discovery",
   },
   {
@@ -23,22 +23,22 @@ const problemQuotes = [
 
 const researchInsights = [
   {
-    icon: <FaBrain className="text-5xl text-primary" />,
-    title: "Coaching Over Control",
-    stat: "Parents prefer calmer conversations and iterative learning over one-off enforcement",
-    description: "Our research shows a strong desire for tools that support explanation, reasoning, and shared agreements rather than rigid restrictions.",
+    icon: <FaMobile className="text-5xl text-primary" />,
+    title: "Graduated Access",
+    stat: "Parents struggle to keep up with age-appropriate device access as their children grow",
+    description: "Our research reveals that parents find it challenging to determine when and how to gradually introduce personal devices and digital freedoms. They need guidance on age-appropriate milestones and tools that evolve with their child's development.",
   },
   {
     icon: <FaUsers className="text-5xl text-secondary" />,
     title: "Community-Driven Approach",
-    stat: "15-20 parent interviews • 8-10 educator sessions • Multiple user personas",
-    description: "We&apos;re building with real families, understanding diverse parenting styles from &lsquo;The Unbreakable Boundary Setter&rsquo; to &lsquo;The Trust-Based Self-Regulator&rsquo;.",
+    stat: "8-10 parent interviews • Multiple user personas",
+    description: "We're building with real families, understanding diverse parenting styles from 'The Unbreakable Boundary Setter' to 'The Trust-Based Self-Regulator'.",
   },
   {
-    icon: <FaHeart className="text-5xl text-accent" />,
-    title: "Non-Monetary Solutions",
-    stat: "Parents strongly prefer non-paid interventions for digital wellbeing",
-    description: "Exploring default-safe UX patterns, routine-based supports, and device-free transitions that don't require constant financial investment.",
+    icon: <FaLightbulb className="text-5xl text-accent" />,
+    title: "Limited Local Solutions",
+    stat: "Solutions like kids keitai in Japan and minimalist smartphones in UK/US exist, but few are available in Singapore",
+    description: "While other markets have developed age-appropriate device options, Singapore parents lack accessible local alternatives. We're exploring what solutions could work in our context.",
   },
   {
     icon: <FaChartLine className="text-5xl text-primary" />,
@@ -197,7 +197,7 @@ export default function FutureNetPage() {
               Our Research in Action
             </h2>
             <p className="text-xl text-neutral-600 dark:text-neutral-400 max-w-3xl mx-auto leading-relaxed">
-              We&apos;re building a comprehensive understanding of digital parenting through community engagement, interviews, and data-driven insights.
+              We&#39;re building a comprehensive understanding of digital parenting through community engagement, interviews, and data-driven insights.
             </p>
           </motion.div>
 
@@ -241,7 +241,7 @@ export default function FutureNetPage() {
               Why This Matters
             </h2>
             <p className="text-xl text-neutral-600 dark:text-neutral-400 max-w-3xl mx-auto leading-relaxed">
-              This isn&apos;t just about devices and apps—it&apos;s about shaping the kind of childhood we want for the next generation.
+              This isn&#39;t just about devices and apps—it&#39;s about shaping the kind of childhood we want for the next generation.
             </p>
           </motion.div>
 
@@ -273,7 +273,7 @@ export default function FutureNetPage() {
             className="mt-12 bg-gradient-to-r from-primary/20 to-secondary/20 dark:from-primary/30 dark:to-secondary/30 rounded-2xl p-8 text-center"
           >
             <p className="text-xl font-semibold text-neutral-900 dark:text-white mb-4">
-              We&apos;re a group of technologists who care deeply about parents and future generations
+              We&#39;re a group of technologists who care deeply about parents and future generations
             </p>
             <p className="text-lg text-neutral-700 dark:text-neutral-300 leading-relaxed max-w-3xl mx-auto">
               Working together to help the next generation grow up with the same freedom, creativity, and authentic connections we experienced in our own childhoods.
@@ -310,7 +310,7 @@ export default function FutureNetPage() {
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-3 px-10 py-5 bg-gradient-primary text-white rounded-full font-bold text-xl hover:opacity-90 transition-all duration-300 shadow-xl hover:shadow-2xl"
               >
-                <FaBrain className="text-2xl" />
+                <FaMobile className="text-2xl" />
                 Take the Digital Parent Quiz
               </a>
             </motion.div>

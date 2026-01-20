@@ -4,8 +4,7 @@ import { useRef } from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
 import { motion } from 'framer-motion';
-import { FaMicrophone, FaGamepad, FaLightbulb, FaUsers, FaChevronLeft, FaChevronRight } from 'react-icons/fa';
-import Hero from './components/Hero';
+import { FaLightbulb, FaUsers, FaChevronLeft, FaChevronRight } from 'react-icons/fa';
 import ProjectCard from './components/ProjectCard';
 
 export default function Home() {
@@ -262,7 +261,7 @@ export default function Home() {
               <div className="flex-shrink-0 w-full md:w-[calc(50%-1rem)] lg:w-[calc(33.333%-1.33rem)] snap-start h-full">
                 <ProjectCard
                   title="📘 Illustrated Tech Book"
-                  description="We're working on an illustrated, non-technical book explaining how certain technologies work and their implications on society... Stay tuned!"
+                  description="We&apos;re working on an illustrated, non-technical book explaining how certain technologies work and their implications on society... Stay tuned!"
                   link="/contact"
                   linkText="Coming Soon"
                   image="/assets/teacher.png"
