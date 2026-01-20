@@ -23,28 +23,30 @@ export async function POST(request: NextRequest) {
     // Get request metadata
     const referrer = request.headers.get('referer') || 'direct';
 
-    // Create FormData for Netlify Forms submission
-    const netlifyFormData = new FormData();
-    netlifyFormData.append('form-name', 'techie-taboo-waitlist');
-    netlifyFormData.append('name', name);
-    netlifyFormData.append('email', email);
-    
-    // Handle screenshot if present
-    if (screenshotData) {
-      // Convert base64 to blob
-      const base64Response = await fetch(screenshotData);
-      const blob = await base64Response.blob();
-      netlifyFormData.append('payment-screenshot', blob, 'screenshot.png');
-    }
+    // Workflow: Submit to Netlify Forms
+    try {
+      const netlifyFormData = new URLSearchParams();
+      netlifyFormData.append('form-name', 'techie-taboo-waitlist');
+      netlifyFormData.append('name', name);
+      netlifyFormData.append('email', email);
+      
+      if (screenshotData) {
+        netlifyFormData.append('payment-screenshot', screenshotData);
+      }
 
-    // Submit to Netlify Forms
-    const netlifyResponse = await fetch(`${process.env.NEXT_PUBLIC_SITE_URL || 'https://ragtechdev.com'}/`, {
-      method: 'POST',
-      body: netlifyFormData,
-    });
+      const netlifyResponse = await fetch(`${process.env.NEXT_PUBLIC_SITE_URL || 'https://ragtechdev.com'}/__forms.html`, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+        body: netlifyFormData.toString(),
+      });
 
-    if (!netlifyResponse.ok) {
-      throw new Error('Netlify form submission failed');
+      if (netlifyResponse.ok) {
+        console.log('Netlify form submission successful');
+      } else {
+        console.error('Netlify form submission failed:', netlifyResponse.status);
+      }
+    } catch (error) {
+      console.error('Netlify workflow error:', error);
     }
 
     console.log('Waitlist submission successful:', { name, email });
