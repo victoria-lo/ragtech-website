@@ -18,6 +18,7 @@ export default function TechieTabooPage() {
   const [error, setError] = useState('');
   const [showThankYou, setShowThankYou] = useState(false);
   const [showPledge, setShowPledge] = useState(false);
+  const [showNonTechieVideo, setShowNonTechieVideo] = useState(false);
 
   const features = [
     { icon: '🎯', text: 'Perfect for tech teams, bootcamps, and meetups' },
@@ -290,19 +291,36 @@ export default function TechieTabooPage() {
               whileInView={{ opacity: 1, x: 0 }}
               viewport={{ once: true }}
               transition={{ duration: 0.6 }}
-              className="relative flex justify-center"
+              className="space-y-4"
             >
-              <div className="relative rounded-2xl overflow-hidden shadow-2xl max-w-sm">
-                <video
-                  autoPlay
-                  loop
-                  muted
-                  playsInline
-                  controls
-                  className="w-full h-auto"
+              <div className="relative rounded-2xl overflow-hidden shadow-2xl max-w-sm mx-auto">
+                <div className={`${showNonTechieVideo ? 'bg-secondary/10 dark:bg-secondary/20' : 'bg-primary/10 dark:bg-primary/20'} px-4 py-2 text-center`}>
+                  <p className="font-bold text-brownDark dark:text-brown">
+                    {showNonTechieVideo ? 'Playing as a Non-Techie' : 'Playing as a Techie'}
+                  </p>
+                </div>
+                <div className="relative w-full" style={{ paddingBottom: '177.78%' }}>
+                  <iframe
+                    key={showNonTechieVideo ? 'non-techie' : 'techie'}
+                    className="absolute top-0 left-0 w-full h-full"
+                    src={showNonTechieVideo ? 'https://www.youtube.com/embed/srzE_2TqzmA' : 'https://www.youtube.com/embed/uDFJM2xeNgw'}
+                    title={showNonTechieVideo ? 'Non-Techie Gameplay Demo' : 'Techie Gameplay Demo'}
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                    allowFullScreen
+                  />
+                </div>
+              </div>
+              
+              <div className="text-center">
+                <button
+                  onClick={() => setShowNonTechieVideo(!showNonTechieVideo)}
+                  className="inline-flex items-center gap-2 px-6 py-3 bg-gradient-to-r from-secondary to-accent text-grey rounded-full font-semibold text-base hover:opacity-90 transition-all duration-300 shadow-md hover:shadow-lg hover:scale-105"
                 >
-                  <source src="/assets/videos/promo-reel.mp4" type="video/mp4" />
-                </video>
+                  <span>
+                    {showNonTechieVideo ? 'See how techies play it!' : 'See how non-techies play it too!'}
+                  </span>
+                  <span className="text-xl">🔄</span>
+                </button>
               </div>
             </motion.div>
           </div>
