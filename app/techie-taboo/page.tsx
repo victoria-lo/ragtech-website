@@ -466,7 +466,8 @@ export default function TechieTabooPage() {
 
             <div className="max-w-2xl mx-auto mb-8 bg-gradient-to-r from-primary/20 via-secondary/20 to-accent/20 rounded-2xl p-6 border-2 border-primary/30 shadow-lg">
               <p className="text-xl font-bold text-brownDark dark:text-brown text-center leading-relaxed mb-4">
-                To confirm your spot, pledge $1 via PayNow and upload a screenshot of your transaction.
+                To confirm your spot, pledge $1 via PayNow and upload a screenshot of your transaction. We&apos;ll send you an email to order once the first batch comes in!
+              
               </p>
               <div className="text-center">
                 <p className="text-sm text-neutral-600 dark:text-neutral-400 mb-2">
