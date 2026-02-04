@@ -1,48 +1,32 @@
 import Image from 'next/image';
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
+import { loadPostBySlug } from '@/lib/posts';
 import {
-  fetchBeehiivPostBySlug,
-  loadArchivedPostBySlug,
-  BeehiivPost,
-  ArchivedPost,
-} from '@/lib/beehiiv';
+  UnifiedPost,
+  getUnifiedPostDate,
+  getUnifiedPostTitle,
+  getUnifiedPostCoverImage,
+  getPostSource,
+  isMarkdownPost,
+  isArchivedPost,
+} from '@/lib/posts-client';
+import type { BeehiivPost } from '@/lib/beehiiv-types';
 
 export const dynamic = 'force-dynamic';
 export const revalidate = 0;
 
-type PostData = BeehiivPost | ArchivedPost;
-
-function isArchivedPost(post: PostData): post is ArchivedPost {
-  return 'publishedAt' in post && 'coverImage' in post;
-}
-
-async function getPost(slug: string): Promise<PostData | null> {
+async function getPost(slug: string): Promise<UnifiedPost | null> {
   try {
-    const beehiivPost = await fetchBeehiivPostBySlug(slug);
-    if (beehiivPost) {
-      return beehiivPost;
-    }
-
-    const archivedPost = await loadArchivedPostBySlug(slug);
-    return archivedPost;
+    return await loadPostBySlug(slug);
   } catch (error) {
     console.error('Error fetching post:', error);
     return null;
   }
 }
 
-function formatDate(post: PostData): string {
-  let date: Date;
-
-  if (isArchivedPost(post)) {
-    date = new Date(post.publishedAt);
-  } else {
-    // Beehiiv: Use displayed_date, fallback to publish_date, then created
-    const timestamp = post.displayed_date || post.publish_date || post.created;
-    date = new Date(timestamp * 1000);
-  }
-
+function formatDate(post: UnifiedPost): string {
+  const date = getUnifiedPostDate(post);
   return date.toLocaleDateString('en-US', {
     year: 'numeric',
     month: 'long',
@@ -50,17 +34,23 @@ function formatDate(post: PostData): string {
   });
 }
 
-function getPostContent(post: PostData): string {
+function getPostContent(post: UnifiedPost): string {
+  if (isMarkdownPost(post)) {
+    return post.content.html;
+  }
+  
   if (isArchivedPost(post)) {
     return post.content.html;
   }
+  
   // For Beehiiv: Use web content, fallback to email if web is empty/minimal
-  let beehiivContent = post.content.free.web || '';
+  const beehiivPost = post as BeehiivPost;
+  let beehiivContent = beehiivPost.content.free.web || '';
   
   // If web content is too short (just tags) or empty, use email content instead
   const strippedWeb = beehiivContent.replace(/<[^>]*>/g, '').trim();
   if (!strippedWeb || strippedWeb.length < 50) {
-    beehiivContent = post.content.free.email || beehiivContent;
+    beehiivContent = beehiivPost.content.free.email || beehiivContent;
   }
   
   // Remove any full HTML/body tags if present and just get the content
@@ -85,19 +75,14 @@ function getPostContent(post: PostData): string {
   return cleanContent;
 }
 
-function getPostCoverImage(post: PostData): string | null {
-  if (isArchivedPost(post)) {
-    return post.coverImage?.url || null;
-  }
-  return post.thumbnail_url || null;
-}
-
-function getPostTags(post: PostData): Array<{ name: string; slug: string }> {
-  if (isArchivedPost(post)) {
+function getPostTags(post: UnifiedPost): Array<{ name: string; slug: string }> {
+  if (isMarkdownPost(post) || isArchivedPost(post)) {
     return post.tags;
   }
+  
   // Convert Beehiiv content_tags to tag format
-  return post.content_tags.map((tag) => ({
+  const beehiivPost = post as BeehiivPost;
+  return beehiivPost.content_tags.map((tag) => ({
     name: tag,
     slug: tag.toLowerCase().replace(/\s+/g, '-'),
   }));
@@ -110,9 +95,16 @@ export default async function BlogPostPage({ params }: { params: { slug: string 
     notFound();
   }
 
-  const coverImage = getPostCoverImage(post);
+  const coverImage = getUnifiedPostCoverImage(post);
   const tags = getPostTags(post);
   const content = getPostContent(post);
+  const source = getPostSource(post);
+
+  const sourceBadge = {
+    markdown: { label: 'New Post', color: 'bg-green-500' },
+    archived: { label: 'From the Archives', color: 'bg-neutral-500' },
+    beehiiv: null,
+  }[source];
 
   return (
     <main className="min-h-screen pt-24 pb-20 px-4 sm:px-6 overflow-x-hidden">
@@ -130,8 +122,17 @@ export default async function BlogPostPage({ params }: { params: { slug: string 
 
         {/* Header */}
         <header className="mb-8">
+          {/* Source Badge */}
+          {sourceBadge && (
+            <div className="mb-4">
+              <span className={`inline-block ${sourceBadge.color} text-white text-xs font-semibold px-3 py-1 rounded-full`}>
+                {sourceBadge.label}
+              </span>
+            </div>
+          )}
+
           <h1 className="text-4xl md:text-5xl font-bold mb-6 text-brownDark dark:text-brown">
-            {post.title}
+            {getUnifiedPostTitle(post)}
           </h1>
 
           {/* Meta Info */}
@@ -160,7 +161,7 @@ export default async function BlogPostPage({ params }: { params: { slug: string 
           <div className="relative w-full aspect-video rounded-2xl overflow-hidden mb-12 shadow-2xl">
             <Image
               src={coverImage}
-              alt={post.title}
+              alt={getUnifiedPostTitle(post)}
               fill
               className="object-cover"
               priority
@@ -170,7 +171,7 @@ export default async function BlogPostPage({ params }: { params: { slug: string 
 
         {/* Content */}
         <div
-          className="blog-content"
+          className="blog-content prose prose-lg dark:prose-invert max-w-none"
           dangerouslySetInnerHTML={{ __html: content }}
         />
 

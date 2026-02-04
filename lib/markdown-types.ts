@@ -1,0 +1,91 @@
+/**
+ * TypeScript interfaces for Markdown-based blog posts
+ * Safe to import in both client and server components
+ */
+
+// ============================================================================
+// Markdown Post Interfaces
+// ============================================================================
+
+export interface MarkdownPostAuthor {
+  name: string;
+  email?: string;
+  profilePicture: string;
+}
+
+export interface MarkdownPostFrontmatter {
+  title: string;
+  slug: string;
+  author: MarkdownPostAuthor;
+  publishedAt: string;
+  scheduledFor?: string;
+  coverImage: string;
+  brief: string;
+  tags: string[];
+  readTimeInMinutes?: number;
+  status: 'draft' | 'scheduled' | 'published';
+  newsletter?: {
+    send: boolean;
+    sent: boolean;
+    sentAt?: string;
+    recipientCount?: number;
+  };
+  seo?: {
+    metaDescription?: string;
+    keywords?: string[];
+  };
+}
+
+export interface MarkdownPost {
+  slug: string;
+  title: string;
+  brief: string;
+  coverImage: string;
+  publishedAt: string;
+  readTimeInMinutes: number;
+  author: MarkdownPostAuthor;
+  tags: Array<{
+    name: string;
+    slug: string;
+  }>;
+  content: {
+    html: string;
+    markdown: string;
+  };
+  status: 'draft' | 'scheduled' | 'published';
+  _markdown: {
+    source: 'markdown';
+    filePath: string;
+    lastModified: string;
+  };
+}
+
+// ============================================================================
+// Utility Functions
+// ============================================================================
+
+/**
+ * Type guard to check if a post is a markdown post
+ */
+export function isMarkdownPost(post: any): post is MarkdownPost {
+  return '_markdown' in post && post._markdown?.source === 'markdown';
+}
+
+/**
+ * Calculate reading time based on word count
+ */
+export function calculateReadingTime(content: string): number {
+  const wordsPerMinute = 200;
+  const wordCount = content.trim().split(/\s+/).length;
+  return Math.ceil(wordCount / wordsPerMinute);
+}
+
+/**
+ * Convert tag string to slug
+ */
+export function tagToSlug(tag: string): string {
+  return tag
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, '-')
+    .replace(/^-+|-+$/g, '');
+}

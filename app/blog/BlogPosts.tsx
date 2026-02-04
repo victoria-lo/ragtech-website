@@ -4,58 +4,37 @@ import { useState } from 'react';
 import Image from 'next/image';
 import Link from 'next/link';
 import { motion } from 'framer-motion';
-import { BeehiivPost, ArchivedPost, isArchivedPost } from '@/lib/beehiiv-types';
+import {
+  UnifiedPost,
+  getUnifiedPostDate,
+  getUnifiedPostTitle,
+  getUnifiedPostSlug,
+  getUnifiedPostBrief,
+  getUnifiedPostCoverImage,
+  getPostSource,
+} from '@/lib/posts-client';
 
 interface BlogPostsProps {
-  initialPosts: BeehiivPost[];
-  initialPage: number;
-  initialTotalPages: number;
-  archivedPosts: ArchivedPost[];
+  allPosts: UnifiedPost[];
 }
 
-export default function BlogPosts({
-  initialPosts,
-  initialPage,
-  initialTotalPages,
-  archivedPosts,
-}: BlogPostsProps) {
-  const [posts, setPosts] = useState<BeehiivPost[]>(initialPosts);
-  const [currentPage, setCurrentPage] = useState(initialPage);
-  const [totalPages, setTotalPages] = useState(initialTotalPages);
+export default function BlogPosts({ allPosts }: BlogPostsProps) {
+  const [displayCount, setDisplayCount] = useState(12);
   const [loading, setLoading] = useState(false);
 
-  const loadMorePosts = async () => {
-    if (currentPage >= totalPages || loading) return;
+  const visiblePosts = allPosts.slice(0, displayCount);
+  const hasMore = displayCount < allPosts.length;
 
+  const loadMorePosts = () => {
     setLoading(true);
-    try {
-      const nextPage = currentPage + 1;
-      const response = await fetch(`/api/blog/posts?page=${nextPage}&limit=6`);
-      const data = await response.json();
-
-      if (response.ok && data.data) {
-        setPosts((prev) => [...prev, ...data.data]);
-        setCurrentPage(nextPage);
-        setTotalPages(data.total_pages);
-      }
-    } catch (error) {
-      console.error('Error loading more posts:', error);
-    } finally {
+    setTimeout(() => {
+      setDisplayCount((prev) => prev + 12);
       setLoading(false);
-    }
+    }, 300);
   };
 
-  const formatDate = (post: BeehiivPost | ArchivedPost) => {
-    let date: Date;
-    
-    if (isArchivedPost(post)) {
-      date = new Date(post.publishedAt);
-    } else {
-      // Beehiiv: Use displayed_date, fallback to publish_date, then created
-      const timestamp = post.displayed_date || post.publish_date || post.created;
-      date = new Date(timestamp * 1000);
-    }
-
+  const formatDate = (post: UnifiedPost) => {
+    const date = getUnifiedPostDate(post);
     return date.toLocaleDateString('en-US', {
       year: 'numeric',
       month: 'long',
@@ -63,79 +42,88 @@ export default function BlogPosts({
     });
   };
 
-  const getPostUrl = (post: BeehiivPost | ArchivedPost) => {
-    return `/blog/${post.slug}`;
+  const getPostUrl = (post: UnifiedPost) => {
+    return `/blog/${getUnifiedPostSlug(post)}`;
   };
 
-  const getPostImage = (post: BeehiivPost | ArchivedPost) => {
-    if (isArchivedPost(post)) {
-      return post.coverImage?.url;
+  const getPostBadge = (post: UnifiedPost) => {
+    const source = getPostSource(post);
+    if (source === 'markdown') {
+      return { label: 'New', color: 'bg-green-500' };
     }
-    return post.thumbnail_url;
-  };
-
-  const getPostBrief = (post: BeehiivPost | ArchivedPost) => {
-    if (isArchivedPost(post)) {
-      return post.brief;
+    if (source === 'archived') {
+      return { label: 'Archive', color: 'bg-neutral-500' };
     }
-    return post.preview_text || post.subtitle;
+    return null;
   };
 
   return (
     <>
-      {/* Latest Posts Grid */}
-      {posts.length > 0 && (
+      {/* All Posts Grid */}
+      {visiblePosts.length > 0 && (
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 mb-12">
-          {posts.map((post, index) => (
-            <motion.article
-              key={post.id}
-              initial={{ opacity: 0, y: 20 }}
-              animate={{ opacity: 1, y: 0 }}
-              transition={{ duration: 0.6, delay: index * 0.1 }}
-              className="group"
-            >
-              <Link
-                href={getPostUrl(post)}
-                className="block bg-white dark:bg-neutral-800 rounded-2xl overflow-hidden shadow-lg hover:shadow-2xl transition-all duration-300 hover:scale-105"
+          {visiblePosts.map((post, index) => {
+            const badge = getPostBadge(post);
+            const coverImage = getUnifiedPostCoverImage(post);
+            
+            return (
+              <motion.article
+                key={getUnifiedPostSlug(post)}
+                initial={{ opacity: 0, y: 20 }}
+                animate={{ opacity: 1, y: 0 }}
+                transition={{ duration: 0.6, delay: Math.min(index * 0.1, 0.6) }}
+                className="group"
               >
-                {/* Cover Image */}
-                <div className="relative aspect-video overflow-hidden">
-                  {getPostImage(post) ? (
-                    <Image
-                      src={getPostImage(post)!}
-                      alt={post.title}
-                      fill
-                      className="object-cover group-hover:scale-110 transition-transform duration-300"
-                    />
-                  ) : (
-                    <div className="w-full h-full bg-gradient-to-br from-primary/20 via-secondary/20 to-accent/20 flex items-center justify-center">
-                      <span className="text-6xl">📝</span>
-                    </div>
-                  )}
-                </div>
+                <Link
+                  href={getPostUrl(post)}
+                  className="block bg-white dark:bg-neutral-800 rounded-2xl overflow-hidden shadow-lg hover:shadow-2xl transition-all duration-300 hover:scale-105"
+                >
+                  {/* Cover Image */}
+                  <div className="relative aspect-video overflow-hidden">
+                    {coverImage ? (
+                      <Image
+                        src={coverImage}
+                        alt={getUnifiedPostTitle(post)}
+                        fill
+                        className="object-cover group-hover:scale-110 transition-transform duration-300"
+                      />
+                    ) : (
+                      <div className="w-full h-full bg-gradient-to-br from-primary/20 via-secondary/20 to-accent/20 flex items-center justify-center">
+                        <span className="text-6xl">📝</span>
+                      </div>
+                    )}
+                    
+                    {/* Source Badge */}
+                    {badge && (
+                      <div className={`absolute top-4 right-4 ${badge.color} text-white text-xs font-semibold px-3 py-1 rounded-full`}>
+                        {badge.label}
+                      </div>
+                    )}
+                  </div>
 
-                {/* Content */}
-                <div className="p-6">
-                  <h2 className="text-2xl font-bold mb-3 text-brownDark dark:text-brown group-hover:text-primary transition-colors">
-                    {post.title}
-                  </h2>
-                  <p className="text-neutral-600 dark:text-neutral-400 mb-4 line-clamp-3">
-                    {getPostBrief(post)}
-                  </p>
+                  {/* Content */}
+                  <div className="p-6">
+                    <h2 className="text-2xl font-bold mb-3 text-brownDark dark:text-brown group-hover:text-primary transition-colors">
+                      {getUnifiedPostTitle(post)}
+                    </h2>
+                    <p className="text-neutral-600 dark:text-neutral-400 mb-4 line-clamp-3">
+                      {getUnifiedPostBrief(post)}
+                    </p>
 
-                  {/* Meta Info */}
-                  <p className="text-xs text-neutral-400 dark:text-neutral-600">
-                    {formatDate(post)}
-                  </p>
-                </div>
-              </Link>
-            </motion.article>
-          ))}
+                    {/* Meta Info */}
+                    <p className="text-xs text-neutral-400 dark:text-neutral-600">
+                      {formatDate(post)}
+                    </p>
+                  </div>
+                </Link>
+              </motion.article>
+            );
+          })}
         </div>
       )}
 
       {/* Show More Button */}
-      {currentPage < totalPages && (
+      {hasMore && (
         <div className="flex justify-center mb-16">
           <motion.button
             whileHover={{ scale: 1.05 }}
@@ -156,71 +144,8 @@ export default function BlogPosts({
         </div>
       )}
 
-      {/* Archived Posts Section */}
-      {archivedPosts.length > 0 && (
-        <div className="mt-16 pt-12 border-t-2 border-neutral-200 dark:border-neutral-700">
-          <motion.h2
-            initial={{ opacity: 0, y: 20 }}
-            whileInView={{ opacity: 1, y: 0 }}
-            viewport={{ once: true }}
-            className="text-3xl font-bold text-brownDark dark:text-brown mb-8 text-center"
-          >
-            From the Archives
-          </motion.h2>
-          
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-            {archivedPosts.map((post, index) => (
-              <motion.article
-                key={post.id}
-                initial={{ opacity: 0, y: 20 }}
-                whileInView={{ opacity: 1, y: 0 }}
-                viewport={{ once: true }}
-                transition={{ duration: 0.6, delay: index * 0.1 }}
-                className="group"
-              >
-                <Link
-                  href={getPostUrl(post)}
-                  className="block bg-white dark:bg-neutral-800 rounded-2xl overflow-hidden shadow-lg hover:shadow-2xl transition-all duration-300 hover:scale-105"
-                >
-                  {/* Cover Image */}
-                  <div className="relative aspect-video overflow-hidden">
-                    {post.coverImage?.url ? (
-                      <Image
-                        src={post.coverImage.url}
-                        alt={post.title}
-                        fill
-                        className="object-cover group-hover:scale-110 transition-transform duration-300"
-                      />
-                    ) : (
-                      <div className="w-full h-full bg-gradient-to-br from-primary/20 via-secondary/20 to-accent/20 flex items-center justify-center">
-                        <span className="text-6xl">📝</span>
-                      </div>
-                    )}
-                  </div>
-
-                  {/* Content */}
-                  <div className="p-6">
-                    <h2 className="text-2xl font-bold mb-3 text-brownDark dark:text-brown group-hover:text-primary transition-colors">
-                      {post.title}
-                    </h2>
-                    <p className="text-neutral-600 dark:text-neutral-400 mb-4 line-clamp-3">
-                      {post.brief}
-                    </p>
-
-                    {/* Meta Info */}
-                    <p className="text-xs text-neutral-400 dark:text-neutral-600">
-                      {formatDate(post)}
-                    </p>
-                  </div>
-                </Link>
-              </motion.article>
-            ))}
-          </div>
-        </div>
-      )}
-
       {/* No Posts */}
-      {posts.length === 0 && archivedPosts.length === 0 && (
+      {allPosts.length === 0 && (
         <div className="text-center py-20">
           <p className="text-neutral-600 dark:text-neutral-400 text-lg">
             No posts found. Check back soon!
