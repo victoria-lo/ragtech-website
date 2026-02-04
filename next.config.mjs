@@ -11,6 +11,10 @@ const nextConfig = {
           protocol: 'https',
           hostname: '**.beehiiv.com',
         },
+        {
+          protocol: 'https',
+          hostname: 'beehiiv-images-production.s3.amazonaws.com',
+        },
       ],
     },
   };
