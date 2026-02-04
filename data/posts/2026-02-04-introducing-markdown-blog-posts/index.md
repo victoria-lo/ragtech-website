@@ -12,7 +12,7 @@ tags: ["announcement", "tech", "blogging"]
 readTimeInMinutes: 5
 status: "published"
 newsletter:
-  send: false
+  send: true
   sent: false
 seo:
   metaDescription: "Learn about ragTech's new markdown-based blog system"

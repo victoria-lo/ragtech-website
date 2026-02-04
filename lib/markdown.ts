@@ -97,6 +97,7 @@ async function parseMarkdownFile(filePath: string): Promise<MarkdownPost | null>
         markdown: content,
       },
       status: frontmatter.status || 'draft',
+      newsletter: frontmatter.newsletter,
       _markdown: {
         source: 'markdown',
         filePath: path.relative(process.cwd(), filePath),

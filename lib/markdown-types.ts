@@ -53,6 +53,12 @@ export interface MarkdownPost {
     markdown: string;
   };
   status: 'draft' | 'scheduled' | 'published';
+  newsletter?: {
+    send: boolean;
+    sent: boolean;
+    sentAt?: string;
+    recipientCount?: number;
+  };
   _markdown: {
     source: 'markdown';
     filePath: string;
