@@ -109,6 +109,25 @@ function sanitizeEmailContent(html: string | undefined | null): string {
   // Remove inline styles
   clean = clean.replace(/\s*style="[^"]*"/gi, '');
   
+  // Convert relative image paths to absolute URLs
+  clean = clean.replace(
+    /<img([^>]*?)src="\/([^"]+)"([^>]*)>/gi,
+    '<img$1src="https://ragtechdev.com/$2"$3>'
+  );
+  
+  // Replace YouTube iframes with linked thumbnails
+  clean = clean.replace(
+    /<iframe[^>]*src="https:\/\/www\.youtube\.com\/embed\/([a-zA-Z0-9_-]+)"[^>]*>.*?<\/iframe>/gi,
+    (match, videoId) => {
+      const thumbnailUrl = `https://img.youtube.com/vi/${videoId}/maxresdefault.jpg`;
+      const videoUrl = `https://www.youtube.com/watch?v=${videoId}`;
+      return `<a href="${videoUrl}" style="display: block; margin: 20px 0;"><img src="${thumbnailUrl}" alt="Watch on YouTube" style="width: 100%; max-width: 560px; height: auto; border-radius: 8px;" /></a><p style="text-align: center; margin-top: 8px;"><a href="${videoUrl}" style="color: #5da9a4; text-decoration: underline;">▶ Watch on YouTube</a></p>`;
+    }
+  );
+  
+  // Remove any remaining iframes (fallback)
+  clean = clean.replace(/<iframe\b[^<]*(?:(?!<\/iframe>)<[^<]*)*<\/iframe>/gi, '');
+  
   // Limit content length (roughly 500 chars of text)
   const textContent = clean.replace(/<[^>]*>/g, '');
   if (textContent.length > 500) {
