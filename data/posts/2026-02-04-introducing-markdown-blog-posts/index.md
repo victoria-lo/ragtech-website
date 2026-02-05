@@ -13,7 +13,7 @@ readTimeInMinutes: 5
 status: "published"
 newsletter:
   send: true
-  sent: false
+  sent: true
 seo:
   metaDescription: "Learn about ragTech's new markdown-based blog system"
   keywords: ["markdown", "blogging", "content management"]

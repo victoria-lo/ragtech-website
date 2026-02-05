@@ -19,17 +19,141 @@ import path from 'path';
 export interface NewsletterSendResult {
   success: boolean;
   messageId?: string;
+  broadcastId?: string;
   error?: string;
 }
 
 /**
- * Send a blog post as a newsletter via Resend
+ * Create a broadcast draft for a blog post
+ * This creates the broadcast but does NOT send it
+ */
+export async function createBlogPostBroadcast(
+  post: MarkdownPost,
+  options?: {
+    audienceId?: string;
+  }
+): Promise<NewsletterSendResult> {
+  try {
+    // Check if Resend is configured
+    if (!resend) {
+      return {
+        success: false,
+        error: 'Resend is not configured. Please set RESEND_API_KEY.',
+      };
+    }
+
+    if (!isResendConfigured()) {
+      return {
+        success: false,
+        error: 'Resend audience is not configured. Please set RESEND_AUDIENCE_ID.',
+      };
+    }
+
+    // Format published date
+    const publishedDate = new Date(post.publishedAt).toLocaleDateString('en-US', {
+      year: 'numeric',
+      month: 'long',
+      day: 'numeric',
+    });
+
+    // Render email template
+    const emailHtml = await render(
+      BlogPostNewsletter({
+        title: post.title,
+        brief: post.brief,
+        coverImage: post.coverImage,
+        content: post.content.html,
+        slug: post.slug,
+        author: post.author.name,
+        publishedAt: publishedDate,
+        tags: post.tags.map((t) => t.name),
+      })
+    );
+
+    // Create broadcast draft
+    const audienceId = options?.audienceId || RESEND_CONFIG.audienceId!;
+    
+    const result = await resend.broadcasts.create({
+      audienceId,
+      name: post.title,
+      from: `${RESEND_CONFIG.fromName} <${RESEND_CONFIG.fromEmail}>`,
+      subject: post.title,
+      html: emailHtml,
+    });
+
+    if (result.error) {
+      console.error('Resend API error:', result.error);
+      return {
+        success: false,
+        error: result.error.message,
+      };
+    }
+
+    return {
+      success: true,
+      broadcastId: result.data?.id,
+    };
+  } catch (error) {
+    console.error('Error creating broadcast:', error);
+    return {
+      success: false,
+      error: error instanceof Error ? error.message : 'Unknown error',
+    };
+  }
+}
+
+/**
+ * Send a broadcast immediately or schedule it
+ */
+export async function sendBroadcast(
+  broadcastId: string,
+  options?: {
+    scheduledAt?: string; // e.g., 'in 1 min', 'in 1 hour', ISO timestamp
+  }
+): Promise<NewsletterSendResult> {
+  try {
+    if (!resend) {
+      return {
+        success: false,
+        error: 'Resend is not configured. Please set RESEND_API_KEY.',
+      };
+    }
+
+    const result = await resend.broadcasts.send(broadcastId, {
+      scheduledAt: options?.scheduledAt || 'now',
+    });
+
+    if (result.error) {
+      console.error('Resend API error:', result.error);
+      return {
+        success: false,
+        error: result.error.message,
+      };
+    }
+
+    return {
+      success: true,
+      broadcastId: result.data?.id,
+    };
+  } catch (error) {
+    console.error('Error sending broadcast:', error);
+    return {
+      success: false,
+      error: error instanceof Error ? error.message : 'Unknown error',
+    };
+  }
+}
+
+/**
+ * Create and immediately send a blog post as a newsletter
+ * This is a convenience function that combines create + send
  */
 export async function sendBlogPostNewsletter(
   post: MarkdownPost,
   options?: {
     testEmail?: string;
     audienceId?: string;
+    scheduledAt?: string;
   }
 ): Promise<NewsletterSendResult> {
   try {
@@ -69,35 +193,49 @@ export async function sendBlogPostNewsletter(
       })
     );
 
-    // Determine recipient
-    const to = options?.testEmail
-      ? options.testEmail
-      : options?.audienceId || RESEND_CONFIG.audienceId!;
+    // Send email - use different API based on recipient type
+    if (options?.testEmail) {
+      // Send to individual test email using emails.send
+      const result = await resend.emails.send({
+        from: `${RESEND_CONFIG.fromName} <${RESEND_CONFIG.fromEmail}>`,
+        to: options.testEmail,
+        subject: post.title,
+        html: emailHtml,
+        tags: [
+          { name: 'type', value: 'blog-post' },
+          { name: 'slug', value: post.slug },
+        ],
+      });
 
-    // Send email
-    const result = await resend.emails.send({
-      from: `${RESEND_CONFIG.fromName} <${RESEND_CONFIG.fromEmail}>`,
-      to,
-      subject: post.title,
-      html: emailHtml,
-      tags: [
-        { name: 'type', value: 'blog-post' },
-        { name: 'slug', value: post.slug },
-      ],
-    });
+      if (result.error) {
+        console.error('Resend API error:', result.error);
+        return {
+          success: false,
+          error: result.error.message,
+        };
+      }
 
-    if (result.error) {
-      console.error('Resend API error:', result.error);
       return {
-        success: false,
-        error: result.error.message,
+        success: true,
+        messageId: result.data?.id,
       };
-    }
+    } else {
+      // Create broadcast and send to audience
+      const createResult = await createBlogPostBroadcast(post, {
+        audienceId: options?.audienceId,
+      });
 
-    return {
-      success: true,
-      messageId: result.data?.id,
-    };
+      if (!createResult.success || !createResult.broadcastId) {
+        return createResult;
+      }
+
+      // Send the broadcast
+      const sendResult = await sendBroadcast(createResult.broadcastId, {
+        scheduledAt: options?.scheduledAt || 'now',
+      });
+
+      return sendResult;
+    }
   } catch (error) {
     console.error('Error sending newsletter:', error);
     return {

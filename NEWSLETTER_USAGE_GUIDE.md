@@ -52,25 +52,62 @@ Your post content here...
 
 ### 4. Send Test Email
 
-Before sending to your full audience, test the email:
+Before sending to your full audience, test the email using the npm script:
 
+**Using Resend's test email (recommended for testing):**
 ```bash
-curl -X POST http://localhost:3000/api/newsletter/send \
-  -H "Content-Type: application/json" \
-  -d '{"slug": "my-newsletter-post", "testEmail": "you@example.com"}'
+npm run newsletter:test my-newsletter-post delivered@resend.dev
 ```
 
-### 5. Send to Full Audience
-
-Once you're happy with the test:
-
+**Using your real email:**
 ```bash
-curl -X POST http://localhost:3000/api/newsletter/send \
-  -H "Content-Type: application/json" \
-  -d '{"slug": "my-newsletter-post"}'
+npm run newsletter:test my-newsletter-post you@example.com
 ```
 
-The post frontmatter will automatically update to `newsletter.sent: true`.
+**Note:** Resend provides special test email addresses that simulate delivery without sending real emails:
+- `delivered@resend.dev` - Simulates successful delivery
+- `bounced@resend.dev` - Simulates bounced emails
+- `complained@resend.dev` - Simulates spam complaints
+- `suppressed@resend.dev` - Simulates suppressed emails
+
+These test addresses will show up in your Resend dashboard but won't send actual emails.
+
+### 5. Choose Your Sending Method
+
+You have two options for sending newsletters to your audience:
+
+#### Option A: Create Draft (Review Before Sending)
+
+**Step 1: Create a broadcast draft**
+```bash
+npm run newsletter:draft my-newsletter-post
+```
+
+This creates a broadcast in your Resend dashboard with the post title as the name. You can:
+- Review the broadcast in Resend dashboard
+- Edit if needed
+- Send manually from dashboard OR use the script below
+
+**Step 2: Send the broadcast**
+```bash
+npm run newsletter:send-broadcast <broadcast-id>
+```
+
+With scheduling:
+```bash
+npm run newsletter:send-broadcast <broadcast-id> "in 1 hour"
+npm run newsletter:send-broadcast <broadcast-id> "2026-02-05T15:00:00Z"
+```
+
+#### Option B: Create and Send Immediately
+
+```bash
+npm run newsletter:send my-newsletter-post
+```
+
+This creates the broadcast and sends it immediately (or schedules it). You'll be asked to confirm before sending. The post frontmatter will automatically update to `newsletter.sent: true`.
+
+**Important:** Make sure your domain is verified in Resend before sending to real email addresses. See the "Domain Verification" section below.
 
 ---
 
@@ -115,15 +152,14 @@ No changes needed to the frontend - it just calls `/api/newsletter/subscribe`.
 
 ## API Reference
 
-### POST `/api/newsletter/send`
+### POST `/api/newsletter/create-draft`
 
-Send a blog post as a newsletter.
+Create a broadcast draft without sending it.
 
 **Request Body:**
 ```json
 {
-  "slug": "post-slug",
-  "testEmail": "optional@test.com"  // Optional: send to test email
+  "slug": "post-slug"
 }
 ```
 
@@ -131,7 +167,62 @@ Send a blog post as a newsletter.
 ```json
 {
   "success": true,
-  "messageId": "msg_xxxxx",
+  "broadcastId": "abc123",
+  "message": "Broadcast draft created successfully"
+}
+```
+
+**Errors:**
+- `400` - Post not found, newsletter not enabled
+- `500` - Failed to create broadcast
+
+---
+
+### POST `/api/newsletter/send-broadcast`
+
+Send an existing broadcast with optional scheduling.
+
+**Request Body:**
+```json
+{
+  "broadcastId": "abc123",
+  "scheduledAt": "now"  // or "in 1 hour" or ISO timestamp
+}
+```
+
+**Response:**
+```json
+{
+  "success": true,
+  "broadcastId": "abc123",
+  "message": "Broadcast scheduled immediately"
+}
+```
+
+**Errors:**
+- `400` - Broadcast ID required
+- `500` - Failed to send broadcast
+
+---
+
+### POST `/api/newsletter/send`
+
+Create and send a blog post as a newsletter (combines create + send).
+
+**Request Body:**
+```json
+{
+  "slug": "post-slug",
+  "testEmail": "optional@test.com",  // Optional: send to test email
+  "scheduledAt": "now"  // Optional: schedule send time
+}
+```
+
+**Response:**
+```json
+{
+  "success": true,
+  "broadcastId": "abc123",
   "message": "Newsletter sent to audience"
 }
 ```
@@ -196,30 +287,44 @@ Subscribe a user to newsletter services.
 
 ## Workflow Examples
 
-### Example 1: Manual Newsletter Send
+### Example 1: Draft → Review → Send (Recommended)
 
 ```bash
 # 1. Create post with newsletter enabled
 # data/posts/2026-02-05-my-post/index.md
 
-# 2. Test send
-curl -X POST http://localhost:3000/api/newsletter/send \
-  -H "Content-Type: application/json" \
-  -d '{"slug": "my-post", "testEmail": "me@example.com"}'
+# 2. Test send with Resend test email
+npm run newsletter:test my-post delivered@resend.dev
 
-# 3. Check your email
+# 3. Create draft broadcast
+npm run newsletter:draft my-post
+# Output: Broadcast ID: abc123
 
-# 4. Send to audience
-curl -X POST http://localhost:3000/api/newsletter/send \
-  -H "Content-Type: application/json" \
-  -d '{"slug": "my-post"}'
+# 4. Review draft in Resend dashboard → Broadcasts
+# Make any edits if needed
+
+# 5. Send the broadcast
+npm run newsletter:send-broadcast abc123
+
+# Or schedule it
+npm run newsletter:send-broadcast abc123 "in 2 hours"
+```
+
+### Example 2: Quick Send (No Review)
+
+```bash
+# 1. Test send
+npm run newsletter:test my-post delivered@resend.dev
+
+# 2. Send immediately
+npm run newsletter:send my-post
 ```
 
 ### Example 2: Batch Send All Pending
 
 ```bash
 # Send all posts with newsletter.send: true and newsletter.sent: false
-curl -X POST http://localhost:3000/api/newsletter/send-pending
+npm run newsletter:send-pending
 ```
 
 ### Example 3: Scheduled Daily Send (GitHub Actions)
@@ -270,6 +375,111 @@ npm run email:dev
 ```
 
 Navigate to your template in the browser to see changes in real-time.
+
+---
+
+## Testing with Resend Test Emails
+
+Resend provides special test email addresses that simulate different delivery scenarios without sending actual emails. This is perfect for testing your newsletter system.
+
+### Available Test Emails
+
+| Email Address | Behavior | Use Case |
+|--------------|----------|----------|
+| `delivered@resend.dev` | Simulates successful delivery | Test successful sends |
+| `bounced@resend.dev` | Simulates bounced emails | Test bounce handling |
+| `complained@resend.dev` | Simulates spam complaints | Test spam handling |
+| `suppressed@resend.dev` | Simulates suppressed emails | Test suppression |
+
+### Testing Workflow
+
+**1. Test with delivered@resend.dev:**
+```bash
+npm run newsletter:test introducing-markdown-blog-posts delivered@resend.dev
+```
+
+**Expected output:**
+```
+📧 Sending test newsletter...
+   Post: introducing-markdown-blog-posts
+   To: delivered@resend.dev
+
+✅ Success! Test newsletter sent.
+
+   Message ID: 1d8c2906-910d-46c3-9cd2-d53c6cfeddcd
+   Test email sent to delivered@resend.dev
+
+📬 Check your inbox!
+```
+
+**2. Verify in Resend Dashboard:**
+- Go to [Resend Dashboard → Emails](https://resend.com/emails)
+- Find the email by Message ID
+- Check status (should show "Delivered")
+- View email content and rendering
+
+**3. Test different scenarios:**
+```bash
+# Test bounce
+npm run newsletter:test my-post bounced@resend.dev
+
+# Test spam complaint
+npm run newsletter:test my-post complained@resend.dev
+
+# Test suppression
+npm run newsletter:test my-post suppressed@resend.dev
+```
+
+**4. Test with real email (requires domain verification):**
+```bash
+npm run newsletter:test my-post your.email@gmail.com
+```
+
+### Benefits of Test Emails
+
+✅ **No spam** - Won't clutter real inboxes  
+✅ **Instant feedback** - See results in Resend dashboard immediately  
+✅ **Test scenarios** - Simulate bounces, spam, etc.  
+✅ **No domain required** - Works without domain verification  
+✅ **Safe testing** - Can't accidentally send to real users
+
+---
+
+## Domain Verification
+
+To send emails to real email addresses (not test addresses), you must verify your domain in Resend.
+
+### Steps to Verify Domain
+
+**1. Add Domain in Resend:**
+- Go to [Resend Dashboard → Domains](https://resend.com/domains)
+- Click "Add Domain"
+- Enter `ragtechdev.com`
+
+**2. Add DNS Records:**
+
+Resend will provide DNS records to add to your domain:
+
+- **SPF Record** - Prevents email spoofing
+- **DKIM Record** - Verifies email authenticity
+- **DMARC Record** - Email authentication policy
+
+**3. Wait for Verification:**
+- DNS changes can take 5 minutes to 48 hours
+- Resend will automatically verify once records are detected
+- You'll receive an email when verification is complete
+
+**4. Test Real Email Delivery:**
+```bash
+npm run newsletter:test my-post your.real@email.com
+```
+
+### Without Domain Verification
+
+❌ Emails to real addresses will fail  
+✅ Test emails (`delivered@resend.dev`) will work  
+✅ API integration will work  
+✅ Resend dashboard will show emails
 
 ---
 

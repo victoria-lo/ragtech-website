@@ -1,11 +1,12 @@
 #!/usr/bin/env node
 
 /**
- * Send Test Newsletter Script
+ * Create Newsletter Draft Script
+ * Creates a broadcast draft in Resend without sending it
  * 
  * Usage:
- *   npm run newsletter:test <slug> <email>
- *   npm run newsletter:test introducing-markdown-blog-posts delivered@resend.dev
+ *   npm run newsletter:draft <slug>
+ *   npm run newsletter:draft introducing-markdown-blog-posts
  * 
  * Note: Make sure the dev server is running (npm run dev)
  * and you have configured Resend API keys in .env.local
@@ -16,32 +17,25 @@ const http = require('http');
 // Parse command line arguments
 const args = process.argv.slice(2);
 
-if (args.length < 2) {
-  console.error('\n❌ Error: Missing required arguments\n');
-  console.log('Usage: npm run newsletter:test <slug> <email>');
-  console.log('Example: npm run newsletter:test introducing-markdown-blog-posts hello@ragtechdev.com\n');
+if (args.length < 1) {
+  console.error('\n❌ Error: Missing required argument\n');
+  console.log('Usage: npm run newsletter:draft <slug>');
+  console.log('Example: npm run newsletter:draft introducing-markdown-blog-posts\n');
   process.exit(1);
 }
 
-const [slug, testEmail] = args;
-
-// Validate email format
-const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
-if (!emailRegex.test(testEmail)) {
-  console.error(`\n❌ Error: Invalid email format: ${testEmail}\n`);
-  process.exit(1);
-}
+const [slug] = args;
 
 // Prepare request data
 const postData = JSON.stringify({
   slug,
-  testEmail,
+  draftOnly: true,
 });
 
 const options = {
   hostname: 'localhost',
   port: 3000,
-  path: '/api/newsletter/send',
+  path: '/api/newsletter/create-draft',
   method: 'POST',
   headers: {
     'Content-Type': 'application/json',
@@ -49,9 +43,8 @@ const options = {
   },
 };
 
-console.log('\n📧 Sending test newsletter...');
-console.log(`   Post: ${slug}`);
-console.log(`   To: ${testEmail}\n`);
+console.log('\n📝 Creating newsletter draft...');
+console.log(`   Post: ${slug}\n`);
 
 // Make the request
 const req = http.request(options, (res) => {
@@ -81,12 +74,14 @@ const req = http.request(options, (res) => {
       const response = JSON.parse(data);
 
       if (res.statusCode === 200 && response.success) {
-        console.log('✅ Success! Test newsletter sent.\n');
-        console.log(`   Message ID: ${response.messageId}`);
+        console.log('✅ Success! Newsletter draft created.\n');
+        console.log(`   Broadcast ID: ${response.broadcastId}`);
         console.log(`   ${response.message}\n`);
-        console.log('📬 Check your inbox!\n');
+        console.log('📊 View draft in Resend dashboard → Broadcasts\n');
+        console.log('To send this draft:');
+        console.log(`   npm run newsletter:send-broadcast ${response.broadcastId}\n`);
       } else {
-        console.error('❌ Failed to send newsletter\n');
+        console.error('❌ Failed to create newsletter draft\n');
         console.error(`   Status: ${res.statusCode}`);
         console.error(`   Error: ${response.error || 'Unknown error'}\n`);
         process.exit(1);
