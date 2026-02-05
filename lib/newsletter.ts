@@ -9,6 +9,7 @@ import { render } from '@react-email/components';
 import BlogPostNewsletter from '@/emails/BlogPostNewsletter';
 import { MarkdownPost } from './markdown-types';
 import { loadMarkdownPostBySlug, loadMarkdownPosts } from './markdown';
+import { getTopicIds, type NewsletterTopic } from './newsletter-topics';
 import fs from 'fs/promises';
 import path from 'path';
 
@@ -20,6 +21,8 @@ export interface NewsletterSendResult {
   success: boolean;
   messageId?: string;
   broadcastId?: string;
+  broadcastIds?: string[];  // For multiple topic broadcasts
+  topics?: NewsletterTopic[];  // Topics used
   error?: string;
 }
 
@@ -31,6 +34,7 @@ export async function createBlogPostBroadcast(
   post: MarkdownPost,
   options?: {
     audienceId?: string;
+    topics?: NewsletterTopic[];  // Override topics from post
   }
 ): Promise<NewsletterSendResult> {
   try {
@@ -46,6 +50,24 @@ export async function createBlogPostBroadcast(
       return {
         success: false,
         error: 'Resend audience is not configured. Please set RESEND_AUDIENCE_ID.',
+      };
+    }
+
+    // Validate topics
+    const topics = options?.topics || post.newsletter?.topic || [];
+    if (topics.length === 0) {
+      return {
+        success: false,
+        error: 'At least one topic is required. Available topics: ragTech, FutureNet, Techie Taboo',
+      };
+    }
+
+    // Get topic IDs
+    const topicIds = getTopicIds(topics);
+    if (topicIds.length === 0) {
+      return {
+        success: false,
+        error: 'No valid topic IDs found. Please configure RESEND_TOPIC_* environment variables.',
       };
     }
 
@@ -70,28 +92,57 @@ export async function createBlogPostBroadcast(
       })
     );
 
-    // Create broadcast draft
+    // Create broadcast draft(s)
     const audienceId = options?.audienceId || RESEND_CONFIG.audienceId!;
     
-    const result = await resend.broadcasts.create({
-      audienceId,
-      name: post.title,
-      from: `${RESEND_CONFIG.fromName} <${RESEND_CONFIG.fromEmail}>`,
-      subject: post.title,
-      html: emailHtml,
-    });
+    // Create separate broadcast for each topic (Resend only supports single topicId per broadcast)
+    const broadcastIds: string[] = [];
+    const errors: string[] = [];
 
-    if (result.error) {
-      console.error('Resend API error:', result.error);
+    for (let i = 0; i < topicIds.length; i++) {
+      const topicId = topicIds[i];
+      const topicName = topics[i];
+      
+      // Add topic name to broadcast title if multiple topics
+      const broadcastName = topicIds.length > 1 
+        ? `${post.title} [${topicName}]`
+        : post.title;
+
+      const result = await resend.broadcasts.create({
+        audienceId,
+        name: broadcastName,
+        from: `${RESEND_CONFIG.fromName} <${RESEND_CONFIG.fromEmail}>`,
+        subject: post.title,
+        html: emailHtml,
+        topicId,
+      });
+
+      if (result.error) {
+        console.error(`Resend API error for topic ${topicName}:`, result.error);
+        errors.push(`${topicName}: ${result.error.message}`);
+      } else if (result.data?.id) {
+        broadcastIds.push(result.data.id);
+      }
+    }
+
+    // Check if any broadcasts were created successfully
+    if (broadcastIds.length === 0) {
       return {
         success: false,
-        error: result.error.message,
+        error: `Failed to create broadcasts: ${errors.join(', ')}`,
       };
+    }
+
+    // Partial success if some broadcasts failed
+    if (errors.length > 0) {
+      console.warn(`Some broadcasts failed: ${errors.join(', ')}`);
     }
 
     return {
       success: true,
-      broadcastId: result.data?.id,
+      broadcastIds,
+      broadcastId: broadcastIds[0],  // For backward compatibility
+      topics,
     };
   } catch (error) {
     console.error('Error creating broadcast:', error);

@@ -14,6 +14,9 @@ status: "published"
 newsletter:
   send: true
   sent: true
+  topic:
+    - ragTech
+    - FutureNet
 seo:
   metaDescription: "Learn about ragTech's new markdown-based blog system"
   keywords: ["markdown", "blogging", "content management"]

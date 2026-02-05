@@ -6,11 +6,12 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { loadMarkdownPostBySlug } from '@/lib/markdown';
 import { createBlogPostBroadcast } from '@/lib/newsletter';
+import type { NewsletterTopic } from '@/lib/newsletter-topics';
 
 export async function POST(request: NextRequest) {
   try {
     const body = await request.json();
-    const { slug } = body;
+    const { slug, topics } = body;
 
     if (!slug) {
       return NextResponse.json(
@@ -45,8 +46,10 @@ export async function POST(request: NextRequest) {
       );
     }
 
-    // Create broadcast draft
-    const result = await createBlogPostBroadcast(post);
+    // Create broadcast draft(s)
+    const result = await createBlogPostBroadcast(post, {
+      topics: topics as NewsletterTopic[] | undefined,
+    });
 
     if (!result.success) {
       return NextResponse.json(
@@ -58,7 +61,11 @@ export async function POST(request: NextRequest) {
     return NextResponse.json({
       success: true,
       broadcastId: result.broadcastId,
-      message: 'Broadcast draft created successfully',
+      broadcastIds: result.broadcastIds,
+      topics: result.topics,
+      message: result.broadcastIds && result.broadcastIds.length > 1
+        ? `Created ${result.broadcastIds.length} broadcast drafts (one per topic)`
+        : 'Broadcast draft created successfully',
     });
   } catch (error) {
     console.error('Error in /api/newsletter/create-draft:', error);

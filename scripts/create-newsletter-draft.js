@@ -5,8 +5,13 @@
  * Creates a broadcast draft in Resend without sending it
  * 
  * Usage:
- *   npm run newsletter:draft <slug>
+ *   npm run newsletter:draft <slug> [topics...]
  *   npm run newsletter:draft introducing-markdown-blog-posts
+ *   npm run newsletter:draft my-post ragTech FutureNet
+ *   npm run newsletter:draft my-post "Techie Taboo"
+ * 
+ * Available topics: ragTech, FutureNet, "Techie Taboo"
+ * If no topics specified, uses topics from post frontmatter
  * 
  * Note: Make sure the dev server is running (npm run dev)
  * and you have configured Resend API keys in .env.local
@@ -19,18 +24,29 @@ const args = process.argv.slice(2);
 
 if (args.length < 1) {
   console.error('\n❌ Error: Missing required argument\n');
-  console.log('Usage: npm run newsletter:draft <slug>');
-  console.log('Example: npm run newsletter:draft introducing-markdown-blog-posts\n');
+  console.log('Usage: npm run newsletter:draft <slug> [topics...]');
+  console.log('Examples:');
+  console.log('  npm run newsletter:draft introducing-markdown-blog-posts');
+  console.log('  npm run newsletter:draft my-post ragTech');
+  console.log('  npm run newsletter:draft my-post ragTech FutureNet');
+  console.log('  npm run newsletter:draft my-post "Techie Taboo"\n');
+  console.log('Available topics: ragTech, FutureNet, "Techie Taboo"\n');
   process.exit(1);
 }
 
-const [slug] = args;
+const [slug, ...topics] = args;
 
 // Prepare request data
-const postData = JSON.stringify({
+const requestBody = {
   slug,
-  draftOnly: true,
-});
+};
+
+// Add topics if provided via CLI
+if (topics.length > 0) {
+  requestBody.topics = topics;
+}
+
+const postData = JSON.stringify(requestBody);
 
 const options = {
   hostname: 'localhost',
@@ -44,7 +60,11 @@ const options = {
 };
 
 console.log('\n📝 Creating newsletter draft...');
-console.log(`   Post: ${slug}\n`);
+console.log(`   Post: ${slug}`);
+if (topics.length > 0) {
+  console.log(`   Topics: ${topics.join(', ')}`);
+}
+console.log('');
 
 // Make the request
 const req = http.request(options, (res) => {
@@ -74,12 +94,38 @@ const req = http.request(options, (res) => {
       const response = JSON.parse(data);
 
       if (res.statusCode === 200 && response.success) {
-        console.log('✅ Success! Newsletter draft created.\n');
-        console.log(`   Broadcast ID: ${response.broadcastId}`);
-        console.log(`   ${response.message}\n`);
-        console.log('📊 View draft in Resend dashboard → Broadcasts\n');
-        console.log('To send this draft:');
-        console.log(`   npm run newsletter:send-broadcast ${response.broadcastId}\n`);
+        console.log('✅ Success! Newsletter draft(s) created.\n');
+        
+        if (response.broadcastIds && response.broadcastIds.length > 1) {
+          console.log(`   Created ${response.broadcastIds.length} broadcasts (one per topic)`);
+          if (response.topics) {
+            console.log(`   Topics: ${response.topics.join(', ')}`);
+          }
+          console.log(`   Broadcast IDs:`);
+          response.broadcastIds.forEach((id, i) => {
+            const topic = response.topics ? response.topics[i] : '';
+            console.log(`     - ${id}${topic ? ` [${topic}]` : ''}`);
+          });
+        } else {
+          console.log(`   Broadcast ID: ${response.broadcastId}`);
+          if (response.topics && response.topics.length > 0) {
+            console.log(`   Topic: ${response.topics[0]}`);
+          }
+        }
+        
+        console.log(`\n   ${response.message}\n`);
+        console.log('📊 View draft(s) in Resend dashboard → Broadcasts\n');
+        
+        if (response.broadcastIds && response.broadcastIds.length > 1) {
+          console.log('To send these drafts:');
+          response.broadcastIds.forEach(id => {
+            console.log(`   npm run newsletter:send-broadcast ${id}`);
+          });
+          console.log('');
+        } else {
+          console.log('To send this draft:');
+          console.log(`   npm run newsletter:send-broadcast ${response.broadcastId}\n`);
+        }
       } else {
         console.error('❌ Failed to create newsletter draft\n');
         console.error(`   Status: ${res.statusCode}`);

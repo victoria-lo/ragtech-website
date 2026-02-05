@@ -27,6 +27,7 @@ export interface MarkdownPostFrontmatter {
   newsletter?: {
     send: boolean;
     sent: boolean;
+    topic: Array<'ragTech' | 'FutureNet' | 'Techie Taboo'>;  // Compulsory: one or more topics
     sentAt?: string;
     recipientCount?: number;
   };
@@ -56,6 +57,7 @@ export interface MarkdownPost {
   newsletter?: {
     send: boolean;
     sent: boolean;
+    topic: Array<'ragTech' | 'FutureNet' | 'Techie Taboo'>;  // Compulsory: one or more topics
     sentAt?: string;
     recipientCount?: number;
   };
