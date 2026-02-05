@@ -9,6 +9,8 @@ publishedAt: "2026-02-05T12:00:00Z"
 coverImage: "/posts/2026-02-05-techie-taboo-cards-update-february-2026/second-batch.jpg"
 brief: "A journey through the manufacturing process of Techie Taboo cards, from paper prototypes to physical products, and an update for our waitlisters on the next batch."
 tags: ["techie taboo", "product", "update", "games"]
+topic:
+  - "Techie Taboo"
 readTimeInMinutes: 8
 status: "published"
 newsletter:

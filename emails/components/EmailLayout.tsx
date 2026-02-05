@@ -87,6 +87,7 @@ const header = {
 
 const logo = {
   margin: '0 auto',
+  height: 'auto',
 };
 
 const content = {
