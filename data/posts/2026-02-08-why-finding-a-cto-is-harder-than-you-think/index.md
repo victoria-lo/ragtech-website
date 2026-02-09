@@ -37,7 +37,9 @@ Many of the founders we spoke with had early prototypes, sometimes with a few us
 
 Inspired from that night, we recorded our episode "Why Finding a CTO is Harder Than You Think". The whole point of this episode is not to make non-technical founders feel discouraged, but rather share our perspectives on what makes a good CTO and the skills that non-technical founders should look out for when hiring one.
 
-> Click [here](https://www.youtube.com/watch?v=n8IVhPQnje8) to watch the episode!
+<!-- > Click [here](https://www.youtube.com/watch?v=n8IVhPQnje8) to watch the episode! -->
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n8IVhPQnje8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Finding such a person, as we shared in the episode, is far from straightforward. A CTO is not merely a senior engineer. This person must possess a mix of technical expertise, product thinking, and communication skills.
 
@@ -51,17 +53,23 @@ This challenge is further compounded by the rising expectations of investors. At
 
 In many ways, finding a CTO today has become a "red ocean" problem. This business term describes a highly saturated market where competition is fierce, and differentiation is difficult. Every company is hunting for senior, capable technical leaders who can handle both code and strategy. For a founder, especially a non-technical one, identifying the right person is akin to navigating a crowded, shark-infested sea. It's not about a lack of talent as there are plenty of skilled engineers, but about aligning expertise, vision, and commitment with the startup's needs.
 
+![Red Ocean](https://static.wixstatic.com/media/56d9e5_f3c8446df9b14cc1b6674c1655849419~mv2.jpg/v1/fill/w_734,h_413,al_c,lg_1,q_80/56d9e5_f3c8446df9b14cc1b6674c1655849419~mv2.jpg)
+
 For technical people, the ask is equally daunting. Leaving a stable, high-paying role to become a CTO at an early-stage startup involves enormous risk. There's no guaranteed success, and the demands are multifaceted. The CTO might be expected to architect the platform, lead a small team, make critical decisions on tech stacks, and even engage with investors. All while wearing multiple hats in an environment where resources are limited and stakes are high. If you are a technical person who's reading this right now, would you be willing to do that?
 
 ## All Hope is not Lost
 
 One innovative solution emerging in response to this challenge is the rise of fractional CTOs. Much like lawyers on retainer, fractional CTOs offer their expertise part-time, advising multiple startups at different stages. They help founders with technical strategy, hiring, and foundational architecture without the full-time commitment of a traditional CTO. This approach can be a lifeline for non-technical founders who need guidance while searching for someone fully invested in the long-term vision.
 
+![Fractional CTO](https://cdn.prod.website-files.com/61bb26fe53aeb2a18bbd17e4/6864f4ee90e056c978b8d6e8_2.webp)
+
 But fractional CTOs come with their own nuances. They provide advice, not full ownership. Once initial technical groundwork is laid, the founders must still rely on their in-house team to execute. It can be a temporary solution, a bridge to stability, or a strategy to mitigate risk, but it does not replace the need for a deeply committed technical co-founder if the startup is to thrive.
 
 ## What Non-technical Founders Can Do
 
 Beyond the practicalities of finding technical leadership, there's a deeper issue at play: tech literacy. Non-technical founders often underestimate the complexity of engineering. They see no-code platforms and AI agents as complete solutions, believing they can skip the technical learning curve. But software engineering is not just coding; it's a discipline that involves architecture, testing, deployment, and scalability. A visually working app may conceal countless potential failures behind the scenes, from unhandled exceptions to data bottlenecks. Without understanding these fundamentals, founders risk launching products that cannot scale or survive investor scrutiny.
+
+![Vibe coding vs Vibe Engineer](https://preview.redd.it/vibe-coding-vs-vibe-engineering-v0-vw0d41sbvnse1.png?auto=webp&s=2c45ecb7c5d0c8c75f1f36726c7dce584b9a8e93)
 
 We often compare it to building a bridge. You can't just replace one segment without understanding the forces at play in the entire structure. Similarly, software is not merely a set of lines of code but an interconnected system that requires foresight and careful planning. Skipping these steps may seem faster in the short term, but it often leads to costly problems later.
 
@@ -83,6 +91,8 @@ Techie Taboo invites players, especially tech enthusiasts, to explain complex te
 
 For anyone navigating the startup world today, the key takeaways are clear. First, the CTO role is more than a job; it’s a critical partnership for your product’s success. Non-technical founders must either secure a committed technical co-founder or at least engage someone capable of guiding the initial architecture strategically.
 
+![CTO Not Just a Coding Job](https://vadimkravcenko.com/wp-content/uploads/2023/07/image.png)
+
 Second, tech literacy matters. Even a foundational understanding of engineering principles enables better decision-making, stronger communication, and a more aligned vision.
 
 Finally, innovation requires patience and humility. Building something meaningful means acknowledging what you don’t know and seeking the right expertise rather than shortcutting complexity.
@@ -91,11 +101,15 @@ Finally, innovation requires patience and humility. Building something meaningfu
 
 The rise of AI and no-code tools has undoubtedly lowered the barrier to entry for founders. But the deeper challenge of creating a scalable, sustainable, and technically sound product remains. For non-technical founders, the journey is not impossible, but it demands intention, learning, and a careful approach to assembling the right team.
 
+![AI and No Code Tools](https://miro.medium.com/0*ujhYoysKnjhh6O5j)
+
 At ragTech, we continue to explore these intersections of technology, business, and human behavior. We hope our conversations inspire both founders and tech professionals to navigate this landscape thoughtfully and with curiosity.
 
 ragTech is a podcast by Natasha Ann Lum, Saloni Kaur, and Victoria Lo where real people talk about real life in tech. Our mission is to simplify technology and make it accessible to everyone. We believe that tech shouldn't be intimidating – it should be fun, engaging, and easy to understand!
 
-Join our waitlist for our upcoming card game, Techie Taboo, where you can challenge yourself in a social game for techies to explain buzzwords without using the buzzwords!
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n8IVhPQnje8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Join our waitlist for our upcoming card game, [Techie Taboo](https://ragtechdev.com/techie-taboo), where you can challenge yourself in a social game for techies to explain buzzwords without using the buzzwords!
 
 ✨WAITLIST here: [https://ragtechdev.com/techie-taboo](https://ragtechdev.com/techie-taboo)
 
