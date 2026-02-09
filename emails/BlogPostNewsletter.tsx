@@ -106,13 +106,19 @@ function sanitizeEmailContent(html: string | undefined | null): string {
   // Remove style tags
   clean = clean.replace(/<style\b[^<]*(?:(?!<\/style>)<[^<]*)*<\/style>/gi, '');
   
-  // Remove inline styles
+  // Remove inline styles (we'll add our own for images)
   clean = clean.replace(/\s*style="[^"]*"/gi, '');
   
   // Convert relative image paths to absolute URLs
   clean = clean.replace(
     /<img([^>]*?)src="\/([^"]+)"([^>]*)>/gi,
     '<img$1src="https://ragtechdev.com/$2"$3>'
+  );
+  
+  // Add consistent styling to all images (max-width 100%, auto height, centered)
+  clean = clean.replace(
+    /<img([^>]*)>/gi,
+    '<img$1 style="width: 100%; max-width: 520px; height: auto; display: block; margin: 16px auto; border-radius: 8px;">'
   );
   
   // Replace YouTube iframes with linked thumbnails
