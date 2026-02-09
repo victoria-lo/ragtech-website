@@ -34,6 +34,13 @@ export default function BlogPostNewsletter({
 
   return (
     <EmailLayout previewText={brief}>
+      {/* Subscription Info */}
+      <Text style={subscriptionInfo}>
+        You&apos;re receiving this email because you subscribed through FutureNet (digital parenting quiz), 
+        ragTech&apos;s blog newsletter, or waitlisted for Techie Taboo. 
+        Adjust your preferences using the unsubscribe link at the footer.
+      </Text>
+
       {/* Cover Image */}
       {coverImage && (
         <Section style={coverImageSection}>
@@ -165,6 +172,17 @@ BlogPostNewsletter.PreviewProps = {
 } as BlogPostNewsletterProps;
 
 // Styles
+const subscriptionInfo = {
+  color: '#888888',
+  fontSize: '12px',
+  lineHeight: '1.5',
+  margin: '0 0 24px',
+  padding: '12px 16px',
+  backgroundColor: '#f8f9fa',
+  borderRadius: '6px',
+  textAlign: 'center' as const,
+};
+
 const coverImageSection = {
   marginBottom: '32px',
 };
