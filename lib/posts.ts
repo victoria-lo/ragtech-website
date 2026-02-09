@@ -1,0 +1,145 @@
+/**
+ * Unified post interface for handling multiple post sources (Server-side only)
+ * For client-safe utilities, import from './posts-client'
+ */
+
+import 'server-only';
+import { loadMarkdownPosts, loadMarkdownPostBySlug } from './markdown';
+import { fetchBeehiivPosts, loadArchivedPosts, loadArchivedPostBySlug } from './beehiiv';
+import type { UnifiedPost } from './posts-client';
+import { getUnifiedPostDate, getUnifiedPostSlug } from './posts-client';
+
+// Re-export client-safe utilities and types
+export * from './posts-client';
+
+// ============================================================================
+// Post Source Configuration
+// ============================================================================
+
+export interface PostSourceConfig {
+  markdown: boolean;
+  beehiiv: boolean;
+  archived: boolean;
+}
+
+const DEFAULT_CONFIG: PostSourceConfig = {
+  markdown: true,
+  beehiiv: true,
+  archived: true,
+};
+
+// ============================================================================
+// Post Loading Functions (Server-side only)
+// ============================================================================
+
+/**
+ * Load all posts from all enabled sources
+ */
+export async function loadAllPosts(
+  config: PostSourceConfig = DEFAULT_CONFIG
+): Promise<UnifiedPost[]> {
+  const posts: UnifiedPost[] = [];
+
+  try {
+    // Load markdown posts
+    if (config.markdown) {
+      try {
+        const markdownPosts = await loadMarkdownPosts();
+        posts.push(...markdownPosts);
+      } catch (error) {
+        console.error('Error loading markdown posts:', error);
+      }
+    }
+
+    // Load Beehiiv posts
+    if (config.beehiiv) {
+      try {
+        const beehiivResponse = await fetchBeehiivPosts(1, 100);
+        posts.push(...beehiivResponse.data);
+      } catch (error) {
+        console.error('Error loading Beehiiv posts:', error);
+      }
+    }
+
+    // Load archived posts
+    if (config.archived) {
+      try {
+        const archivedPosts = await loadArchivedPosts();
+        posts.push(...archivedPosts);
+      } catch (error) {
+        console.error('Error loading archived posts:', error);
+      }
+    }
+
+    // Sort all posts by date (newest first)
+    posts.sort((a, b) => {
+      const dateA = getUnifiedPostDate(a);
+      const dateB = getUnifiedPostDate(b);
+      return dateB.getTime() - dateA.getTime();
+    });
+
+    return posts;
+  } catch (error) {
+    console.error('Error loading all posts:', error);
+    return [];
+  }
+}
+
+/**
+ * Load a single post by slug from any source
+ */
+export async function loadPostBySlug(
+  slug: string,
+  config: PostSourceConfig = DEFAULT_CONFIG
+): Promise<UnifiedPost | null> {
+  try {
+    // Try markdown posts first
+    if (config.markdown) {
+      const markdownPost = await loadMarkdownPostBySlug(slug);
+      if (markdownPost) {
+        return markdownPost;
+      }
+    }
+
+    // Try archived posts
+    if (config.archived) {
+      const archivedPost = await loadArchivedPostBySlug(slug);
+      if (archivedPost) {
+        return archivedPost;
+      }
+    }
+
+    // Try Beehiiv posts last (requires fetching all posts)
+    if (config.beehiiv) {
+      const beehiivResponse = await fetchBeehiivPosts(1, 100);
+      const beehiivPost = beehiivResponse.data.find((p) => p.slug === slug);
+      if (beehiivPost) {
+        return beehiivPost;
+      }
+    }
+
+    return null;
+  } catch (error) {
+    console.error(`Error loading post by slug ${slug}:`, error);
+    return null;
+  }
+}
+
+/**
+ * Get all post slugs from all sources (for generateStaticParams)
+ */
+export async function getAllPostSlugs(
+  config: PostSourceConfig = DEFAULT_CONFIG
+): Promise<string[]> {
+  const slugs: string[] = [];
+
+  try {
+    const posts = await loadAllPosts(config);
+    return posts.map((post) => getUnifiedPostSlug(post));
+  } catch (error) {
+    console.error('Error getting all post slugs:', error);
+    return [];
+  }
+}
+
+// All client-safe utilities and types are re-exported from './posts-client' above

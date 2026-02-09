@@ -1,42 +1,28 @@
 import { Suspense } from 'react';
-import { fetchBeehiivPosts, loadArchivedPosts, BeehiivPostsResponse, ArchivedPost } from '@/lib/beehiiv';
+import { loadAllPosts, UnifiedPost } from '@/lib/posts';
 import BlogPosts from './BlogPosts';
-import NewsletterSection from './NewsletterSection';
+import BlogHeader from './BlogHeader';
 
 export const dynamic = 'force-dynamic';
 export const revalidate = 0;
 
 export default async function BlogPage() {
-  // Fetch data with error handling - don't let API errors block the page
-  let beehiivResponse: BeehiivPostsResponse;
-  let archivedPosts: ArchivedPost[];
+  // Load all posts from all sources (markdown, beehiiv, archived)
+  // Sources can be individually disabled by modifying the config in lib/posts.ts
+  let allPosts: UnifiedPost[] = [];
   
   try {
-    beehiivResponse = await fetchBeehiivPosts(1, 6);
+    allPosts = await loadAllPosts();
   } catch (error) {
-    console.error('Failed to fetch Beehiiv posts:', error);
-    beehiivResponse = {
-      data: [],
-      page: 1,
-      limit: 6,
-      total_results: 0,
-      total_pages: 0,
-    };
-  }
-  
-  try {
-    archivedPosts = await loadArchivedPosts();
-  } catch (error) {
-    console.error('Failed to load archived posts:', error);
-    archivedPosts = [];
+    console.error('Failed to load posts:', error);
   }
 
   return (
     <main>
-      {/* Newsletter Section */}
-      <NewsletterSection />
+      {/* Blog Header - Title and Description */}
+      <BlogHeader />
 
-      {/* Blog Posts Section */}
+      {/* Blog Posts Section with embedded Newsletter CTA */}
       <section className="py-12 px-6 bg-neutral-50 dark:bg-neutral-900">
         <div className="container mx-auto max-w-6xl">
           <Suspense
@@ -47,12 +33,7 @@ export default async function BlogPage() {
               </div>
             }
           >
-            <BlogPosts
-              initialPosts={beehiivResponse.data}
-              initialPage={beehiivResponse.page}
-              initialTotalPages={beehiivResponse.total_pages}
-              archivedPosts={archivedPosts}
-            />
+            <BlogPosts allPosts={allPosts} />
           </Suspense>
         </div>
       </section>
