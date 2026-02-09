@@ -6,7 +6,7 @@
 
 import { NextRequest, NextResponse } from 'next/server';
 import { subscribeToBeehiiv } from '@/lib/beehiiv';
-import { subscribeToResend } from '@/lib/newsletter';
+import { subscribeToResend, sendWelcomeEmail } from '@/lib/newsletter';
 
 // Configuration: Enable/disable newsletter services
 const NEWSLETTER_CONFIG = {
@@ -61,6 +61,24 @@ export async function POST(request: NextRequest) {
           success: resendResult.success,
           error: resendResult.error,
         };
+        
+        // Send welcome email (only for new subscribers)
+        if (resendResult.success && resendResult.messageId !== 'already-subscribed') {
+          try {
+            const welcomeResult = await sendWelcomeEmail({
+              email,
+              firstName,
+              source: 'newsletter',
+            });
+            if (welcomeResult.success) {
+              console.log('Welcome email sent:', { email, messageId: welcomeResult.messageId });
+            } else {
+              console.error('Welcome email failed:', welcomeResult.error);
+            }
+          } catch (welcomeError) {
+            console.error('Welcome email error:', welcomeError);
+          }
+        }
       } catch (error) {
         console.error('Resend subscription error:', error);
         results.resend = {

@@ -191,7 +191,7 @@ const tagsSection = {
 const tagBadge = {
   display: 'inline-block',
   backgroundColor: '#e8f5f4',
-  color: '#5da9a4',
+  color: '#a8d8d4',
   fontSize: '12px',
   fontWeight: '600',
   padding: '4px 12px',
@@ -221,7 +221,7 @@ const ctaSection = {
 };
 
 const button = {
-  backgroundColor: '#5da9a4',
+  backgroundColor: '#a8d8d4',
   borderRadius: '8px',
   color: '#ffffff',
   fontSize: '16px',

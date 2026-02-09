@@ -14,7 +14,16 @@ Add to your `.env.local` file:
 # Resend Configuration
 RESEND_API_KEY=re_xxxxxxxxxxxxx
 RESEND_FROM_EMAIL=hello@ragtechdev.com
-RESEND_AUDIENCE_ID=aud_xxxxxxxxxxxxx
+RESEND_GENERAL_SEGMENT_ID=aud_xxxxxxxxxxxxx
+
+# Resend Topic IDs (for newsletter segmentation)
+RESEND_TOPIC_RAGTECH=topic_xxxxxxxxxxxxx
+RESEND_TOPIC_FUTURENET=topic_xxxxxxxxxxxxx
+RESEND_TOPIC_TECHIE_TABOO=topic_xxxxxxxxxxxxx
+
+# Resend Waitlist Segment (optional - for filtering waitlist subscribers)
+# Create a segment in Resend dashboard, then add the ID here
+RESEND_TECHIE_TABOO_SEGMENT_ID=seg_xxxxxxxxxxxxx
 ```
 
 **Get your credentials:**
@@ -22,6 +31,7 @@ RESEND_AUDIENCE_ID=aud_xxxxxxxxxxxxx
 2. Verify your domain (ragtechdev.com)
 3. Generate API key from Settings → API Keys
 4. Create an Audience and copy the Audience ID
+5. (Optional) Create a Segment for waitlist subscribers in Resend Dashboard → Segments
 
 ### 2. Test Email Templates Locally
 
@@ -489,7 +499,7 @@ npm run newsletter:test my-post your.real@email.com
 
 **Check:**
 1. `RESEND_API_KEY` is set in `.env.local`
-2. `RESEND_AUDIENCE_ID` is set
+2. `RESEND_GENERAL_SEGMENT_ID` is set
 3. Domain is verified in Resend dashboard
 4. Post has `newsletter.send: true` in frontmatter
 5. Post status is `published`
@@ -503,7 +513,7 @@ npm run newsletter:test my-post your.real@email.com
 ### Subscribers Not Added
 
 **Check:**
-1. `RESEND_AUDIENCE_ID` is correct
+1. `RESEND_GENERAL_SEGMENT_ID` is correct
 2. Email address is valid
 3. Check Resend dashboard → Audiences → Contacts
 4. Check browser console for API errors
@@ -539,7 +549,7 @@ Add to your production environment (Vercel/Netlify):
 ```bash
 RESEND_API_KEY=re_xxxxxxxxxxxxx
 RESEND_FROM_EMAIL=hello@ragtechdev.com
-RESEND_AUDIENCE_ID=aud_xxxxxxxxxxxxx
+RESEND_GENERAL_SEGMENT_ID=aud_xxxxxxxxxxxxx
 ```
 
 ### 2. Verify Domain
@@ -656,7 +666,7 @@ Don't overwhelm subscribers:
    # Remove from .env.local
    # RESEND_API_KEY
    # RESEND_FROM_EMAIL
-   # RESEND_AUDIENCE_ID
+   # RESEND_GENERAL_SEGMENT_ID
    ```
 
 ---
@@ -693,6 +703,6 @@ Don't overwhelm subscribers:
 
 ### Common Issues
 - **"Resend is not configured"** - Set RESEND_API_KEY
-- **"Audience not found"** - Check RESEND_AUDIENCE_ID
+- **"Audience not found"** - Check RESEND_GENERAL_SEGMENT_ID
 - **"Domain not verified"** - Complete domain verification in Resend
 - **Emails going to spam** - Set up SPF/DKIM/DMARC records

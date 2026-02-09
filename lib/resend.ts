@@ -17,9 +17,10 @@ export const resend = apiKey ? new Resend(apiKey) : null;
 
 // Resend configuration
 export const RESEND_CONFIG = {
-  fromEmail: process.env.RESEND_FROM_EMAIL || 'hello@ragtechdev.com',
+  fromEmail: process.env.RESEND_FROM_EMAIL || 'hello@mail.ragtechdev.com',
   fromName: 'ragTech',
-  audienceId: process.env.RESEND_AUDIENCE_ID,
+  generalSegmentId: process.env.RESEND_GENERAL_SEGMENT_ID,
+  techieTabooSegmentId: process.env.RESEND_TECHIE_TABOO_SEGMENT_ID,
   enabled: !!apiKey,
 };
 
@@ -27,5 +28,5 @@ export const RESEND_CONFIG = {
  * Check if Resend is properly configured
  */
 export function isResendConfigured(): boolean {
-  return RESEND_CONFIG.enabled && !!RESEND_CONFIG.audienceId;
+  return RESEND_CONFIG.enabled && !!RESEND_CONFIG.generalSegmentId;
 }

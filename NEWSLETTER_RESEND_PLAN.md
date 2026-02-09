@@ -53,7 +53,7 @@ Add to `.env.local`:
 # Resend Configuration
 RESEND_API_KEY=re_xxxxxxxxxxxxx
 RESEND_FROM_EMAIL=newsletter@ragtechdev.com
-RESEND_AUDIENCE_ID=aud_xxxxxxxxxxxxx  # Optional: for subscriber management
+RESEND_GENERAL_SEGMENT_ID=aud_xxxxxxxxxxxxx  # Optional: for subscriber management
 ```
 
 **Get credentials:**
@@ -251,7 +251,7 @@ export const resend = new Resend(process.env.RESEND_API_KEY);
 export const RESEND_CONFIG = {
   fromEmail: process.env.RESEND_FROM_EMAIL || 'newsletter@ragtechdev.com',
   fromName: 'ragTech',
-  audienceId: process.env.RESEND_AUDIENCE_ID,
+  audienceId: process.env.RESEND_GENERAL_SEGMENT_ID,
 };
 ```
 

@@ -2,10 +2,12 @@
  * API Route: POST /api/submit-waitlist
  * Handles techie-taboo waitlist form submissions with automated workflows:
  * 1. Submit to Netlify Forms
- * 2. Subscribe to Beehiiv and add "techie taboo waitlisters" tag
+ * 2. Subscribe to Resend audience (with waitlist segment)
+ * 3. Subscribe to Beehiiv and add "techie taboo waitlisters" tag
  */
 
 import { NextRequest, NextResponse } from 'next/server';
+import { subscribeWaitlisterToResend, sendWelcomeEmail } from '@/lib/newsletter';
 
 export async function POST(request: NextRequest) {
   try {
@@ -24,7 +26,7 @@ export async function POST(request: NextRequest) {
     const referrer = request.headers.get('referer') || 'direct';
     const origin = request.headers.get('origin') || request.headers.get('referer')?.split('/').slice(0, 3).join('/') || 'https://ragtechdev.com';
 
-    // Workflow: Submit to Netlify Forms
+    // Workflow 1: Submit to Netlify Forms
     try {
       const netlifyFormData = new URLSearchParams();
       netlifyFormData.append('form-name', 'techie-taboo-waitlist');
@@ -52,7 +54,47 @@ export async function POST(request: NextRequest) {
 
     console.log('Waitlist submission successful:', { name, email });
 
-    // Workflow: Subscribe to Beehiiv and add tag (non-blocking)
+    // Workflow 2: Subscribe to Resend audience (non-blocking)
+    // Note: To filter waitlisters in Resend, create a segment in the dashboard
+    // that filters contacts where waitlist = "techie-taboo"
+    try {
+      // Split name into first and last name
+      const nameParts = name.trim().split(' ');
+      const firstName = nameParts[0];
+      const lastName = nameParts.length > 1 ? nameParts.slice(1).join(' ') : undefined;
+
+      const resendResult = await subscribeWaitlisterToResend({
+        email,
+        firstName,
+        lastName,
+        waitlistType: 'techie-taboo',
+      });
+
+      if (resendResult.success) {
+        console.log('Added to Resend audience:', { email, messageId: resendResult.messageId });
+        
+        // Send welcome email (only if subscription succeeded and not already subscribed)
+        if (resendResult.messageId !== 'already-subscribed') {
+          const welcomeResult = await sendWelcomeEmail({
+            email,
+            firstName,
+            source: 'waitlist',
+          });
+          
+          if (welcomeResult.success) {
+            console.log('Welcome email sent:', { email, messageId: welcomeResult.messageId });
+          } else {
+            console.error('Welcome email failed:', welcomeResult.error);
+          }
+        }
+      } else {
+        console.error('Resend subscription failed:', resendResult.error);
+      }
+    } catch (error) {
+      console.error('Resend workflow error:', error);
+    }
+
+    // Workflow 3: Subscribe to Beehiiv and add tag (non-blocking)
     try {
       const beehiivApiKey = process.env.BEEHIIV_API_KEY;
       const publicationId = process.env.BEEHIIV_PUBLICATION_ID;

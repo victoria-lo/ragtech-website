@@ -7,6 +7,7 @@ import 'server-only';
 import { resend, RESEND_CONFIG, isResendConfigured } from './resend';
 import { render } from '@react-email/components';
 import BlogPostNewsletter from '@/emails/BlogPostNewsletter';
+import WelcomeEmail from '@/emails/WelcomeEmail';
 import { MarkdownPost } from './markdown-types';
 import { loadMarkdownPostBySlug, loadMarkdownPosts } from './markdown';
 import { getTopicIds, type NewsletterTopic } from './newsletter-topics';
@@ -49,7 +50,7 @@ export async function createBlogPostBroadcast(
     if (!isResendConfigured()) {
       return {
         success: false,
-        error: 'Resend audience is not configured. Please set RESEND_AUDIENCE_ID.',
+        error: 'Resend audience is not configured. Please set RESEND_GENERAL_SEGMENT_ID.',
       };
     }
 
@@ -93,7 +94,7 @@ export async function createBlogPostBroadcast(
     );
 
     // Create broadcast draft(s)
-    const audienceId = options?.audienceId || RESEND_CONFIG.audienceId!;
+    const segmentId = options?.audienceId || RESEND_CONFIG.generalSegmentId!;
     
     // Create separate broadcast for each topic (Resend only supports single topicId per broadcast)
     const broadcastIds: string[] = [];
@@ -109,7 +110,7 @@ export async function createBlogPostBroadcast(
         : post.title;
 
       const result = await resend.broadcasts.create({
-        audienceId,
+        audienceId: segmentId,
         name: broadcastName,
         from: `${RESEND_CONFIG.fromName} <${RESEND_CONFIG.fromEmail}>`,
         subject: post.title,
@@ -219,7 +220,7 @@ export async function sendBlogPostNewsletter(
     if (!options?.testEmail && !isResendConfigured()) {
       return {
         success: false,
-        error: 'Resend audience is not configured. Please set RESEND_AUDIENCE_ID.',
+        error: 'Resend audience is not configured. Please set RESEND_GENERAL_SEGMENT_ID.',
       };
     }
 
@@ -391,10 +392,10 @@ export async function subscribeToResend(
       };
     }
 
-    if (!RESEND_CONFIG.audienceId) {
+    if (!RESEND_CONFIG.generalSegmentId) {
       return {
         success: false,
-        error: 'Resend audience ID is not configured',
+        error: 'Resend segment ID is not configured',
       };
     }
 
@@ -402,7 +403,7 @@ export async function subscribeToResend(
       email: subscriber.email,
       firstName: subscriber.firstName,
       lastName: subscriber.lastName,
-      audienceId: RESEND_CONFIG.audienceId,
+      audienceId: RESEND_CONFIG.generalSegmentId,
     });
 
     if (result.error) {
@@ -427,6 +428,198 @@ export async function subscribeToResend(
     };
   } catch (error) {
     console.error('Error subscribing to Resend:', error);
+    return {
+      success: false,
+      error: error instanceof Error ? error.message : 'Unknown error',
+    };
+  }
+}
+
+export interface WaitlistSubscriberInfo extends SubscriberInfo {
+  waitlistType?: string;  // e.g., 'techie-taboo'
+}
+
+/**
+ * Subscribe a waitlister to Resend - adds to both General and Techie Taboo segments
+ */
+export async function subscribeWaitlisterToResend(
+  subscriber: WaitlistSubscriberInfo
+): Promise<NewsletterSendResult> {
+  try {
+    if (!resend) {
+      return {
+        success: false,
+        error: 'Resend is not configured',
+      };
+    }
+
+    if (!RESEND_CONFIG.generalSegmentId) {
+      return {
+        success: false,
+        error: 'Resend general segment ID is not configured',
+      };
+    }
+
+    const results: { segmentId: string; success: boolean; alreadyExists: boolean; error?: string }[] = [];
+
+    // Subscribe to General segment
+    const generalResult = await resend.contacts.create({
+      email: subscriber.email,
+      firstName: subscriber.firstName,
+      lastName: subscriber.lastName,
+      audienceId: RESEND_CONFIG.generalSegmentId,
+      unsubscribed: false,
+    });
+
+    if (generalResult.error) {
+      if (generalResult.error.message?.includes('already exists')) {
+        results.push({ segmentId: 'general', success: true, alreadyExists: true });
+      } else {
+        console.error('Resend general segment error:', generalResult.error);
+        results.push({ segmentId: 'general', success: false, alreadyExists: false, error: generalResult.error.message });
+      }
+    } else {
+      results.push({ segmentId: 'general', success: true, alreadyExists: false });
+    }
+
+    // Subscribe to Techie Taboo segment (if configured)
+    if (RESEND_CONFIG.techieTabooSegmentId) {
+      const techieTabooResult = await resend.contacts.create({
+        email: subscriber.email,
+        firstName: subscriber.firstName,
+        lastName: subscriber.lastName,
+        audienceId: RESEND_CONFIG.techieTabooSegmentId,
+        unsubscribed: false,
+      });
+
+      if (techieTabooResult.error) {
+        if (techieTabooResult.error.message?.includes('already exists')) {
+          results.push({ segmentId: 'techie-taboo', success: true, alreadyExists: true });
+        } else {
+          console.error('Resend techie-taboo segment error:', techieTabooResult.error);
+          results.push({ segmentId: 'techie-taboo', success: false, alreadyExists: false, error: techieTabooResult.error.message });
+        }
+      } else {
+        results.push({ segmentId: 'techie-taboo', success: true, alreadyExists: false });
+      }
+    }
+
+    // Check if at least one subscription succeeded
+    const successCount = results.filter(r => r.success).length;
+    if (successCount === 0) {
+      return {
+        success: false,
+        error: results.map(r => r.error).filter(Boolean).join(', '),
+      };
+    }
+
+    // Check if ALL successful subscriptions were already existing
+    const allAlreadyExisted = results.filter(r => r.success).every(r => r.alreadyExists);
+
+    console.log(`Waitlister ${subscriber.email} added to ${successCount} segment(s)`);
+    return {
+      success: true,
+      messageId: allAlreadyExisted ? 'already-subscribed' : `subscribed-to-${successCount}-segments`,
+    };
+  } catch (error) {
+    console.error('Error subscribing waitlister to Resend:', error);
+    return {
+      success: false,
+      error: error instanceof Error ? error.message : 'Unknown error',
+    };
+  }
+}
+
+/**
+ * Get contact ID by email (for updating existing contacts)
+ */
+async function getContactIdByEmail(email: string): Promise<string | null> {
+  if (!resend || !RESEND_CONFIG.generalSegmentId) return null;
+  
+  try {
+    const result = await resend.contacts.list({
+      audienceId: RESEND_CONFIG.generalSegmentId,
+    });
+    
+    if (result.data?.data) {
+      const contact = result.data.data.find((c: any) => c.email === email);
+      return contact?.id || null;
+    }
+    return null;
+  } catch (error) {
+    console.error('Error getting contact by email:', error);
+    return null;
+  }
+}
+
+/**
+ * Update contact with waitlist data (placeholder for future segment support)
+ */
+async function updateContactWaitlistData(contactId: string, waitlistType?: string): Promise<void> {
+  // Note: Resend segments are filter-based and created in the dashboard
+  // This function is a placeholder for when Resend adds direct segment assignment via API
+  // For now, you can create a segment in Resend dashboard that filters by custom data
+  console.log(`Contact ${contactId} added to waitlist: ${waitlistType || 'general'}`);
+}
+
+// ============================================================================
+// Welcome Emails
+// ============================================================================
+
+export interface WelcomeEmailOptions {
+  email: string;
+  firstName?: string;
+  source: 'newsletter' | 'waitlist' | 'general';
+}
+
+/**
+ * Send a welcome email to a new subscriber
+ */
+export async function sendWelcomeEmail(
+  options: WelcomeEmailOptions
+): Promise<NewsletterSendResult> {
+  try {
+    if (!resend) {
+      return {
+        success: false,
+        error: 'Resend is not configured',
+      };
+    }
+
+    const emailHtml = await render(
+      WelcomeEmail({
+        firstName: options.firstName,
+        source: options.source,
+      })
+    );
+
+    const result = await resend.emails.send({
+      from: `${RESEND_CONFIG.fromName} <${RESEND_CONFIG.fromEmail}>`,
+      to: options.email,
+      subject: options.source === 'waitlist' 
+        ? 'Welcome to the Techie Taboo Waitlist! 🎉'
+        : 'Welcome to ragTech! 🎉',
+      html: emailHtml,
+      headers: {
+        'List-Unsubscribe': `<${process.env.NEXT_PUBLIC_BASE_URL || 'https://ragtechdev.com'}/api/newsletter/unsubscribe?email=${encodeURIComponent(options.email)}>`,
+      },
+    });
+
+    if (result.error) {
+      console.error('Welcome email send error:', result.error);
+      return {
+        success: false,
+        error: result.error.message,
+      };
+    }
+
+    console.log(`Welcome email sent to ${options.email}`);
+    return {
+      success: true,
+      messageId: result.data?.id,
+    };
+  } catch (error) {
+    console.error('Error sending welcome email:', error);
     return {
       success: false,
       error: error instanceof Error ? error.message : 'Unknown error',

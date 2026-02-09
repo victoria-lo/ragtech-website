@@ -16,7 +16,7 @@ The newsletter system uses **Resend Topics** to manage subscription preferences.
 
 ### How It Works
 
-- **All broadcasts go to General segment** (configured in `RESEND_AUDIENCE_ID`)
+- **All broadcasts go to General segment** (configured in `RESEND_GENERAL_SEGMENT_ID`)
 - **Topics control who receives the email** within that segment
 - Subscribers can manage their topic preferences via unsubscribe page
 - Each post **must specify at least one topic** (compulsory field)
@@ -31,7 +31,7 @@ Add to your `.env.local`:
 
 ```bash
 # General segment (all subscribers)
-RESEND_AUDIENCE_ID=aud_xxxxxxxxxxxxx
+RESEND_GENERAL_SEGMENT_ID=aud_xxxxxxxxxxxxx
 
 # Topic IDs (for subscription preferences)
 RESEND_TOPIC_RAGTECH=topic_xxxxxxxxxxxxx
