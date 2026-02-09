@@ -5,6 +5,7 @@ export type SubscriptionSource = 'newsletter' | 'waitlist' | 'general';
 
 interface SubscriptionFooterProps {
   source?: SubscriptionSource;
+  isBroadcast?: boolean;
 }
 
 /**
@@ -12,14 +13,14 @@ interface SubscriptionFooterProps {
  * and providing unsubscribe options.
  * 
  * Unsubscribe is handled two ways:
- * 1. List-Unsubscribe header (set when sending) - email clients show unsubscribe button
- * 2. Visible link in footer - directs to our unsubscribe page
+ * 1. For broadcasts: Uses Resend's {{{unsubscribe_url}}} placeholder
+ * 2. For transactional emails: Uses our custom unsubscribe page + List-Unsubscribe header
  * 
  * See: https://resend.com/docs/dashboard/emails/add-unsubscribe-to-transactional-emails
  */
-export default function SubscriptionFooter({ source = 'general' }: SubscriptionFooterProps) {
-  const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'https://ragtechdev.com';
-  const unsubscribeUrl = `${baseUrl}/unsubscribe`;
+export default function SubscriptionFooter({ source = 'general', isBroadcast = false }: SubscriptionFooterProps) {
+  // For broadcasts, use Resend's placeholder. For transactional, use our unsubscribe page.
+  const unsubscribeUrl = isBroadcast ? '{{{RESEND_UNSUBSCRIBE_URL}}}' : 'https://ragtechdev.com/unsubscribe';
   const getSubscriptionMessage = () => {
     switch (source) {
       case 'waitlist':

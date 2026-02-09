@@ -14,9 +14,10 @@ interface EmailLayoutProps {
   children: React.ReactNode;
   previewText: string;
   subscriptionSource?: SubscriptionSource;
+  isBroadcast?: boolean;
 }
 
-export default function EmailLayout({ children, previewText, subscriptionSource = 'newsletter' }: EmailLayoutProps) {
+export default function EmailLayout({ children, previewText, subscriptionSource = 'newsletter', isBroadcast = false }: EmailLayoutProps) {
   return (
     <Html>
       <Head />
@@ -39,7 +40,7 @@ export default function EmailLayout({ children, previewText, subscriptionSource 
           </Section>
 
           {/* Footer with unsubscribe */}
-          <SubscriptionFooter source={subscriptionSource} />
+          <SubscriptionFooter source={subscriptionSource} isBroadcast={isBroadcast} />
         </Container>
       </Body>
     </Html>

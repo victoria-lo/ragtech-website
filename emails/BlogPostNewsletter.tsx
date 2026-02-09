@@ -33,7 +33,7 @@ export default function BlogPostNewsletter({
   const postUrl = `https://ragtechdev.com/blog/${slug}`;
 
   return (
-    <EmailLayout previewText={brief}>
+    <EmailLayout previewText={brief} isBroadcast={true}>
       {/* Subscription Info */}
       <Text style={subscriptionInfo}>
         You&apos;re receiving this email because you subscribed through FutureNet (digital parenting quiz), 

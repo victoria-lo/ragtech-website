@@ -15,7 +15,7 @@ readTimeInMinutes: 10
 status: "published"
 newsletter:
   send: true
-  sent: false
+  sent: true
   topic:
     - "ragTech"
 seo:
