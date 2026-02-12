@@ -1,0 +1,1045 @@
+00:00 sockets so web sockets are actually
+00:04 
+
+00:04 bidirectional it's a bidirectional
+00:07 
+
+00:07 communication that's opened up between
+00:09 
+
+00:09 the two of them it can keep checking oh
+00:11 
+
+00:11 are you online are you online oh yes
+00:13 
+
+00:13 you're online then here's a message for
+00:15 
+
+00:15 you and many people subscribe to this
+00:18 
+
+00:18 newspaper and once there is 9:00 a.m.
+00:21 
+
+00:21 every day there's a new newspaper coming
+00:23 
+
+00:23 out those subscribers will receive the
+00:26 
+
+00:26 newsletter what if there's an earthquake
+00:28 
+
+00:28 in this region where this server is
+00:30 
+
+00:30 right WhatsApp goes down so we wouldn't
+00:32 
+
+00:32 want that
+00:34 
+
+00:34 [Music]
+00:37 
+
+00:37 so hi welcome to rec Tech where we
+00:39 
+
+00:39 engage in bis and ventor my name is
+00:41 
+
+00:41 Victoria I'm a Solutions engineer I'm
+00:43 
+
+00:43 Salone software developer and today
+00:45 
+
+00:45 we're going to be talking about system
+00:47 
+
+00:47 design yeah so I think this is something
+00:50 
+
+00:50 new that we're going to do so I I just
+00:52 
+
+00:52 thought that it'd be fun to talk about
+00:55 
+
+00:55 how I Envision a chatting application is
+00:58 
+
+00:58 created something like WhatsApp so
+01:00 
+
+01:00 WhatsApp actually has like 60 billion
+01:03 
+
+01:03 messages going across every single day
+01:06 
+
+01:06 so I just wanted to know how they would
+01:07 
+
+01:07 build such a grand system you think it's
+01:10 
+
+01:10 a easy system actually you'll see later
+01:12 
+
+01:12 it'll actually get a bit more
+01:14 
+
+01:14 complicated and you can actually
+01:16 
+
+01:16 appreciate messaging someone even more
+01:18 
+
+01:18 what happens is when user a which is for
+01:22 
+
+01:22 example me I want to send a message to
+01:24 
+
+01:24 Victoria user
+01:27 
+
+01:27 B right I don't actually directly
+01:30 
+
+01:30 communicate with your device like my
+01:31 
+
+01:31 phone doesn't communicate with your
+01:33 
+
+01:33 phone it actually communicates with a
+01:36 
+
+01:36 chat server that is created by companies
+01:39 
+
+01:39 like WhatsApp and I would send a message
+01:42 
+
+01:42 and then it would relay the message to
+01:44 
+
+01:44 you but as you know like Network
+01:47 
+
+01:47 Protocols are actually usually one-sided
+01:49 
+
+01:49 like someone has to initiate so that
+01:51 
+
+01:51 could be HTTP connection and uh how does
+01:56 
+
+01:56 the server send to the client is via web
+01:59 
+
+01:59 socket
+02:01 
+
+02:01 so web sockets are actually
+02:03 
+
+02:03 bidirectional it's a bidirectional
+02:06 
+
+02:06 communication that's opened up between
+02:08 
+
+02:08 the two of them so server can initiate
+02:12 
+
+02:12 and client can initiate and are web
+02:14 
+
+02:14 sockets expensive that's they are like
+02:18 
+
+02:18 an upgraded mode of HTTP connection
+02:22 
+
+02:22 expensive might be a very subjective yes
+02:24 
+
+02:24 maybe more resource will be used I mean
+02:26 
+
+02:26 if you theor theoretically if you think
+02:28 
+
+02:28 about it yes it's like a open connection
+02:31 
+
+02:31 between two
+02:33 
+
+02:33 points and uh stay they have to stay
+02:37 
+
+02:37 open and it will become an expensive one
+02:40 
+
+02:40 where you know that a is not going to be
+02:42 
+
+02:42 communicating with B for a long time for
+02:45 
+
+02:45 example email notifications for example
+02:48 
+
+02:48 you only send emails like once a day
+02:50 
+
+02:50 maybe so if you know that it's just once
+02:53 
+
+02:53 or twice a day you don't need to open a
+02:54 
+
+02:54 web socket connection between the two
+02:56 
+
+02:56 it's okay if that's a HTTP call and only
+03:00 
+
+03:00 when this thing is online the the server
+03:03 
+
+03:03 can just keep checking or something you
+03:05 
+
+03:05 know there's also this thing called
+03:06 
+
+03:06 polling actually yes it can keep
+03:09 
+
+03:09 checking oh are you online are you
+03:10 
+
+03:10 online oh yes you're online then here's
+03:13 
+
+03:13 a message for you yeah and then with
+03:15 
+
+03:15 polling how do you determine the
+03:16 
+
+03:16 interval of checking so all these things
+03:19 
+
+03:19 are configurable uh depending on what
+03:21 
+
+03:21 tech what library or what connection
+03:23 
+
+03:23 you're using you can always configure it
+03:26 
+
+03:26 usually uh polling is a bit shorter I
+03:28 
+
+03:28 would say maybe like 5 Seconds web
+03:30 
+
+03:30 sockets even this has it's actually like
+03:33 
+
+03:33 a really long polling basically you can
+03:35 
+
+03:35 open it for one hour and every hour
+03:38 
+
+03:38 it'll just refresh a new connection but
+03:41 
+
+03:41 as a user we wouldn't know about it
+03:43 
+
+03:43 we'll be see it will it'll be seamless
+03:45 
+
+03:45 for us so yeah that's websockets that's
+03:49 
+
+03:49 very popularly used in chatting systems
+03:52 
+
+03:52 there's also another one that someone
+03:54 
+
+03:54 else thought about was publisher
+03:57 
+
+03:57 subscriber pops up pops up yes so pops
+03:60 
+
+03:60 so I wouldn't I don't really see how
+04:03 
+
+04:03 it's used in chat messaging in like one
+04:05 
+
+04:05 toone chat messaging but maybe that
+04:08 
+
+04:08 could be used in uh I'll just write down
+04:10 
+
+04:10 what we're talking about explain pops up
+04:12 
+
+04:12 first yeah pops up so it's basically
+04:15 
+
+04:15 like uh newspaper subscription right so
+04:18 
+
+04:18 we have the newspaper company and many
+04:20 
+
+04:20 people subscribe to this
+04:22 
+
+04:22 newspaper and once there is 9:00 a.m.
+04:26 
+
+04:26 every day there's a new newspaper coming
+04:27 
+
+04:27 out those subscribers will receive leave
+04:30 
+
+04:30 the newsletter so this is the publisher
+04:33 
+
+04:33 and these people here are the
+04:36 
+
+04:36 subscribers so this is the pops up and
+04:39 
+
+04:39 you can actually also use this in a
+04:40 
+
+04:40 chatting system where it is one way
+04:44 
+
+04:44 where all these are followers of this
+04:46 
+
+04:46 very influential person and you're just
+04:48 
+
+04:48 subscribing to it and he sends out
+04:51 
+
+04:51 content articles every now and then and
+04:53 
+
+04:53 then all of you all of the followers
+04:55 
+
+04:55 receive it but not really in one to one
+04:58 
+
+04:58 at least in my understanding
+05:00 
+
+05:00 so now let's dive more deeper into this
+05:03 
+
+05:03 right uh user a will not only talk to
+05:06 
+
+05:06 One server one chat server because one
+05:09 
+
+05:09 CH One servers are single point of
+05:12 
+
+05:12 failures what if there's a earthquake in
+05:15 
+
+05:15 this region where this server is
+05:17 
+
+05:17 WhatsApp goes down so we wouldn't want
+05:19 
+
+05:19 that so there actually many uh chat
+05:22 
+
+05:22 servers all around the world so if uh I
+05:25 
+
+05:25 am in
+05:26 
+
+05:26 Singapore and you are in the US you
+05:30 
+
+05:30 might actually connect to chat server 5
+05:34 
+
+05:34 and I'm connecting to chat server 2 and
+05:37 
+
+05:37 the our two chat servers are actually
+05:40 
+
+05:40 the let me explain again so these are
+05:44 
+
+05:44 all chat servers when I send a message
+05:46 
+
+05:46 hi to Victoria it goes to my chat server
+05:49 
+
+05:49 my chat server will actually then push
+05:52 
+
+05:52 it to a q for Victoria and it maybe if
+05:56 
+
+05:56 there already a few messages by other
+05:58 
+
+05:58 people mine would be the last so that's
+06:01 
+
+06:01 a QE for you you just go into the last
+06:04 
+
+06:04 so Q is basically a data structure yes
+06:08 
+
+06:08 in our intch where basically it's first
+06:11 
+
+06:11 in first
+06:12 
+
+06:12 out Starbucks que yeah if you send a
+06:15 
+
+06:15 message earlier than me my message would
+06:17 
+
+06:17 be the last basically so every user has
+06:21 
+
+06:21 a queue and that's how you ensure that
+06:23 
+
+06:23 you receive messages in time and in that
+06:27 
+
+06:27 order as well then how do you know like
+06:30 
+
+06:30 let's say user a um is connected to
+06:33 
+
+06:33 server two how does server two knows
+06:35 
+
+06:35 that it has to connect to server 5 in
+06:37 
+
+06:37 order to send user B the message yes uh
+06:40 
+
+06:40 that is actually so server two will once
+06:43 
+
+06:43 user a sends to server two and then uh
+06:46 
+
+06:46 there is a
+06:48 
+
+06:48 database within the WhatsApp system
+06:51 
+
+06:51 where it has actually has a map of like
+06:54 
+
+06:54 two is for a server five is for B server
+06:58 
+
+06:58 six is for c d
+07:00 
+
+07:00 and you know there'll be other e and Fs
+07:03 
+
+07:03 are also here many users for one server
+07:05 
+
+07:05 so it will actually check oh is Ser five
+07:08 
+
+07:08 okay then put it in the queue which is
+07:10 
+
+07:10 also in server five and then server five
+07:12 
+
+07:12 makes a decision to like it can it can
+07:14 
+
+07:14 be the one to put in the queue or it can
+07:16 
+
+07:16 be the one to if it's if it already has
+07:18 
+
+07:18 a web socket Connection open immediately
+07:21 
+
+07:21 send it out things like that can happen
+07:25 
+
+07:25 and there is a concept we call for this
+07:28 
+
+07:28 do you know is that service discover yes
+07:30 
+
+07:30 service Discovery it's actually very uh
+07:33 
+
+07:33 at least in our our industry is a very
+07:37 
+
+07:37 common term that's used but also
+07:39 
+
+07:39 something not many people are aware of
+07:42 
+
+07:42 so this is an example of service
+07:44 
+
+07:44 Discovery where it was Finding which
+07:47 
+
+07:47 server to go to to do the appropriate
+07:50 
+
+07:50 action so that's very simply put service
+07:53 
+
+07:53 Discovery so U now that we're talking
+07:55 
+
+07:55 about like you know one to one user can
+07:58 
+
+07:58 I ask like how does it work for group
+07:60 
+
+07:60 chats oh group chats okay yes so group
+08:03 
+
+08:03 chats are basically almost like a oneto
+08:06 
+
+08:06 one but uh when I'm sending out a
+08:08 
+
+08:08 message it's received by multiple people
+08:11 
+
+08:11 right so I would say it's very similar
+08:15 
+
+08:15 but when a user sends to I this user
+08:19 
+
+08:19 will always talk to their own server
+08:20 
+
+08:20 because it's designated it has all the
+08:22 
+
+08:22 properties that it requires uh it will
+08:25 
+
+08:25 actually check who's in the group so if
+08:27 
+
+08:27 user B is in the group user C and D Al
+08:30 
+
+08:30 in the group it will appropriately
+08:32 
+
+08:32 accordingly find which server to con
+08:34 
+
+08:34 connect to put it in their backlog and
+08:37 
+
+08:37 then it's that server responsibility to
+08:39 
+
+08:39 send it out to their correct user so
+08:42 
+
+08:42 similar but just that extra step of
+08:44 
+
+08:44 who's in the group and then do it
+08:46 
+
+08:46 accordingly I see basically they need to
+08:48 
+
+08:48 process a separate data for the group
+08:51 
+
+08:51 yeah there probably another database for
+08:55 
+
+08:55 groups correct and uh you don't like how
+08:60 
+
+08:60 else this Q is helpful how else this Q
+09:04 
+
+09:04 like uh basically until user B comes
+09:07 
+
+09:07 online there's a queue that holds all
+09:10 
+
+09:10 your backlog of messages that should be
+09:12 
+
+09:12 reached to you but uh oh actually I said
+09:15 
+
+09:15 it basically you have to wait for it for
+09:17 
+
+09:17 the user to come online until then it
+09:20 
+
+09:20 actually saves all these messages and
+09:22 
+
+09:22 also we have to make sure it's safe in
+09:23 
+
+09:23 the database correct yes there's also
+09:26 
+
+09:26 backup of this in whatsapp's database
+09:29 
+
+09:29 system
+09:30 
+
+09:30 yeah yeah okay exactly because one
+09:34 
+
+09:34 server can go down and probably this Q
+09:36 
+
+09:36 is in the server yeah so when that
+09:39 
+
+09:39 happens there's a backup and then we
+09:41 
+
+09:41 also talk about how you know WhatsApp
+09:43 
+
+09:43 like chat messaging apps like very big
+09:45 
+
+09:45 it handles like 60 billion messages a
+09:47 
+
+09:47 day so can you explain maybe about the
+09:50 
+
+09:50 load balanc or oh yeah how does an app
+09:53 
+
+09:53 like this handle millions and billions
+09:55 
+
+09:55 of requests messaging a day yeah
+09:59 
+
+09:59 actually this one just like one portion
+10:01 
+
+10:01 of the system that we talked about if
+10:04 
+
+10:04 you look at a grander scheme of of
+10:06 
+
+10:06 things so user a will still be there and
+10:09 
+
+10:09 then there will be user B the first
+10:11 
+
+10:11 thing that you do when you go to
+10:12 
+
+10:12 Whatsapp is actually authenticate and
+10:14 
+
+10:14 you can even do like user settings
+10:17 
+
+10:17 switch off your notifications things
+10:19 
+
+10:19 like that so there are different things
+10:21 
+
+10:21 you can do and the first place that you
+10:24 
+
+10:24 actually go into is something called the
+10:26 
+
+10:26 load balancer so a load balancer will be
+10:29 
+
+10:29 be the one that will route to the
+10:32 
+
+10:32 specific service so like
+10:34 
+
+10:34 authentication then maybe groups maybe
+10:39 
+
+10:39 the profile page so route accordingly or
+10:43 
+
+10:43 the services service Discovery it it is
+10:46 
+
+10:46 a component by itself because it has the
+10:48 
+
+10:48 logic to discover your service so uh
+10:52 
+
+10:52 you're saying that when there are mult
+10:54 
+
+10:54 when there are billions of messages
+10:55 
+
+10:55 coming in therefore you need load
+10:57 
+
+10:57 balancer to appropriately handle things
+10:59 
+
+10:59 and there will be multiple load
+11:01 
+
+11:01 balancers as well because no single
+11:03 
+
+11:03 point of failure and then it does these
+11:05 
+
+11:05 things and then service Discovery is the
+11:06 
+
+11:06 one where it gives you the different
+11:09 
+
+11:09 chat server and then it will talk web
+11:11 
+
+11:11 socket connection to users maybe in this
+11:14 
+
+11:14 context you can explain which ones are
+11:16 
+
+11:16 stateful and which one are stateless yes
+11:19 
+
+11:19 stateful and stateless oh okay so uh
+11:24 
+
+11:24 state for stor is actually a very common
+11:27 
+
+11:27 uh concept that we talk about in
+11:30 
+
+11:30 engineering thems and that is basically
+11:34 
+
+11:34 this part here it would be something we
+11:36 
+
+11:36 call Stat less and what this means is
+11:39 
+
+11:39 that it doesn't have to have any history
+11:42 
+
+11:42 of where did user a go to authenticate
+11:46 
+
+11:46 before or like uh which service to go
+11:49 
+
+11:49 for groups in the past it is always a
+11:52 
+
+11:52 new request coming in it will go
+11:54 
+
+11:54 accordingly depending on the trigger
+11:57 
+
+11:57 point like if it clicks the settings it
+11:59 
+
+11:59 will go to profile we click on groups it
+12:00 
+
+12:00 will go to groups server but on the
+12:03 
+
+12:03 other hand the service Discovery portion
+12:06 
+
+12:06 is something we call stateful stateful
+12:10 
+
+12:10 means it has to remember previously user
+12:14 
+
+12:14 a was on chat server one previously user
+12:17 
+
+12:17 be on chat server five so give it the
+12:19 
+
+12:19 same server so it has to know some
+12:22 
+
+12:22 things from the past so we call that
+12:24 
+
+12:24 stateful okay so let's say if user B is
+12:27 
+
+12:27 in Canada user a is in Singapore so user
+12:30 
+
+12:30 B was initially connected to like server
+12:32 
+
+12:32 5 and then it moved to Singapore so then
+12:36 
+
+12:36 it would probably have to you know
+12:38 
+
+12:38 update the the database which holds the
+12:41 
+
+12:41 mapping accordingly it'll probably have
+12:43 
+
+12:43 some health checks like wait I'm not
+12:45 
+
+12:45 able to connect to you so I'll just
+12:47 
+
+12:47 delete it after some time and I mean I'm
+12:50 
+
+12:50 talking about the service Discovery
+12:51 
+
+12:51 component it'll just delete it and then
+12:53 
+
+12:53 when you come back online in Singapore
+12:55 
+
+12:55 it will try to connect V load balancer
+12:57 
+
+12:57 VI service Discovery it will reset a new
+13:00 
+
+13:00 Ser assign a new server to you but all
+13:02 
+
+13:02 your messages everything are in the
+13:04 
+
+13:04 Universal database so no worries about
+13:07 
+
+13:07 that it will just re understand all your
+13:09 
+
+13:09 settings and everything relearn it so
+13:13 
+
+13:13 this was just like one of the way we can
+13:14 
+
+13:14 do uh system design of WhatsApp there
+13:18 
+
+13:18 are many different ways uh actually in
+13:20 
+
+13:20 engineering thems we actually have this
+13:22 
+
+13:22 kind of discussions very often like what
+13:25 
+
+13:25 solution to make for a certain
+13:26 
+
+13:26 engineering problem so how do we decide
+13:29 
+
+13:29 like which one to go for like public
+13:31 
+
+13:31 publisher subscriber or web sockets or
+13:35 
+
+13:35 just HTTP connection things like that
+13:38 
+
+13:38 yeah what would be the most common
+13:39 
+
+13:39 factor CA right so there are a lot of
+13:43 
+
+13:43 causes like product manager will have
+13:46 
+
+13:46 their own requirements right there'll be
+13:48 
+
+13:48 non-functional requirements there'll be
+13:50 
+
+13:50 functional
+13:51 
+
+13:51 requirements uh we have to like
+13:53 
+
+13:53 prioritize those and then also I think
+13:55 
+
+13:55 at the end end of it it comes down to
+13:58 
+
+13:58 cost m is involved basically how much
+14:01 
+
+14:01 money do you have to put into this
+14:02 
+
+14:02 system yeah cuz all these servers cost
+14:06 
+
+14:06 money databases cost money and if you're
+14:08 
+
+14:08 going to have a 60 billion messages a
+14:10 
+
+14:10 day you need to have a really huge
+14:12 
+
+14:12 storage layer yeah and websocket
+14:15 
+
+14:15 connections like maybe if you're not
+14:17 
+
+14:17 using the correct tool to open up a web
+14:20 
+
+14:20 socket then you're actually making a bad
+14:23 
+
+14:23 system basically even though it's the
+14:25 
+
+14:25 right solution bad choices in the tool
+14:29 
+
+14:29 so many different factors and also
+14:31 
+
+14:31 number of engineers in the
+14:33 
+
+14:33 team and uh and the skill level of the
+14:37 
+
+14:37 engineers so many things to think about
+14:40 
+
+14:40 and yeah so that would be the end of our
+14:43 
+
+14:43 chat system design and hope you found
+14:46 
+
+14:46 this useful and if you have any other
+14:49 
+
+14:49 system that you would like us to talk
+14:51 
+
+14:51 about do let us know in the comment
+14:53 
+
+14:53 section below and subscribe follow us
+14:56 
+
+14:56 for more and thank you see you bye-bye
+14:59 
+
+14:59 bye
+15:00 
+
+15:00 [Music]

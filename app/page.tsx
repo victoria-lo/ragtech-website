@@ -50,7 +50,7 @@ export default function Home() {
             <div className="relative group">
               <div className="relative">
                 <Image
-                  src="/assets/profilePics/natasha.PNG"
+                  src="/assets/team/natasha.PNG"
                   alt="Natasha"
                   width={200}
                   height={200}
@@ -59,7 +59,7 @@ export default function Home() {
                 {/* Capybara Mascot */}
                 <div className="absolute -bottom-2 -right-2 w-12 h-16 md:w-14 md:h-20">
                   <Image
-                    src="/assets/mic.png"
+                    src="/assets/techybara/techybara-holding-mic.png"
                     alt="Mic Capybara"
                     width={280}
                     height={400}
@@ -81,7 +81,7 @@ export default function Home() {
             <div className="relative group">
               <div className="relative">
                 <Image
-                  src="/assets/profilePics/saloni.PNG"
+                  src="/assets/team/saloni.PNG"
                   alt="Saloni"
                   width={250}
                   height={250}
@@ -90,7 +90,7 @@ export default function Home() {
                 {/* Capybara Mascot */}
                 <div className="absolute -bottom-2 -right-2 w-12 h-16 md:w-14 md:h-20">
                   <Image
-                    src="/assets/laptop.png"
+                    src="/assets/techybara/techybara-holding-laptop.png"
                     alt="Laptop Capybara"
                     width={280}
                     height={400}
@@ -112,7 +112,7 @@ export default function Home() {
             <div className="relative group">
               <div className="relative">
                 <Image
-                  src="/assets/profilePics/victoria.PNG"
+                  src="/assets/team/victoria.PNG"
                   alt="Victoria"
                   width={250}
                   height={250}
@@ -121,7 +121,7 @@ export default function Home() {
                 {/* Capybara Mascot */}
                 <div className="absolute -bottom-2 -right-2 w-12 h-12 md:w-14 md:h-14">
                   <Image
-                    src="/assets/futurenet.png"
+                    src="/assets/techybara/techybara-with-two-children.png"
                     alt="Futurenet Capybara"
                     width={56}
                     height={56}
@@ -228,7 +228,7 @@ export default function Home() {
                   description="Real conversations with people in tech about real life in tech—work, trade-offs, constraints, and consequences. Join our casual chats as we build shared understanding and reduce intimidation around tech!"
                   link="https://www.youtube.com/@ragTechDev"
                   linkText="Watch on YouTube"
-                  image="/assets/subscribe.png"
+                  image="/assets/techybara/techybara-holding-follow-card-saying-subscribe.png"
                 />
               </div>
               <div className="flex-shrink-0 w-full md:w-[calc(50%-1rem)] lg:w-[calc(33.333%-1.33rem)] snap-start h-full">
@@ -237,7 +237,7 @@ export default function Home() {
                   description="A card game inspired by Taboo for techies and non-techies, using technical concepts to encourage explanation and discussion. Come make tech concepts approachable and fun for non-experts, classrooms, and workplaces with us!"
                   link="/techie-taboo"
                   linkText="Join Waitlist"
-                  image="/assets/games.png"
+                  image="/assets/techybara/techybaras-playing-card-game.png"
                 />
               </div>
               <div className="flex-shrink-0 w-full md:w-[calc(50%-1rem)] lg:w-[calc(33.333%-1.33rem)] snap-start h-full">
@@ -246,7 +246,7 @@ export default function Home() {
                   description="Human-centred research into the digital landscape for children and adolescents, with a focus on cyber safety and online harm. We aim to produce grounded insights that inform parents, educators, and future interventions!"
                   link="https://futurenet.ragtechdev.com/"
                   linkText="Learn More"
-                  image="/assets/futurenet.png"
+                  image="/assets/techybara/techybara-with-two-children.png"
                 />
               </div>
               <div className="flex-shrink-0 w-full md:w-[calc(50%-1rem)] lg:w-[calc(33.333%-1.33rem)] snap-start h-full">
@@ -255,7 +255,7 @@ export default function Home() {
                   description="Interactive workshops designed to help engineers communicate more effectively and empower non-technical folks to understand technology better. Let us help bridge the gap between tech and non-tech!"
                   link="/contact"
                   linkText="Get in Touch"
-                  image="/assets/teacher.png"
+                  image="/assets/techybara/techybara-teacher.png"
                 />
               </div>
               <div className="flex-shrink-0 w-full md:w-[calc(50%-1rem)] lg:w-[calc(33.333%-1.33rem)] snap-start h-full">
@@ -264,7 +264,7 @@ export default function Home() {
                   description="We&apos;re working on an illustrated, non-technical book explaining how certain technologies work and their implications on society... Stay tuned!"
                   link="/contact"
                   linkText="Coming Soon"
-                  image="/assets/teacher.png"
+                  image="/assets/techybara/techybara-teacher.png"
                 />
               </div>
             </div>
@@ -336,7 +336,7 @@ export default function Home() {
           >
             <div className="mb-8 flex justify-center">
               <Image 
-                src="/assets/sparkle.png" 
+                src="/assets/techybara/techybara-sparkle-eyes.png" 
                 alt="Sparkle" 
                 width={160} 
                 height={160}

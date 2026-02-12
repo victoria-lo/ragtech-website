@@ -1,0 +1,2560 @@
+00:00 the place
+00:01 
+
+00:01 for the last time I said the place where
+00:04 
+
+00:04 B no biting
+00:07 
+
+00:07 [Music]
+00:10 
+
+00:10 here welcome to R Tech the place for
+00:13 
+
+00:13 bites and banter I'm Salon a software
+00:16 
+
+00:16 engineer I'm Victoria Solutions engineer
+00:20 
+
+00:20 and today our guest speaker we have
+00:22 
+
+00:22 human she's a staff software engineer
+00:25 
+
+00:25 and today's topic is actually about
+00:27 
+
+00:27 human's career Journey as a software
+00:29 
+
+00:29 engineer uh so let's start off with like
+00:31 
+
+00:31 staff software engineer we have heard
+00:33 
+
+00:33 about software engineer senior software
+00:35 
+
+00:35 engineer what is Staff software engineer
+00:37 
+
+00:37 you mean yeah sometimes I ask myself the
+00:39 
+
+00:39 same question but I do think about my
+00:42 
+
+00:42 time as a software engineer then
+00:45 
+
+00:45 becoming a senior software engineer then
+00:47 
+
+00:47 a staff software engineer and I think as
+00:49 
+
+00:49 a software engineer senior software
+00:50 
+
+00:50 engineer a lot of it is about your
+00:52 
+
+00:52 individual contributions so even in the
+00:55 
+
+00:55 industry they term it as individual
+00:56 
+
+00:56 contributors so you might hear you know
+00:58 
+
+00:58 staff IC senior IC versus an engineering
+01:02 
+
+01:02 manager which is like staff em or senior
+01:04 
+
+01:04 em um the difference that I saw from
+01:06 
+
+01:06 senior to staff is more about the value
+01:10 
+
+01:10 multiplier portion how are you a value
+01:13 
+
+01:13 multiplier not just for your team but
+01:15 
+
+01:15 outside of your team in your
+01:17 
+
+01:17 organization in the engineering
+01:19 
+
+01:19 department or you know beyond it's more
+01:21 
+
+01:21 about cross team collaboration uh cross
+01:24 
+
+01:24 function collaboration and ensuring that
+01:27 
+
+01:27 the projects that you're working on the
+01:28 
+
+01:28 products that you're building is more
+01:30 
+
+01:30 more well-rounded so you're not thinking
+01:32 
+
+01:32 so much about you know okay let me just
+01:34 
+
+01:34 make sure that I get this piece um
+01:36 
+
+01:36 shipped this feature shipped it's about
+01:38 
+
+01:38 unblocking folks what parts of our
+01:41 
+
+01:41 processes can we make easier and more
+01:44 
+
+01:44 streamlined such that your team members
+01:47 
+
+01:47 or folks outside your team can do their
+01:49 
+
+01:49 jobs better um it could also be more
+01:52 
+
+01:52 focused on availability scalability
+01:55 
+
+01:55 extensibility everything about you know
+01:56 
+
+01:56 the engineering aspects and making sure
+01:58 
+
+01:58 that it's built in a way that's stable
+02:02 
+
+02:02 um especially when you are working for a
+02:04 
+
+02:04 company that's servicing hundreds of
+02:06 
+
+02:06 millions of uh users that becomes very
+02:09 
+
+02:09 important you have this promise to them
+02:11 
+
+02:11 that you have availability being
+02:14 
+
+02:14 99.999% the 59 as they talk about yeah
+02:17 
+
+02:17 so your your job is now more expanded in
+02:21 
+
+02:21 impact and scope wow that's amazing so
+02:25 
+
+02:25 from what I'm hearing is there's a lot
+02:27 
+
+02:27 of communication involved as well so it
+02:29 
+
+02:29 seems like a
+02:30 
+
+02:30 a challenging both in communication as
+02:33 
+
+02:33 well as technical aspect so yeah we're
+02:36 
+
+02:36 very curious like um your Tech Journey
+02:38 
+
+02:38 because of this like how did you uh how
+02:41 
+
+02:41 did you get into Tech and maybe start
+02:43 
+
+02:43 from your childhood days and uh what
+02:47 
+
+02:47 what made you want to be a software
+02:49 
+
+02:49 engineer yeah great question um I think
+02:53 
+
+02:53 you know most of my childhood I didn't
+02:55 
+
+02:55 it was more of
+02:56 
+
+02:56 like getting through the education
+02:58 
+
+02:58 system I was born and raised in
+02:60 
+
+02:60 Singapore went through the education in
+03:01 
+
+03:01 Singapore I think both of you
+03:03 
+
+03:03 similarly and you know it's a lot about
+03:07 
+
+03:07 going through the rhythms until you are
+03:09 
+
+03:09 done with a levels and then I was like
+03:12 
+
+03:12 what now you know I held a bunch of odd
+03:14 
+
+03:14 jobs I was you know at one point a
+03:16 
+
+03:16 waitress at Baker z um I was even
+03:20 
+
+03:20 helping out the the air show and I just
+03:22 
+
+03:22 didn't know what to do and so I asked my
+03:25 
+
+03:25 parents like hey do you have any advice
+03:26 
+
+03:26 for me and they're both actually
+03:28 
+
+03:28 engineers and sometimes joke about maybe
+03:31 
+
+03:31 my mom whispered into my you want to be
+03:33 
+
+03:33 an engineer at night and somehow I felt
+03:36 
+
+03:36 like okay I'll give it a shot it seems
+03:38 
+
+03:38 generic enough that you know you can
+03:39 
+
+03:39 figure out do you want to be a chemical
+03:41 
+
+03:41 engineer civil engineer software
+03:43 
+
+03:43 engineer um so I just applied for
+03:45 
+
+03:45 schools and I think I also wanted um
+03:49 
+
+03:49 some experience overseas I was very
+03:51 
+
+03:51 lucky and privileged that my parents
+03:52 
+
+03:52 were able to you know support that and
+03:55 
+
+03:55 my mom was also like ready for me to fly
+03:57 
+
+03:57 out of the nest right um and so I gave
+04:00 
+
+04:00 it a shot I went to Carnegie melon
+04:02 
+
+04:02 University I did a general degree at
+04:05 
+
+04:05 first like you know in your first year
+04:06 
+
+04:06 you can kind of figure it out so you
+04:09 
+
+04:09 would take one type of engineering the
+04:11 
+
+04:11 first half of the year the first
+04:12 
+
+04:12 semester and then try something else the
+04:15 
+
+04:15 second semester so I did software
+04:17 
+
+04:17 engineering and I also tried out uh I
+04:19 
+
+04:19 think it was civil engineering I don't
+04:20 
+
+04:20 really remember now because I fell in
+04:22 
+
+04:22 love with the software site that I never
+04:23 
+
+04:23 looked back uh actually I went into
+04:25 
+
+04:25 electrical and computer engineering so
+04:28 
+
+04:28 both software and hardware and um
+04:30 
+
+04:30 I just fell in love with like the
+04:32 
+
+04:32 problem solving and since young my mom
+04:34 
+
+04:34 always told me no I would fold origami
+04:36 
+
+04:36 and I would have all them lined up on
+04:38 
+
+04:38 the shelf and she's like she collecting
+04:39 
+
+04:39 dust and I was like but it looks you
+04:41 
+
+04:41 know I had to make sure that it fits
+04:43 
+
+04:43 nicely the line is straight um and to me
+04:46 
+
+04:46 it was like a mathematical problem that
+04:48 
+
+04:48 you're solving in a way and I also found
+04:50 
+
+04:50 myself drawn to like knitting to
+04:52 
+
+04:52 crocheting where you had to think about
+04:54 
+
+04:54 numbers as well and The Logical like
+04:56 
+
+04:56 okay if you add two more stitches it's
+04:58 
+
+04:58 going to become bigger and bigger you it
+04:59 
+
+04:59 becomes a ccle or something so I knew I
+05:02 
+
+05:02 I I had the uh propensity to work on
+05:04 
+
+05:04 something that was you know problem
+05:07 
+
+05:07 solving and what what better place to do
+05:09 
+
+05:09 it than you know I think Engineering
+05:10 
+
+05:10 also and um I was strong in math I was
+05:13 
+
+05:13 strong in most Sciences physics I was
+05:16 
+
+05:16 terrible at so I don't really know where
+05:18 
+
+05:18 that fell but um it was good enough it
+05:20 
+
+05:20 was good enough to at least try my hand
+05:22 
+
+05:22 in software engineering and I think what
+05:25 
+
+05:25 solidified it for me was my very first
+05:28 
+
+05:28 um course Java Java 101 it was I think
+05:31 
+
+05:31 intro to Computer Engineering and at
+05:34 
+
+05:34 carnegi melon everybody had to go
+05:35 
+
+05:35 through it except for I think um in the
+05:38 
+
+05:38 drama school and the architecture school
+05:40 
+
+05:40 I think everybody else had to go through
+05:42 
+
+05:42 uh intro Computing 101 oh interesting it
+05:45 
+
+05:45 was Java programming and not some other
+05:48 
+
+05:48 programing language like python or
+05:50 
+
+05:50 JavaScript yeah and I think it's because
+05:52 
+
+05:52 Python's like you know U more for
+05:54 
+
+05:54 scripting or whereas Java you could you
+05:57 
+
+05:57 know they we had this framework it's
+05:59 
+
+05:59 called Dr Java that we used back then
+06:01 
+
+06:01 it's like very long ago I'm not going to
+06:02 
+
+06:02 say how many years um but at least you
+06:04 
+
+06:04 could you know use there was this a
+06:07 
+
+06:07 plug-in that you could use to visualize
+06:10 
+
+06:10 your work so Java I mean intro to
+06:13 
+
+06:13 computer 101 I remember it was very much
+06:15 
+
+06:15 like building games so I built Tetris I
+06:18 
+
+06:18 built snake I built um that's why I
+06:21 
+
+06:21 learned about for Loops you know and W
+06:23 
+
+06:23 it really blew my mind how far behind I
+06:25 
+
+06:25 was compared to my American like peers
+06:29 
+
+06:29 like they all had some form of computing
+06:31 
+
+06:31 background in high school yeah so for
+06:34 
+
+06:34 Loops to me was a struggle and I was
+06:35 
+
+06:35 like I don't know if I can do this
+06:37 
+
+06:37 because I was stuck on four Loops but
+06:39 
+
+06:39 you look back now you're like that's
+06:40 
+
+06:40 just you know already muscle memory
+06:43 
+
+06:43 right um but yeah when I saw like Tetris
+06:46 
+
+06:46 you know you built the blocks and you
+06:48 
+
+06:48 take for granted when you're playing the
+06:49 
+
+06:49 game but when you think about like all
+06:51 
+
+06:51 the things that have to happen okay
+06:52 
+
+06:52 making sure that you're within the
+06:53 
+
+06:53 boundaries and not having like an
+06:55 
+
+06:55 overflow issue um making sure that you
+06:59 
+
+06:59 can make those animations right when you
+07:01 
+
+07:01 when you first form a row and then the
+07:03 
+
+07:03 block like just explodes or something
+07:05 
+
+07:05 things like that and it's like oh you
+07:07 
+
+07:07 want to think about the angle at which
+07:09 
+
+07:09 the the little blocks explode into so a
+07:11 
+
+07:11 part of it was math involved as well and
+07:13 
+
+07:13 I think it was great in marrying all
+07:16 
+
+07:16 these different concepts right the for
+07:18 
+
+07:18 Loops whatever we talked about the
+07:19 
+
+07:19 boundaries making sure that you're um
+07:22 
+
+07:22 type checking or making sure that you
+07:24 
+
+07:24 are accounting for the edge cases like
+07:26 
+
+07:26 literally the edge cases right um and
+07:29 
+
+07:29 then also being to see your work the the
+07:32 
+
+07:32 visual feedback was very important
+07:33 
+
+07:33 because the feedback loop is how you
+07:36 
+
+07:36 iterate quickly which I think is quite
+07:39 
+
+07:39 fundamental to software engineering
+07:40 
+
+07:40 today right yeah wow so basically from
+07:44 
+
+07:44 what I hear is that you're born to be an
+07:46 
+
+07:46 engineer like since young with the
+07:48 
+
+07:48 origami with just even crocheting I was
+07:51 
+
+07:51 quite surprised it's just me trying to
+07:53 
+
+07:53 find some common ground with you but I
+07:55 
+
+07:55 also crochet yeah see yeah yeah cuz I do
+07:57 
+
+07:57 find like it's really just fun to build
+07:59 
+
+07:59 things just the design part of it so the
+08:02 
+
+08:02 fact that you did all this when you were
+08:04 
+
+08:04 young I think you're just born to be an
+08:06 
+
+08:06 engineer you always love problem solving
+08:08 
+
+08:08 building designing Solutions I think
+08:11 
+
+08:11 that's something that is really
+08:13 
+
+08:13 admirable about you is that thank you so
+08:15 
+
+08:15 much that whatever you want to do you
+08:17 
+
+08:17 just pursue it and you fell in love with
+08:19 
+
+08:19 software engineering which I think
+08:21 
+
+08:21 that's really great um you also
+08:23 
+
+08:23 mentioned how your peers back then um
+08:25 
+
+08:25 have Computing background whereas you
+08:27 
+
+08:27 did not um I want to ask because I think
+08:30 
+
+08:30 impostor syndrome is something a lot of
+08:32 
+
+08:32 developers have to deal with day to day
+08:35 
+
+08:35 how did you actually overcome that when
+08:36 
+
+08:36 you feel like oh I'm falling behind yeah
+08:39 
+
+08:39 what was your mindset like you know in
+08:41 
+
+08:41 order to actually learn and then I see
+08:44 
+
+08:44 how you're so positive about oh four
+08:45 
+
+08:45 Loops is okay like you know over time
+08:47 
+
+08:47 you learn so I'm just curious about how
+08:49 
+
+08:49 you overcome that yeah um I'll be honest
+08:52 
+
+08:52 I haven't been this positive like all my
+08:55 
+
+08:55 life right it's it's based on the callus
+08:58 
+
+08:58 that you built going through the ups and
+09:01 
+
+09:01 downs if I recall correctly I mean it's
+09:03 
+
+09:03 been a while but I do remember feeling
+09:06 
+
+09:06 like I was falling behind and then
+09:08 
+
+09:08 realizing that I could tell myself that
+09:10 
+
+09:10 I'm you can constantly tell yourself
+09:12 
+
+09:12 like I'm behind I'm behind but you have
+09:14 
+
+09:14 to do something about it right and so I
+09:16 
+
+09:16 think I really leaned on my professors I
+09:18 
+
+09:18 leaned on my other peers who were very
+09:20 
+
+09:20 very helpful who had the experience so
+09:23 
+
+09:23 thinking about who can I tap on like
+09:26 
+
+09:26 into to help me you know progress I do
+09:30 
+
+09:30 recognize um what I'm falling short on
+09:33 
+
+09:33 recognize that and acknowledging that is
+09:35 
+
+09:35 I think the first step to you know
+09:37 
+
+09:37 progressing um then you have to figure
+09:39 
+
+09:39 out what your resources are at hand and
+09:42 
+
+09:42 I think back then we didn't really have
+09:44 
+
+09:44 like oh you know Tik Tok or like um
+09:46 
+
+09:46 stack Overflow as available to us so
+09:49 
+
+09:49 it's really about connecting with the
+09:51 
+
+09:51 folks that you know um so yeah a lot of
+09:55 
+
+09:55 my peers that I would lean into as my
+09:57 
+
+09:57 tribe and a lot of them were very
+09:58 
+
+09:58 encouraging and tell telling me like you
+09:60 
+
+09:60 know it's okay like you have to start
+10:01 
+
+10:01 somewhere not everybody you know I mean
+10:04 
+
+10:04 they had to start from somewhere as well
+10:06 
+
+10:06 and knowing that they can progress to
+10:08 
+
+10:08 where they are today by putting in the
+10:09 
+
+10:09 work I can do that too right and so like
+10:12 
+
+10:12 I never believe in the whole like um you
+10:15 
+
+10:15 know I'm I'm too stupid to figure this
+10:17 
+
+10:17 out or or I'm you know not good enough
+10:20 
+
+10:20 it's more about I just haven't been
+10:22 
+
+10:22 exposed to it uh I have now the you know
+10:26 
+
+10:26 a wealth of resources at hand in college
+10:29 
+
+10:29 especially like I have professors the
+10:30 
+
+10:30 students who went through it um other
+10:32 
+
+10:32 like seniors in the program so I think
+10:35 
+
+10:35 it was more about getting being okay
+10:38 
+
+10:38 asking for help and and knowing how to
+10:41 
+
+10:41 ask for the help because I can't be like
+10:43 
+
+10:43 oh I don't know how to do for Loops I
+10:44 
+
+10:44 mean okay that's very specific but I
+10:45 
+
+10:45 don't know how to program then they
+10:47 
+
+10:47 going to be like what about programming
+10:49 
+
+10:49 that you not don't know like let's start
+10:50 
+
+10:50 small and you know it's overwhelming
+10:53 
+
+10:53 when you want to take a very big step
+10:56 
+
+10:56 but if you break it down to smaller
+10:57 
+
+10:57 steps also another part of I think
+10:59 
+
+10:59 engineering very fundamental is breaking
+11:02 
+
+11:02 down a big thing a big problem into
+11:05 
+
+11:05 smaller chunks that's more digestible
+11:07 
+
+11:07 and try to parallelize that work too
+11:09 
+
+11:09 right um so yeah I think back then I
+11:12 
+
+11:12 wish I could tell myself that hey it's
+11:13 
+
+11:13 good you're good you you you overcome
+11:15 
+
+11:15 this but I remember thinking like it was
+11:17 
+
+11:17 a struggle on top of being in Pittsburgh
+11:20 
+
+11:20 Pennsylvania where it was you know the
+11:22 
+
+11:22 Four Seasons and I remember being stuck
+11:25 
+
+11:25 in the snow and you know missing home
+11:28 
+
+11:28 and then having to you understand that
+11:31 
+
+11:31 okay this is what I'm going through but
+11:33 
+
+11:33 I'm also here to learn and my parents
+11:35 
+
+11:35 you know support that and so I cannot
+11:38 
+
+11:38 waste time I cannot waste this
+11:40 
+
+11:40 opportunity to um make use of the
+11:43 
+
+11:43 resources that I have now yeah and also
+11:46 
+
+11:46 like I mean there's no other way you're
+11:48 
+
+11:48 going to go get through the class
+11:50 
+
+11:50 without putting in the work so I think
+11:52 
+
+11:52 that was also a forcing function and the
+11:54 
+
+11:54 professor was very good about the
+11:57 
+
+11:57 problem sets that we had to do and to
+11:59 
+
+11:59 slowly bu the foundation yeah yeah I
+12:02 
+
+12:02 think that's very inspiring like just
+12:04 
+
+12:04 from you recognizing that this is an
+12:06 
+
+12:06 opportunity and you don't want to waste
+12:08 
+
+12:08 that chance it's I think that's
+12:09 
+
+12:09 something that a lot of people may or
+12:12 
+
+12:12 may not take for granted but the fact
+12:15 
+
+12:15 that you still want to persevere and do
+12:17 
+
+12:17 that that shows a lot of your strong
+12:18 
+
+12:18 character right thank you that's why I'm
+12:21 
+
+12:21 actually I remember when we first met
+12:23 
+
+12:23 I'm like a lot of things that you say it
+12:25 
+
+12:25 really resonates to me not only that it
+12:27 
+
+12:27 inspires me to do better just because
+12:30 
+
+12:30 you're
+12:31 
+
+12:31 really yeah just because you're not only
+12:34 
+
+12:34 genuine in helping others but you are
+12:36 
+
+12:36 also very comfortable in seeking help I
+12:38 
+
+12:38 think a lot of developers might feel
+12:40 
+
+12:40 like this is a lone journey and that
+12:42 
+
+12:42 seeking help is not something they're
+12:44 
+
+12:44 very comfortable with it's hard to be
+12:46 
+
+12:46 vulnerable it's hard to admit what you
+12:48 
+
+12:48 don't know right yeah so I think just
+12:50 
+
+12:50 seeking help is very an an under rated
+12:54 
+
+12:54 skill you have I agree I agree I like
+12:56 
+
+12:56 the part where you said like break it
+12:58 
+
+12:58 down to smaller smaller chunks I was
+12:60 
+
+12:60 like divide and concer yeah that's where
+13:03 
+
+13:03 it all comes from your algorithm is
+13:05 
+
+13:05 really like how do I parallelize this as
+13:08 
+
+13:08 a student you have to you know use that
+13:10 
+
+13:10 algorithm already so okay let's uh let's
+13:14 
+
+13:14 move on to like internships and like
+13:17 
+
+13:17 right after your college uh your
+13:19 
+
+13:19 University how did you progress on from
+13:22 
+
+13:22 there like how easy was it to get a job
+13:24 
+
+13:24 yeah um I say that I was maybe a year or
+13:28 
+
+13:28 two a little late in my my search like
+13:30 
+
+13:30 internship search you know I had some
+13:33 
+
+13:33 classmates who are more gangho and sorry
+13:36 
+
+13:36 can we Define what gangho means like um
+13:38 
+
+13:38 overachieving maybe overachieving maybe
+13:40 
+
+13:40 overachieving might that would be the
+13:42 
+
+13:42 closest a good way overachieving in a
+13:44 
+
+13:44 good way I mean is it never a bad way
+13:46 
+
+13:46 but um anyway like I felt like I was
+13:48 
+
+13:48 lagging behind because I didn't actually
+13:51 
+
+13:51 put in the effort to find an internship
+13:54 
+
+13:54 till maybe the third year so like junior
+13:56 
+
+13:56 year and um a lot of my years were
+13:60 
+
+13:60 already like internship in freshman
+14:02 
+
+14:02 sophomore year already but I think it
+14:04 
+
+14:04 was slightly harder for a non-american
+14:07 
+
+14:07 because a lot of the internships or
+14:09 
+
+14:09 companies they only will offer you an
+14:11 
+
+14:11 internship if you have uh our US citizen
+14:14 
+
+14:14 or us green card holder and I was
+14:16 
+
+14:16 neither of those I had a student visa so
+14:19 
+
+14:19 if like you know the pool of companies I
+14:21 
+
+14:21 could apply to just shrunk right and um
+14:25 
+
+14:25 I also didn't feel prepared because my
+14:27 
+
+14:27 foundations I felt needed work
+14:30 
+
+14:30 I didn't know if I could you know go
+14:32 
+
+14:32 into the real world and you know have a
+14:35 
+
+14:35 shaky Foundation while trying to do the
+14:38 
+
+14:38 the soft skill side of communicating
+14:39 
+
+14:39 working with project managers working
+14:41 
+
+14:41 with like you know the engineering
+14:43 
+
+14:43 manager and other folks on the team um
+14:46 
+
+14:46 University or like college is just you
+14:49 
+
+14:49 are very tightly scoped you have maybe
+14:51 
+
+14:51 two three three or four um teammates
+14:53 
+
+14:53 working on a project together and the
+14:54 
+
+14:54 tests are the test that you write right
+14:56 
+
+14:56 it's not like
+14:57 
+
+14:57 production wide kind of t testing with
+14:60 
+
+14:60 real users so I felt that I still needed
+15:03 
+
+15:03 more honing of my skills in that well
+15:05 
+
+15:05 scoped environment before I was ready to
+15:07 
+
+15:07 Branch out and then in the third year I
+15:09 
+
+15:09 like I went for all the college fairs
+15:10 
+
+15:10 the career fairs I also made sure that
+15:13 
+
+15:13 um my extracurricular wise like I was in
+15:16 
+
+15:16 the women intact kind of society uh
+15:19 
+
+15:19 equivalent Society in at CMU I was also
+15:23 
+
+15:23 um one of the we had this thing called
+15:26 
+
+15:26 Spring Carnival at Carnegie melon and
+15:29 
+
+15:29 part of the activity is like building a
+15:30 
+
+15:30 booth like literally wooden structures
+15:33 
+
+15:33 wooden like 2x4s you know you saw saw
+15:37 
+
+15:37 their pieces together and you have to
+15:38 
+
+15:38 put up a booth based on a theme and at
+15:41 
+
+15:41 that time I was at Singapore Student
+15:42 
+
+15:42 Association for Kani Millan as well and
+15:45 
+
+15:45 I you know heard from the seniors like
+15:47 
+
+15:47 hey we used to do this thing we won I
+15:49 
+
+15:49 think third prize before in our category
+15:51 
+
+15:51 and I was like well maybe we should try
+15:53 
+
+15:53 it again I mean I'd be interested and
+15:55 
+
+15:55 then I just put myself in this position
+15:56 
+
+15:56 to beat this thing um and it was a very
+15:59 
+
+15:59 good learning experience because it
+16:02 
+
+16:02 taught me that you know like like any
+16:05 
+
+16:05 project or any product that you're
+16:07 
+
+16:07 building at work you need multiple
+16:09 
+
+16:09 disciplines right you need designers you
+16:11 
+
+16:11 need um QA or you know some Engineers
+16:14 
+
+16:14 are full stack you need the front end
+16:16 
+
+16:16 you need the back end you need the um
+16:19 
+
+16:19 product manager who's overseeing the
+16:21 
+
+16:21 whole thing and you need all the
+16:22 
+
+16:22 expertise like subject matter experts
+16:24 
+
+16:24 right when you build a booth that's
+16:25 
+
+16:25 similar you need in that person who is
+16:28 
+
+16:28 very comfortable in the electrician
+16:30 
+
+16:30 aspect like you need to wire it up your
+16:32 
+
+16:32 booth needs to like light up right you
+16:34 
+
+16:34 need the architect you need the civil
+16:36 
+
+16:36 engineer to know that if you're building
+16:38 
+
+16:38 a two-story Booth you want to make sure
+16:39 
+
+16:39 the weight holds right um or just that
+16:42 
+
+16:42 your structure doesn't fall apart uh and
+16:45 
+
+16:45 so like there were also Booth um
+16:47 
+
+16:47 meetings that we had to go to with like
+16:49 
+
+16:49 okay you need to make sure that your
+16:51 
+
+16:51 structures at least this kind of format
+16:54 
+
+16:54 your 2x4s must be at least this amount
+16:57 
+
+16:57 wide or far apart from each other
+16:60 
+
+16:60 so I was leading this thing and I felt
+17:01 
+
+17:01 that um you know it was very uh
+17:03 
+
+17:03 instrumental to being ready for working
+17:06 
+
+17:06 outside of like my comfort zone and into
+17:09 
+
+17:09 like the internship thing I digress but
+17:11 
+
+17:11 anyway that was uh instrumental and then
+17:14 
+
+17:14 having that on my resume also could help
+17:16 
+
+17:16 me stand out as well to recruiters and
+17:19 
+
+17:19 thankfully I landed an internship at a
+17:21 
+
+17:21 New York dark pool's Equity trading firm
+17:25 
+
+17:25 um this was back in yeah my uh junior
+17:27 
+
+17:27 year yeah and I had a really good
+17:29 
+
+17:29 engineering manager uh very supportive
+17:32 
+
+17:32 um but you know I think I wasn't I
+17:35 
+
+17:35 didn't really Vibe with New York I felt
+17:38 
+
+17:38 lots of Rage coming out of it like I was
+17:41 
+
+17:41 you know coming out of this train
+17:43 
+
+17:43 station you're like oh my gosh
+17:44 
+
+17:44 everyone's moving so slowly why is that
+17:45 
+
+17:45 because he always felt rushed and I just
+17:47 
+
+17:47 didn't foresee a future working in New
+17:50 
+
+17:50 York long term it just wasn't it didn't
+17:52 
+
+17:52 feel right for me but um so I didn't
+17:54 
+
+17:54 eventually go you know go there full
+17:57 
+
+17:57 time um and look for something something
+17:59 
+
+17:59 else for my full-time job but I think
+18:01 
+
+18:01 career Affairs career Affairs
+18:03 
+
+18:03 extracurricular activities joining
+18:05 
+
+18:05 societies where you can network with
+18:06 
+
+18:06 folks was I think very instrumental to
+18:09 
+
+18:09 lending it yeah well I really love
+18:12 
+
+18:12 everything you say from like finding
+18:14 
+
+18:14 your Community First in like wom who Co
+18:16 
+
+18:16 like women in Tech and then also the
+18:18 
+
+18:18 Singapore Association like finding your
+18:21 
+
+18:21 tribe I think that's very important and
+18:23 
+
+18:23 then from there you progress to actually
+18:25 
+
+18:25 building a booth like that was
+18:26 
+
+18:26 surprising how you can make the
+18:27 
+
+18:27 connection from building a booth is
+18:29 
+
+18:29 actually similar working in like an
+18:31 
+
+18:31 engineering team then every part of your
+18:34 
+
+18:34 experience kind of contributes to where
+18:36 
+
+18:36 you are today I do I do believe that
+18:38 
+
+18:38 yeah yeah so I think that's how not only
+18:41 
+
+18:41 can you make that connection but it
+18:42 
+
+18:42 actually helps build you over time um
+18:45 
+
+18:45 and it's also interesting how you
+18:47 
+
+18:47 mentioned about New York and how you
+18:49 
+
+18:49 didn't Vibe with the culture because I
+18:50 
+
+18:50 think a lot of people like at least in
+18:52 
+
+18:52 Tech they dream about living in us they
+18:55 
+
+18:55 dream about pursuing that Silicon Valley
+18:57 
+
+18:57 dream um it's is there anything maybe I
+18:60 
+
+19:00 mean this is definitely from just your
+19:01 
+
+19:01 personal experience it's it's not it
+19:03 
+
+19:03 will not apply to everyone but is there
+19:05 
+
+19:05 anything that you can share about you
+19:07 
+
+19:07 know some expectations versus reality
+19:09 
+
+19:09 cuz you know some people they don't have
+19:11 
+
+19:11 that information like what it's like
+19:13 
+
+19:13 working there what are some pros and
+19:15 
+
+19:15 cons and you know you did have a
+19:19 
+
+19:19 position in us for some time what was
+19:22 
+
+19:22 that like for you also yeah I think I
+19:25 
+
+19:25 knew I wanted to work in the US because
+19:28 
+
+19:28 of all the opportunity ities not just
+19:30 
+
+19:30 your job opportunities but also
+19:33 
+
+19:33 opportunities to meet other people from
+19:35 
+
+19:35 other walks of life other countries and
+19:38 
+
+19:38 it's always been you know diversity and
+19:40 
+
+19:40 inclusion has always been very important
+19:42 
+
+19:42 to me and I think I didn't realize how
+19:44 
+
+19:44 important it was until I left Singapore
+19:47 
+
+19:47 because I you know most of um yeah I I
+19:51 
+
+19:51 think yeah you don't know what you don't
+19:53 
+
+19:53 know right so until you've gotten to the
+19:55 
+
+19:55 other side and realized oh wow there's
+19:57 
+
+19:57 so much to learn from so many different
+19:59 
+
+19:59 people um New York New York didn't fit
+20:02 
+
+20:02 me personally because of the fast pace
+20:05 
+
+20:05 and I I'm tend to be someone who's more
+20:08 
+
+20:08 like I like to take my time to really
+20:11 
+
+20:11 understand something before I say
+20:12 
+
+20:12 something or I'm more of an observer and
+20:16 
+
+20:16 I think you know at first I was you know
+20:18 
+
+20:18 worried that I would come across as this
+20:21 
+
+20:21 person doesn't really talk like she's
+20:23 
+
+20:23 what she thinking you know and I have
+20:24 
+
+20:24 learned to show my working in work as
+20:27 
+
+20:27 well to just say hey I need a bit of
+20:29 
+
+20:29 space to just digest what went through
+20:31 
+
+20:31 what went on in the meeting and I have
+20:34 
+
+20:34 thoughts I'll come back to you on it so
+20:36 
+
+20:36 just give me some time right whereas I
+20:38 
+
+20:38 have very quick wited friends and um Co
+20:41 
+
+20:41 co-workers that are able to just very
+20:43 
+
+20:43 quickly yeah this is a good idea this is
+20:44 
+
+20:44 a bad idea this is XYZ I'm not that
+20:46 
+
+20:46 person I need time to like think through
+20:48 
+
+20:48 the different edge cases happy path that
+20:51 
+
+20:51 path whatever and then I have I can
+20:53 
+
+20:53 formulate something and I feel
+20:54 
+
+20:54 comfortable presenting to the team so I
+20:56 
+
+20:56 thought New York was more fast-paced and
+20:59 
+
+20:59 I didn't know if I could thrive in that
+21:01 
+
+21:01 environment I felt a lot of pressure a
+21:04 
+
+21:04 lot of anxiety that at that time didn't
+21:07 
+
+21:07 even know it was like what you would
+21:08 
+
+21:08 term anxiety I just felt like I couldn't
+21:10 
+
+21:10 settle and it felt very uneasy um so I
+21:13 
+
+21:13 decided like I know after 3 months was a
+21:15 
+
+21:15 good was a good gate to learn how to
+21:18 
+
+21:18 speak up to learn how to um be aware of
+21:22 
+
+21:22 my limitations but also aware of my
+21:24 
+
+21:24 strengths and then take a step back
+21:26 
+
+21:26 maybe try to explore another city um um
+21:29 
+
+21:29 and that's you know after the last year
+21:31 
+
+21:31 of college I leared a job in Chicago and
+21:35 
+
+21:35 you know Frankly Speaking I also you
+21:36 
+
+21:36 have to look at the numbers right uh New
+21:38 
+
+21:38 York's very expensive to live in if
+21:40 
+
+21:40 you're coming out of college the first
+21:42 
+
+21:42 paychecks not always the the highest
+21:44 
+
+21:44 right generally it wasn't for me and so
+21:47 
+
+21:47 I I would look at my opportunities
+21:49 
+
+21:49 Boston New York Chicago which one felt
+21:51 
+
+21:51 like the best
+21:53 
+
+21:53 financial um like Financial like
+21:56 
+
+21:56 something that made the most Financial
+21:57 
+
+21:57 sense and Chicago was it
+21:59 
+
+21:59 uh it was affordable as well and yeah I
+22:02 
+
+22:02 I knew that um you know I've never lived
+22:05 
+
+22:05 in Chicago and it was the first time I
+22:06 
+
+22:06 went to Chicago was literally for the
+22:08 
+
+22:08 interview I fell in love with the city I
+22:10 
+
+22:10 fell in love with the team most
+22:12 
+
+22:12 importantly and I knew that it was a
+22:14 
+
+22:14 company that I could grow in and I knew
+22:17 
+
+22:17 that it was a company that could
+22:18 
+
+22:18 recognize you know it the career
+22:21 
+
+22:21 opportunities that I'd be interested in
+22:23 
+
+22:23 so you have to like think about that too
+22:25 
+
+22:25 the company in Boston that I interviewed
+22:27 
+
+22:27 with great like you know but I couldn't
+22:29 
+
+22:29 buy the chemistry just wasn't right I
+22:31 
+
+22:31 couldn't I thought was too corporate for
+22:33 
+
+22:33 someone who's starting up um and then
+22:36 
+
+22:36 the one in New York again it's like just
+22:38 
+
+22:38 the the the pace of things would just
+22:40 
+
+22:40 didn't fit so Chicago felt like the best
+22:42 
+
+22:42 one and then in Chicago itself I you
+22:44 
+
+22:44 know went through um midsize firm in fin
+22:48 
+
+22:48 like Tech financial fintech um then I
+22:51 
+
+22:51 went into a startup in consumer loyalty
+22:55 
+
+22:55 space then I went to a very interesting
+22:57 
+
+22:57 like combination I think one of the
+22:58 
+
+22:58 episode talked about you know startups
+22:60 
+
+22:60 versus mang and then you know being in a
+23:02 
+
+23:02 big company but a startup I went into
+23:04 
+
+23:04 something like that um where they were
+23:06 
+
+23:06 trying to re rethink their platform um
+23:10 
+
+23:10 so more of the R&D space so we were
+23:12 
+
+23:12 startup operating with a Fortune 500
+23:15 
+
+23:15 company so I've seen like the different
+23:17 
+
+23:17 ones and then the most latest I've
+23:18 
+
+23:18 lended at is where I am working now um
+23:21 
+
+23:21 which is a you know a decent siiz
+23:23 
+
+23:23 company as well and very very Global so
+23:27 
+
+23:27 I think going through that Journey
+23:29 
+
+23:29 is part of grow like um taking the
+23:32 
+
+23:32 opportunity to grow your career and then
+23:35 
+
+23:35 at some point it switched to taking the
+23:37 
+
+23:37 opportunity to learn more about myself
+23:39 
+
+23:39 and then how do I help other people
+23:42 
+
+23:42 because I feel blessed that I was you
+23:45 
+
+23:45 know I had my tribe I had my engineering
+23:48 
+
+23:48 managers that helped I had my peers
+23:50 
+
+23:50 women other women in Engineers that
+23:52 
+
+23:52 helped me um and I think like at some
+23:55 
+
+23:55 point you got to pay it for it right and
+23:58 
+
+23:58 I think when my my career was at a spot
+24:00 
+
+24:00 where I felt good good about and I felt
+24:03 
+
+24:03 that I had enough Social Capital to
+24:05 
+
+24:05 leverage I decided that okay it's now
+24:07 
+
+24:07 time for me to not so much about let me
+24:10 
+
+24:10 go get the next um you know promotion
+24:12 
+
+24:12 and more about how do I help other
+24:14 
+
+24:14 people on my team attain that or achieve
+24:16 
+
+24:16 that and how do I push myself also out
+24:19 
+
+24:19 of the comfort zone like even doing this
+24:20 
+
+24:20 podcast is a different thing for me
+24:22 
+
+24:22 right or um going you know giving
+24:25 
+
+24:25 workshops in person that's also like uh
+24:27 
+
+24:27 don't ask my first like self from Last 5
+24:30 
+
+24:30 Years to do that it's something that I
+24:33 
+
+24:33 realized that I need to you know push
+24:35 
+
+24:35 myself out of the comfort zone and keep
+24:37 
+
+24:37 learning I mean they always say you know
+24:40 
+
+24:40 like you learn as long as you live so
+24:43 
+
+24:43 those are little things that I knew I
+24:45 
+
+24:45 could do to push and learn more and also
+24:49 
+
+24:49 network with with folks and you know I
+24:51 
+
+24:51 really have enjoyed the entire Journey
+24:56 
+
+24:56 wow yeah I actually wanted to highlight
+24:58 
+
+24:58 your part where cuz when uh when we met
+25:00 
+
+25:00 once we did you did mention that the
+25:03 
+
+25:03 women mentors in your career Journey
+25:05 
+
+25:05 were really uh like a highlight for your
+25:08 
+
+25:08 to you know move ahead in your journey I
+25:11 
+
+25:11 wanted to like learn like ask you more
+25:13 
+
+25:13 about that like how do you find such uh
+25:16 
+
+25:16 mentors are they your leads and how do
+25:19 
+
+25:19 you approach them uh how do you have
+25:22 
+
+25:22 this connection with them to allow you
+25:24 
+
+25:24 to like cuz as women in Tech uh it is a
+25:28 
+
+25:28 little it is different a different
+25:31 
+
+25:31 Journey from a male intch for sure right
+25:34 
+
+25:34 so like how's that different and yeah
+25:36 
+
+25:36 how can other women uh in Tech also yeah
+25:39 
+
+25:39 I think it's a mix
+25:41 
+
+25:41 of luck and a mix of your drive to find
+25:47 
+
+25:47 connections that you know you want to
+25:48 
+
+25:48 grow into I think it's always good to
+25:51 
+
+25:51 have a healthy balance of like you know
+25:53 
+
+25:53 mentors that are similar to you but also
+25:55 
+
+25:55 mentors that are very different from you
+25:57 
+
+25:57 just to have that you know um variety of
+26:01 
+
+26:01 perspective as for the women in my
+26:04 
+
+26:04 career I would I would start actually
+26:06 
+
+26:06 even my mom is like the the most
+26:09 
+
+26:09 inspiring person and woman that I know
+26:12 
+
+26:12 that I see her and I know like oh you
+26:14 
+
+26:14 are strong woman she was I think the
+26:16 
+
+26:16 second the first woman lecturer at um at
+26:19 
+
+26:19 one of the universities here in
+26:21 
+
+26:21 electrical Computer Engineering so you
+26:23 
+
+26:23 know to me she's a Pioneer in her field
+26:26 
+
+26:26 and back then you know in their
+26:27 
+
+26:27 generation it was a lot harder to get
+26:29 
+
+26:29 into the field into as a woman in Tech
+26:32 
+
+26:32 um so I started out with that you know
+26:34 
+
+26:34 seeing my mom as an inspiration then
+26:36 
+
+26:36 realizing that okay like I should be
+26:38 
+
+26:38 more cognizant of this um I would say in
+26:42 
+
+26:42 my earlier companies that I joined there
+26:45 
+
+26:45 weren't as many women even in college I
+26:48 
+
+26:48 was like you know um two out of out of
+26:51 
+
+26:51 maybe
+26:52 
+
+26:52 30 people in class it was women and the
+26:56 
+
+26:56 ratio was just not stacked in our favor
+26:59 
+
+26:59 um and that's why I think like I hold
+27:02 
+
+27:02 those connections dear to me like as if
+27:04 
+
+27:04 once I see them and I have that
+27:06 
+
+27:06 connection with a fellow women in Tech I
+27:08 
+
+27:08 do you know really want to make sure
+27:10 
+
+27:10 that we take care of each other and
+27:12 
+
+27:12 someone mentioned to me before like you
+27:14 
+
+27:14 you LIF as you climb like while you are
+27:17 
+
+27:17 pursuing the the so-called career letter
+27:20 
+
+27:20 whether that's you know vertically or
+27:23 
+
+27:23 horizontally make sure that you know if
+27:25 
+
+27:25 you have an opportunity to support
+27:26 
+
+27:26 another woman or someone support someone
+27:30 
+
+27:30 in the marginalized gender that you do
+27:31 
+
+27:31 that um and when I say it's a bit of
+27:34 
+
+27:34 luck it's because like I can't predict
+27:36 
+
+27:36 you know what team I end up in or what
+27:39 
+
+27:39 company what the ratio is like and uh my
+27:42 
+
+27:42 first few companies I was only the only
+27:44 
+
+27:44 woman in the team and then we with I was
+27:47 
+
+27:47 part of the interviewing panel as well
+27:49 
+
+27:49 and I saw that in the pipeline we were
+27:50 
+
+27:50 getting more and more women intact and
+27:52 
+
+27:52 that really made me like happy to see
+27:54 
+
+27:54 that because it's not only about um
+27:58 
+
+27:58 having enough women in the field it's
+27:59 
+
+27:59 also about you know the women being
+28:01 
+
+28:01 feeling comfortable enough to apply for
+28:03 
+
+28:03 that role as well and on the company
+28:05 
+
+28:05 side having an interviewing panel that
+28:08 
+
+28:08 is inclusive and cognizant of like the
+28:11 
+
+28:11 difference right um or like sorry not
+28:14 
+
+28:14 the difference but the the variety that
+28:16 
+
+28:16 we want to hire for as well and you know
+28:20 
+
+28:20 a lot of times I think
+28:22 
+
+28:22 um it's a tough tough balance um because
+28:27 
+
+28:27 you don't ever want to be like I'm a
+28:29 
+
+28:29 women uh like I'm a woman uh you should
+28:31 
+
+28:31 hire me because I'm that's never the
+28:33 
+
+28:33 case it should never be the case I am a
+28:34 
+
+28:34 good engineer I just happen to be a
+28:37 
+
+28:37 woman I just happen to be Asian or
+28:39 
+
+28:39 something like but you should hire me
+28:41 
+
+28:41 for my skill set and you know you built
+28:44 
+
+28:44 that confidence um after a while as well
+28:47 
+
+28:47 as a woman in Tech because you see other
+28:49 
+
+28:49 people doing it you see that it's
+28:51 
+
+28:51 possible right um yeah I don't know
+28:54 
+
+28:54 where I'm going with this
+28:55 
+
+28:55 actually because yeah I think yeah it's
+28:58 
+
+28:58 a mix of both um and I've been lucky to
+29:02 
+
+29:02 have very very strong badass women in
+29:05 
+
+29:05 the leadership
+29:08 
+
+29:08 positions that have helped me and
+29:10 
+
+29:10 inspired me and they've direct you know
+29:13 
+
+29:13 give directions or if I wanted to have a
+29:15 
+
+29:15 more hands hands off kind of Mentor they
+29:19 
+
+29:19 they gave me my space they would ask
+29:21 
+
+29:21 coaching questions you know but don't
+29:23 
+
+29:23 give me the answers right away or they
+29:25 
+
+29:25 would even spot opportunities for me to
+29:28 
+
+29:28 get the experience and I think that was
+29:30 
+
+29:30 really key cuz I am someone that you
+29:32 
+
+29:32 know you can tell me a 100 times the
+29:34 
+
+29:34 same thing but if I don't experience it
+29:35 
+
+29:35 myself and I think a lot of people are
+29:36 
+
+29:36 similar if you don't experience it
+29:38 
+
+29:38 yourself it's hard to really you know um
+29:41 
+
+29:41 get that in your ingrained right um so I
+29:44 
+
+29:44 need to go through the experiences the
+29:46 
+
+29:46 the the the challenges to then be okay
+29:48 
+
+29:48 like okay I've overcome this I am worthy
+29:51 
+
+29:51 of this
+29:52 
+
+29:52 opportunity um so yeah I think it's a
+29:54 
+
+29:54 mix of both yeah uh so like for the last
+29:59 
+
+29:59 question that we have for you uh wanted
+30:00 
+
+30:00 to ask you so what's next for you what
+30:04 
+
+30:04 in your journey what ST in my journey
+30:06 
+
+30:06 that's a good I am actually in the
+30:08 
+
+30:08 process of figuring that out and that's
+30:10 
+
+30:10 why I'm taking vacation to just chill
+30:13 
+
+30:13 reflect and you know I think currently
+30:17 
+
+30:17 I'm in a team where there's not a lot of
+30:19 
+
+30:19 people in APAC it's still very much uh
+30:22 
+
+30:22 majority in the
+30:24 
+
+30:24 US um position and so if I wanted to
+30:27 
+
+30:27 pursue the next thing which would be
+30:29 
+
+30:29 know as a principal engineer I also have
+30:30 
+
+30:30 to think about like the FaceTime that
+30:33 
+
+30:33 you have to show um and cuz you need to
+30:36 
+
+30:36 rally the troops when you come when it's
+30:38 
+
+30:38 about principal engineer you're now
+30:39 
+
+30:39 looking at the hardest problems you want
+30:42 
+
+30:42 to solve hardest but most important
+30:44 
+
+30:44 problems you want to solve for the
+30:45 
+
+30:45 company then you have to kind of rally
+30:48 
+
+30:48 the troops like get people to work with
+30:50 
+
+30:50 you and get behind the idea of like this
+30:52 
+
+30:52 is an important problem to Sol like how
+30:54 
+
+30:54 do we go about doing it and I don't know
+30:56 
+
+30:56 if that is currently
+30:59 
+
+30:59 like um it probably isn't the most um I
+31:03 
+
+31:03 think there'll be a lot of challenges
+31:05 
+
+31:05 with the time zone differences to Rally
+31:07 
+
+31:07 the majority of folks who are living in
+31:09 
+
+31:09 the US for it um I I might be wrong and
+31:12 
+
+31:12 there something I'm still figuring out
+31:13 
+
+31:13 I'm talking to like my my man managers
+31:15 
+
+31:15 as well and leads and hoping to reach
+31:17 
+
+31:17 out to other principal Engineers who
+31:19 
+
+31:19 hear their perspective that's the other
+31:21 
+
+31:21 thing is like being comfortable going to
+31:25 
+
+31:25 someone that you and like want to um
+31:27 
+
+31:27 Inspire to be and seeing how their
+31:29 
+
+31:29 journey is like and it's going to be
+31:31 
+
+31:31 different for everyone right like part
+31:33 
+
+31:33 of my journey to staff software engineer
+31:35 
+
+31:35 I was trying to pursue the exact Journey
+31:39 
+
+31:39 that another sta software engineer that
+31:41 
+
+31:41 I really looked up to um had but we were
+31:44 
+
+31:44 so different people we're so different
+31:45 
+
+31:45 we have very different strengths and
+31:47 
+
+31:47 weaknesses and so I when my manager told
+31:50 
+
+31:50 me like hey you're different and at that
+31:52 
+
+31:52 time I was also had just become a mom
+31:54 
+
+31:54 like I realized that I I have to stop
+31:57 
+
+31:57 this unhealthy person suit of being
+31:59 
+
+31:59 someone else that I'm not that really
+32:01 
+
+32:01 clicked in for me I okay yes I have to
+32:02 
+
+32:02 lean into my strengths and what I can
+32:04 
+
+32:04 bring to the team as a value multiplier
+32:06 
+
+32:06 and then use that so what's next for me
+32:09 
+
+32:09 I think it's still very up in the air I
+32:11 
+
+32:11 think you know logically the next step
+32:14 
+
+32:14 is principle software engineer but in in
+32:17 
+
+32:17 practice I I don't know yet I don't know
+32:19 
+
+32:19 how feasible that will be but I am um
+32:21 
+
+32:21 taking a you know being more aware of
+32:24 
+
+32:24 the bigger picture of what the company
+32:26 
+
+32:26 or the department is heading to ws and
+32:28 
+
+32:28 being I think trying to build up my
+32:31 
+
+32:31 knowledge about that yeah yeah some
+32:34 
+
+32:34 sometimes it's really important to get
+32:35 
+
+32:35 that time to look at things from like a
+32:39 
+
+32:39 far away like from a higher level like
+32:41 
+
+32:41 zoom out so I understand that definitely
+32:44 
+
+32:44 it's important to take breaks just to
+32:46 
+
+32:46 because if you're running too fast
+32:48 
+
+32:48 sometimes you don't know where you're
+32:49 
+
+32:49 going so it's important to stop look
+32:51 
+
+32:51 around take a break yeah so I love what
+32:54 
+
+32:54 everything you said about that I
+32:55 
+
+32:55 appreciate that and thank you so much
+32:57 
+
+32:57 for having me thank you so yes this has
+32:60 
+
+32:60 been re tag follow us subscribe to us
+33:03 
+
+33:03 and do all the socials uh and do comment
+33:05 
+
+33:05 if you have other questions for you men
+33:07 
+
+33:07 we will uh get her to answer you as well
+33:10 
+
+33:10 thank you
+33:13 
+
+33:13 [Music]
+33:16 
+
+33:16 bye-bye

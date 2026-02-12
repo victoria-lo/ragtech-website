@@ -53,7 +53,7 @@ Cute capybara aesthetic with vibrant brand colors:
 
 ## 📄 Pages
 
-1. **Home** (`/`) - Hero with mic.png, projects (Podcast, Techie Taboo, Workshops), about section, CTA
+1. **Home** (`/`) - Hero with techybara-holding-mic.png, projects (Podcast, Techie Taboo, Workshops), about section, CTA
 2. **About** (`/about`) - Story, team profiles with photos, core values, mission, episodes gallery
 3. **Blog** (`/blog`) - Blog listing with newsletter subscription, powered by Hashnode headless CMS
 4. **Blog Post** (`/blog/[slug]`) - Individual blog posts with custom styling and formatting

@@ -1,0 +1,2056 @@
+00:01 Welcome to Rack Tech, the place for
+00:03 
+
+00:03 bites and banter. My name is Natasha.
+00:05 
+
+00:05 I'm a software engineer and co-host. And
+00:07 
+
+00:07 in this episode, we have Salony, also
+00:09 
+
+00:09 co-host and software engineer, as well
+00:11 
+
+00:11 as our guest speaker, Martin. Martin is
+00:14 
+
+00:14 a recently retired software engineer
+00:16 
+
+00:16 with experience being an educator in the
+00:18 
+
+00:18 tech community. I teach Python at the
+00:20 
+
+00:20 civil service and um I used to teach
+00:23 
+
+00:23 Python at General Assembly. Uh I just
+00:26 
+
+00:26 love teaching. In this episode, he's
+00:28 
+
+00:28 going to share with us his thoughts
+00:30 
+
+00:30 about how AI has changed learning,
+00:32 
+
+00:32 especially as he is considering
+00:33 
+
+00:33 homeschooling for his young daughter.
+00:36 
+
+00:36 [Music]
+00:40 
+
+00:40 I actually asked JGBT to teach me
+00:42 
+
+00:42 everything about statistics because, you
+00:44 
+
+00:44 know, I never was good at math. So, I
+00:46 
+
+00:46 wanted to see if it can teach me
+00:48 
+
+00:48 statistics and it could. And it could do
+00:51 
+
+00:51 it so well that I turned it into a
+00:53 
+
+00:53 statistics Python course for the Civil
+00:55 
+
+00:55 Service College. Oh. and and that is the
+00:58 
+
+00:58 best rated course of all courses in the
+00:60 
+
+00:60 civil service college. So if this thing
+01:03 
+
+01:03 could teach me something so well, it
+01:05 
+
+01:05 could teach anything to anyone. I
+01:07 
+
+01:07 believe especially things that you learn
+01:09 
+
+01:09 up until high school, I think can
+01:12 
+
+01:12 already do that very well. I actually uh
+01:14 
+
+01:14 use to teach me things like uh like
+01:18 
+
+01:18 concepts basically. Uh for example, in
+01:21 
+
+01:21 finances, you know, like there there are
+01:23 
+
+01:23 lots of these jarens that I use. I asked
+01:25 
+
+01:25 Chad GP to teach me in layman terms what
+01:28 
+
+01:28 this means and it does a very good job.
+01:30 
+
+01:30 Exactly. So and and you know first how
+01:33 
+
+01:33 do I know if I can trust chat? Right. So
+01:36 
+
+01:36 I asked it you can try this prompt. I'm
+01:38 
+
+01:38 a total beginner in Python. You are my
+01:41 
+
+01:41 mentor. Let's start. That's all you have
+01:43 
+
+01:43 to write. Oh yes. And you know I kept
+01:45 
+
+01:45 playing it the game with it. It keeps
+01:48 
+
+01:48 telling you about how to make variables
+01:50 
+
+01:50 and then uh it suggests a few exercises
+01:53 
+
+01:53 for you know like open visual studio
+01:54 
+
+01:54 write hello world print it and then I
+01:56 
+
+01:56 say okay I can see hello world then it
+01:58 
+
+01:58 teaches you about if and else first
+02:01 
+
+02:01 operators and then if and else and then
+02:03 
+
+02:03 for loops and then while loops and then
+02:06 
+
+02:06 um functions and then classes. It's
+02:09 
+
+02:09 exactly the same way how I teach Python
+02:12 
+
+02:12 as well. Yeah. And it even uses exactly
+02:14 
+
+02:14 the same sample codes that I used in my
+02:16 
+
+02:16 slides for many many years already as
+02:19 
+
+02:19 well. Right? So I could see yeah this
+02:22 
+
+02:22 thing teaches uh in the right order the
+02:24 
+
+02:24 right things in the right order. Right.
+02:27 
+
+02:27 So um if you prompt it correctly. If you
+02:30 
+
+02:30 prompt it correctly. Yeah. But but I
+02:32 
+
+02:32 mean that prompt was very minimalistic
+02:33 
+
+02:33 and it still worked out very well.
+02:35 
+
+02:35 Right. Um and um so and that's what what
+02:40 
+
+02:40 I mentioned to you earlier as well,
+02:41 
+
+02:41 right? Um this is the worst CHP will
+02:44 
+
+02:44 ever be or any other LLM. Claw is
+02:47 
+
+02:47 probably already better than CHP now. So
+02:49 
+
+02:49 like 3 years from now we will have an
+02:52 
+
+02:52 LLM that's significantly more
+02:54 
+
+02:54 intelligent than that. Significantly
+02:56 
+
+02:56 less hallucinations, better at citing
+02:59 
+
+02:59 its sources and so on so that you can
+03:01 
+
+03:01 double check and read go deeper into a
+03:04 
+
+03:04 topic. Um so I feel like every human on
+03:07 
+
+03:07 earth is soon going to have a personal
+03:10 
+
+03:10 mentor. So, we get that to that stage
+03:12 
+
+03:12 where we have mastery learning and
+03:13 
+
+03:13 one-on-one tutoring, right? I'm sure I
+03:15 
+
+03:15 mean rich people already do this. They
+03:17 
+
+03:17 send their students their their kids to
+03:19 
+
+03:19 private schools. They they get private
+03:20 
+
+03:20 tutors come to their places, right? And
+03:23 
+
+03:23 now we will democratize this. Everyone
+03:25 
+
+03:25 will have this education that all that
+03:28 
+
+03:28 so far has been reserved for rich people
+03:30 
+
+03:30 only, right? And then um it becomes a
+03:32 
+
+03:32 game theory kind of thing. the first
+03:34 
+
+03:34 country that um you know uh overhauls
+03:37 
+
+03:37 the education system and just uses AI to
+03:40 
+
+03:40 have one-on-one mastery learning for
+03:42 
+
+03:42 every single child in the country will
+03:44 
+
+03:44 produce an explosion of intelligence and
+03:47 
+
+03:47 capabilities in that country that um
+03:49 
+
+03:49 other countries will notice and I think
+03:51 
+
+03:51 then this will just spread through the
+03:53 
+
+03:53 throughout the entire globe very quickly
+03:55 
+
+03:55 and I think schools will become places
+03:58 
+
+03:58 of social gathering only where the
+04:00 
+
+04:00 students uh uh they will use the AI eyes
+04:04 
+
+04:04 to learn and maybe it usually um results
+04:07 
+
+04:07 in a project that the student will do
+04:09 
+
+04:09 and they will all gather at the school
+04:10 
+
+04:10 to present the projects to each other
+04:12 
+
+04:12 right so that's how I could imagine the
+04:15 
+
+04:15 future of education could look like and
+04:17 
+
+04:17 I can imagine that a company
+04:19 
+
+04:19 I always say company but I mean country
+04:22 
+
+04:22 but Singapore is run like a company
+04:24 
+
+04:24 right
+04:25 
+
+04:25 truly on slip but it's also true um so a
+04:29 
+
+04:29 country like Singapore has been always
+04:30 
+
+04:30 very good at embracing new technologies
+04:32 
+
+04:32 very very quickly So I can see that
+04:35 
+
+04:35 actually in Singapore we could end up
+04:36 
+
+04:36 with something like this, right? And I
+04:38 
+
+04:38 mean homeschooling is allowed unlike
+04:40 
+
+04:40 many other countries in the world.
+04:42 
+
+04:42 Germany is not allowed. Oh, not allowed.
+04:44 
+
+04:44 Not allowed. Switzerland. I think public
+04:46 
+
+04:46 education is free. Yeah, it's free but I
+04:48 
+
+04:48 mean it's still public education. Let's
+04:51 
+
+04:51 be honest, public education is partly
+04:53 
+
+04:53 indoctrination, right? Um I can see that
+04:57 
+
+04:57 a country doesn't want to get let go of
+04:58 
+
+04:58 that, right? So u I know that as as a as
+05:02 
+
+05:02 a homeschooler I will have to provide
+05:04 
+
+05:04 lots of paperwork to to show to the
+05:08 
+
+05:08 ministry of education how I'm going to
+05:10 
+
+05:10 do this. So it's legal in it's legal but
+05:13 
+
+05:13 you have to have a a degree uh a
+05:16 
+
+05:16 master's degree and you have to you as
+05:19 
+
+05:19 in the teacher me
+05:23 
+
+05:23 um and you have to get a license to be a
+05:25 
+
+05:25 teacher which cost like $1,200 a year or
+05:28 
+
+05:28 something like that. Uh I haven't gone
+05:30 
+
+05:30 too deeply into all of this just you
+05:31 
+
+05:31 know brows around a little bit already.
+05:33 
+
+05:33 I mean I still have a few years before
+05:35 
+
+05:35 this really becomes relevant. Um but
+05:37 
+
+05:37 yeah and then you have to write down
+05:38 
+
+05:38 exactly how you are going to teach with
+05:40 
+
+05:40 which materials every single topic and
+05:43 
+
+05:43 things like um you know it's it's not
+05:45 
+
+05:45 just how are you going to teach reading
+05:47 
+
+05:47 writing math I mean that's really simp
+05:49 
+
+05:49 simple it's not difficult anyone can do
+05:51 
+
+05:51 that but also things like uh
+05:54 
+
+05:54 understanding the history of the country
+05:55 
+
+05:55 and you know creating a patriotic child
+05:58 
+
+05:58 you have to prove that as well oh like
+05:59 
+
+05:59 social studies that yeah so I will have
+06:03 
+
+06:03 to teach my child the the national
+06:05 
+
+06:05 anthem of Singapore. So I have to learn
+06:07 
+
+06:07 it myself now.
+06:11 
+
+06:11 That's going to be interesting. So it's
+06:12 
+
+06:12 going to be a learning uh journey for
+06:14 
+
+06:14 you as well. Totally. For me, you have
+06:15 
+
+06:15 to learn first before extremely looking
+06:17 
+
+06:17 forward to this actually teaching myself
+06:20 
+
+06:20 all these basic concepts from scratch
+06:22 
+
+06:22 again. I'm super looking forward to that
+06:24 
+
+06:24 because like I said, I suck at math and
+06:26 
+
+06:26 I will now become good at math alongside
+06:29 
+
+06:29 my daughter, right? I'm teaching her
+06:31 
+
+06:31 with the help of GPT6 whatever we will
+06:33 
+
+06:33 have 6 years from now. Right. Right.
+06:35 
+
+06:35 Right. Right.
+06:37 
+
+06:37 And I always say this like teaching is
+06:39 
+
+06:39 the best way to learn. Exact. Yeah.
+06:41 
+
+06:41 Yeah. For sure. For sure. I totally
+06:44 
+
+06:44 agree with that. Yeah. Um another reason
+06:46 
+
+06:46 why I, you know, do these meetups and
+06:49 
+
+06:49 give talks. If you have to prepare your
+06:51 
+
+06:51 stuff to give a tech talk, that is the
+06:54 
+
+06:54 only way you're really truly going to
+06:56 
+
+06:56 understand it, right? because you don't
+06:58 
+
+06:58 want to you don't want to talk nonsense
+06:60 
+
+06:60 in front of an audience where somebody
+07:01 
+
+07:01 might ask a tricky question afterwards,
+07:03 
+
+07:03 right? So, you want to come prepared.
+07:05 
+
+07:05 That that's the philosophy of my life.
+07:07 
+
+07:07 Yeah. If I ever want to like learn
+07:09 
+
+07:09 something, I'll give I'll put myself up
+07:11 
+
+07:11 for giving a talk on it or something
+07:13 
+
+07:13 like that. That's really the best way.
+07:15 
+
+07:15 Yeah. Yeah. I mean, everybody ask me,
+07:17 
+
+07:17 "Oh, but what about the socializing
+07:19 
+
+07:19 aspect when you do homeschooling?"
+07:21 
+
+07:21 That's the first question every single
+07:23 
+
+07:23 person that I pitch this idea to bounces
+07:26 
+
+07:26 back to me like, "Well, what about the
+07:27 
+
+07:27 socializing?" Um, yeah, it's actually a
+07:30 
+
+07:30 very good question. It's going to be
+07:31 
+
+07:31 difficult obviously, but I feel like
+07:34 
+
+07:34 there are sports clubs, music clubs,
+07:38 
+
+07:38 whatever, right? Uh, there there are
+07:41 
+
+07:41 playgrounds at every single block
+07:42 
+
+07:42 everywhere in Singapore. I just
+07:43 
+
+07:43 literally have to go down to the
+07:44 
+
+07:44 playground and there are like 20 new
+07:46 
+
+07:46 friends that my daughter can make
+07:47 
+
+07:47 immediately right from the from the from
+07:50 
+
+07:50 our direct neighbors. Um I feel like the
+07:53 
+
+07:53 socializing is not going to be an issue.
+07:55 
+
+07:55 Um and I feel like a lot of socializing
+07:57 
+
+07:57 in school is actually uh bullying.
+08:00 
+
+08:00 Children can be quite brutal, right? Um
+08:03 
+
+08:03 so lots of uh socializing in school also
+08:07 
+
+08:07 in my own experience from from my school
+08:09 
+
+08:09 time is bullying simply and I don't I
+08:12 
+
+08:12 don't think it's valuable for for
+08:14 
+
+08:14 somebody to pick that up. Um and then
+08:17 
+
+08:17 once you get into the workforce I mean
+08:19 
+
+08:19 there's also bullying there's office
+08:20 
+
+08:20 politics and all that but I mean there
+08:22 
+
+08:22 you have me you can go to HR and
+08:23 
+
+08:23 complain and it's not it's not as tough
+08:27 
+
+08:27 as in an actual school setting where
+08:29 
+
+08:29 children are just murdering each other.
+08:33 
+
+08:33 can be really brutal in Asian society.
+08:35 
+
+08:35 That might that might be as well.
+08:37 
+
+08:37 Especially if they're a little
+08:38 
+
+08:38 different. Yes. From
+08:41 
+
+08:41 Yeah, I can attest to that. We're a
+08:43 
+
+08:43 little bit different in a you know,
+08:46 
+
+08:46 fairly homogeneous society. And even
+08:47 
+
+08:47 though we're diverse in terms of uh
+08:49 
+
+08:49 racial uh ethnicity wise, I think the
+08:53 
+
+08:53 the our values and cultures tend to be
+08:55 
+
+08:55 very homogeneous. And if you stand out,
+08:56 
+
+08:56 if you start becoming that person that
+08:58 
+
+08:58 speaks up more, who thinks differently,
+09:00 
+
+09:00 which ironically are skills that our
+09:02 
+
+09:02 society is trying to like embed into our
+09:05 
+
+09:05 curriculum, you get discriminated a lot
+09:07 
+
+09:07 and bullied. So maybe with that
+09:09 
+
+09:09 perspective it, you know, homeschooling
+09:12 
+
+09:12 could like bode well to uh having your
+09:14 
+
+09:14 child have like their own unique
+09:16 
+
+09:16 personality and traits without being
+09:17 
+
+09:17 discriminated against so that they could
+09:19 
+
+09:19 excel in the workplace because these, as
+09:22 
+
+09:22 you can see, even in like engineering
+09:24 
+
+09:24 with chat GPT coming along the way,
+09:26 
+
+09:26 we're not, you know, people are not
+09:28 
+
+09:28 going to value us just for being like
+09:30 
+
+09:30 code monkeys anymore. We're going to
+09:32 
+
+09:32 need those skills to start innovating to
+09:35 
+
+09:35 start like you know what does it take to
+09:37 
+
+09:37 work in a team to summarize ideas from
+09:39 
+
+09:39 like different people and these are
+09:41 
+
+09:41 higher level skills um that AI can
+09:43 
+
+09:43 already like solve those lower level
+09:45 
+
+09:45 skills. True. And actually when you
+09:47 
+
+09:47 mention it, when you look at it that
+09:48 
+
+09:48 way, I feel there's a huge disruption
+09:50 
+
+09:50 coming towards Singapore because this
+09:53 
+
+09:53 kind of intelligence that Singapore
+09:55 
+
+09:55 school system puts into the heads of the
+09:57 
+
+09:57 children is going to be become
+09:59 
+
+09:59 worthless. Right. The cost for this kind
+10:01 
+
+10:01 of intelligence trends towards zero now
+10:03 
+
+10:03 is being done by machines. What we now
+10:05 
+
+10:05 need is creativity. Yes. Exactly. And
+10:08 
+
+10:08 our schools haven't hacked that part,
+10:10 
+
+10:10 the creative part. Um, and how how do
+10:12 
+
+10:12 you think you're going to hack it in
+10:13 
+
+10:13 your homeschooling system? Have you
+10:15 
+
+10:15 figured that out yet? I mean, I have my
+10:17 
+
+10:17 my visions already, right? I see myself
+10:19 
+
+10:19 already. Okay, how how am I going to do
+10:21 
+
+10:21 this in four years when when she gets to
+10:23 
+
+10:23 the point where, you know, childhood is
+10:25 
+
+10:25 over and now now the teaching begins. Um
+10:30 
+
+10:30 yeah, but I think this mastery learning
+10:33 
+
+10:33 aspect is is a big part of it, right?
+10:35 
+
+10:35 So, uh we will start every topic very
+10:38 
+
+10:38 dry, but um
+10:42 
+
+10:42 actually not very dry. So every topic
+10:44 
+
+10:44 needs to be tied to some real world
+10:46 
+
+10:46 applications.
+10:48 
+
+10:48 So um I think um I will spend not so
+10:52 
+
+10:52 much time with her sitting at a desk and
+10:56 
+
+10:56 crunching numbers or whatever but more
+10:58 
+
+10:58 like doing excursions going out looking
+11:00 
+
+11:00 at things in the real world museums
+11:03 
+
+11:03 whatever and um always trying to find
+11:06 
+
+11:06 what can we do what can we build in
+11:08 
+
+11:08 order to uh make this uh idea stick.
+11:11 
+
+11:11 Yes. Yes. It's very Montasurari based
+11:13 
+
+11:13 kind of like approach and honestly I
+11:15 
+
+11:15 feel like it might have come from your
+11:17 
+
+11:17 uh you knowing that you can learn
+11:19 
+
+11:19 anything because you learn Python on
+11:21 
+
+11:21 your own you learn how to like build uh
+11:23 
+
+11:23 things on your own and I think mastery
+11:25 
+
+11:25 of any subject it's about having those
+11:27 
+
+11:27 building blocks we always start there
+11:29 
+
+11:29 but if you already come in with that
+11:30 
+
+11:30 intention that I want to create I mean
+11:32 
+
+11:32 hence the word creativity right it comes
+11:34 
+
+11:34 from uh knowing that you have the
+11:36 
+
+11:36 resources to create and you're endowing
+11:38 
+
+11:38 your child with that mastery so they
+11:40 
+
+11:40 have that building blockm also endowing
+11:42 
+
+11:42 them with the knowledge that you're
+11:43 
+
+11:43 going to use these to create whatever
+11:45 
+
+11:45 you want later. I think that's a
+11:46 
+
+11:46 valuable part and the thing about
+11:48 
+
+11:48 standardized education is that it
+11:51 
+
+11:51 doesn't do that latter part. It gives
+11:52 
+
+11:52 you that mastery but it doesn't give you
+11:55 
+
+11:55 the autonomy to create you know it's
+11:57 
+
+11:57 telling you that the end result there is
+11:59 
+
+11:59 only one end result that test that
+12:02 
+
+12:02 whatever that's why role memorization
+12:04 
+
+12:04 becomes the most efficient yes way to
+12:07 
+
+12:07 achieve that but what if the deliverable
+12:09 
+
+12:09 and outcome wasn't that one deliverable
+12:12 
+
+12:12 and it had had many many many different
+12:14 
+
+12:14 outcomes then if you think about it from
+12:15 
+
+12:15 an efficiency perspective what are like
+12:18 
+
+12:18 the base level skills you need that
+12:19 
+
+12:19 inherent creativity another reason um
+12:23 
+
+12:23 why I think I can do it is I mean many
+12:26 
+
+12:26 people might think this is like super
+12:28 
+
+12:28 timeconuming I it probably is I wouldn't
+12:31 
+
+12:31 do this as a believe naively believing I
+12:34 
+
+12:34 can do this while I'm still working that
+12:36 
+
+12:36 would be too risky right um but when I
+12:39 
+
+12:39 think about my time in school especially
+12:41 
+
+12:41 the earlier years of primary school
+12:43 
+
+12:43 secondary school and even high school
+12:46 
+
+12:46 there's so much boiler plate where you
+12:48 
+
+12:48 don't do learning like the first five
+12:50 
+
+12:50 minutes the teacher tries to get the
+12:52 
+
+12:52 class be quiet. The next five minutes,
+12:53 
+
+12:53 the teacher tries to get to look at the
+12:55 
+
+12:55 homeworks, right? Then make sure that
+12:57 
+
+12:57 everybody understood their homeworks and
+12:59 
+
+12:59 scold the people who didn't do the
+12:60 
+
+12:60 homeworks. The next five minutes teacher
+13:01 
+
+13:01 is trying to get everyone to open the
+13:03 
+
+13:03 book at the right page for the next
+13:04 
+
+13:04 topic, right? Then there might be 5 to
+13:07 
+
+13:07 10 minutes of actual learning. So, and
+13:11 
+
+13:11 then there's 5 minutes of explaining the
+13:12 
+
+13:12 next homework and packing up and then
+13:14 
+
+13:14 it's over. 45 minutes gone. So 10
+13:17 
+
+13:17 minutes and you do usually six uh six
+13:20 
+
+13:20 lessons per day at least in Germany. I
+13:22 
+
+13:22 don't know how long school is here. So
+13:24 
+
+13:24 that's 16 minutes of actual learning in
+13:27 
+
+13:27 a day, right? And I will get rid of all
+13:30 
+
+13:30 this boiler plate. There will be no
+13:31 
+
+13:31 noisy children, right? No no child
+13:34 
+
+13:34 that's throwing paper balls in the
+13:36 
+
+13:36 classroom. This was normal in I don't
+13:38 
+
+13:38 know how I think the the classrooms in
+13:40 
+
+13:40 Singapore are probably more orderly,
+13:42 
+
+13:42 right? It is. I think it's more orderly.
+13:45 
+
+13:45 depends on the school. The ball throwing
+13:46 
+
+13:46 so happens. Yeah. But so so far what I
+13:49 
+
+13:49 have read um from looking at YouTube
+13:51 
+
+13:51 videos of homeschoolers around the
+13:52 
+
+13:52 world, they all say they do the actual
+13:54 
+
+13:54 schooling in two to three hours in the
+13:56 
+
+13:56 morning and the rest of the day is
+13:58 
+
+13:58 excursions and you know experiencing the
+14:00 
+
+14:00 real world. And I find that quite
+14:03 
+
+14:03 believable. I I think I can get it done
+14:05 
+
+14:05 in that time as well. Especially when I
+14:07 
+
+14:07 think about how I teach complex topics
+14:10 
+
+14:10 already to adults. I mean I teach to
+14:12 
+
+14:12 adults. So that's going to be a tricky
+14:14 
+
+14:14 thing where I need to be careful.
+14:16 
+
+14:16 Teaching children is very different from
+14:18 
+
+14:18 teaching adults. Of course, I'm aware of
+14:19 
+
+14:19 that. Need to be much more patient and
+14:21 
+
+14:21 so on. Um but yeah, so so that's the
+14:25 
+
+14:25 other thing that um I have in my mind.
+14:28 
+
+14:28 You can condense 10 years of school into
+14:32 
+
+14:32 one sixth of that time and get through
+14:35 
+
+14:35 all that. You can get through that much
+14:36 
+
+14:36 much faster, right? And then I hope that
+14:39 
+
+14:39 I I foresee that I will have a full
+14:43 
+
+14:43 functioning member of society by the
+14:44 
+
+14:44 time she's probably 12 or whatever. And
+14:46 
+
+14:46 then I want her to go out and uh find
+14:49 
+
+14:49 her passion basically, right? Education
+14:51 
+
+14:51 is done. Go around and find your
+14:53 
+
+14:53 passion. See what whatever uh keeps her
+14:57 
+
+14:57 entertained for like days and days and
+14:59 
+
+14:59 days, right? And then as she finds her
+15:02 
+
+15:02 passion, she will become very very good
+15:04 
+
+15:04 at that thing, right? Everyone says if
+15:06 
+
+15:06 you want to stand out, find that one
+15:08 
+
+15:08 thing that no one else in the world does
+15:10 
+
+15:10 and you become very good. You become the
+15:12 
+
+15:12 best in the world at that one thing and
+15:14 
+
+15:14 your life is going to be fine, right?
+15:16 
+
+15:16 And that's this is what I'm hoping to
+15:18 
+
+15:18 enable for my daughter eventually as
+15:19 
+
+15:19 well. Like she will just bounce around
+15:21 
+
+15:21 and try out this and that and this. I
+15:22 
+
+15:22 will just enable everything. My parents
+15:24 
+
+15:24 did that for me actually as well. Now
+15:25 
+
+15:25 when I think back to it, if I showed any
+15:28 
+
+15:28 interested in swimming, they put me into
+15:30 
+
+15:30 a swimming class. you know, they put me
+15:32 
+
+15:32 into a chess club. When I touched one
+15:34 
+
+15:34 chessboard, as I pushed a key on the
+15:37 
+
+15:37 piano, they bought me a a keyboard. And
+15:41 
+
+15:41 um and I just selftaught myself,
+15:42 
+
+15:42 whatever. I just had some time, right?
+15:44 
+
+15:44 And um so yeah, humans are knowledge
+15:50 
+
+15:50 sponges and and and self-learning
+15:52 
+
+15:52 machines, right? And um I just want to
+15:55 
+
+15:55 enable that basically. And I think the
+15:58 
+
+15:58 outcome will will be good in the end. It
+15:60 
+
+15:60 worked for me.
+16:01 
+
+16:01 It's going to work for her as well, I'm
+16:02 
+
+16:02 sure. Yeah. And good is subjective.
+16:05 
+
+16:05 Anyways, I think the one of the most
+16:07 
+
+16:07 important things you're going to get out
+16:08 
+
+16:08 of this is that bond that you'll share
+16:09 
+
+16:09 with your daughter. That's incredible
+16:12 
+
+16:12 privilege. Yes. Yes. Because a lot of
+16:14 
+
+16:14 like children don't have this with their
+16:16 
+
+16:16 parents, especially when we were talking
+16:18 
+
+16:18 about the tendency for dual working
+16:20 
+
+16:20 parents, you know, and you're basically
+16:22 
+
+16:22 outsourcing that bond, that care, that
+16:24 
+
+16:24 education, right? Maybe. Yeah. Now that
+16:27 
+
+16:27 you touched on that topic, brings us
+16:29 
+
+16:29 back to the very beginning when you ask
+16:31 
+
+16:31 like what's your day like with your with
+16:32 
+
+16:32 your newborn now. Um, so you know, I
+16:36 
+
+16:36 mentioned I was very late as a parent,
+16:37 
+
+16:37 right? So all my friends already have
+16:39 
+
+16:39 two children and they all like 10 years
+16:41 
+
+16:41 old already, right? Um, so and so I I
+16:44 
+
+16:44 saw all these babies coming into the
+16:46 
+
+16:46 world and of course I love them all and
+16:48 
+
+16:48 usually my friends kids also like me
+16:51 
+
+16:51 very much whenever I come to visit in
+16:53 
+
+16:53 Christmas during Christmas time. Yeah.
+16:54 
+
+16:54 the the cool uncle who brings the cool
+16:56 
+
+16:56 toys, right? Um but then they are all
+16:59 
+
+16:59 very cute, but then when they scream,
+17:01 
+
+17:01 you're like, "Oh my god, this is so
+17:03 
+
+17:03 annoying." Right? And I can see how lots
+17:05 
+
+17:05 of young people they feel like I don't
+17:07 
+
+17:07 want to be a parent. Like I want to
+17:08 
+
+17:08 enjoy my life, you know, want to travel
+17:10 
+
+17:10 the world. But when you get my when I
+17:12 
+
+17:12 got my own child, the screaming is
+17:15 
+
+17:15 different. It's it's not the kind of
+17:17 
+
+17:17 screaming that you hear from other
+17:18 
+
+17:18 children when you go to the mall or
+17:20 
+
+17:20 whatever. The screams of your own child
+17:22 
+
+17:22 is a language that you immediately
+17:24 
+
+17:24 understand. Like after three days, we
+17:26 
+
+17:26 could distinguish the I'm hungry scream
+17:28 
+
+17:28 from the my diaper is full scream from
+17:30 
+
+17:30 the I have colleagues scream. There's a
+17:32 
+
+17:32 three different distinct screams. So you
+17:34 
+
+17:34 don't you don't feel stressed anymore
+17:37 
+
+17:37 about this noise because it's actual
+17:39 
+
+17:39 communication going on and you're like
+17:41 
+
+17:41 damn she's like only 2 months old by by
+17:44 
+
+17:44 mimicking by by what she does with her
+17:46 
+
+17:46 eyes and eyebrows and smiles. when she
+17:49 
+
+17:49 starts smiling, it's the best ever. Uh,
+17:50 
+
+17:50 and when she starts laughing, it's even
+17:52 
+
+17:52 better. Um, and so with your own child,
+17:56 
+
+17:56 so like if there are people out there
+17:57 
+
+17:57 who who feel like, I don't want to have
+17:59 
+
+17:59 that, it's like too difficult. It's too
+18:01 
+
+18:01 too noisy and too crazy. No, it's
+18:02 
+
+18:02 actually not. If it's your own baby, you
+18:06 
+
+18:06 don't realize this as screaming, as
+18:08 
+
+18:08 noise. You It's It's actual
+18:11 
+
+18:11 communication going on right from the
+18:12 
+
+18:12 beginning, from day one. Yeah, that's
+18:15 
+
+18:15 very true. It's quite remarkable. Yeah.
+18:17 
+
+18:17 Yeah. I I really love your entire
+18:20 
+
+18:20 perspective on parenting. There's so
+18:22 
+
+18:22 much awe and there's so much learning,
+18:24 
+
+18:24 you know, even though we're talking
+18:26 
+
+18:26 about homeschooling education for the
+18:28 
+
+18:28 child, we're talking a lot about how I'm
+18:30 
+
+18:30 excited to learn to teach my child. And
+18:33 
+
+18:33 really, it just reminds me of this whole
+18:36 
+
+18:36 my my own joy at being an engineer also.
+18:39 
+
+18:39 It's it's very similar just it's a new
+18:41 
+
+18:41 problem to solve like uh you know, you
+18:43 
+
+18:43 were talking about just now. It's it's a
+18:45 
+
+18:45 new thing to learn. I feel like as
+18:47 
+
+18:47 engineers, we are probably better
+18:49 
+
+18:49 parents. I feel like I'm constantly
+18:51 
+
+18:51 debugging my own baby, right? I I
+18:55 
+
+18:55 literally have flowcharts in my mind.
+18:56 
+
+18:56 Oh, she screams. Okay, did she pee? No,
+18:58 
+
+18:58 diaper is fine. Does it Does it look
+19:01 
+
+19:01 like she's in pain? Okay, let's do a
+19:02 
+
+19:02 little bit of a baby massage. Okay,
+19:04 
+
+19:04 she's still screaming. Oh, maybe she's
+19:05 
+
+19:05 bored. Let's go to a different room. The
+19:07 
+
+19:07 screaming stops, right? So, like I have
+19:08 
+
+19:08 this flowchart already how to debug my
+19:12 
+
+19:12 baby. debugging and you're never once
+19:13 
+
+19:13 frustrated because you're like, "Okay, I
+19:15 
+
+19:15 just have to find another alternative. I
+19:17 
+
+19:17 just have to find something else. There
+19:18 
+
+19:18 must always be like a root problem that
+19:20 
+
+19:20 I can solve." Yeah. Exactly. So, I think
+19:23 
+
+19:23 we're trained to be very patient, very
+19:25 
+
+19:25 resourceful. Um, very logical. Yeah.
+19:28 
+
+19:28 Exactly. Very logical, too. And where we
+19:31 
+
+19:31 don't know, we just find resources from
+19:33 
+
+19:33 elsewhere. You know, we read other
+19:34 
+
+19:34 books, we look at online resources, we
+19:36 
+
+19:36 look at what other parents are doing, we
+19:38 
+
+19:38 ask other gurus in the community. It's
+19:41 
+
+19:41 actually the same similar approach,
+19:43 
+
+19:43 right? Which is another good point that
+19:46 
+
+19:46 you bring up that I forgot when we were
+19:48 
+
+19:48 talking about homeschooling. Um, we live
+19:51 
+
+19:51 in a point in time now where virtually
+19:54 
+
+19:54 all human knowledge is available to
+19:56 
+
+19:56 everyone. We have tutorials about
+19:58 
+
+19:58 everything on YouTube. We have Corsera,
+19:60 
+
+19:60 Udemy, Khan Academy. We have um that
+20:03 
+
+20:03 website um lip lip gen where all books I
+20:07 
+
+20:07 mean it's pirated. Don't use it. Don't
+20:09 
+
+20:09 use it. um we're not using it. There's a
+20:11 
+
+20:11 command line tool where you can just
+20:13 
+
+20:13 download any book very easily.
+20:17 
+
+20:17 Um and then there's this other lady from
+20:19 
+
+20:19 uh is it Pakistan or or some place uh
+20:23 
+
+20:23 where she has all the journal papers,
+20:27 
+
+20:27 all pirated journal papers, right? And
+20:29 
+
+20:29 we have archive. Um, so it's an
+20:32 
+
+20:32 incredible point in time right now where
+20:35 
+
+20:35 this wouldn't have been possible for us
+20:37 
+
+20:37 growing up where there was no internet.
+20:39 
+
+20:39 Right now we have it and it's all there.
+20:41 
+
+20:41 Of course, it gets more and more
+20:42 
+
+20:42 monetized now. So download as much as
+20:45 
+
+20:45 you can while it's still free, I would
+20:46 
+
+20:46 say. I have a few terabytes at home. I'm
+20:48 
+
+20:48 just downloading all the stuff all the
+20:50 
+
+20:50 time. Um, so yeah, that that needs to be
+20:54 
+
+20:54 said, right? Um, we live in this world
+20:56 
+
+20:56 now where all this knowledge is there
+20:58 
+
+20:58 and LLMs will actually empower us to
+21:00 
+
+21:00 sift through that knowledge in a in a in
+21:03 
+
+21:03 a more structured way. I mean, that's
+21:07 
+
+21:07 it's also two coins, right? There's all
+21:08 
+
+21:08 this knowledge, but there's a lot of
+21:09 
+
+21:09 noise and very little signal, right?
+21:12 
+
+21:12 There are so many scientific papers that
+21:13 
+
+21:13 are fraudulent or not not reproducible
+21:15 
+
+21:15 and whatever uh or like biased um thanks
+21:19 
+
+21:19 to financial incentives behind them that
+21:21 
+
+21:21 are not uh communicated and so on. Um,
+21:24 
+
+21:24 and I feel like with LLMs, we will be
+21:27 
+
+21:27 able to just soak all soak in all that
+21:30 
+
+21:30 knowledge, vectorize it, and then ask
+21:32 
+
+21:32 the LLM what if if there are certain big
+21:35 
+
+21:35 picture patterns that it can see. Um, so
+21:39 
+
+21:39 it's it's going to be great. So, I've
+21:41 
+
+21:41 been doing this actually for a while. I
+21:42 
+
+21:42 mentioned this earlier, right? Um,
+21:44 
+
+21:44 before the talk that I built a little
+21:46 
+
+21:46 tool to summarize YouTube videos. Yeah.
+21:49 
+
+21:49 Um, and I gave talks about this at the
+21:51 
+
+21:51 library on how I built it. So u it's
+21:53 
+
+21:53 open source. Anyone can actually now
+21:54 
+
+21:54 download it. It's a docker container
+21:56 
+
+21:56 docker up and the tool runs for you. Um
+21:59 
+
+21:59 and it's incredible. I I have been
+22:01 
+
+22:01 piping all interesting YouTube videos,
+22:04 
+
+22:04 two three-hour long videos, podcasts
+22:06 
+
+22:06 usually, right? Which I would never have
+22:07 
+
+22:07 had the time to watch and and now I just
+22:10 
+
+22:10 pipe it into the tool like 30 seconds
+22:12 
+
+22:12 later I have I have a bullet point
+22:14 
+
+22:14 summary and it's a very very accurate
+22:16 
+
+22:16 summary. Like JBT is really good at
+22:19 
+
+22:19 taking some text and summarizing. There
+22:20 
+
+22:20 is no room for hallucination because it
+22:22 
+
+22:22 just takes the content that's already in
+22:24 
+
+22:24 the context. That's true. And these
+22:26 
+
+22:26 summaries are just incredible. Like I
+22:28 
+
+22:28 can soak up so much knowledge in very
+22:30 
+
+22:30 very short amount of time and I'm saving
+22:33 
+
+22:33 all these summaries into my notes app.
+22:35 
+
+22:35 And then I vectorize all these summaries
+22:38 
+
+22:38 and now I can speak to my own notes. So
+22:41 
+
+22:41 I've been taking notes my whole life,
+22:43 
+
+22:43 but it's usually like a black hole.
+22:44 
+
+22:44 Everything goes into my notes app and
+22:46 
+
+22:46 never I never look at it again, right?
+22:48 
+
+22:48 And now I actually can I can literally
+22:50 
+
+22:50 ask what do I know? I'm very into keto
+22:53 
+
+22:53 diet and and you know nutrition and so
+22:55 
+
+22:55 on. What do I know about correlation
+22:57 
+
+22:57 between high cholesterol and heart
+22:58 
+
+22:58 disease for for example? And it's going
+23:00 
+
+23:00 to tell me based on my notes what uh
+23:04 
+
+23:04 what my current knowledge is about this
+23:06 
+
+23:06 topic, right? And imagine if we could
+23:09 
+
+23:09 just scrape every single scientific
+23:11 
+
+23:11 paper like that and then ask questions
+23:13 
+
+23:13 about that. like you know maybe you want
+23:15 
+
+23:15 to dive deep into a certain topic maybe
+23:17 
+
+23:17 blockchain you you you collect all
+23:19 
+
+23:19 scientific papers about blockchains and
+23:21 
+
+23:21 then you just pipe them all into an LLM
+23:22 
+
+23:22 and then you start using this mentor
+23:25 
+
+23:25 that you build for yourself to teach you
+23:26 
+
+23:26 about that topic and then you you know
+23:28 
+
+23:28 it's yeah it's it's more interactive to
+23:34 
+
+23:34 speak to that knowledge than reading all
+23:36 
+
+23:36 those papers and finding the little bits
+23:38 
+
+23:38 of nuggets of true wisdom in a huge
+23:41 
+
+23:41 amount of text. Right. Right. Right.
+23:43 
+
+23:43 Yeah. especially in this day and age of
+23:45 
+
+23:45 just information overload, right? Yeah.
+23:47 
+
+23:47 I I like how you summarize all of that
+23:49 
+
+23:49 that in this day and age, learning takes
+23:52 
+
+23:52 on a different tone. Um even though our
+23:55 
+
+23:55 standardized education systems might not
+23:57 
+
+23:57 have like evolved to uh change for this
+23:60 
+
+23:60 generation, we do have like the
+24:02 
+
+24:02 resources and that autonomy to use these
+24:04 
+
+24:04 AI tools to use these LLM to learn for
+24:07 
+
+24:07 ourselves and not just learn for
+24:08 
+
+24:08 ourselves to teach it to the next
+24:09 
+
+24:09 generation as well like in your case.
+24:11 
+
+24:11 And I feel like with all that we've
+24:13 
+
+24:13 talked about, you know, we've talked
+24:14 
+
+24:14 about like uh open source, the Python
+24:16 
+
+24:16 community, we've talked about um uh uh
+24:20 
+
+24:20 finances and then now we're talking
+24:22 
+
+24:22 about learning. Actually, this entire
+24:24 
+
+24:24 journey as an engineer, I think learning
+24:26 
+
+24:26 is like such a um prevalent theme that
+24:29 
+
+24:29 keeps coming about, you know, with like
+24:30 
+
+24:30 open source community, Python, it's
+24:32 
+
+24:32 about learning from community. It's
+24:33 
+
+24:33 about sharing that knowledge. Finances,
+24:35 
+
+24:35 it's also about like doing your due
+24:37 
+
+24:37 diligence, learning what works for you
+24:39 
+
+24:39 and what doesn't. And then obviously
+24:41 
+
+24:41 when we're talking about like being a
+24:42 
+
+24:42 dad, being uh like like exploring
+24:44 
+
+24:44 homeschooling, knowing what works for
+24:46 
+
+24:46 your kid and what doesn't, that's also
+24:47 
+
+24:47 learning as well. And being an engineer
+24:50 
+
+24:50 might prime you to be a better parent as
+24:52 
+
+24:52 well. So I think we've learned a lot
+24:54 
+
+24:54 from you, Martin, from your very diverse
+24:58 
+
+24:58 um experiences. And uh I'm sure this
+25:01 
+
+25:01 will not be the first time that we're
+25:02 
+
+25:02 going to talk to you. you said you were
+25:04 
+
+25:04 also exploring some sort of like podcast
+25:06 
+
+25:06 channel as well or or maybe like a means
+25:09 
+
+25:09 to share knowledge more. So, we'll be
+25:11 
+
+25:11 happy to see how we can work with you on
+25:12 
+
+25:12 this journey as well. But thank you so
+25:14 
+
+25:14 much for being here. Uh we've learned so
+25:17 
+
+25:17 much really and yeah, we hope to see you
+25:20 
+
+25:20 next time and also see what you have in
+25:22 
+
+25:22 store and yeah, we hope to see your
+25:24 
+
+25:24 daughter one day too and how she like
+25:26 
+
+25:26 comes uh through that homeschooling uh
+25:28 
+
+25:28 methodology. Yes, it was a great
+25:30 
+
+25:30 pleasure. Yeah, thank you so much.
+25:33 
+
+25:33 And uh do like and subscribe to us.
+25:39 
+
+25:39 All right. Thank you. Goodbye.

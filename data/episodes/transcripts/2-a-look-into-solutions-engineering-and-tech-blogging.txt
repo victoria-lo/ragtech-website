@@ -1,0 +1,2356 @@
+00:00 okay one two
+00:04 
+
+00:04 three okay we're going to start
+00:08 
+
+00:08 [Music]
+00:12 
+
+00:12 now hi everybody Welcome to rag Tech I'm
+00:15 
+
+00:15 Natasha a software engineer I'm Saloni a
+00:17 
+
+00:17 software engineer as well and I'm
+00:19 
+
+00:19 Victoria a Solutions engineer and
+00:21 
+
+00:21 together we are reag so uh today's
+00:24 
+
+00:24 episode we will be talking all about
+00:26 
+
+00:26 Victoria uh we'll be asking her about
+00:28 
+
+00:28 questions about her work as a solution
+00:30 
+
+00:30 engineer as well as her psychic as a
+00:33 
+
+00:33 technical blogger and all the other
+00:34 
+
+00:34 stuff that Saloni and I have been really
+00:37 
+
+00:37 wondering about like despite knowing
+00:38 
+
+00:38 Victoria for so long so yeah that's
+00:41 
+
+00:41 going to be today's episode so I'm going
+00:43 
+
+00:43 to start off first with my question that
+00:45 
+
+00:45 I've always wanted to ask it's a bit of
+00:47 
+
+00:47 a stupid question actually but what is
+00:49 
+
+00:49 the solutions engineer yeah so I knew
+00:53 
+
+00:53 that you guys are going to ask this just
+00:55 
+
+00:55 like with many people they also ask me
+00:57 
+
+00:57 what exactly does the solutions engineer
+00:59 
+
+00:59 do so I do have like a copy paste
+01:02 
+
+01:02 thing uh let me find it how many people
+01:06 
+
+01:06 did you copy paste this to uh a few
+01:08 
+
+01:08 about 10 people so I have like let me
+01:12 
+
+01:12 look at the most recent chat that's how
+01:14 
+
+01:14 many people ask her what a Solutions
+01:17 
+
+01:17 yeah because like I know what a
+01:18 
+
+01:18 Solutions architect does I I know what a
+01:20 
+
+01:20 software engineer does so I'm always
+01:22 
+
+01:22 like is the solutions engineer like the
+01:24 
+
+01:24 combination of both Yeah so basically a
+01:27 
+
+01:27 Solutions engineer like tldr it's a
+01:29 
+
+01:29 client facing engineer so what we do is
+01:32 
+
+01:32 we collaborate with our sales colleagues
+01:35 
+
+01:35 to basically present technical
+01:36 
+
+01:36 presentations to our clients and it's
+01:39 
+
+01:39 basically we're trying to sell our
+01:41 
+
+01:41 products to them so for Enterprise level
+01:44 
+
+01:44 kind of products it's like those stuff
+01:46 
+
+01:46 that you don't often see you know
+01:48 
+
+01:48 consumer kind of facing products it's
+01:50 
+
+01:50 like really B2B oh just B2B yeah so
+01:53 
+
+01:53 usually we need to you know provide some
+01:55 
+
+01:55 presentations Technical Solutions also
+01:58 
+
+01:58 understanding the clients Arch Tech like
+02:01 
+
+02:01 technical requirements and like their
+02:03 
+
+02:03 tax stack and everything so that's why
+02:05 
+
+02:05 we would have like meetings to actually
+02:07 
+
+02:07 get to know like what they want find out
+02:10 
+
+02:10 their business needs and make sure that
+02:11 
+
+02:11 business needs can um kind of fit with
+02:15 
+
+02:15 the technical requirements right so we
+02:18 
+
+02:18 provide Solutions so we engineer
+02:20 
+
+02:20 Solutions Solutions engineer um in order
+02:24 
+
+02:24 to uh give them that so on the other
+02:27 
+
+02:27 side we also work internally so like we
+02:29 
+
+02:29 also talk to the product team like in
+02:31 
+
+02:31 the event our clients give us any
+02:33 
+
+02:33 feedback on the product they want things
+02:35 
+
+02:35 changed we can or updated we can
+02:38 
+
+02:38 actually communicated that uh across to
+02:41 
+
+02:41 our internal teams yeah and finally we
+02:44 
+
+02:44 also test the products so like any
+02:45 
+
+02:45 products in beta or like going to go ga
+02:48 
+
+02:48 we're going to like test it out for the
+02:50 
+
+02:50 merchants make sure that everything what
+02:52 
+
+02:52 G again uh General availability General
+02:55 
+
+02:55 availability yeah I thought General
+02:57 
+
+02:57 Assembly yeah I thought it was General
+02:59 
+
+02:59 Assembly wait what's General
+03:01 
+
+03:01 availability like so basically it's out
+03:03 
+
+03:03 for the public for like every country so
+03:06 
+
+03:06 I work in the payments industry so you
+03:07 
+
+03:07 know there's different compliance for
+03:09 
+
+03:09 different countries right so when it's
+03:11 
+
+03:11 GA it means like it'll work in general
+03:14 
+
+03:14 available across many different
+03:15 
+
+03:15 countries work in general it's available
+03:17 
+
+03:17 in general yeah so it's not like just
+03:20 
+
+03:20 exclusive to some because we do have
+03:21 
+
+03:21 some products that are still in beta and
+03:24 
+
+03:24 then it wouldn't be like GA right like
+03:26 
+
+03:26 we would be the one testing making sure
+03:28 
+
+03:28 it's ready for our clients to use and
+03:31 
+
+03:31 actually integrate properly with all
+03:33 
+
+03:33 their any kind of Tex that yeah right
+03:36 
+
+03:36 right so do you like come up with demos
+03:38 
+
+03:38 for them to show that it does work in a
+03:41 
+
+03:41 much smaller scale of your pro produ
+03:44 
+
+03:44 product so it will work for yours yeah
+03:46 
+
+03:46 something like that so usually different
+03:48 
+
+03:48 Merchants we call them Merchants our
+03:50 
+
+03:50 clients so different Merchants would
+03:51 
+
+03:51 request demos sometimes and we would
+03:53 
+
+03:53 actually present a technical
+03:55 
+
+03:55 demonstration for them so technical demo
+03:57 
+
+03:57 we would also provide technical Workshop
+03:59 
+
+03:59 so for like C Executives sometimes the
+04:01 
+
+04:01 CFO will be there CTO will be there and
+04:03 
+
+04:03 they want to know exactly the end to
+04:05 
+
+04:05 endend process of the integration and
+04:07 
+
+04:07 how the product will look like on their
+04:08 
+
+04:08 website so then we can provide mockups
+04:11 
+
+04:11 or if they want like something really
+04:13 
+
+04:13 like real we would even code them demos
+04:16 
+
+04:16 so uh but we are not software Engineers
+04:19 
+
+04:19 so that's something that I need to
+04:20 
+
+04:20 always mention to them we don't code for
+04:22 
+
+04:22 them so some of them will like ask us
+04:24 
+
+04:24 you know come and code for me like you
+04:26 
+
+04:26 know since you know the product so well
+04:27 
+
+04:27 right I will say no we canot do that
+04:30 
+
+04:30 that's against our policy we can only
+04:31 
+
+04:31 show you a very simplified demo like
+04:34 
+
+04:34 this is what it might look like but it
+04:37 
+
+04:37 won't be it it won't be like actually
+04:40 
+
+04:40 they can copy and paste our code right
+04:42 
+
+04:42 right wait I also remember you saying
+04:45 
+
+04:45 that you built internal tools for your
+04:48 
+
+04:48 organization other than like your um you
+04:50 
+
+04:50 know your more client facing like
+04:52 
+
+04:52 products yeah so the internal tools
+04:54 
+
+04:54 things usually um as an engineer
+04:56 
+
+04:56 ourselves we like to kind of um automate
+04:59 
+
+04:59 things right we kind of like to make
+05:01 
+
+05:01 things work more efficiently so if
+05:03 
+
+05:03 there's like a gap that we see that can
+05:05 
+
+05:05 automate those processes or things that
+05:07 
+
+05:07 we think would be convenient for our
+05:08 
+
+05:08 team or our sales colleagues then we
+05:10 
+
+05:10 would actually build internal tools so I
+05:13 
+
+05:13 have built an internal tool with my
+05:15 
+
+05:15 co-workers and we actually together
+05:17 
+
+05:17 built this playground so people can test
+05:20 
+
+05:20 all across like different platforms all
+05:22 
+
+05:22 our different products at once so we
+05:25 
+
+05:25 just have like a playground that can
+05:26 
+
+05:26 configure all those kind of um uh
+05:29 
+
+05:29 different set things like the buyer
+05:30 
+
+05:30 country or the amount and all that very
+05:33 
+
+05:33 easily through our all-in-one demo that
+05:36 
+
+05:36 we make like a playground yeah do you
+05:38 
+
+05:38 want to explain what an internal tool is
+05:40 
+
+05:40 in case like there are some people who
+05:41 
+
+05:41 you know don't really know the reference
+05:43 
+
+05:43 to it so an internal tool basically as
+05:46 
+
+05:46 uh it sounds like it's a tool that's
+05:48 
+
+05:48 used internally by our team so basically
+05:52 
+
+05:52 our team actually use all our playground
+05:55 
+
+05:55 that we built internally so we are not
+05:58 
+
+05:58 going to share that with the merchant
+05:60 
+
+05:60 we're not going to share them the code
+06:01 
+
+06:01 to that to our Merchant it's only to be
+06:04 
+
+06:04 used within our company and we're not
+06:06 
+
+06:06 supposed to even share it for the public
+06:08 
+
+06:08 so it's something that we ourselves are
+06:10 
+
+06:10 making it to make our lives better
+06:13 
+
+06:13 basically internally so it actually
+06:15 
+
+06:15 helped to simplify the processes and
+06:17 
+
+06:17 automate certain task M right right yeah
+06:21 
+
+06:21 do you have a a different definition of
+06:23 
+
+06:23 no no basically the same yeah but I I do
+06:27 
+
+06:27 understand that there might be like some
+06:29 
+
+06:29 nontechnical friends who might be asking
+06:31 
+
+06:31 what an internal tool is because like um
+06:34 
+
+06:34 I think a lot of people don't really
+06:35 
+
+06:35 have an understanding that developers
+06:37 
+
+06:37 themselves like Engineers themselves
+06:39 
+
+06:39 need to use like uh other applications
+06:41 
+
+06:41 and tools to help their process flow um
+06:44 
+
+06:44 even like uh the idea of developer
+06:46 
+
+06:46 experience like I know a lot of um
+06:48 
+
+06:48 developers themselves don't know that
+06:50 
+
+06:50 term so yeah I just wanted to like you
+06:53 
+
+06:53 know understand from your perspective um
+06:55 
+
+06:55 does the term internal tool like kind of
+06:58 
+
+06:58 like uh is it the same and I I guess
+06:60 
+
+06:60 it's basically the same yeah yeah yeah
+07:02 
+
+07:02 okay nice cool nice I was interested in
+07:05 
+
+07:05 like as a Solutions engineer what would
+07:08 
+
+07:08 be some kinds of uh kpi that you'll have
+07:12 
+
+07:12 to meet so actually our kpi is to enable
+07:15 
+
+07:15 sales growth so like again we work
+07:18 
+
+07:18 really closely with our sales team so uh
+07:21 
+
+07:21 whenever our sales you know have a lead
+07:23 
+
+07:23 right like we would have to follow up
+07:25 
+
+07:25 with them and we have to make sure that
+07:26 
+
+07:26 the integration process is all smooth
+07:28 
+
+07:28 and good so that can reach their target
+07:31 
+
+07:31 so all sales have the sales Target right
+07:33 
+
+07:33 and we want to help them do it so we
+07:35 
+
+07:35 have that as our kpi basically yeah it's
+07:38 
+
+07:38 I would say it kind of vary across
+07:40 
+
+07:40 companies probably uh but at least for
+07:42 
+
+07:42 my company it's it's more about that
+07:44 
+
+07:44 yeah enabling the sales do you get
+07:47 
+
+07:47 commission based on you no I'm an
+07:49 
+
+07:49 engineer unfortunately I'm not sales so
+07:53 
+
+07:53 no commission important question like
+07:55 
+
+07:55 it's always about yeah but but well yeah
+07:59 
+
+07:59 in a way I I still like how the job is
+08:01 
+
+08:01 like it's not super techy it's like
+08:04 
+
+08:04 quite like you know you can communicate
+08:06 
+
+08:06 across different teams so you get like a
+08:07 
+
+08:07 lot of like exposure how things work
+08:10 
+
+08:10 around the company how the company
+08:11 
+
+08:11 actually generates revenue and you know
+08:14 
+
+08:14 all that sorts of things because I think
+08:16 
+
+08:16 if you know we're just software engineer
+08:18 
+
+08:18 like then sometimes you don't know who
+08:21 
+
+08:21 is the End customer whereas as a
+08:24 
+
+08:24 Solutions engineer what I like about it
+08:25 
+
+08:25 is client facing so you get to hear
+08:27 
+
+08:27 directly what the client has to say
+08:29 
+
+08:29 about
+08:30 
+
+08:30 and that's why part of our scope is toer
+08:32 
+
+08:32 prodct feedb to the prodct team did you
+08:35 
+
+08:35 ever consider like um like a fully
+08:38 
+
+08:38 technical role instead of like a
+08:39 
+
+08:39 Solutions engineer maybe a full-on like
+08:41 
+
+08:41 software engineer like was that
+08:43 
+
+08:43 something you were considering yeah
+08:45 
+
+08:45 actually when I was you know not having
+08:48 
+
+08:48 this job I was like just doing blogging
+08:49 
+
+08:49 on the side um I was applying to
+08:52 
+
+08:52 different companies to be a software
+08:54 
+
+08:54 engineer because that was my initial
+08:56 
+
+08:56 goal since I didn't really know like
+08:58 
+
+08:58 what kind of career path can I do as I
+09:01 
+
+09:01 pivot into Tech so I thought software
+09:04 
+
+09:04 Engineers the only role that I can do if
+09:06 
+
+09:06 I pivot into Tech so I applied to be
+09:08 
+
+09:08 software engineer uh but actually I got
+09:10 
+
+09:10 the offer to be Solutions engineer cuz
+09:13 
+
+09:13 uh my company saw my blog and they say
+09:16 
+
+09:16 like wow you're really good at you know
+09:17 
+
+09:17 communication as well as the technical
+09:19 
+
+09:19 part so you're the best of both worlds
+09:21 
+
+09:21 so you know might as well say like you
+09:24 
+
+09:24 do Solutions engine right that and every
+09:27 
+
+09:27 time you tell us that I find it so
+09:28 
+
+09:28 amazing that it's something you were
+09:30 
+
+09:30 doing in your free time on the side and
+09:32 
+
+09:32 that was recognized as a skill by a
+09:36 
+
+09:36 company and then you were hired for that
+09:38 
+
+09:38 skill plus you know Tech skills
+09:40 
+
+09:40 communication like that's so amazing
+09:43 
+
+09:43 yeah that project kind of that's why I
+09:47 
+
+09:47 actually find that quite surreal right
+09:49 
+
+09:49 like I think everything has a chain
+09:50 
+
+09:50 effect you know it's like sometimes you
+09:53 
+
+09:53 just do it for the passion and naturally
+09:56 
+
+09:56 people will look for you like once you
+09:58 
+
+09:58 do it consistent enough
+09:60 
+
+09:60 yeah so and it means that you did it
+10:01 
+
+10:01 that well as well so I hope I hope so
+10:05 
+
+10:05 girl you're a GitHub star okay so like I
+10:07 
+
+10:07 think I just improve over time right
+10:10 
+
+10:10 like it's something that you know when I
+10:12 
+
+10:12 first started doing and I remember
+10:13 
+
+10:13 publishing my first article right it
+10:15 
+
+10:15 took me a month to publish it cuz I
+10:17 
+
+10:17 wrote it in 3 days but then I was
+10:19 
+
+10:19 thinking like oh this is not good enough
+10:20 
+
+10:20 so I just keep revising and revising it
+10:23 
+
+10:23 but then after I publish it after you
+10:26 
+
+10:26 know a month I realized that you know
+10:28 
+
+10:28 it's just for myself right like I didn't
+10:30 
+
+10:30 think anyone would read it but me like I
+10:32 
+
+10:32 was my own first audience so oh I like
+10:35 
+
+10:35 that yeah so I wrote it for myself but
+10:38 
+
+10:38 then slowly more people find it valuable
+10:41 
+
+10:41 and all that yeah and that's how I
+10:43 
+
+10:43 become consistent I actually remember
+10:44 
+
+10:44 you saying that your journey into
+10:46 
+
+10:46 technical blogging was actually you were
+10:48 
+
+10:48 trying to learn how to like code because
+10:51 
+
+10:51 you basically had sort of a midara
+10:52 
+
+10:52 switch do you want to kind of talk
+10:54 
+
+10:54 through that process about how you sure
+10:56 
+
+10:56 so I remember it was like during the co
+10:58 
+
+10:58 period right like all kind of stuck at
+10:60 
+
+10:60 home and I was thinking like okay what
+11:02 
+
+11:02 can I do like I always love to code like
+11:05 
+
+11:05 I think I mentioned it in the first
+11:07 
+
+11:07 episode like it was it first started
+11:09 
+
+11:09 with game development like in Visual
+11:10 
+
+11:10 Basic and I know and that was like back
+11:14 
+
+11:14 when I was like still in high school
+11:16 
+
+11:16 right but then um I took a degree in
+11:19 
+
+11:19 Commerce so during my whole undergrad
+11:21 
+
+11:21 dewe program I was like actually just
+11:23 
+
+11:23 coding on the side you know just making
+11:24 
+
+11:24 games as a hobby and then during covid
+11:28 
+
+11:28 hits that's when I have time for
+11:30 
+
+11:30 self-reflection that was when I realized
+11:32 
+
+11:32 that I don't really want to go into
+11:34 
+
+11:34 business finance yeah like I prefer
+11:38 
+
+11:38 going to to build things like I like to
+11:40 
+
+11:40 solve problems build things and so I
+11:44 
+
+11:44 decided to learn web development
+11:45 
+
+11:45 JavaScript and that's how I started like
+11:48 
+
+11:48 my journey to technical blogging because
+11:50 
+
+11:50 I thought that I need like some kind of
+11:52 
+
+11:52 log to like record my learnings yeah
+11:55 
+
+11:55 keep yourself accountable right right
+11:57 
+
+11:57 yeah so I did the 100 days of code
+11:58 
+
+11:58 challenge oh you did how was that wo so
+12:02 
+
+12:02 I wrote like an article every day for
+12:04 
+
+12:04 100 days right like summarizing what
+12:06 
+
+12:06 I've learned and all that what did you
+12:08 
+
+12:08 code every day so every day I'll build
+12:11 
+
+12:11 little projects so like first a to-do
+12:14 
+
+12:14 list of course and then second Chrome
+12:16 
+
+12:16 extensions and then slowly in one day or
+12:19 
+
+12:19 across a few across a few days yeah and
+12:21 
+
+12:21 I'll log what I learned I'll log the
+12:23 
+
+12:23 challenges I ran into and how I overcome
+12:25 
+
+12:25 them so that also helps me kind of like
+12:27 
+
+12:27 reflect on my debugging skills and then
+12:29 
+
+12:29 slowly I also attended heatons so that's
+12:32 
+
+12:32 how I also like collaborate with people
+12:34 
+
+12:34 right then I also log like you know day
+12:37 
+
+12:37 25 I actually went into this Heaton and
+12:39 
+
+12:39 we built together like a Geo
+12:41 
+
+12:41 navigational app you know and all that
+12:43 
+
+12:43 so slowly like the projects get more and
+12:46 
+
+12:46 more complex and I built like a chat
+12:49 
+
+12:49 like app and all that with like full
+12:51 
+
+12:51 stack database like that so as it gets
+12:54 
+
+12:54 more and more complicated I realized
+12:56 
+
+12:56 that hey I can actually start teaching
+12:58 
+
+12:58 people you know like how how to build
+13:00 
+
+13:00 these more complicated projects so then
+13:03 
+
+13:03 I started with like my very first like
+13:05 
+
+13:05 series that I wrote in my blog which is
+13:07 
+
+13:07 like my note JS series and until now
+13:09 
+
+13:09 people still like read it yeah so that
+13:13 
+
+13:13 one I actually published the article
+13:15 
+
+13:15 every day like for seven days I publish
+13:18 
+
+13:18 like it's a whole series yeah and then
+13:20 
+
+13:20 after that it just snowballed from there
+13:23 
+
+13:23 like my writing just took off like
+13:25 
+
+13:25 everyone was like saying like this is
+13:26 
+
+13:26 very helpful you know like they find a
+13:28 
+
+13:28 lot of value from it which also makes me
+13:30 
+
+13:30 proud because I actually learned through
+13:32 
+
+13:32 their comments their feedback as well so
+13:33 
+
+13:33 it makes me a better writer and a better
+13:36 
+
+13:36 writing Communicator overall yeah so I
+13:39 
+
+13:39 think the journey overall has been yeah
+13:42 
+
+13:42 has been quite good yeah no I mean like
+13:44 
+
+13:44 when we first met I was really like
+13:47 
+
+13:47 inspired by your technical blogging
+13:49 
+
+13:49 journey and I wanted to start my own so
+13:51 
+
+13:51 I was asking you for a lot of advice
+13:53 
+
+13:53 that was how I started the thing is like
+13:55 
+
+13:55 I would start on it and then it was like
+13:58 
+
+13:58 a whole year and I never completed even
+13:60 
+
+13:60 one article I had like a whole idea for
+14:01 
+
+14:01 a series you know to talk about uh mono
+14:04 
+
+14:04 repositories blah blah blah but I just
+14:06 
+
+14:06 couldn't even have like the discipline
+14:08 
+
+14:08 to like post it um like on a day onday
+14:10 
+
+14:10 basis and here you are you sh it out
+14:13 
+
+14:13 posted your first article and then you
+14:14 
+
+14:14 start it out with your no JS series and
+14:16 
+
+14:16 you're publishing like seven day on day
+14:18 
+
+14:18 like that really takes discipline and
+14:21 
+
+14:21 dedication yeah yeah remember when you
+14:24 
+
+14:24 first joined uh the wom code group uh
+14:27 
+
+14:27 even I was inspired by you I actually
+14:28 
+
+14:28 then did post an
+14:31 
+
+14:31 article right right yeah but I mean I
+14:33 
+
+14:33 did post for quite a a bit while you
+14:36 
+
+14:36 were still active and then I also
+14:37 
+
+14:37 stopped after a while it does take a lot
+14:40 
+
+14:40 of effort write but it's really useful
+14:43 
+
+14:43 like the reflection bit I would write
+14:45 
+
+14:45 about uh lead quote questions I would
+14:47 
+
+14:47 solve and I'll try to explain how I came
+14:50 
+
+14:50 to the solution and things around it
+14:52 
+
+14:52 have a lead quote series at one point as
+14:54 
+
+14:54 well but then I realized that I I prefer
+14:57 
+
+14:57 letting people kind of formulate their
+14:59 
+
+14:59 own Solutions cuz I I stopped after five
+15:01 
+
+15:01 articles of those Le code series just
+15:04 
+
+15:04 because I think a lot of people think
+15:05 
+
+15:05 this is the one way like this just one
+15:08 
+
+15:08 way of solving it but I want to
+15:10 
+
+15:10 encourage people to think like more
+15:11 
+
+15:11 differently right like there there's
+15:13 
+
+15:13 many solutions to one problem so that's
+15:16 
+
+15:16 why in a way it kind of stopped but
+15:17 
+
+15:17 that's actually a good start right cuz
+15:19 
+
+15:19 that's easy to pick up and easy to write
+15:21 
+
+15:21 about yeah I I'm very uh money oriented
+15:25 
+
+15:25 so I actually post on medium and that
+15:28 
+
+15:28 earns money as well medium earns you
+15:31 
+
+15:31 money yeah Medi partner program I mean I
+15:35 
+
+15:35 don't know I can't even publish my first
+15:36 
+
+15:36 article so cents per article per month
+15:39 
+
+15:39 uhhuh but it's still something it's
+15:42 
+
+15:42 that's really not you can get up to a
+15:43 
+
+15:43 dollar every mon a referral program so
+15:46 
+
+15:46 Sone you can refer me I can refer you
+15:48 
+
+15:48 and I get some money as well do I need
+15:50 
+
+15:50 to post to get money
+15:52 
+
+15:52 yes well um that's your motivation right
+15:56 
+
+15:56 there I will sit on it for another
+15:60 
+
+15:60 yeah yeah but no it's such a good idea I
+16:02 
+
+16:02 really like how you started posting
+16:03 
+
+16:03 about Le Co and here you are with the
+16:05 
+
+16:05 alternative Viewpoint that you started
+16:08 
+
+16:08 uh talking more about lead Cod but kind
+16:09 
+
+16:09 of stopped after a while when you
+16:10 
+
+16:10 realized like you want to give people
+16:12 
+
+16:12 the space to be creative yeah also just
+16:14 
+
+16:14 to Define what leak code is for like
+16:16 
+
+16:16 people who don't know what leak code is
+16:18 
+
+16:18 it's a series of um coding questions
+16:21 
+
+16:21 that you usually get during an interview
+16:23 
+
+16:23 these are not your typical like build-in
+16:24 
+
+16:24 app questions but uh kind of like things
+16:27 
+
+16:27 that test data structures algorithms um
+16:30 
+
+16:30 basically think of like calculus but
+16:32 
+
+16:32 like in one coding question yeah and
+16:36 
+
+16:36 usually like um yeah is that a good
+16:38 
+
+16:38 description yeah it's a new description
+16:41 
+
+16:41 but yeah yeah but it's like more more
+16:43 
+
+16:43 like specific to coding and data
+16:45 
+
+16:45 structures and algorithms and usually
+16:48 
+
+16:48 people practice for like 3 months to 8
+16:50 
+
+16:50 months just to prepare for these
+16:52 
+
+16:52 technical interviews um so yeah I think
+16:55 
+
+16:55 it's really interesting because a lot
+16:57 
+
+16:57 about like being tested on Le quote it's
+16:59 
+
+16:59 really hearing your thought process so I
+17:01 
+
+17:01 like that you know when you started uh
+17:03 
+
+17:03 blogging about it you're like hm maybe
+17:05 
+
+17:05 I'm kind of like you know introducing
+17:07 
+
+17:07 some kind of bias in that thought
+17:08 
+
+17:08 process probably that's why you didn't
+17:10 
+
+17:10 really cot about it with that right
+17:12 
+
+17:12 exactly yeah I I feel like that would
+17:13 
+
+17:13 kind of like indicate to people that
+17:16 
+
+17:16 there's only one way to explain things
+17:17 
+
+17:17 and there's only one way to solve the
+17:19 
+
+17:19 problems which I don't want people to
+17:22 
+
+17:22 think about right like or you know
+17:24 
+
+17:24 there's already cracking the coding
+17:25 
+
+17:25 interview book you know like which
+17:27 
+
+17:27 people kind of like just read like a
+17:29 
+
+17:29 Bible like read like a Bible exactly so
+17:31 
+
+17:31 I I don't want to be another source of
+17:33 
+
+17:33 that basically yeah yeah totally yeah so
+17:37 
+
+17:37 that's how I do I have a question do you
+17:41 
+
+17:41 earn money from your blogs
+17:44 
+
+17:44 yes yeah actually I do so um I have
+17:47 
+
+17:47 various channels of like how I earn
+17:49 
+
+17:49 blogging from blogging so the first one
+17:51 
+
+17:51 is medium so like you said I actually
+17:53 
+
+17:53 Syndicate My article so first I'll
+17:55 
+
+17:55 publish on my own personal Blog then
+17:57 
+
+17:57 after that I'll Syndicate to other
+17:58 
+
+17:58 different channels like medium def 2 um
+18:02 
+
+18:02 hacker noon like all those places and
+18:05 
+
+18:05 then after that I would get you know
+18:07 
+
+18:07 like from for median I get I'll get some
+18:10 
+
+18:10 kind of uh money from that and then I
+18:12 
+
+18:12 also get sponsored articles so a few
+18:14 
+
+18:14 companies reach out to me and then you
+18:16 
+
+18:16 know they would pay me to write them
+18:18 
+
+18:18 articles and usually at the end if it's
+18:20 
+
+18:20 a sponsored article I'll like indicate
+18:21 
+
+18:21 it's a sponsored article unless they
+18:24 
+
+18:24 explicitly State me not to mention it so
+18:27 
+
+18:27 yeah I also get a lot from sponsor
+18:29 
+
+18:29 articles and then next I also get a lot
+18:31 
+
+18:31 from sponsors so um hash note which is
+18:34 
+
+18:34 the blogging platform my blog ad they
+18:36 
+
+18:36 actually have like a sponsor program so
+18:39 
+
+18:39 you can actually donate to like your
+18:40 
+
+18:40 favorite authors and all that so oh yeah
+18:43 
+
+18:43 remember seeing you think it's like give
+18:45 
+
+18:45 me tea or something like that oh yes oh
+18:47 
+
+18:47 that one is my own it's like buy me cup
+18:48 
+
+18:48 of tea like buy me coffee but I I prefer
+18:51 
+
+18:51 tea so I'm like buy tea uh but hash note
+18:55 
+
+18:55 has their own now so it's like on hash
+18:57 
+
+18:57 note it's called hash note sponsors so I
+18:60 
+
+18:60 I'm not trying to be biased like my
+19:02 
+
+19:02 blogging platform I I remember I should
+19:03 
+
+19:03 put a disclaimer here like but it's just
+19:05 
+
+19:05 the first blogging platform I use so
+19:07 
+
+19:07 that's why I've been using it and they
+19:09 
+
+19:09 have this sponsorship program so that's
+19:11 
+
+19:11 how some people like kindly donate to me
+19:14 
+
+19:14 K sponsor yeah which is super nice so
+19:17 
+
+19:17 that's how I kind of earn for my blog
+19:19 
+
+19:19 yeah and I mean hash note is also the
+19:21 
+
+19:21 one the the platform that you use to
+19:23 
+
+19:23 publish our blogs for rag Tech so
+19:26 
+
+19:26 basically like you're writing the
+19:27 
+
+19:27 summary of like the episodes in case
+19:30 
+
+19:30 like people don't have time to watch it
+19:31 
+
+19:31 or want to watch like read the summary
+19:33 
+
+19:33 before watching it so you're using hash
+19:35 
+
+19:35 Noe as well for that right yeah cuz hash
+19:37 
+
+19:37 note they also support team blogs so
+19:39 
+
+19:39 like it's not just me who can write for
+19:40 
+
+19:40 our R Tech blog you guys also can write
+19:43 
+
+19:43 so so yeah yeah trying to make it a team
+19:47 
+
+19:47 blog right so it's not just me that's
+19:48 
+
+19:48 writing yeah so that's I think that's
+19:51 
+
+19:51 one of the beauty of um hash note
+19:53 
+
+19:53 because for medium um there's not really
+19:56 
+
+19:56 a team blog there's only like a
+19:58 
+
+19:58 publication they call it and uh it's
+20:00 
+
+20:00 kind of hard
+20:02 
+
+20:02 to um I would say it's okay but it's
+20:05 
+
+20:05 kind of hard to like really get credit
+20:07 
+
+20:07 for like your work like if you publish
+20:10 
+
+20:10 under medium so I'll say hash no is way
+20:13 
+
+20:13 much easier and also the audience for
+20:15 
+
+20:15 hash node are all like really into Tech
+20:17 
+
+20:17 so I think that's a more Niche blogging
+20:19 
+
+20:19 platform that would Target the right
+20:21 
+
+20:21 people more specialized blogging to te
+20:23 
+
+20:23 about it yeah so I had a question which
+20:26 
+
+20:26 was like so you have a 9 to5 yeah 5 to9
+20:29 
+
+20:29 9 to5 basically your job as a Solutions
+20:31 
+
+20:31 engineer 5 to 9 your job as a technical
+20:34 
+
+20:34 blogger how does your day usually look
+20:36 
+
+20:36 how do you like juggle uh like yeah I
+20:39 
+
+20:39 think a lot of people ask me this as
+20:41 
+
+20:41 well um I think the 925 is simple right
+20:45 
+
+20:45 you just focus on that one thing from 9
+20:47 
+
+20:47 to 5 so there's not much juggling there
+20:50 
+
+20:50 like it's already pretty like a set kind
+20:52 
+
+20:52 of um time blocking time blocking yeah
+20:54 
+
+20:54 so 925 I'll just focus on work 5 to9
+20:57 
+
+20:57 that that part would would take some
+20:59 
+
+20:59 discipline I would say so back when I
+21:01 
+
+21:01 was publishing once a week so very
+21:03 
+
+21:03 frequently um I would literally write
+21:07 
+
+21:07 every time after work so I would like
+21:09 
+
+21:09 you know after dinner after social
+21:11 
+
+21:11 events or something I'll go back home
+21:13 
+
+21:13 I'll block a time to write for two hours
+21:15 
+
+21:15 and then I'll continuously write and I
+21:17 
+
+21:17 would have so many um backlog of
+21:21 
+
+21:21 published articles to be published by
+21:23 
+
+21:23 that time like I will keep 8 to 10
+21:25 
+
+21:25 articles to be published oh nice back
+21:29 
+
+21:29 good backlog yeah yeah we're trying to
+21:30 
+
+21:30 figure out a backlog for this so exactly
+21:34 
+
+21:34 yeah so I think backlogs are important
+21:35 
+
+21:35 right so in the event like you get sick
+21:37 
+
+21:37 or something you can still have
+21:38 
+
+21:38 something to publish so I usually keep 8
+21:41 
+
+21:41 to 10 articles as a backlog and I would
+21:44 
+
+21:44 make sure I write at least one sentence
+21:46 
+
+21:46 every single day like that's like a
+21:48 
+
+21:48 promise I make to myself um of course as
+21:50 
+
+21:50 things get busier and now I'm juggling
+21:52 
+
+21:52 between Womanhood code this as well as
+21:55 
+
+21:55 blogging like it's not as
+21:57 
+
+21:57 straightforward as like like you know I
+21:59 
+
+21:59 just sit down and type especially now I
+22:02 
+
+22:02 only have nine fingers like wait what
+22:03 
+
+22:03 happened oh I cut my I cut this morning
+22:07 
+
+22:07 I don't know why I just why did so many
+22:09 
+
+22:09 things happen to you this morning you
+22:10 
+
+22:10 got allergies and you got your finger I
+22:12 
+
+22:12 know I know so like I woke up this
+22:13 
+
+22:13 morning and then it was bleeding and I
+22:15 
+
+22:15 was like oh oh what just randomly yeah I
+22:18 
+
+22:18 think it was too dry or something so it
+22:20 
+
+22:20 was bleeding and I'm like oh dang I
+22:22 
+
+22:22 can't write so you got a call in s at
+22:24 
+
+22:24 work my finger got cut I just woke up
+22:26 
+
+22:26 and it was like this yeah yeah so so so
+22:29 
+
+22:29 yeah with nine fingers not as fast uh
+22:32 
+
+22:32 but yeah I I Tred to at least keep my
+22:35 
+
+22:35 blog alive a little bit like right now
+22:38 
+
+22:38 I'm not blogging as frequently as before
+22:40 
+
+22:40 but it's okay because I know I'm
+22:42 
+
+22:42 focusing on like other different mediums
+22:44 
+
+22:44 and it's fine to actually like expand
+22:47 
+
+22:47 and you know do this with you guys yeah
+22:50 
+
+22:50 but yeah yeah I think it's fine yeah
+22:53 
+
+22:53 yeah I also want to like understand your
+22:56 
+
+22:56 journey from you mentioned your you
+22:59 
+
+22:59 studied Commerce in University and uh
+23:03 
+
+23:03 you you always wanted to be in Tech or
+23:06 
+
+23:06 not like you mentioned High School you
+23:07 
+
+23:07 were coding game development but you
+23:10 
+
+23:10 still took on Commerce why not computer
+23:12 
+
+23:12 science or like a it degree I I think I
+23:15 
+
+23:15 mentioned this in other podcast that
+23:16 
+
+23:16 I've been to before but my parents are
+23:19 
+
+23:19 quite traditional so they think you know
+23:21 
+
+23:21 coding computer science is many guiding
+23:25 
+
+23:25 right they they don't think it's really
+23:26 
+
+23:26 for girls and so they just encourag me
+23:28 
+
+23:28 to go into finance and commerce and at
+23:31 
+
+23:31 the time I don't really see myself to be
+23:34 
+
+23:34 a game developer just because it's like
+23:36 
+
+23:36 really stressful industry and like
+23:38 
+
+23:38 there's so many men like it's male
+23:40 
+
+23:40 dominated so I'm a bit intimidated by
+23:43 
+
+23:43 that and I thought you know this can
+23:44 
+
+23:44 just stay as a hobby like I never known
+23:46 
+
+23:46 like I would be intact as like a career
+23:50 
+
+23:50 because I thought I'll just be in
+23:52 
+
+23:52 Commerce you know I I'll just hang out
+23:53 
+
+23:53 there you know see what my options are
+23:56 
+
+23:56 as my parents suggested cuz you know I
+23:57 
+
+23:57 value their op opinion so that's how I
+23:59 
+
+23:59 got into Finance Commerce um and I did
+24:02 
+
+24:02 enjoy it for 4 years but at some point I
+24:06 
+
+24:06 do realize that my passion is in
+24:07 
+
+24:07 building and learning a lot of things
+24:10 
+
+24:10 and I feel like in the business World
+24:13 
+
+24:13 The Learning is not like how in Tech you
+24:16 
+
+24:16 know Tech is always growing it's always
+24:17 
+
+24:17 shifting it's always changing and I just
+24:19 
+
+24:19 find that exciting just because you know
+24:21 
+
+24:21 as a Ravenclaw and it's a type
+24:24 
+
+24:24 five I just I just want to continuously
+24:26 
+
+24:26 learn podcast on that but yeah sorry
+24:29 
+
+24:29 stoc like being a Ravenclaw yeah I just
+24:33 
+
+24:33 like the feeling of like continuous
+24:35 
+
+24:35 learning so that's why I like the
+24:37 
+
+24:37 feeling also of problem solving and
+24:40 
+
+24:40 actually using code to solve problem I I
+24:42 
+
+24:42 think that's also really cool right and
+24:45 
+
+24:45 at this point I want to make a statement
+24:47 
+
+24:47 is that anyone in this era right now
+24:51 
+
+24:51 should at least know a little bit how to
+24:53 
+
+24:53 code like should know at least a little
+24:54 
+
+24:54 bit how to read code because I do find
+24:57 
+
+24:57 like at least working with my sales
+24:58 
+
+24:58 colleagues those who can read code are
+25:01 
+
+25:01 like so much like more valuable because
+25:04 
+
+25:04 they can actually understand what's
+25:06 
+
+25:06 going on like even during technical
+25:09 
+
+25:09 presentations and all that those who can
+25:11 
+
+25:11 understand and at least listen what what
+25:13 
+
+25:13 is an API you know like what is like
+25:16 
+
+25:16 HTML like those who know can actually
+25:19 
+
+25:19 get in there and it's an advantage
+25:22 
+
+25:22 basically for sure so I would argue that
+25:25 
+
+25:25 it's a good thing that I study how to
+25:27 
+
+25:27 code like in a way at the time I just
+25:29 
+
+25:29 study how to code because I think it's
+25:31 
+
+25:31 really fun to build things like build
+25:33 
+
+25:33 games and then build websites after that
+25:35 
+
+25:35 so I think at this point everyone should
+25:39 
+
+25:39 also yeah it's just my opinion but yeah
+25:42 
+
+25:42 everyone should also at least know how
+25:43 
+
+25:43 to read M no yeah I I definitely agree
+25:46 
+
+25:46 with that as well that uh having like
+25:49 
+
+25:49 the tech Edge does does give you an
+25:51 
+
+25:51 advantage especially in the tech
+25:53 
+
+25:53 industry and almost all Fields right now
+25:55 
+
+25:55 are involved in Tech in some way or the
+25:57 
+
+25:57 other so yeah understand understanding
+26:00 
+
+26:00 basic things like API servers databases
+26:04 
+
+26:04 not necessarily reading code but
+26:06 
+
+26:06 understanding the systems around it does
+26:08 
+
+26:08 help a lot yeah yeah for sure I think
+26:12 
+
+26:12 even in any industry you're in like it
+26:14 
+
+26:14 is a business function now you know it's
+26:17 
+
+26:17 no longer like an industry on its own
+26:19 
+
+26:19 every single business needs um some will
+26:23 
+
+26:23 have to thrive in some sort of it
+26:24 
+
+26:24 infrastructure we'll have to have some
+26:26 
+
+26:26 sort of databases store that data
+26:28 
+
+26:28 um we'll have some sort of like frontend
+26:30 
+
+26:30 application that you know people would
+26:33 
+
+26:33 have to use so it's kind of like
+26:34 
+
+26:34 inevitable to kind of avoid Tech in
+26:37 
+
+26:37 general uh we're not saying that
+26:39 
+
+26:39 everybody has to be a master coder but
+26:42 
+
+26:42 really seeing like programming and
+26:43 
+
+26:43 coding as a universal skill and I think
+26:46 
+
+26:46 that's what the um universities DC are
+26:49 
+
+26:49 kind of like doing right now it's
+26:51 
+
+26:51 basically a module um that everybody has
+26:53 
+
+26:53 to go through yeah I don't know if like
+26:55 
+
+26:55 computer science as a class itself is
+26:57 
+
+26:57 like a a what do you call that General
+26:60 
+
+26:60 elective or like necessary elective
+27:02 
+
+27:02 class I don't think so nor okay yeah I
+27:06 
+
+27:06 don't know if it is now but I think like
+27:08 
+
+27:08 some way or another you know some kind
+27:10 
+
+27:10 of analytics class or like like
+27:12 
+
+27:12 everybody that I know now definitely
+27:14 
+
+27:14 knows a bit of python definitely knows
+27:16 
+
+27:16 okay maybe not so much JavaScript but
+27:18 
+
+27:18 some kind of has done C C++ in one kind
+27:21 
+
+27:21 of like modu so I do think it's becoming
+27:23 
+
+27:23 quite like even in my Commerce classes
+27:26 
+
+27:26 back then my Commerce class I was taking
+27:28 
+
+27:28 database management and you have to
+27:30 
+
+27:30 learn SQL
+27:32 
+
+27:32 what what kind of Commerce class is that
+27:34 
+
+27:34 like it's like it's like for
+27:36 
+
+27:36 infrastructure you know understanding
+27:37 
+
+27:37 see that's why I say even in Commerce is
+27:39 
+
+27:39 very important right cuz you need to
+27:40 
+
+27:40 know like how to organize your database
+27:43 
+
+27:43 I took like a database management class
+27:45 
+
+27:45 in my Master's course and you're doing
+27:46 
+
+27:46 it in like a Commerce undergrad yeah Dam
+27:50 
+
+27:50 yeah so we had to learn SQL for that we
+27:52 
+
+27:52 even have like an SQL competition you
+27:54 
+
+27:54 know she would give like a scenario and
+27:56 
+
+27:56 say okay now type the SQL in it and then
+27:58 
+
+27:58 we Tech we
+27:59 
+
+27:59 F what yeah oh that's that's pretty
+28:02 
+
+28:02 intense yeah my team won by the way theq
+28:05 
+
+28:05 oh okay okay weird flex but okay cuz I
+28:09 
+
+28:09 was proud cuz at the time all I know was
+28:11 
+
+28:11 C because of my unity game development
+28:14 
+
+28:14 but then I knew SQL now so I feel proud
+28:17 
+
+28:17 give you even more you have or but
+28:19 
+
+28:19 anyways yeah yeah so yeah that's pretty
+28:23 
+
+28:23 nice okay sweet yeah that's really like
+28:26 
+
+28:26 an interesting take on like looking at
+28:29 
+
+28:29 coding as a universal skill and also
+28:31 
+
+28:31 thank you so much for like talking us
+28:33 
+
+28:33 through what a Solutions engineer is you
+28:35 
+
+28:35 know your journey in technical blogging
+28:36 
+
+28:36 which is closely related to how you got
+28:38 
+
+28:38 into programming in the first place and
+28:40 
+
+28:40 yeah in general thanks for entertaining
+28:42 
+
+28:42 like salony and my questions that we
+28:45 
+
+28:45 don't really ask on an every day but now
+28:47 
+
+28:47 we know more about Victoria yes thanks
+28:50 
+
+28:50 for asking me the question thanks for
+28:52 
+
+28:52 preparing like literally I thought it
+28:54 
+
+28:54 was funny that when we asked about
+28:55 
+
+28:55 solution to engineering and you're like
+28:57 
+
+28:57 I have L girls yeah I I always have I
+28:60 
+
+28:60 have a standard answer that I send every
+29:01 
+
+29:01 single person who ever ask me this
+29:03 
+
+29:03 question I don't have that in my not
+29:06 
+
+29:06 yeah cuz definitely people always ask
+29:08 
+
+29:08 right yeah so this is like my way of
+29:11 
+
+29:11 basically answering the question she's a
+29:12 
+
+29:12 blogger that's why she got everything
+29:14 
+
+29:14 prepared and both of us are just like
+29:17 
+
+29:17 what's stuff we're engineering and I'm
+29:20 
+
+29:20 sure our audience would have some
+29:21 
+
+29:21 questions for you as well after
+29:22 
+
+29:22 listening to this podcast so do comment
+29:25 
+
+29:25 in on YouTube below is that the only
+29:28 
+
+29:28 place they can comment I guess also on
+29:30 
+
+29:30 our our blog yeah our blog on like
+29:32 
+
+29:32 YouTube on like Spotify you can like
+29:35 
+
+29:35 leave comments as well I'm not wrong uh
+29:38 
+
+29:38 but only for mobile only for mobile okay
+29:41 
+
+29:41 you guys heard that and then Instagram
+29:44 
+
+29:44 you know yeah everything is like out
+29:46 
+
+29:46 there um anyone will do we will respond
+29:49 
+
+29:49 to them for sure yeah we're still
+29:51 
+
+29:51 figuring all this all of these things
+29:53 
+
+29:53 out but yes we would love your comments
+29:56 
+
+29:56 so we can improve on future episodes
+29:58 
+
+29:58 so yeah okay I think that marks the end
+30:00 
+
+30:00 of this episode thank you so much
+30:01 
+
+30:01 Victoria for answer answering our
+30:03 
+
+30:03 questions again uh once again we are
+30:05 
+
+30:05 rack tag thank you for tuning in to our
+30:07 
+
+30:07 second episode and we look forward to
+30:09 
+
+30:09 seeing you guys for the next yeah thank
+30:13 
+
+30:13 you thank you everyone we did it
+30:19 
+
+30:19 [Music]
+30:21 
+
+30:21 guys

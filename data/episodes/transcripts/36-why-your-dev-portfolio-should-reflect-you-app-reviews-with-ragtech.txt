@@ -1,0 +1,1735 @@
+00:00 Hi everyone, welcome to RagTech, the
+00:02 
+
+00:02 place for bison and bentor. My name is
+00:04 
+
+00:04 Victoria. I'm a solutions engineer. Hi,
+00:06 
+
+00:06 I'm Natasha. I'm a software engineer.
+00:12 
+
+00:12 Oh, and Salon is frozen. But Salon is a
+00:15 
+
+00:15 software developer. And together we are
+00:18 
+
+00:18 Rectag. And um don't worry about Salone.
+00:21 
+
+00:21 She's coming back soon. Uh her Wi-Fi has
+00:23 
+
+00:23 just been quite intermittent.
+00:24 
+
+00:24 [Music]
+00:28 
+
+00:28 Previously, we did an app review episode
+00:30 
+
+00:30 where Sloan introduces her app and we
+00:32 
+
+00:32 kind of comment on it and I thought it's
+00:34 
+
+00:34 really good that we tried that and we
+00:36 
+
+00:36 wanted to do it again. So, this time
+00:38 
+
+00:38 we'll have Natasha to introduce us your
+00:40 
+
+00:40 project. Very excited for today's
+00:42 
+
+00:42 episode. In the last app review episode,
+00:45 
+
+00:45 Salon presented on her app, which was a
+00:48 
+
+00:48 nutrition analysis app uh that was
+00:50 
+
+00:50 powered by OpenAI, which was really
+00:52 
+
+00:52 cool. Mine's not as cool as that. I
+00:54 
+
+00:54 didn't use OpenAI or any AI power
+00:56 
+
+00:56 technologies, but it's just a very
+00:59 
+
+00:59 simple but also like really fun little
+01:01 
+
+01:01 project that I did for myself. I think
+01:03 
+
+01:03 about a year ago or maybe two years ago.
+01:06 
+
+01:06 It's basically my own web folio or web
+01:09 
+
+01:09 portfolio. So, this is how it looks
+01:11 
+
+01:11 like. So, as you can see, I bought my
+01:14 
+
+01:14 own domain name uh for the handle that I
+01:16 
+
+01:16 use across my socials. I will be taking
+01:19 
+
+01:19 both of you guys through what my app
+01:22 
+
+01:22 looks like and uh the little features
+01:25 
+
+01:25 that I'm kind of proud of. I actually am
+01:27 
+
+01:27 intending to do kind of like a not
+01:29 
+
+01:29 really so much of a revamp but I I think
+01:31 
+
+01:31 it's timely that I look at um little
+01:33 
+
+01:33 portions that I intend to revise um
+01:36 
+
+01:36 since you know I have different things
+01:38 
+
+01:38 that I want to showcase in my career and
+01:40 
+
+01:40 about myself. I love both of your
+01:42 
+
+01:42 feedback on it because I think both of
+01:44 
+
+01:44 you haven't really seen it before. I
+01:45 
+
+01:45 haven't like purposely like kind of
+01:47 
+
+01:47 shown it to people. Here we are at on
+01:50 
+
+01:50 the landing page. Um, and as you can
+01:53 
+
+01:53 see, there's a little avatar of myself
+01:56 
+
+01:56 and my cat. Um, and a little dialogue
+01:60 
+
+01:60 box. And um, when you click on the
+02:02 
+
+02:02 dialogue box, okay, here it says, "Hey
+02:04 
+
+02:04 there, I'm Natasha N, a software
+02:05 
+
+02:05 engineer, tech podcaster, and tech
+02:07 
+
+02:07 community lead." Um, so yeah, when you
+02:09 
+
+02:09 click okay, then it's it's the next
+02:13 
+
+02:13 dialogue and it's just more intro. But
+02:16 
+
+02:16 basically, I think you can tell from
+02:18 
+
+02:18 this vibe where I was getting like
+02:21 
+
+02:21 inspiration from. Um, I really wanted it
+02:24 
+
+02:24 to be like slightly gified. Like I
+02:27 
+
+02:27 really enjoy Harvest Moon as a child,
+02:29 
+
+02:29 which is basically a uh an older version
+02:33 
+
+02:33 of Stardw Valley. I've never played
+02:34 
+
+02:34 Stardw Valley, but I really loved
+02:36 
+
+02:36 Harvest Moon and I just really wanted to
+02:38 
+
+02:38 showcase like a more fun side uh of
+02:41 
+
+02:41 myself through my uh wet folio because
+02:44 
+
+02:44 like I think my LinkedIn is already like
+02:46 
+
+02:46 professionalish looking, right? I think
+02:49 
+
+02:49 in my endeavor as a techie as well as
+02:52 
+
+02:52 you know somebody who uh talks a about
+02:55 
+
+02:55 like different social and community
+02:57 
+
+02:57 issues, I really wanted a more
+02:58 
+
+02:58 light-hearted and casual spin on it. I'm
+03:01 
+
+03:01 more approachable and people don't take
+03:04 
+
+03:04 me like incredibly seriously. Kind of
+03:07 
+
+03:07 like our podcast, I guess. Like we're
+03:09 
+
+03:09 trying to make um talking about tech and
+03:11 
+
+03:11 the realities of life in tech more
+03:13 
+
+03:13 accessible and more um authentic and uh
+03:17 
+
+03:17 relatable. So I guess that was what I
+03:19 
+
+03:19 was going for and that's why I decided,
+03:21 
+
+03:21 okay, let's make it like kind of cute
+03:24 
+
+03:24 and gy. Um so
+03:27 
+
+03:27 >> you love I knew you would love it
+03:28 
+
+03:28 because like Yeah. Yeah. because you're
+03:30 
+
+03:30 a Pokemon fan and you play so many
+03:32 
+
+03:32 games. Like if you guys don't know, Ora
+03:34 
+
+03:34 like started off like her app
+03:36 
+
+03:36 development journey with like more
+03:38 
+
+03:38 gamedev stuff, right? Like you you kind
+03:40 
+
+03:40 of dabble here and there. Like you can
+03:42 
+
+03:42 go to her blog and then you'll be able
+03:43 
+
+03:43 to read her journey and her earlier
+03:45 
+
+03:45 projects. One of them was like a Pokemon
+03:47 
+
+03:47 inspired project.
+03:48 
+
+03:48 >> My projects are always so Pokemon based.
+03:50 
+
+03:50 So I love it. It's really It reminds me
+03:53 
+
+03:53 of like those pixel art games. So I know
+03:56 
+
+03:56 Harvest Moon is a pixel art art style.
+03:58 
+
+03:58 So,
+03:59 
+
+03:59 >> I love how you can recreate that feel.
+04:02 
+
+04:02 And I know you haven't introduced your
+04:04 
+
+04:04 entire website, but I would like to ask
+04:05 
+
+04:05 how did you like learn how to draw pixel
+04:08 
+
+04:08 art and what what app do you use? What
+04:10 
+
+04:10 program to draw it?
+04:11 
+
+04:11 >> Yeah, so I drew the one on the left on
+04:14 
+
+04:14 Clip Studio Art. Um, I think I had like
+04:17 
+
+04:17 a phase where I was drawing a lot. I
+04:19 
+
+04:19 actually have like my own web tune
+04:22 
+
+04:22 comic. Oh my gosh. Let me see if I can
+04:23 
+
+04:23 >> You have assets. You You created your
+04:25 
+
+04:25 own assets.
+04:27 
+
+04:27 >> Yeah. Uh, I had like a whole like um
+04:33 
+
+04:33 drawing face. Oh my god.
+04:36 
+
+04:36 >> Oh my god. Amazing.
+04:38 
+
+04:38 >> Cuz like I had this um period of my life
+04:41 
+
+04:41 where I broke my ankle and I was
+04:44 
+
+04:44 extremely depressed and I didn't have I
+04:46 
+
+04:46 couldn't move. I didn't have anything to
+04:48 
+
+04:48 do. And I don't know why like coding
+04:50 
+
+04:50 just didn't bring me joy at that point
+04:52 
+
+04:52 of time. And then I went into digital
+04:54 
+
+04:54 art and I started drawing a lot. This
+04:57 
+
+04:57 one is about my fostering journey and I
+05:00 
+
+05:00 have like a slightly more
+05:04 
+
+05:04 >> seriousish sci-fiish one.
+05:07 
+
+05:07 >> Wow. Yeah.
+05:10 
+
+05:10 >> That is amazing.
+05:14 
+
+05:14 >> Yeah. I think like this was around the
+05:16 
+
+05:16 same time that I also created the web
+05:18 
+
+05:18 folio and I was just like okay so I have
+05:21 
+
+05:21 like two different uh drawing styles
+05:23 
+
+05:23 here and I just wanted to intro
+05:25 
+
+05:25 introduce like a third drawing style and
+05:27 
+
+05:27 I was like I really like pixel art. I
+05:28 
+
+05:28 want to see like how people do that. So
+05:32 
+
+05:32 um yeah I used like the same um platform
+05:36 
+
+05:36 Clip Studio Art to just kind of draw. Um
+05:40 
+
+05:40 and this time like I had to do it uh
+05:42 
+
+05:42 pixel by pixel. I did like get like the
+05:45 
+
+05:45 little harvest moon um avatar. Um uh I
+05:49 
+
+05:49 used it as like inspiration and I
+05:51 
+
+05:51 overlaid but then you know I put like
+05:53 
+
+05:53 what I thought were my own personal
+05:55 
+
+05:55 features on it. So that's the one on the
+05:57 
+
+05:57 left side and actually when you want to
+05:59 
+
+05:59 um create a sprite you have the entire
+06:01 
+
+06:01 texture consists of like left, right,
+06:03 
+
+06:03 center and stuff. So actually the
+06:04 
+
+06:04 landing page used to be like a whole
+06:07 
+
+06:07 thing where you could move my sprite
+06:09 
+
+06:09 >> like use arrow keys and then move up and
+06:11 
+
+06:11 down.
+06:12 
+
+06:12 >> Yeah. But then I realized it was
+06:14 
+
+06:14 actually pretty bad UX- wise to navigate
+06:18 
+
+06:18 around.
+06:19 
+
+06:19 >> It's kind of cool though. How about like
+06:20 
+
+06:20 using arrow keys on the keyboard itself
+06:22 
+
+06:22 to move?
+06:23 
+
+06:23 >> Yeah. Yeah. So I I could it was actually
+06:26 
+
+06:26 using arrow keys. Um
+06:28 
+
+06:28 >> Okay. Okay.
+06:28 
+
+06:28 >> And like if you used it on phone, you
+06:31 
+
+06:31 would be pressing arrow keys on the
+06:33 
+
+06:33 phone. But I it was just like at first I
+06:36 
+
+06:36 was like, "Oh, locations could be like
+06:38 
+
+06:38 uh basically the tabs of my uh uh web
+06:41 
+
+06:41 folio. But then I realized it was just
+06:44 
+
+06:44 kind of like clunky and the
+06:45 
+
+06:45 responsiveness I had to deal with a lot
+06:47 
+
+06:47 of web responsiveness issue device um
+06:50 
+
+06:50 width and all of that and after a while
+06:52 
+
+06:52 I was just like okay let's just make it
+06:53 
+
+06:53 clean and simple otherwise I would never
+06:55 
+
+06:55 ever like publish this. So yes that's
+06:59 
+
+06:59 where I was at. So the left side I
+07:02 
+
+07:02 actually had like um the entire sprite
+07:05 
+
+07:05 texture out uh left right center but
+07:07 
+
+07:07 this is the front one. So, you can see
+07:08 
+
+07:08 that this is static. And then the one on
+07:10 
+
+07:10 the right of my cat, Pip. I live on my
+07:13 
+
+07:13 own with my two cats, Pip and Po. This
+07:15 
+
+07:15 is my cat, Pip. Uh, Po isn't here
+07:17 
+
+07:17 virtually yet, but she soon will be
+07:19 
+
+07:19 because I never got to drawing her when
+07:21 
+
+07:21 she came along. Pip came first before
+07:23 
+
+07:23 Po. So,
+07:26 
+
+07:26 >> this is so cute.
+07:28 
+
+07:28 >> Thanks, Pip. Our virtual home is here.
+07:31 
+
+07:31 It is in the middle of a refresh, but
+07:33 
+
+07:33 feel free to explore. Um, so the
+07:35 
+
+07:35 interesting part about like this one is
+07:38 
+
+07:38 it's not drawn on like like uh with
+07:41 
+
+07:41 digital art, but I actually like mapped
+07:44 
+
+07:44 the pixels out. Um, I coded the SVG out
+07:47 
+
+07:47 one by one because I wanted to try uh to
+07:50 
+
+07:50 create a new style of animation. It's
+07:53 
+
+07:53 like an SVG on its own. Basically, I
+07:56 
+
+07:56 created a loop to loop through like the
+07:58 
+
+07:58 different like the closed eyes and
+07:60 
+
+07:60 everything. And I had like a whole thing
+08:01 
+
+08:01 where you could change the color of the
+08:03 
+
+08:03 cat and stuff like that. People could
+08:05 
+
+08:05 play with it. Yeah, I'll show you guys.
+08:07 
+
+08:07 >> I actually remember uh interacting with
+08:10 
+
+08:10 that.
+08:10 
+
+08:10 >> I think you posted it
+08:12 
+
+08:12 >> posted it like when you first came on uh
+08:16 
+
+08:16 and then you showed us your website and
+08:18 
+
+08:18 I remember it was customizable. You
+08:20 
+
+08:20 could we could design your
+08:23 
+
+08:23 >> Yeah. Yeah. Yeah. Yeah.
+08:25 
+
+08:25 >> That was so amazing. remove it.
+08:28 
+
+08:28 >> I was cleaning up like just
+08:31 
+
+08:31 a while ago. Oh my gosh. Okay.
+08:34 
+
+08:34 >> Yes. Yes.
+08:35 
+
+08:35 >> Yeah. So, it there used to be another
+08:37 
+
+08:37 tab here called projects, but I removed
+08:39 
+
+08:39 it because like um otherwise, as you can
+08:42 
+
+08:42 see, if it's on the phone, it it went
+08:45 
+
+08:45 over and then I just didn't have time at
+08:47 
+
+08:47 that point of time to like think about
+08:48 
+
+08:48 like what's a good way to like um do
+08:51 
+
+08:51 that. So, but um obviously it's new
+08:54 
+
+08:54 here. So actually, yeah, you could
+08:57 
+
+08:57 actually you could change the eyes and
+08:59 
+
+08:59 you could change the fur. That is not
+09:02 
+
+09:02 brown. That's okay. You know what? Like
+09:06 
+
+09:06 I don't know. You could change the m
+09:08 
+
+09:08 like the head pattern. But this is very
+09:10 
+
+09:10 biased towards how pip looks. So I can't
+09:12 
+
+09:12 really create pole from this. But yeah,
+09:17 
+
+09:17 basically. Okay, I'll put this back on.
+09:19 
+
+09:19 Like I I need like a way to put it back
+09:21 
+
+09:21 on. I just haven't really thought about
+09:23 
+
+09:23 it. ends the need to do a revamp, right?
+09:26 
+
+09:26 And that's why we're doing a review
+09:27 
+
+09:27 today. But yes, that is how I kind of
+09:30 
+
+09:30 like created like the cat. So, even
+09:32 
+
+09:32 though both are sprites, um they're
+09:34 
+
+09:34 created very differently. One is like um
+09:38 
+
+09:38 drawn and then like set on a texture,
+09:40 
+
+09:40 like I really wanted it to also like uh
+09:42 
+
+09:42 move around at at some point. It was
+09:44 
+
+09:44 toggable with like arrow keys. Um but I
+09:48 
+
+09:48 was just like, okay, whatever. Um
+09:50 
+
+09:50 minimum viable product, right? Just put
+09:51 
+
+09:51 it out there. And but this one is um
+09:55 
+
+09:55 code generated basically.
+09:57 
+
+09:57 >> Yeah. So I guess somebody wanted to
+09:60 
+
+09:60 create NFTTS.
+10:03 
+
+10:03 >> Yeah. And then the dialogue box by
+10:06 
+
+10:06 itself was also pretty fun coding it
+10:09 
+
+10:09 because it surprisingly required um like
+10:12 
+
+10:12 the text by itself
+10:15 
+
+10:15 um because it's like typewriter. Okay.
+10:17 
+
+10:17 See like sometimes it glitches. I still
+10:19 
+
+10:19 haven't like found out why. But um to
+10:23 
+
+10:23 kind of like create that uh function for
+10:25 
+
+10:25 it to appear character by character was
+10:29 
+
+10:29 actually quite a challenge by itself.
+10:32 
+
+10:32 But
+10:32 
+
+10:32 >> is it is it just CSS or did you also use
+10:35 
+
+10:35 JavaScript to make the type by character
+10:37 
+
+10:37 by character?
+10:38 
+
+10:38 >> What did I use?
+10:41 
+
+10:41 >> Nowadays like there's so many libraries
+10:43 
+
+10:43 to create these kind of effects. I don't
+10:46 
+
+10:46 even remember when I did something so
+10:49 
+
+10:49 lower level.
+10:50 
+
+10:50 >> Yeah. So, another thing that I did,
+10:53 
+
+10:53 yeah, on the more coding, like techie
+10:55 
+
+10:55 technical side of the house, my
+10:57 
+
+10:57 challenge to myself was like I really
+10:59 
+
+10:59 wanted to go as lowle as possible, as
+11:00 
+
+11:00 raw as possible. I think there was some
+11:03 
+
+11:03 point it was like pure vanilla like JS.
+11:05 
+
+11:05 But then I was just like, okay,
+11:08 
+
+11:08 okay, done with that experiment. I I
+11:10 
+
+11:10 should probably um just code it in
+11:12 
+
+11:12 React. um this this whole thing there
+11:15 
+
+11:15 there's also another thing at that point
+11:16 
+
+11:16 I was very into mono repositories like
+11:19 
+
+11:19 the concept of like putting everything
+11:21 
+
+11:21 in one repository
+11:23 
+
+11:23 um despite uh having like different
+11:25 
+
+11:25 features that are um incredibly
+11:27 
+
+11:27 different um so for audience members who
+11:31 
+
+11:31 don't really understand the concept of
+11:32 
+
+11:32 motor repositories and like poly
+11:34 
+
+11:34 repositories basically um oh wait
+11:37 
+
+11:37 actually I have a at some point I did
+11:40 
+
+11:40 like a blog post on this yeah
+11:43 
+
+11:43 Wow, nice.
+11:45 
+
+11:45 >> Basically, um if it's like working in a
+11:49 
+
+11:49 team and um your entire team has uh one
+11:53 
+
+11:53 Google Drive versus um your entire team
+11:57 
+
+11:57 has like various Google Drive uh divided
+11:60 
+
+11:60 into different departments. So this is
+12:03 
+
+12:03 the one with like a singular Google
+12:05 
+
+12:05 Drive and then this is the one with like
+12:08 
+
+12:08 um different Google drives. And
+12:10 
+
+12:10 technically the one on the right is more
+12:12 
+
+12:12 commonplace and typical um so that it's
+12:16 
+
+12:16 um
+12:17 
+
+12:17 I don't want to say easier to
+12:19 
+
+12:19 collaborate. I would say it's just more
+12:20 
+
+12:20 conventional because it depends on the
+12:22 
+
+12:22 project itself. Um but um I at that
+12:25 
+
+12:25 point I think I found out that Google um
+12:28 
+
+12:28 the entire organization used only one
+12:31 
+
+12:31 like moto repository to co to put their
+12:33 
+
+12:33 code in. So there was only one like
+12:35 
+
+12:35 Google drive. So I was just like, hm,
+12:37 
+
+12:37 I'm going to explore this, too. So yeah,
+12:41 
+
+12:41 that's kind of like what I did here for
+12:43 
+
+12:43 the people who can recognize it. And um
+12:47 
+
+12:47 that was also another thing that I
+12:48 
+
+12:48 wanted to like revamp actually because
+12:50 
+
+12:50 now I have a lot of like fun little
+12:53 
+
+12:53 packages like the UI itself. I was just
+12:55 
+
+12:55 like, oh, it' be fun to kind of share it
+12:57 
+
+12:57 and see if like other people wanted to
+12:59 
+
+12:59 contribute or like I don't know, like
+13:01 
+
+13:01 use it. And then I also had like the
+13:04 
+
+13:04 mini I did it wasn't very creative to
+13:07 
+
+13:07 the name, but the mini me is basically
+13:08 
+
+13:08 the um the animation of the sprite.
+13:13 
+
+13:13 >> So yeah, I was thinking like, oh, I kind
+13:15 
+
+13:15 of want to like make these uh as
+13:17 
+
+13:17 individual repositories on GitHub so
+13:20 
+
+13:20 that other people could like use it too
+13:21 
+
+13:21 or like contribute to it.
+13:23 
+
+13:23 >> So now I guess I'm also realizing the
+13:26 
+
+13:26 pros and cons of a mono repository. it
+13:28 
+
+13:28 did make like working with it very
+13:30 
+
+13:30 quickly because I could just change like
+13:32 
+
+13:32 code within the same repository. I also
+13:35 
+
+13:35 used Turbo Repo um to manage the entire
+13:38 
+
+13:38 mono repository that made it really
+13:40 
+
+13:40 easy. Um but yes, that was like
+13:44 
+
+13:44 something that I wanted to change. But
+13:46 
+
+13:46 this is a good segue um into this part
+13:51 
+
+13:51 my um app.
+13:54 
+
+13:54 this I wanted it to be like a little
+13:56 
+
+13:56 diary like a scrapbook. Um so that's
+14:01 
+
+14:01 kind of like what I did and I stayed
+14:03 
+
+14:03 with the whole pixel art form. This was
+14:04 
+
+14:04 actually really hard to do because I had
+14:08 
+
+14:08 to take into account um device
+14:10 
+
+14:10 responsiveness. So you can see like on
+14:13 
+
+14:13 the phone I at first it was just like
+14:15 
+
+14:15 the landscape orientation of the diary
+14:19 
+
+14:19 that I was like oh then you can't really
+14:20 
+
+14:20 like click and see anything. But then
+14:22 
+
+14:22 after that I was like, "Oh, I can just
+14:24 
+
+14:24 kind of
+14:26 
+
+14:26 >> um kind of
+14:27 
+
+14:27 >> yeah portrait modeed."
+14:29 
+
+14:29 >> But okay, obviously you can see this is
+14:31 
+
+14:31 kind of glitchy because I didn't take
+14:34 
+
+14:34 into account how much I should truncate
+14:36 
+
+14:36 for different device widths.
+14:38 
+
+14:38 >> So probably something I have to work on.
+14:40 
+
+14:40 And as you can see, I was not I had the
+14:43 
+
+14:43 whole like phase where I was very
+14:44 
+
+14:44 inspired by Victoria and her tech
+14:46 
+
+14:46 blogging. So I was like, I'm gonna do
+14:48 
+
+14:48 it. And I wrote this and I was like, "Oh
+14:53 
+
+14:53 yeah, there'll be a second part.
+14:54 
+
+14:54 There'll be a third part to be
+14:55 
+
+14:55 continued." And I never continued. This
+14:57 
+
+14:57 was
+15:00 
+
+15:00 >> okay.
+15:01 
+
+15:01 >> September 2023.
+15:04 
+
+15:04 >> Yeah. I don't know how you have the
+15:05 
+
+15:05 diligence like Victoria to like
+15:07 
+
+15:07 >> It gets easier the more you write. So I
+15:09 
+
+15:09 I know after my first uh article, it
+15:12 
+
+15:12 took me a month to like start another
+15:14 
+
+15:14 one. So it always takes uh time. Yeah.
+15:17 
+
+15:17 You just have to tell yourself, I'm
+15:19 
+
+15:19 going to do it again. Give yourself a
+15:21 
+
+15:21 virtual deadline. Like, you must have it
+15:23 
+
+15:23 done by that date.
+15:25 
+
+15:25 >> Okay. Part two is going to be like
+15:28 
+
+15:28 >> it's all I have
+15:29 
+
+15:29 >> 2024.
+15:31 
+
+15:31 >> I I have like I have discipline but in a
+15:34 
+
+15:34 very weird way. So, I'm like reliable
+15:36 
+
+15:36 but not consistent if that makes sense.
+15:38 
+
+15:38 It's like I'm the type of person who's
+15:40 
+
+15:40 like you give me a deadline, I will meet
+15:41 
+
+15:41 it, but don't ex uh but if you're
+15:43 
+
+15:43 checking on me every single day to see
+15:45 
+
+15:45 if I'm I'm working on it, you will
+15:47 
+
+15:47 realize that I am not. So yeah, I I just
+15:52 
+
+15:52 realized that about myself and I was
+15:53 
+
+15:53 like, "Oh, this is so hard to explain to
+15:55 
+
+15:55 people and to like, you know, people
+15:57 
+
+15:57 want that assurance that you're working
+15:58 
+
+15:58 on something, but at the same time, my
+16:00 
+
+16:00 energy levels are always like so you can
+16:03 
+
+16:03 see this entire app was like one burst,
+16:05 
+
+16:05 one sprint, and then I never touched it
+16:07 
+
+16:07 like one year later, but now I want to
+16:11 
+
+16:11 touch it. I want to have the diligence
+16:12 
+
+16:12 that Victoria has."
+16:14 
+
+16:14 >> Yeah. Oh, also,
+16:15 
+
+16:15 >> do you want us to help you?
+16:16 
+
+16:16 >> Yes, we can give you a deadline. We can
+16:18 
+
+16:18 help you. Ah, I think I need
+16:20 
+
+16:20 accountability so bad. Like I think like
+16:23 
+
+16:23 we do really well in this podcast
+16:25 
+
+16:25 because like I have you guys to keep me
+16:28 
+
+16:28 like accountable. We have deadlines and
+16:30 
+
+16:30 I'm accountable to y'alls. But when it
+16:32 
+
+16:32 comes to my own personal stuff, it's
+16:33 
+
+16:33 just like I'm waiting for like that
+16:35 
+
+16:35 burst of energy and I'll just do it. And
+16:38 
+
+16:38 then after a while I get overwhelmed and
+16:39 
+
+16:39 I'll be like
+16:41 
+
+16:41 >> I think for side projects is often like
+16:43 
+
+16:43 that because we'll be like so
+16:44 
+
+16:44 preoccupied with our main occupation
+16:46 
+
+16:46 like our day job. That's true. that
+16:48 
+
+16:48 sometimes at night like you know we want
+16:50 
+
+16:50 to do the 9 to5 and then 5 to9 like what
+16:53 
+
+16:53 Sloan has said before but sometimes that
+16:55 
+
+16:55 5 to9 is hard like cuz after the 9 to5
+16:58 
+
+16:58 your your brain is just very exhausted.
+17:01 
+
+17:01 >> Yeah.
+17:02 
+
+17:02 >> Yeah. Yeah.
+17:02 
+
+17:02 >> You just need to be really like
+17:05 
+
+17:05 disciplined to like push yourself to do
+17:07 
+
+17:07 it. But I know it's very hard. Yeah.
+17:09 
+
+17:09 >> Exactly. I know we talk a lot in our
+17:11 
+
+17:11 podcast about how good it is to have
+17:13 
+
+17:13 side projects. uh even when you have
+17:15 
+
+17:15 like a full-time job, like it's always
+17:17 
+
+17:17 good to have side projects um in case
+17:20 
+
+17:20 you need to have your resume ready at
+17:22 
+
+17:22 any point of time. But the reality of it
+17:25 
+
+17:25 is it's kind of hard to stay consistent
+17:27 
+
+17:27 and committed to a side project. Um
+17:30 
+
+17:30 because you know, you're not getting
+17:32 
+
+17:32 paid for it. That's one. So you don't
+17:34 
+
+17:34 have the monetary incentive to keep you
+17:36 
+
+17:36 accountable. And then two, it's just
+17:39 
+
+17:39 like
+17:40 
+
+17:40 >> I don't know. It's just for your own
+17:41 
+
+17:41 learning purpose. So you get to pace
+17:43 
+
+17:43 yourself.
+17:44 
+
+17:44 >> And I think the the third one is that
+17:46 
+
+17:46 especially when you have a job or even
+17:48 
+
+17:48 if you don't have a job, you're also
+17:49 
+
+17:49 probably actively recruiting. It's very
+17:51 
+
+17:51 hard to like find time for that. So I
+17:54 
+
+17:54 think time
+17:55 
+
+17:55 >> that you know Salony mentioned is really
+17:58 
+
+17:58 the discipline. Like that's one.
+17:60 
+
+17:60 >> Um two like uh I I think for me it's
+18:03 
+
+18:03 realizing the kind of cadence that I
+18:05 
+
+18:05 work at and not everybody has the same
+18:07 
+
+18:07 type of cadence. I think I was like
+18:09 
+
+18:09 really hard up by myself. um thinking
+18:12 
+
+18:12 that okay I need discipline for if if
+18:16 
+
+18:16 discipline for other people means
+18:17 
+
+18:17 keeping to a routine like posting and
+18:20 
+
+18:20 writing every week um let's try to do
+18:22 
+
+18:22 that and I realized like but I have um
+18:25 
+
+18:25 incredibly fluctuating like energy
+18:27 
+
+18:27 levels and capacities
+18:30 
+
+18:30 um keeping to like that kind of timeline
+18:33 
+
+18:33 like made me really stressed out and
+18:35 
+
+18:35 overwhelmed me even more and enhance the
+18:37 
+
+18:37 procrastination actually um so I had to
+18:40 
+
+18:40 like understand how I work and kind of
+18:43 
+
+18:43 adapt that to myself, see what motivates
+18:45 
+
+18:45 me. So yeah, that's on that journey.
+18:50 
+
+18:50 >> Yeah.
+18:51 
+
+18:51 >> But I like how like your side project,
+18:53 
+
+18:53 especially for this one, it it really
+18:55 
+
+18:55 showcase your individuality and like it
+18:58 
+
+18:58 showcase your creativity as well cuz I
+19:00 
+
+19:00 think most people when they make side
+19:02 
+
+19:02 projects, they just follow tutorials,
+19:03 
+
+19:03 right? like, oh, especially for
+19:05 
+
+19:05 beginners, it'll be like the classic
+19:07 
+
+19:07 to-do app or the classic weather app,
+19:09 
+
+19:09 >> but then they they don't make something
+19:10 
+
+19:10 that really showcases their identity or
+19:13 
+
+19:13 like something that they truly want to
+19:14 
+
+19:14 learn. I love how like you said you want
+19:16 
+
+19:16 to learn everything, so you did it
+19:18 
+
+19:18 lowlevel. You did everything by
+19:20 
+
+19:20 JavaScript at first just so that you can
+19:22 
+
+19:22 learn something. And I think sometimes
+19:24 
+
+19:24 doing that instead of relying on
+19:26 
+
+19:26 libraries, that also kind of trains you
+19:28 
+
+19:28 in a way cuz then you realize how are
+19:31 
+
+19:31 these libraries being written also.
+19:33 
+
+19:33 Yeah,
+19:33 
+
+19:33 >> cuz technically you're writing yourself
+19:35 
+
+19:35 kind of like a library, you know, by
+19:36 
+
+19:36 writing the low-level code. So yeah.
+19:39 
+
+19:39 >> So yeah, I love how like all this even
+19:41 
+
+19:41 though it took you a year, but it's like
+19:44 
+
+19:44 slow pace learning like at your own pace
+19:46 
+
+19:46 basically
+19:47 
+
+19:47 >> and then it's your personality and your
+19:50 
+
+19:50 identity
+19:51 
+
+19:51 >> like all the pixel art and and see like
+19:53 
+
+19:53 even some skills that developers think
+19:56 
+
+19:56 is like they think all you need to learn
+19:57 
+
+19:57 is like coding like JavaScript skills
+19:60 
+
+19:60 but see I love how you incorporate your
+20:01 
+
+20:01 pixel art skills too like your artistic
+20:03 
+
+20:03 abilities. it can also be part of like
+20:06 
+
+20:06 projects just like as technical as this.
+20:08 
+
+20:08 So
+20:09 
+
+20:09 >> yeah, honestly it's great to understand
+20:11 
+
+20:11 that part like because with pixel art um
+20:15 
+
+20:15 it it requires an understanding of uh uh
+20:17 
+
+20:17 like with like the literal pixels that
+20:20 
+
+20:20 you work with the the bits that you work
+20:22 
+
+20:22 with and then having to like literally
+20:25 
+
+20:25 um draw with code was quite an exercise
+20:28 
+
+20:28 uh in appreciating that kind of having
+20:31 
+
+20:31 the spatial awareness of the space that
+20:32 
+
+20:32 you're coding in. you know, like uh
+20:34 
+
+20:34 things have to be relative to each other
+20:36 
+
+20:36 and especially in the SVG code format. I
+20:39 
+
+20:39 thought it was just like really fun to
+20:41 
+
+20:41 like explore that and I'm so glad you
+20:43 
+
+20:43 brought up the um the the the point that
+20:46 
+
+20:46 you know a personal side project, a wet
+20:49 
+
+20:49 folio or like even like a food nutrition
+20:51 
+
+20:51 analysis app like Salon, it should
+20:54 
+
+20:54 showcase like your individuality.
+20:57 
+
+20:57 Um because if we we go back to using
+20:60 
+
+20:60 this as like tech recruitment material
+21:03 
+
+21:03 like it should really speak to your tone
+21:04 
+
+21:04 of voice. It should really speak to like
+21:07 
+
+21:07 what you bring to the table, what kind
+21:08 
+
+21:08 of values you stand for. Um you're not
+21:12 
+
+21:12 just a software engineer like
+21:14 
+
+21:14 run-of-the-mill, but what other things
+21:16 
+
+21:16 um do you do? And I think for me, you're
+21:18 
+
+21:18 spot on in that I really wanted to like
+21:21 
+
+21:21 showcase that um I was more than just
+21:25 
+
+21:25 like a a a software engineer in the
+21:28 
+
+21:28 sense that I was also an artist. I guess
+21:30 
+
+21:30 I was also fun and quirky and more
+21:32 
+
+21:32 importantly I like to learn uh different
+21:35 
+
+21:35 things and I'm not scared to, you know,
+21:37 
+
+21:37 um take the long way around and actually
+21:39 
+
+21:39 a lot of these things were the long way
+21:41 
+
+21:41 around for the purpose of learning.
+21:43 
+
+21:43 Thank you for tuning in to part one of
+21:45 
+
+21:45 Natasha's app review on Rectag. In the
+21:47 
+
+21:47 next part, we'll be looking at how she
+21:49 
+
+21:49 used the free method of hosting content
+21:51 
+
+21:51 for the blog feature of her webfolio,
+21:53 
+
+21:53 while Victoria will also chime in on her
+21:56 
+
+21:56 tech blogging expertise. We'll also be
+21:58 
+
+21:58 walking through the link tree feature on
+22:00 
+
+22:00 her web folio where she puts links to
+22:02 
+
+22:02 her socials and communities for easy
+22:04 
+
+22:04 access while the team talks about the
+22:06 
+
+22:06 importance of personal branding in
+22:08 
+
+22:08 today's era of tech recruitment. As
+22:11 
+
+22:11 always, this was Recte, the place for
+22:13 
+
+22:13 bites and banter. Remember to like,
+22:16 
+
+22:16 subscribe, follow, and comment, and
+22:18 
+
+22:18 we'll see you in the next episode. Bye.
+22:21 
+
+22:21 [Music]

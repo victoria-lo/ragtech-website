@@ -1,0 +1,2041 @@
+00:00 a lot of hackathons people think that
+00:02 
+
+00:02 only developers join them and only you
+00:05 
+
+00:05 must know how to code heatons being a
+00:07 
+
+00:07 really good place to get validation for
+00:09 
+
+00:09 ideas you've had for a long long time
+00:11 
+
+00:11 the nvp that we built it was more about
+00:13 
+
+00:13 the slides the way I presented the
+00:16 
+
+00:16 product
+00:17 
+
+00:17 [Music]
+00:20 
+
+00:20 itself hello everybody we have rect tag
+00:22 
+
+00:22 and this is the place for bites and
+00:24 
+
+00:24 ventor I'm Natasha I'm a software
+00:26 
+
+00:26 engineer I'm saloni software developer
+00:28 
+
+00:28 and I'm Victoria Solutions engineer and
+00:30 
+
+00:30 together we have rag today our episode
+00:33 
+
+00:33 is going to be about hackathons um so to
+00:35 
+
+00:35 start off I'm going to start off with
+00:37 
+
+00:37 the person who has most recently done a
+00:39 
+
+00:39 hackathon and that person is me Victoria
+00:43 
+
+00:43 so yeah how was your experience like
+00:45 
+
+00:45 doing that hackathon do you want to tell
+00:46 
+
+00:46 us all about it yeah sure so basically
+00:49 
+
+00:49 heatons is something that I do kind of
+00:51 
+
+00:51 on and off whenever I see there's time
+00:53 
+
+00:53 or like there's something I want to
+00:54 
+
+00:54 learn from so the recent Heaton I joined
+00:57 
+
+00:57 is the hash node API Heaton where you
+00:59 
+
+00:59 have to use a hash node API like
+01:01 
+
+01:01 integrated into some app and like sorry
+01:03 
+
+01:03 sorry to interrupt you but I realized
+01:04 
+
+01:04 that we didn't explain what a hackathon
+01:06 
+
+01:06 was so yeah do you want to like start
+01:08 
+
+01:08 off okay sure so heatons are basically
+01:11 
+
+01:11 like timed kind of like events where you
+01:14 
+
+01:14 you have a deadline to complete a
+01:16 
+
+01:16 project within that time so it can range
+01:19 
+
+01:19 from 48 hours to like even weeks or
+01:22 
+
+01:22 months even longer than that basically
+01:24 
+
+01:24 the goal of hackaton is to meet people
+01:26 
+
+01:26 build project together and submit it by
+01:28 
+
+01:28 the end of the whole deadline by the
+01:31 
+
+01:31 deadline so usually they'll have a bunch
+01:33 
+
+01:33 of different deliverables like usually
+01:35 
+
+01:35 an MVP of the app and then a video for
+01:38 
+
+01:38 the demo and then maybe a presentation
+01:40 
+
+01:40 so depending on the hackathon and
+01:42 
+
+01:42 hackathons would usually at the end of
+01:43 
+
+01:43 the deadline would have like some prizes
+01:45 
+
+01:45 so let's say you know if you're top
+01:47 
+
+01:47 three top five depending on the hecaton
+01:49 
+
+01:49 you'll get prizes in the form usually of
+01:52 
+
+01:52 like monetary or like Amazon credits or
+01:54 
+
+01:54 things like that yeah so that's
+01:56 
+
+01:56 essentially what heatons is is a place
+01:58 
+
+01:58 for developers to work together to build
+02:00 
+
+02:00 a project yeah and innovate create
+02:03 
+
+02:03 create stuff together yeah so for me
+02:05 
+
+02:05 I've been joining hackaton for a while
+02:07 
+
+02:07 now so many I couldn't count but the
+02:10 
+
+02:10 recent hackathon I joined is the hash
+02:12 
+
+02:12 node API hackathon where you have to use
+02:14 
+
+02:14 hash node apis to build an app to
+02:17 
+
+02:17 integrate to build an app so what I
+02:19 
+
+02:19 built is actually a AI generated
+02:21 
+
+02:21 learning path app so you know how hash
+02:24 
+
+02:24 node is a blogging platform for those
+02:25 
+
+02:25 who don't know hash no is a blogging
+02:27 
+
+02:27 community and platform it has many
+02:28 
+
+02:28 technical articles there when you want
+02:31 
+
+02:31 to go in and learn something I noticed
+02:33 
+
+02:33 that there's just too many articles it's
+02:35 
+
+02:35 saturated right now so I want to learn
+02:36 
+
+02:36 flutter and then I search up flutter in
+02:39 
+
+02:39 the search bar and there will be a lot
+02:40 
+
+02:40 of articles on flutter and I'm a
+02:42 
+
+02:42 beginner and I don't know where to start
+02:44 
+
+02:44 cuz I have no knowledge of flutter so
+02:46 
+
+02:46 I'm not sure which article I should read
+02:48 
+
+02:48 first what is the order and all that and
+02:50 
+
+02:50 so after I identified this use case I
+02:52 
+
+02:52 decided to create an AI learning path
+02:54 
+
+02:54 generator where you can write down what
+02:56 
+
+02:56 you want to learn and then they'll take
+02:57 
+
+02:57 like fetch hash note articles from the
+02:59 
+
+02:59 API I and then they'll generate you an
+03:01 
+
+03:01 optimized learning path based on like
+03:04 
+
+03:04 your current difficulty level yeah so
+03:07 
+
+03:07 that is essentially my project and I
+03:09 
+
+03:09 kind of joined the Heaton late it was a
+03:10 
+
+03:10 three we Heaton but I joined it like you
+03:12 
+
+03:12 know the last seven
+03:15 
+
+03:15 days yeah cuz at the time I was like you
+03:17 
+
+03:17 know just thinking like should I join
+03:19 
+
+03:19 this heon or not so I wasn't really sure
+03:22 
+
+03:22 up until like the last seven days I got
+03:24 
+
+03:24 the idea and like okay now I now I wow I
+03:27 
+
+03:27 want to do this you know I just want to
+03:29 
+
+03:29 build it so
+03:30 
+
+03:30 um the process of doing this hackaton is
+03:34 
+
+03:34 is at least for me I just paired up with
+03:36 
+
+03:36 my partner as usual so she's a software
+03:39 
+
+03:39 engineer and to be honest with you we
+03:41 
+
+03:41 don't have like a super extensive
+03:43 
+
+03:43 background in machine learning but we do
+03:46 
+
+03:46 have we have built machine learning
+03:48 
+
+03:48 projects before so we're familiar with
+03:49 
+
+03:49 the process and because we work together
+03:52 
+
+03:52 a lot on different hackathons we kind of
+03:54 
+
+03:54 know each other strengths so immediately
+03:56 
+
+03:56 7 days left we just you know start
+03:58 
+
+03:58 assigning task you know you did this and
+04:00 
+
+04:00 this part like that and what we did is
+04:03 
+
+04:03 we built an ml model that can actually
+04:06 
+
+04:06 predict the difficulty level of an
+04:08 
+
+04:08 article so after it predicts the
+04:10 
+
+04:10 difficulty level of an article it'll
+04:12 
+
+04:12 arrange it from easy to hard and then
+04:14 
+
+04:14 it'll generate that learning path for
+04:16 
+
+04:16 you so I would say right now because we
+04:18 
+
+04:18 have to manually label the Articles it's
+04:20 
+
+04:20 not a really perfect model we do notice
+04:23 
+
+04:23 like some articles would have like two
+04:25 
+
+04:25 different Topics in one article like
+04:27 
+
+04:27 flutter with graphql for example how do
+04:29 
+
+04:29 you determine the difficulty level for
+04:31 
+
+04:31 that so there's a lot of these like
+04:33 
+
+04:33 little little hiccups that we notice and
+04:35 
+
+04:35 in every heatons there's always little
+04:37 
+
+04:37 hiccups that sure and it's also in a
+04:39 
+
+04:39 very short amount of time as compared to
+04:42 
+
+04:42 as much time you would have if you're
+04:44 
+
+04:44 actually building it into an at for
+04:46 
+
+04:46 company right so with a hackathon you
+04:48 
+
+04:48 you have to solve all these problems in
+04:50 
+
+04:50 a very small amount of time and that's
+04:52 
+
+04:52 why we basically kind of just overcome
+04:54 
+
+04:54 it by so there's two ways to overcome
+04:57 
+
+04:57 like these kind of hiccups first is we
+04:59 
+
+04:59 just put them off for now cuz it's like
+05:01 
+
+05:01 it's not part of the MVP like you know
+05:03 
+
+05:03 we don't have to include it yet and then
+05:05 
+
+05:05 the most important feature yeah so it's
+05:07 
+
+05:07 also prizing like identifying which
+05:09 
+
+05:09 feature we have to include in the MVP
+05:11 
+
+05:11 and then the second part is let's say we
+05:13 
+
+05:13 have to include it no matter what then
+05:15 
+
+05:15 we'll try to just brute force it for now
+05:17 
+
+05:17 you know yeah yeah yeah you know like so
+05:19 
+
+05:19 for me like for example I was trying to
+05:21 
+
+05:21 figure out the difficulty level like how
+05:23 
+
+05:23 do you how does the model can identify
+05:26 
+
+05:26 difficulty level there's a lot of things
+05:27 
+
+05:27 right like article length you know um
+05:29 
+
+05:29 complexity of the words terms and all
+05:31 
+
+05:31 that so um at first there's all these
+05:34 
+
+05:34 features we want to put in the model but
+05:36 
+
+05:36 then since due to lack of time in the
+05:38 
+
+05:38 end we just manually label like that so
+05:41 
+
+05:41 Brute Force you know so it takes a lot
+05:43 
+
+05:43 of Labor to be honest but at the end of
+05:46 
+
+05:46 the day I'm happy with the outcome at
+05:48 
+
+05:48 least we managed to make a very simple
+05:50 
+
+05:50 website that can predict learning path
+05:52 
+
+05:52 generating so I'll say that's the most
+05:54 
+
+05:54 rewarding part about hecton is at the
+05:57 
+
+05:57 end of the day you will have a project
+05:59 
+
+05:59 yeah even no matter how big or small
+06:01 
+
+06:01 it's something and then it's something
+06:03 
+
+06:03 that you learn from you take away from
+06:05 
+
+06:05 building this yeah so that's that's been
+06:07 
+
+06:07 my experience so far yeah and this was
+06:10 
+
+06:10 basically last week right that last two
+06:13 
+
+06:13 weeks last two weeks so You' have been
+06:15 
+
+06:15 like doing this hack for the last two
+06:16 
+
+06:16 weeks and you said like you're
+06:17 
+
+06:17 consistently joining hackathons on and
+06:20 
+
+06:20 off actually on and off okay okay yeah
+06:22 
+
+06:22 and the main thing that you take away
+06:24 
+
+06:24 from it is that each time you get
+06:26 
+
+06:26 rewarded by like having an actual
+06:27 
+
+06:27 product and project that will assume
+06:29 
+
+06:29 like uh if you know somebody was coming
+06:32 
+
+06:32 in new to Tech and they wanted to put
+06:33 
+
+06:33 more things in their portfolio this is a
+06:35 
+
+06:35 good way to start I I would think and
+06:37 
+
+06:37 also like that entire experience of like
+06:39 
+
+06:39 you have this very condensed period of
+06:42 
+
+06:42 time and you're faced with problems and
+06:43 
+
+06:43 you have to go through the practice of
+06:45 
+
+06:45 like prioritizing what other important
+06:47 
+
+06:47 things you want to build to make this a
+06:48 
+
+06:48 minimum demonstratable product which is
+06:51 
+
+06:51 also a very important uh concept as well
+06:53 
+
+06:53 and I wanted to tap on this and you know
+06:54 
+
+06:54 share uh uh my own experience this time
+06:57 
+
+06:57 not just being a participant of the
+06:60 
+
+06:60 hackathon but uh being one of the
+07:01 
+
+07:01 mentors and actually you you you were
+07:04 
+
+07:04 one of the mentors too I was also a
+07:05 
+
+07:05 hackathon judge and Mentor yeah yeah it
+07:08 
+
+07:08 was for uh um showcase uh which is
+07:11 
+
+07:11 another uh platform it's like LinkedIn
+07:13 
+
+07:13 for developers but again to expose their
+07:15 
+
+07:15 uh API application uh programming
+07:18 
+
+07:18 interface to like other people to use
+07:20 
+
+07:20 and I realized a lot of companies do
+07:21 
+
+07:21 this um to kind of like uh advertise
+07:24 
+
+07:24 their product uh especially for
+07:26 
+
+07:26 developer tools they use hackathons to
+07:28 
+
+07:28 get people to try them and also I think
+07:30 
+
+07:30 to get feedback on their product as well
+07:32 
+
+07:32 so that's one way um like like one
+07:35 
+
+07:35 reason why companies uh engage in
+07:36 
+
+07:36 hackathons so being a mentor there I
+07:39 
+
+07:39 realized like uh I I realized that a lot
+07:41 
+
+07:41 of these uh projects that people are
+07:43 
+
+07:43 showing me they're so talented like a
+07:46 
+
+07:46 lot of uh engineers and participants of
+07:48 
+
+07:48 these hackathons are so tal technically
+07:50 
+
+07:50 talented like I couldn't developed that
+07:52 
+
+07:52 in that short uh span of time so I was
+07:54 
+
+07:54 really thinking in terms of me being a
+07:56 
+
+07:56 mentor what can I contribute I can't
+07:59 
+
+07:59 contribute anything that's really
+08:01 
+
+08:01 technical because it really involves
+08:02 
+
+08:02 like going deep down and if I go down
+08:04 
+
+08:04 and nitpick like oh actually this could
+08:06 
+
+08:06 be better it's also very very like silly
+08:08 
+
+08:08 because I know you have a constrainted
+08:09 
+
+08:09 amount of time so I realized what I
+08:11 
+
+08:11 ended up being able to give value to was
+08:14 
+
+08:14 more of like how me looking uh at this
+08:17 
+
+08:17 as a product perspective do I think that
+08:20 
+
+08:20 you've developed features that people
+08:21 
+
+08:21 would really use are these really like
+08:23 
+
+08:23 the minimum viable features that
+08:25 
+
+08:25 demonstrate the full potential of your
+08:27 
+
+08:27 idea so that's kind of like where I kind
+08:29 
+
+08:29 of switch gears instead of like
+08:31 
+
+08:31 commenting on like the technical um
+08:33 
+
+08:33 details of like oh you should be
+08:35 
+
+08:35 implementing this and that I realized
+08:36 
+
+08:36 like giving my perspective of how we
+08:39 
+
+08:39 should look at this as a product is this
+08:41 
+
+08:41 the best uh demonstration of uh your
+08:44 
+
+08:44 idea was actually helpful to the
+08:46 
+
+08:46 participants and um that was my takeaway
+08:49 
+
+08:49 as a mentor as well for the hackathon um
+08:52 
+
+08:52 realizing that there are so many Talent
+08:54 
+
+08:54 talented people out there but you know
+08:56 
+
+08:56 as um coming in from the third party
+08:59 
+
+08:59 perspective I realized like a lot of
+09:00 
+
+09:00 people appreciate that feedback on ideas
+09:03 
+
+09:03 everybody wants feedback on their ideas
+09:05 
+
+09:05 and I think hackathons are a really good
+09:06 
+
+09:06 way to do that you have an idea at the
+09:08 
+
+09:08 back of your head and you just want
+09:10 
+
+09:10 people to tell you like um is it good is
+09:12 
+
+09:12 it bad to improve on it so um that was
+09:15 
+
+09:15 one um yeah experience that I wanted to
+09:17 
+
+09:17 bring up like Vis be like what you said
+09:20 
+
+09:20 yeah that's nice sooney for yourself
+09:22 
+
+09:22 like I would imagine I can imagine you
+09:24 
+
+09:24 organizing headphones like would that be
+09:26 
+
+09:26 right I have not ever actually organized
+09:29 
+
+09:29 one oh yeah I thought you but okay like
+09:32 
+
+09:32 you uh I have not participated in a
+09:34 
+
+09:34 hecaton for a few years now but I was
+09:37 
+
+09:37 quite actively involved in heatons as
+09:39 
+
+09:39 well so similar experiences as yourself
+09:43 
+
+09:43 uh Victoria so uh I used to I used to go
+09:46 
+
+09:46 for heatons but my uh aim was to come up
+09:50 
+
+09:50 with a I had a few startup ideas so I
+09:53 
+
+09:53 wanted to like get my startup off at
+09:56 
+
+09:56 heatons cuz that's where you know the
+09:58 
+
+09:58 judges are ALS so investors and things
+10:01 
+
+10:01 like that and also to validate the idea
+10:03 
+
+10:03 maybe uh sometimes I would go for
+10:05 
+
+10:05 heatons as a developer where I'll just
+10:08 
+
+10:08 see who has a better idea and I'll go to
+10:10 
+
+10:10 their team and then work on their idea
+10:13 
+
+10:13 and learn from their experiences so I
+10:15 
+
+10:15 used to go back to back quite a few
+10:16 
+
+10:16 heatons it was a really good experience
+10:19 
+
+10:19 for me I used to love it at that point
+10:21 
+
+10:21 learned a lot of things especially in
+10:24 
+
+10:24 terms of uh presentation actually so for
+10:28 
+
+10:28 me the most the more the more uh
+10:31 
+
+10:31 beneficial thing was how to present uh
+10:35 
+
+10:35 nvp so like after going for a few heon I
+10:37 
+
+10:37 started getting the hang of what works
+10:40 
+
+10:40 well so like I started winning a few
+10:42 
+
+10:42 heatons after a few uh practices so and
+10:46 
+
+10:46 I realized it wasn't about the product
+10:49 
+
+10:49 uh the MVP that we built it was more
+10:51 
+
+10:51 about the slides and the way I presented
+10:54 
+
+10:54 uh the product itself so like
+10:57 
+
+10:57 storytelling way like the problem and
+11:00 
+
+11:00 then solve the problem and then oh voila
+11:03 
+
+11:03 this solution works like that and then
+11:06 
+
+11:06 in that kind of man and then there was
+11:07 
+
+11:07 also like Shark Tank kind of things
+11:10 
+
+11:10 happening where you know I'm asking for
+11:12 
+
+11:12 like this m this much
+11:14 
+
+11:14 $100,000 with this much stick in the
+11:16 
+
+11:16 company and this is how you do what and
+11:19 
+
+11:19 what so it was so startups can be like
+11:21 
+
+11:21 the tech hecaton kind and it could also
+11:24 
+
+11:24 be the other part of it which is the
+11:25 
+
+11:25 product hecaton bit bit of it where you
+11:29 
+
+11:29 also have run through numbers and things
+11:31 
+
+11:31 like that uh and your MVP can just be a
+11:33 
+
+11:33 figma app kind of thing it doesn't have
+11:36 
+
+11:36 to be a running with a server and a
+11:38 
+
+11:38 front end it could just be a prototype
+11:41 
+
+11:41 of how it's going to be look how it's
+11:42 
+
+11:42 going to look like yeah basically
+11:43 
+
+11:43 whatever you need to demonstrate your
+11:45 
+
+11:45 idea doesn't have to be like coded out
+11:47 
+
+11:47 and like deployed like in production so
+11:50 
+
+11:50 like some I realized some heckadon uh
+11:52 
+
+11:52 they actual working solution was very
+11:55 
+
+11:55 impressive then yes it did make sense
+11:57 
+
+11:57 that you if you can code it out and
+11:60 
+
+11:60 wow you have already built it but I'm I
+12:03 
+
+12:03 don't know how true it is that they
+12:05 
+
+12:05 built it during that time frame per so I
+12:08 
+
+12:08 used to do very short he I don't like to
+12:10 
+
+12:10 be in the same space for like seven days
+12:12 
+
+12:12 it'll be too stressful so I'll just do
+12:14 
+
+12:14 like one day heatons or maximum two days
+12:18 
+
+12:18 where the second day you have to
+12:19 
+
+12:19 actually just present already so usually
+12:23 
+
+12:23 you wouldn't be able to get that much
+12:25 
+
+12:25 work done but uh still we used to be
+12:27 
+
+12:27 able to like just use like mean stack
+12:30 
+
+12:30 which is a like a web stack that you can
+12:33 
+
+12:33 use to quickly boot boot up like a basic
+12:37 
+
+12:37 front end with like some words and some
+12:39 
+
+12:39 like Google Maps integration at that
+12:42 
+
+12:42 time Google Maps integration or like
+12:44 
+
+12:44 some API calling to get some live
+12:46 
+
+12:46 updates RSS feeds things like that so it
+12:50 
+
+12:50 was fun times it will teach you how to
+12:52 
+
+12:52 like quickly uh hack your way out and
+12:56 
+
+12:56 get a product working with lots of if
+12:58 
+
+12:58 else and call
+13:00 
+
+13:00 AI yeah yeah yeah so I I used to love it
+13:03 
+
+13:03 that you know we can like mask all of
+13:05 
+
+13:05 these things and just use these words
+13:07 
+
+13:07 and voila this is a product and then I
+13:11 
+
+13:11 would put that on my resume because I we
+13:13 
+
+13:13 did kind of build it or this was an idea
+13:15 
+
+13:15 I did go through the ideation process
+13:18 
+
+13:18 and lots of you get to meet lots of
+13:20 
+
+13:20 people as well so used to like team up
+13:23 
+
+13:23 with strangers or like those who already
+13:26 
+
+13:26 have an idea maybe to learn from them
+13:28 
+
+13:28 you know like what have you already done
+13:30 
+
+13:30 and things like that yeah I actually
+13:32 
+
+13:32 love what you said about like hackathons
+13:34 
+
+13:34 being a really good place to show to
+13:36 
+
+13:36 just Implement and get validation for
+13:39 
+
+13:39 ideas you've had for a long long time
+13:41 
+
+13:41 because while every hackathon is
+13:42 
+
+13:42 different you know the ability to like
+13:44 
+
+13:44 adapt your idea to kind of like uh
+13:46 
+
+13:46 adapted to the problem statement of that
+13:48 
+
+13:48 hackathon that by itself is a very like
+13:50 
+
+13:50 fun Challenge and just having this
+13:52 
+
+13:52 platform to Showcase it to people and
+13:54 
+
+13:54 get validation to know like is would
+13:56 
+
+13:56 this be good if I actually turn it up
+13:58 
+
+13:58 and start up and I I a lot of startups
+13:60 
+
+13:60 are like spin off like these hackathons
+14:02 
+
+14:02 too so um yeah on that like that was
+14:04 
+
+14:04 exactly what I did for um this hackathon
+14:06 
+
+14:06 that I was a participant of it's a City
+14:08 
+
+14:08 hack it's by aom which is this U
+14:10 
+
+14:10 multinational developer and they had
+14:12 
+
+14:12 like various problem State statements on
+14:14 
+
+14:14 sustainability actually uh I was coming
+14:17 
+
+14:17 in with uh one of like my my research uh
+14:20 
+
+14:20 ideas on like predicting technology
+14:23 
+
+14:23 trajectories honestly it looks very
+14:25 
+
+14:25 different sustainability and predicting
+14:27 
+
+14:27 technology TR trajectory
+14:30 
+
+14:30 but I think the fun part was like how
+14:32 
+
+14:32 how can I make my like this idea that I
+14:34 
+
+14:34 have like implementable to like um this
+14:36 
+
+14:36 problem statement and I somehow uh with
+14:39 
+
+14:39 my team managed to marry it in such a
+14:41 
+
+14:41 way that one of the problem statements
+14:43 
+
+14:43 was like Black Swan events and
+14:44 
+
+14:44 disruptions to supply chain and I was
+14:47 
+
+14:47 just like wait if you can predict like
+14:49 
+
+14:49 technological like disruptions it could
+14:51 
+
+14:51 relate to supply chain and we could
+14:53 
+
+14:53 easily change that use case and I think
+14:55 
+
+14:55 that whole process was really amazing um
+14:58 
+
+14:58 it was less about like like the product
+15:00 
+
+15:00 actually like actually developing I just
+15:02 
+
+15:02 came up with a very rough it was Vanilla
+15:04 
+
+15:04 like HTML GS like and that took up the
+15:07 
+
+15:07 least amount of time the one that took
+15:09 
+
+15:09 the most amount of time was the slides
+15:10 
+
+15:10 like like really learning the skill of
+15:13 
+
+15:13 like being able to put your ideas
+15:15 
+
+15:15 forward in a suing concise and elevator
+15:17 
+
+15:17 pitch manner to talk about like really
+15:20 
+
+15:20 concisely what is the problem I'm trying
+15:21 
+
+15:21 to solve and this is my solution I think
+15:24 
+
+15:24 that's one of the biggest skills you can
+15:25 
+
+15:25 get out of a hecaton because not just
+15:27 
+
+15:27 about like this being a skill to you
+15:29 
+
+15:29 know like build a future startup it's
+15:31 
+
+15:31 also about like the skill you need to
+15:33 
+
+15:33 advocate for yourself at work if you
+15:34 
+
+15:34 think about it you're negotiating for
+15:36 
+
+15:36 this promotion for example how would I
+15:38 
+
+15:38 pitch the idea of me fitting into this
+15:40 
+
+15:40 position it's the same skill so
+15:42 
+
+15:42 hackathons are a really good way to like
+15:44 
+
+15:44 practice that skill and we always talk
+15:46 
+
+15:46 about how like um you know people and
+15:47 
+
+15:47 Tech Engineers tend to lack these
+15:49 
+
+15:49 platforms I I think like hackathons are
+15:51 
+
+15:51 a great platform to marry like you're
+15:53 
+
+15:53 already uh doing engineering plus also
+15:56 
+
+15:56 like the additional part of the soft
+15:57 
+
+15:57 skills of like pitching yourself so
+15:59 
+
+15:59 that's one the second part I really like
+16:01 
+
+16:01 like was when you said it's really about
+16:03 
+
+16:03 the networking and making friends aspect
+16:05 
+
+16:05 so uh I actually just came at from Hong
+16:07 
+
+16:07 Kong and like so this um heckadon I
+16:10 
+
+16:10 participated back in 2022 the uh aeom
+16:14 
+
+16:14 organized it and the digital director of
+16:16 
+
+16:16 aom was one of the uh main organizers um
+16:19 
+
+16:19 and I actually made friends with him and
+16:21 
+
+16:21 this last trip that I meet like uh less
+16:23 
+
+16:23 than a month ago to Hong Kong I reached
+16:25 
+
+16:25 out to him and say like hey like
+16:27 
+
+16:27 actually we had a great conversation and
+16:29 
+
+16:29 L last time and uh in the last two years
+16:31 
+
+16:31 I've done a lot in like the um like Tech
+16:34 
+
+16:34 space I really would like to link up and
+16:36 
+
+16:36 I linked up with him like two years
+16:37 
+
+16:37 later in Hong Kong in a different city
+16:39 
+
+16:39 and we started sharing about all these
+16:40 
+
+16:40 ideas and connecting again it was
+16:42 
+
+16:42 amazing I learned more about the
+16:44 
+
+16:44 intersection between the built
+16:45 
+
+16:45 environment and the digital space again
+16:47 
+
+16:47 and these are things I can bring back to
+16:49 
+
+16:49 my work right now so I think it's really
+16:51 
+
+16:51 great that you can meet people through
+16:52 
+
+16:52 hackathons people that you would never
+16:54 
+
+16:54 thought of meeting not just the
+16:55 
+
+16:55 participants but it organizes themselves
+16:57 
+
+16:57 too um which is also like when we were
+16:59 
+
+16:59 the mentors of like showcase as well
+17:01 
+
+17:01 yeah meeting the participants was also
+17:03 
+
+17:03 amazing and forging like these new bonds
+17:05 
+
+17:05 so yeah actually now that I think about
+17:08 
+
+17:08 it um even though I've really only been
+17:10 
+
+17:10 in like not not many heck not not as
+17:12 
+
+17:12 many as you Victoria and for yourself
+17:14 
+
+17:14 you have been like out is of the
+17:16 
+
+17:16 hackathon space because like well you're
+17:18 
+
+17:18 senior engineer now like me every day
+17:20 
+
+17:20 it's a heath for
+17:22 
+
+17:22 you so actually this is a myth that a
+17:25 
+
+17:25 lot of heatons people think that only
+17:28 
+
+17:28 develop ERS join them and only you must
+17:31 
+
+17:31 know how to code or you must be at least
+17:33 
+
+17:33 Junior developer cuz senior developers
+17:35 
+
+17:35 do know so there's a lot of myths
+17:37 
+
+17:37 surrounding heatons and I would like to
+17:39 
+
+17:39 debunk that one of them is hecaton is
+17:41 
+
+17:41 not only for coders so people who don't
+17:43 
+
+17:43 code can also join so I've been in
+17:45 
+
+17:45 heatons where product managers marketing
+17:48 
+
+17:48 people uiux designers they join in and
+17:52 
+
+17:52 actually they bring so much value to the
+17:53 
+
+17:53 team because that way our team is not so
+17:55 
+
+17:55 saturated with only people who think of
+17:57 
+
+17:57 programming but they also think of the
+17:59 
+
+17:59 end user and like the problem and how to
+18:01 
+
+18:01 pitch like you both mentioned knowing
+18:03 
+
+18:03 how to pitch your idea is it's like 70%
+18:07 
+
+18:07 of how I'm going to win the hecaton the
+18:09 
+
+18:09 product is good and all but if you're
+18:11 
+
+18:11 unable to articulate why is it good then
+18:14 
+
+18:14 how are you going to Stand Out Among the
+18:16 
+
+18:16 rest so because I join a lot of heatons
+18:19 
+
+18:19 my most recent experiences they're all
+18:21 
+
+18:21 online hackathons and probably due to CO
+18:24 
+
+18:24 as well but back then when I was like in
+18:26 
+
+18:26 physical heatons where I have to like
+18:28 
+
+18:28 sleep over bring a sleeping bag and like
+18:30 
+
+18:30 I've never done that oh my go yeah bro
+18:32 
+
+18:32 sleeping bag but Indiana I only sleep 2
+18:33 
+
+18:33 hours because it's like 48 hour Heaton
+18:36 
+
+18:36 so when I bring a sleeping bag and all
+18:38 
+
+18:38 that and then we actually meet people on
+18:40 
+
+18:40 the day off and form teams on the day
+18:42 
+
+18:42 off like you mentioned the value is like
+18:45 
+
+18:45 really being able to like network with
+18:47 
+
+18:47 those people and not only that you you
+18:50 
+
+18:50 actually have to come up with a very
+18:51 
+
+18:51 engaging pitch like within two days like
+18:54 
+
+18:54 technically one and a half days so that
+18:56 
+
+18:56 skill is also something that you know
+18:58 
+
+18:58 most people can take away from after you
+19:00 
+
+19:00 know doing hackathons and that's
+19:02 
+
+19:02 something that I want to highlight as
+19:04 
+
+19:04 well yeah but overall the myth is that
+19:06 
+
+19:06 you don't have to know how to code or
+19:09 
+
+19:09 people are also intimidated to join
+19:10 
+
+19:10 because they say what if I don't have an
+19:12 
+
+19:12 idea so like why what son say like if
+19:14 
+
+19:14 you don't have like an idea that you
+19:15 
+
+19:15 want to validate or test you can just
+19:17 
+
+19:17 simply join a team and just learn about
+19:20 
+
+19:20 you know maybe this company's products
+19:22 
+
+19:22 that they want to or like this company's
+19:24 
+
+19:24 Pro problem statements that they're
+19:26 
+
+19:26 trying to like ask you to solve so doing
+19:28 
+
+19:28 that you can also gain inspiration from
+19:30 
+
+19:30 like the people that you meet and your
+19:31 
+
+19:31 team so there's a lot of benefits to
+19:34 
+
+19:34 joining heatons yeah
+19:37 
+
+19:37 overall yeah I I also wanted to add
+19:40 
+
+19:40 there that uh dur why are these heatons
+19:43 
+
+19:43 like you said like you and your partner
+19:45 
+
+19:45 you you guys knew that what are the
+19:48 
+
+19:48 strengths and weaknesses so then you
+19:49 
+
+19:49 used you leveraged on that so after
+19:51 
+
+19:51 going for a few heatons I started
+19:53 
+
+19:53 realizing that uh you know working under
+19:57 
+
+19:57 very high pressure was not a thing for
+19:59 
+
+19:59 me but I could be good in like the other
+20:01 
+
+20:01 aspects where if if it's U if like the
+20:05 
+
+20:05 time is really an issue maybe I can be I
+20:08 
+
+20:08 can be like a certain level in
+20:09 
+
+20:09 presenting but then if there's someone
+20:11 
+
+20:11 else I can take on the other role or I
+20:14 
+
+20:14 can do it that way so even that allowed
+20:16 
+
+20:16 me to understand that oh I can actually
+20:17 
+
+20:17 do presentation or I can work on a death
+20:20 
+
+20:20 work I can even like help with UI ux as
+20:23 
+
+20:23 well yeah I think discovering like what
+20:26 
+
+20:26 you can do and what you can actually
+20:28 
+
+20:28 like learn and improve on is also a huge
+20:31 
+
+20:31 deal like where I said like in my day
+20:32 
+
+20:32 job I would just do the coding part I
+20:34 
+
+20:34 would never have to do any presentation
+20:37 
+
+20:37 any I would have to look at the uiux of
+20:40 
+
+20:40 bit of it so that that's where we got to
+20:41 
+
+20:41 learn so many things and find your
+20:43 
+
+20:43 strengths and weaknesses it helps you
+20:45 
+
+20:45 try on different hats right which is
+20:46 
+
+20:46 really good yeah yeah so from Natasha's
+20:50 
+
+20:50 like point of view cuz you don't join a
+20:51 
+
+20:51 lot of hecton but you have joins heatons
+20:54 
+
+20:54 um is there any kind of benefit that you
+20:58 
+
+20:58 personally like experience
+21:00 
+
+21:00 or I I think like uh firstly like the
+21:04 
+
+21:04 people that you meet and you learn from
+21:07 
+
+21:07 because like you said you know they're
+21:08 
+
+21:08 not just Developers for the hackathons
+21:10 
+
+21:10 I've joined actually they weren't like
+21:12 
+
+21:12 developer Centric um they were just like
+21:14 
+
+21:14 very broad-based it's about like show us
+21:17 
+
+21:17 like this uh idea that will solve this
+21:19 
+
+21:19 problem statement um but definitely like
+21:22 
+
+21:22 there was a um Tech aspect to it like uh
+21:25 
+
+21:25 perhaps AWS or like Google will be like
+21:27 
+
+21:27 a partner and they will give you like a
+21:29 
+
+21:29 Sandbox to try out like with credits and
+21:31 
+
+21:31 stuff like that which was a bonus for
+21:33 
+
+21:33 the demo um but because of that I got to
+21:35 
+
+21:35 meet like you know UI ex designers you
+21:38 
+
+21:38 you get to meet like people from
+21:39 
+
+21:39 marketing you got to to know people even
+21:41 
+
+21:41 from like HR like all over the world and
+21:44 
+
+21:44 just putting ourselves in like this
+21:45 
+
+21:45 small little team and seeing where our
+21:47 
+
+21:47 strengths and weaknesses could help each
+21:49 
+
+21:49 other develop something in a very short
+21:51 
+
+21:51 amount of time because at the point of
+21:53 
+
+21:53 time like you put egos aside because all
+21:55 
+
+21:55 you're gunting for is like I only have
+21:56 
+
+21:56 like two days like yeah let's just see
+21:58 
+
+21:58 like what we're good at you know it's
+21:59 
+
+21:59 not like in a workpace environment um
+22:02 
+
+22:02 where you know I I feel like ego does
+22:04 
+
+22:04 come into play a lot and you're just
+22:05 
+
+22:05 like yeah I'm good at this like I should
+22:07 
+
+22:07 do this if I do this like um like it
+22:10 
+
+22:10 will boost my uh I don't know my reviews
+22:13 
+
+22:13 um but you know when it comes to having
+22:15 
+
+22:15 to do things being forced to like
+22:17 
+
+22:17 deliver something a very short amount of
+22:19 
+
+22:19 time you discard that it's just like
+22:21 
+
+22:21 whatever gets the product like out and
+22:23 
+
+22:23 demonstratable and I really like that
+22:25 
+
+22:25 aspect of it it's very similar to like
+22:27 
+
+22:27 working in a a leaner up which is what I
+22:30 
+
+22:30 enjoy like zero to one products um and I
+22:33 
+
+22:33 feel like hackathons are even more
+22:34 
+
+22:34 condensed version of it and just being
+22:36 
+
+22:36 able to like go through these hackathons
+22:38 
+
+22:38 um I think puts me in a very good place
+22:40 
+
+22:40 to start like new products you know and
+22:44 
+
+22:44 with like I would say the uh more
+22:47 
+
+22:47 relevant mindset where all I'm doing is
+22:50 
+
+22:50 I'm focused on like delivering this
+22:52 
+
+22:52 demonstratable product oh I'm okay with
+22:54 
+
+22:54 it feeling all I want is like idea Val
+22:56 
+
+22:56 validation I feel like I learn all these
+22:58 
+
+22:58 through like hackathons like largely
+23:01 
+
+23:01 yeah obviously the other um so one like
+23:04 
+
+23:04 meeting different people from all walks
+23:06 
+
+23:06 of life to learn from like their skill
+23:08 
+
+23:08 sets different hats like you said which
+23:10 
+
+23:10 makes me appreciate my job scope and my
+23:13 
+
+23:13 work even more so now I have like an
+23:15 
+
+23:15 understanding of like say the uiux
+23:17 
+
+23:17 designer who's next to me what he's like
+23:19 
+
+23:19 involved in how I can help yeah two um
+23:22 
+
+23:22 just learning um what it takes to like
+23:26 
+
+23:26 do something like a startup um yeah and
+23:28 
+
+23:28 having being able to practice that start
+23:31 
+
+23:31 up lean start up mindset in like these
+23:33 
+
+23:33 hackathon spaces that's two um and just
+23:37 
+
+23:37 three being able to put myself forward
+23:39 
+
+23:39 and gain that validation as a person you
+23:42 
+
+23:42 know like um being there to pitch to try
+23:45 
+
+23:45 different things I think it really
+23:46 
+
+23:46 boosts your confidence when you step out
+23:48 
+
+23:48 of the comfort zone and realize like I
+23:50 
+
+23:50 can actually like make something out of
+23:52 
+
+23:52 this you know you understand New
+23:54 
+
+23:54 Perspectives about yourself you're
+23:55 
+
+23:55 putting yourself in a very uncomfortable
+23:58 
+
+23:58 tight environment to do different things
+23:60 
+
+23:60 like I wouldn't have thought that um you
+24:03 
+
+24:03 know like I could say you you arex
+24:07 
+
+24:07 design like you know that I could like
+24:09 
+
+24:09 spin up like a prototype a mockup on it
+24:11 
+
+24:11 like in such a short amount of time yeah
+24:13 
+
+24:13 like things that I never realize about
+24:15 
+
+24:15 myself um also you hit a lot of
+24:18 
+
+24:18 obstacles in that short period of Time
+24:20 
+
+24:20 how you do conflict resolution in a very
+24:22 
+
+24:22 short amount of time with like people
+24:24 
+
+24:24 that you know or people that you don't
+24:25 
+
+24:25 know like at that point like sometimes
+24:26 
+
+24:26 they put you together in teams that you
+24:28 
+
+24:28 don't know each other yeah I think it's
+24:30 
+
+24:30 another means to like understand myself
+24:33 
+
+24:33 better and how it would function so yeah
+24:35 
+
+24:35 those are the three things I would say I
+24:37 
+
+24:37 took out from like the hackathons have
+24:38 
+
+24:38 joined nice thank you for watching part
+24:41 
+
+24:41 one of our episode on hackathons in our
+24:43 
+
+24:43 next episode in part two we will be
+24:45 
+
+24:45 talking more about the realities and
+24:47 
+
+24:47 challenges of participating in
+24:48 
+
+24:48 hackathons as well as any personal tips
+24:50 
+
+24:50 that we have in overcoming them so stay
+24:53 
+
+24:53 tuned for our next episode and as always
+24:54 
+
+24:54 this was re Tech the place for bites and
+24:56 
+
+24:56 B don't forget to like comment and share
+24:59 
+
+24:59 this episode as well as follow us on our
+25:01 
+
+25:01 YouTube Instagram as well as other
+25:04 
+
+25:04 social media channels in addition to
+25:05 
+
+25:05 giving us five stars on Spotify and our
+25:07 
+
+25:07 other podcasting channels thank you

@@ -4,7 +4,7 @@ slug: "techie-taboo-cards-update-february-2026"
 author:
   name: "ragTech Team"
   email: "hello@ragtechdev.com"
-  profilePicture: "/assets/authors/ragtech-team.png"
+  profilePicture: "/assets/team/ragtech-team.png"
 publishedAt: "2026-02-05T12:00:00Z"
 coverImage: "/posts/2026-02-05-techie-taboo-cards-update-february-2026/6-second-print.jpg"
 brief: "A journey through the manufacturing process of Techie Taboo cards, from paper prototypes to physical products, and an update for our waitlisters on the next batch."

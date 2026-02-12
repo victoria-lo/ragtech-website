@@ -178,7 +178,7 @@ export default function TechieTabooPage() {
 
             <div className="relative max-w-md mx-auto mb-8 group">
               <Image
-                src="/assets/games.png"
+                src="/assets/techybara/techybaras-playing-card-game.png"
                 alt="Capybara mascots playing Techie Taboo"
                 width={400}
                 height={400}

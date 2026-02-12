@@ -1,0 +1,1795 @@
+00:00 just in our culture it's like we have to
+00:03 
+
+00:03 kind of be quiet and like just do our
+00:05 
+
+00:05 best silently see a lot of parallels
+00:08 
+
+00:08 between engineering or the way like my
+00:10 
+
+00:10 engineering values are as well as my
+00:12 
+
+00:12 parenting uh values but at the back of
+00:14 
+
+00:14 my mind I'm not going to lie I was just
+00:16 
+
+00:16 thinking about how do I get back to work
+00:18 
+
+00:18 from this I literally did not touch my
+00:21 
+
+00:21 laptop at all there's no way like you
+00:24 
+
+00:24 are figuring so much out your sleep
+00:26 
+
+00:26 deprived I will be irresponsible
+00:29 
+
+00:29 [Music]
+00:32 
+
+00:32 welcome to R Tech the place for bites
+00:34 
+
+00:34 and ventor my name is Victoria I'm a
+00:35 
+
+00:35 Solutions engineer I'm Salon software
+00:38 
+
+00:38 engine and today we have a guest speaker
+00:41 
+
+00:41 y yeah so we're very happy to have y in
+00:44 
+
+00:44 this episode today so maybe human first
+00:47 
+
+00:47 you can introduce yourself hi I'm um and
+00:49 
+
+00:49 I'm a software engineer and I'm a mom of
+00:51 
+
+00:51 two very naughty
+00:53 
+
+00:53 boys I also term that Mom Jer yeah so I
+00:57 
+
+00:57 think in today's episode we're going to
+00:59 
+
+00:59 be talking about uh human's life as a
+01:01 
+
+01:01 mom as well as an engineer and how she
+01:03 
+
+01:03 balances that so maybe first human you
+01:06 
+
+01:06 can explain to us what the term mom
+01:08 
+
+01:08 engineer means and also about your
+01:10 
+
+01:10 day-to-day life as that role yeah so Mom
+01:12 
+
+01:12 junior is simply a mom who's also an
+01:14 
+
+01:14 engineer and I think the reason why I
+01:18 
+
+01:18 kind of put the two together is because
+01:20 
+
+01:20 I see a lot of parallels between
+01:22 
+
+01:22 engineering or the way that my
+01:24 
+
+01:24 engineering values are as well as my
+01:26 
+
+01:26 parenting uh values so Mom junor just
+01:29 
+
+01:29 made the most sense for how I like you
+01:31 
+
+01:31 know balance the my work life as well as
+01:34 
+
+01:34 my personal life and my and motherhood I
+01:36 
+
+01:36 think we can all agree that it's first
+01:38 
+
+01:38 of all it's very challenging just being
+01:40 
+
+01:40 a mom and it's also very challenging
+01:42 
+
+01:42 just being an engineer but you're doing
+01:44 
+
+01:44 both at once we're very curious how do
+01:46 
+
+01:46 you juggle on that and how do you even
+01:49 
+
+01:49 like switch between if like you have to
+01:51 
+
+01:51 switch between those roles yeah it's
+01:53 
+
+01:53 it's not easy I think it took me a while
+01:56 
+
+01:56 to even get to a point where it feels
+01:59 
+
+01:59 natural to me now maybe I'll take a step
+02:02 
+
+02:02 back and like talk about when I first
+02:03 
+
+02:03 had my when I had my first kid um this
+02:06 
+
+02:06 was a about 4 and a half years ago now
+02:09 
+
+02:09 but I remember very clearly feeling so
+02:12 
+
+02:12 thrown into the other end when I had my
+02:16 
+
+02:16 kid and then was trying to figure out
+02:18 
+
+02:18 how do I even get back to work and being
+02:20 
+
+02:20 out on leave for I took about 20 weeks
+02:22 
+
+02:22 to start and then I saved the rest of my
+02:24 
+
+02:24 leave for when he turned one because you
+02:26 
+
+02:26 had to finish using it by the time he
+02:28 
+
+02:28 turned one um and I didn't want to miss
+02:30 
+
+02:30 of the important milestones and also
+02:32 
+
+02:32 like the first few months of having a
+02:34 
+
+02:34 baby it's so precious you're figuring
+02:36 
+
+02:36 out who you are who your baby is and
+02:41 
+
+02:41 establishing the communication right all
+02:43 
+
+02:43 they can do is just fail flil around and
+02:47 
+
+02:47 cry and you're like do you want milk
+02:49 
+
+02:49 your diaper change like are you sleepy
+02:51 
+
+02:51 are you tired and you know every baby is
+02:54 
+
+02:54 different so whatever you read in the
+02:55 
+
+02:55 books may not even be what your baby is
+02:58 
+
+02:58 like you know not what your baby is um
+03:00 
+
+03:00 trending towards right so a lot of it
+03:03 
+
+03:03 was figuring it out and I was very
+03:05 
+
+03:05 grateful to have that time to figure
+03:08 
+
+03:08 that out as a new mom but at the back of
+03:10 
+
+03:10 my mind I'm not going to lie I was just
+03:12 
+
+03:12 thinking about how do I get back to work
+03:14 
+
+03:14 from this I literally did not touch my
+03:17 
+
+03:17 laptop at all there's no way like you
+03:19 
+
+03:19 are figuring so much out you are sleep
+03:22 
+
+03:22 deprived I will be irresponsible if I
+03:24 
+
+03:24 was you know trying to do anything work
+03:26 
+
+03:26 related um I was gone for so long I
+03:29 
+
+03:29 forgot which editor I was using I was
+03:30 
+
+03:30 like is it vs vs code or was it Vim like
+03:33 
+
+03:33 I don't even remember now um but I do
+03:36 
+
+03:36 remember coming back to work and first
+03:40 
+
+03:40 of all setting expectations my working
+03:43 
+
+03:43 hours were pretty strict because you
+03:45 
+
+03:45 know babies need to be fed at certain
+03:48 
+
+03:48 times and and you know um uh they need
+03:51 
+
+03:51 to sleep at certain times and if you
+03:52 
+
+03:52 mess up with that if you're not
+03:54 
+
+03:54 consistent about it you can really throw
+03:56 
+
+03:56 yourself into a loop and the baby's just
+03:58 
+
+03:58 going to be like yeah I you know what my
+04:01 
+
+04:01 needs were you were the one who didn't
+04:03 
+
+04:03 meet them so the biggest curveball is is
+04:06 
+
+04:06 the baby right um so I set expectations
+04:10 
+
+04:10 with my calendar I just put like my
+04:12 
+
+04:12 working hours anything outside of the
+04:14 
+
+04:14 working hours are you know you probably
+04:17 
+
+04:17 won't get a response or I'll be very
+04:18 
+
+04:18 very slow to respond and my team was
+04:21 
+
+04:21 very supportive of that my manager was
+04:23 
+
+04:23 very supportive of that and at work they
+04:24 
+
+04:24 have this thing right where you cannot
+04:26 
+
+04:26 go back to being on call until at least
+04:28 
+
+04:28 90 days after you come back from bonding
+04:30 
+
+04:30 leave so that goes from birthing parents
+04:32 
+
+04:32 as well as non- birthing parents who
+04:34 
+
+04:34 work at the company because they do
+04:35 
+
+04:35 realize like it it you become very sleep
+04:38 
+
+04:38 deprived and you do have to you know
+04:40 
+
+04:40 catch up on a lot of contacts that you
+04:41 
+
+04:41 might have lost while being out um so I
+04:43 
+
+04:43 was grateful for that um other things
+04:46 
+
+04:46 were having another you know again like
+04:50 
+
+04:50 the there's this whole tribe of parents
+04:53 
+
+04:53 um at my workplace who are also who also
+04:55 
+
+04:55 went through this who have either years
+04:58 
+
+04:58 of experience in it too or are also
+04:60 
+
+04:60 freshly new moms that I could lean into
+05:03 
+
+05:03 and just really try to get um some
+05:07 
+
+05:07 wisdom from their experience but again
+05:10 
+
+05:10 personal right like baby's different
+05:12 
+
+05:12 mom's different so I always take their
+05:15 
+
+05:15 um advice with a grain of salt and see
+05:16 
+
+05:16 how it applies in my situation I do
+05:18 
+
+05:18 think that it really helped to have a
+05:20 
+
+05:20 good company uh who understands what it
+05:24 
+
+05:24 what it was like to go through a
+05:26 
+
+05:26 Parenthood for the first time for the
+05:28 
+
+05:28 second time like each time has it
+05:30 
+
+05:30 challenges and another thing that I did
+05:34 
+
+05:34 was to kind of give myself space and
+05:36 
+
+05:36 Grace I think I was trying to chase this
+05:39 
+
+05:39 Cadence of productivity that I had pre
+05:42 
+
+05:42 kids and after a while I was just like
+05:45 
+
+05:45 this is not I'm not going to achieve
+05:47 
+
+05:47 that I'm going to be smarter about how I
+05:51 
+
+05:51 want to So-Cal quantify my work now it's
+05:54 
+
+05:54 no longer about how many PRS or PO
+05:56 
+
+05:56 requests I'm I'm shipping how many
+05:57 
+
+05:57 changes and how many you know uh code
+06:00 
+
+06:00 commits I'm getting into production um
+06:04 
+
+06:04 it was more about you know impact now I
+06:07 
+
+06:07 was thinking more about like how the
+06:09 
+
+06:09 work that I do do how is that is that
+06:12 
+
+06:12 you know high impact low impact is it um
+06:15 
+
+06:15 something that is not high priority also
+06:17 
+
+06:17 so I was I was I think a bit more
+06:19 
+
+06:19 strategic and intentional about what I
+06:21 
+
+06:21 was working on and not everything you
+06:24 
+
+06:24 know when you have a kid your priorities
+06:26 
+
+06:26 shift so what used to stress me out at
+06:29 
+
+06:29 work like even the smallest like oh my
+06:31 
+
+06:31 goodness you know something went out of
+06:32 
+
+06:32 production the text is wrong like that
+06:35 
+
+06:35 doesn't face me anymore um because the
+06:38 
+
+06:38 thing that does face you as a new parent
+06:39 
+
+06:39 is is my kid getting enough um are they
+06:43 
+
+06:43 you know if they're sick like you know
+06:45 
+
+06:45 what can I do and especially when they
+06:47 
+
+06:47 were a few months old they didn't have
+06:49 
+
+06:49 all of their shots like do I take them
+06:51 
+
+06:51 out what's the risk in that it's all
+06:52 
+
+06:52 about the my baby um and so the work the
+06:56 
+
+06:56 work problems were were problems I'm not
+06:58 
+
+06:58 going to say like okay it didn't face me
+06:59 
+
+06:59 at all but just like different kind of
+07:01 
+
+07:01 reaction now I could be actually calmer
+07:04 
+
+07:04 about thinking through what problems we
+07:07 
+
+07:07 had and then being more strategic about
+07:11 
+
+07:11 how we want to solve them and I was less
+07:13 
+
+07:13 reactive I was more proactive about okay
+07:16 
+
+07:16 if I do make this change what other
+07:19 
+
+07:19 things might come up right or how do I
+07:21 
+
+07:21 have dashboards in place that can give
+07:23 
+
+07:23 me a better idea of like you know the
+07:26 
+
+07:26 impact of this change the request times
+07:29 
+
+07:29 um any logging that I can add to give
+07:32 
+
+07:32 more information if anything goes wrong
+07:34 
+
+07:34 like what was the situation of the
+07:36 
+
+07:36 entity or the the you at that time point
+07:38 
+
+07:38 in time and so also communication wise I
+07:42 
+
+07:42 was more deliberate I was also more I
+07:45 
+
+07:45 was better about boundary setting like I
+07:48 
+
+07:48 used to answer all kinds of things at
+07:51 
+
+07:51 all times of the day and you know when
+07:53 
+
+07:53 you have a kids like you don't have that
+07:56 
+
+07:56 choice bath time bedtime dinner time all
+07:58 
+
+07:58 these things and it you know we were
+08:00 
+
+08:00 living in the states back then so we
+08:02 
+
+08:02 didn't have our family uh to help and I
+08:06 
+
+08:06 mean my parents did come over for like a
+08:08 
+
+08:08 month or two uh just for the transition
+08:10 
+
+08:10 phase but they had to come back to
+08:11 
+
+08:11 Singapore so we had to figure things out
+08:13 
+
+08:13 like me and my husband and yeah I think
+08:16 
+
+08:16 through that it just becomes important
+08:19 
+
+08:19 to you or it comes becomes clear like
+08:22 
+
+08:22 what is important to you and you have
+08:24 
+
+08:24 that list and I'm a stickler I'm like a
+08:27 
+
+08:27 you know planner I I love things when
+08:30 
+
+08:30 they are organized because I feel like
+08:32 
+
+08:32 when your mind is cluttered then
+08:34 
+
+08:34 everything else also feels cluttered um
+08:36 
+
+08:36 and so I had my calendar was like my um
+08:41 
+
+08:41 the thing that I would yes yeah like my
+08:44 
+
+08:44 husband has you know if it says like oh
+08:46 
+
+08:46 you know I'll have um XYZ lunch or
+08:49 
+
+08:49 whatever uh meeting and I say okay can
+08:52 
+
+08:52 you just make sure it's in our joint
+08:53 
+
+08:53 calendar or something so that I know
+08:55 
+
+08:55 like when I have to make sure I was
+08:57 
+
+08:57 available for my my my kid um and vice
+09:01 
+
+09:01 versa and so I think the calendar really
+09:05 
+
+09:05 helped and spacing out time too because
+09:08 
+
+09:08 at work um I still had to pump right and
+09:11 
+
+09:11 I needed I didn't want to say like
+09:13 
+
+09:13 pumping in my calendar so I would just
+09:15 
+
+09:15 say like Focus time or do not disturb
+09:17 
+
+09:17 time and it's a very common practice and
+09:20 
+
+09:20 I think like we should normalize this
+09:22 
+
+09:22 right like it's a thing we got to do as
+09:24 
+
+09:24 birthing parents and for for you know if
+09:27 
+
+09:27 we choose to breastfeed our kid then
+09:29 
+
+09:29 that's just time you have to take out of
+09:30 
+
+09:30 your day and each time was like 30
+09:32 
+
+09:32 minutes and you do that at the start 6
+09:35 
+
+09:35 to eight times like literally hours of
+09:37 
+
+09:37 your day goes into this activity right
+09:40 
+
+09:40 um and I I felt so guilty at first of
+09:42 
+
+09:42 like should I be taking this I'm suppos
+09:44 
+
+09:44 to be working during this time but I
+09:45 
+
+09:45 could eat my lunch while pumping you
+09:47 
+
+09:47 know it's like I would try to be more
+09:49 
+
+09:49 efficient about the usage of my time so
+09:51 
+
+09:51 that I have more focused time another
+09:54 
+
+09:54 thing was having a physical
+09:57 
+
+09:57 door as to your office was very helpful
+09:60 
+
+09:60 for me because back back in the US we
+10:02 
+
+10:02 had a basement and at first it was like
+10:03 
+
+10:03 very open I was just working in the
+10:05 
+
+10:05 basement but I could hear my baby crying
+10:07 
+
+10:07 and it was just so hard to like focus on
+10:09 
+
+10:09 work you cannot you asked about
+10:11 
+
+10:11 compartmentalizing I couldn't
+10:12 
+
+10:12 compartmentalize during that time and I
+10:14 
+
+10:14 was like we need to change out the guest
+10:16 
+
+10:16 bedroom and switch into an office proper
+10:19 
+
+10:19 because I need to close the door I need
+10:20 
+
+10:20 to be able to focus on work noise
+10:22 
+
+10:22 cancelling headphones only get you that
+10:23 
+
+10:23 far you know um and thankfully we found
+10:25 
+
+10:25 a very good nanny so she was able to
+10:27 
+
+10:27 take care of um my kid back then and
+10:30 
+
+10:30 while I focus on work and I think after
+10:33 
+
+10:33 we established the calendar the the the
+10:36 
+
+10:36 dayto day um regime and having a very
+10:40 
+
+10:40 good nny that we could trust that was
+10:42 
+
+10:42 only then I had peace of mind at this
+10:45 
+
+10:45 point my kids probably a year old okay
+10:47 
+
+10:47 so it did take me a really long time
+10:49 
+
+10:49 from 4 months to like a a year of
+10:52 
+
+10:52 figuring that out I was not the most
+10:54 
+
+10:54 efficient I was probably lagging behind
+10:57 
+
+10:57 a lot um but I did really try to
+11:01 
+
+11:01 prioritize yeah that's very like
+11:04 
+
+11:04 basically you're a
+11:06 
+
+11:06 superhero yes that actually sounded like
+11:08 
+
+11:08 a superwoman sounds like a life of being
+11:11 
+
+11:11 a superhero full time and wow what I'm
+11:15 
+
+11:15 kind of speechless by how much effort
+11:17 
+
+11:17 have to put into this not only do you
+11:19 
+
+11:19 have to be deliberate with how you
+11:21 
+
+11:21 schedule yourself um prioritizing
+11:24 
+
+11:24 different task but you also have to like
+11:27 
+
+11:27 it always gets to you because when
+11:28 
+
+11:28 you're a mom all you think about is your
+11:30 
+
+11:30 baby like it that's just Instinct right
+11:32 
+
+11:32 so like how you mentioned you couldn't
+11:34 
+
+11:34 ignore your baby's cries like that is
+11:36 
+
+11:36 very even with noise cancelling
+11:38 
+
+11:38 headphones how can you be like 100% at
+11:41 
+
+11:41 ease yeah so you going through all this
+11:45 
+
+11:45 W even though I'm not a Mom myself I
+11:47 
+
+11:47 have so much empathy like just thinking
+11:49 
+
+11:49 about how you have to like figure all
+11:51 
+
+11:51 this out like in the first year I think
+11:53 
+
+11:53 that's really tough to do I was like I
+11:56 
+
+11:56 was just thinking like it has to be uh
+11:58 
+
+11:58 the company that you're working working
+11:60 
+
+11:60 for has to be really understanding
+12:02 
+
+12:02 because they need they should be
+12:05 
+
+12:05 understanding that for at least a year
+12:08 
+
+12:08 this employee would take some time to
+12:10 
+
+12:10 adjust it is okay for there to be
+12:13 
+
+12:13 inefficiency if for example uh you're
+12:16 
+
+12:16 not able to meet your kpis you you are
+12:18 
+
+12:18 inefficient you are doing work you are
+12:20 
+
+12:20 getting things done uh but maybe not as
+12:23 
+
+12:23 efficiently as you should be at your
+12:25 
+
+12:25 level maybe uh and I'm guessing that
+12:29 
+
+12:29 would be in going back to work cuz I've
+12:31 
+
+12:31 heard from my friends at least they were
+12:32 
+
+12:32 actually very uh they had anxiousness
+12:36 
+
+12:36 when you know in sing We have 16 weeks
+12:39 
+
+12:39 for uh I think for some companies so 16
+12:42 
+
+12:42 weeks are ending you know you have to go
+12:43 
+
+12:43 back to work the next week so much
+12:45 
+
+12:45 anxiousness like oh no especially in the
+12:48 
+
+12:48 tech industry things would have changed
+12:50 
+
+12:50 a lot in in 16 weeks uh how do I you
+12:53 
+
+12:53 know get back up there how do I compete
+12:55 
+
+12:55 with my colleagues how do you how did
+12:57 
+
+12:57 you deal with this as well as a new
+13:01 
+
+13:01 found life at home Yes
+13:03 
+
+13:03 yes again I think it was like leaning
+13:06 
+
+13:06 into the tribe the the the women or the
+13:08 
+
+13:08 non- birthing parents sorry the birthing
+13:11 
+
+13:11 parents that walked through that and
+13:12 
+
+13:12 have been through it they've shared so
+13:14 
+
+13:14 many of their experiences one thing that
+13:17 
+
+13:17 they shared was that I found was really
+13:18 
+
+13:18 key was the offboarding and the
+13:21 
+
+13:21 onboarding uh thinking about coming back
+13:23 
+
+13:23 from leave as a new job how do you deal
+13:27 
+
+13:27 with that right like it's essentially
+13:29 
+
+13:29 you will be in a similar position as
+13:31 
+
+13:31 someone joining the company for the
+13:32 
+
+13:32 first time or someone who's new to the
+13:34 
+
+13:34 team there will be time for you to on
+13:36 
+
+13:36 board and like you mentioned the company
+13:37 
+
+13:37 also has to be very understanding um and
+13:40 
+
+13:40 I'm grateful that my company does have
+13:42 
+
+13:42 that understanding and that my manager
+13:43 
+
+13:43 at that time had that understanding as
+13:44 
+
+13:44 well like I'm coming in and treat me as
+13:47 
+
+13:47 a new hire right I'm going to take time
+13:50 
+
+13:50 to come run back up to whatever changes
+13:53 
+
+13:53 has happened and be up to date with
+13:55 
+
+13:55 current state I declared inbox
+13:57 
+
+13:57 bankruptcy so every notification I had
+13:60 
+
+14:00 just Mark is red or delete or something
+14:04 
+
+14:04 right there's no way I'm catching up to
+14:05 
+
+14:05 4 months 6 months worth of backlog um
+14:09 
+
+14:09 and and you mentioned kpis I think it's
+14:11 
+
+14:11 an important conversation to have with
+14:13 
+
+14:13 your manager if something seems very out
+14:15 
+
+14:15 of reach for you personally then I think
+14:17 
+
+14:17 it's a a good you know you need to have
+14:21 
+
+14:21 that conversation with your manager and
+14:23 
+
+14:23 decide on whether there's any levers you
+14:24 
+
+14:24 can tweak um and sometimes some kpis
+14:28 
+
+14:28 have room for interpr ation uh if
+14:31 
+
+14:31 they're not like you know very strictly
+14:32 
+
+14:32 a quota you must meet or numbers you
+14:34 
+
+14:34 must meet then you could have maybe come
+14:38 
+
+14:38 up with different ideas and be creative
+14:39 
+
+14:39 about how you want to meet those kpis um
+14:43 
+
+14:43 for example if like one of the kpis is
+14:45 
+
+14:45 to make our processes you know 80% more
+14:48 
+
+14:48 efficient or something well then I will
+14:50 
+
+14:50 think about how can I leverage
+14:53 
+
+14:53 automation or tools or changes in our
+14:56 
+
+14:56 workflow to make it more efficient what
+14:58 
+
+14:58 are the inefficiencies to begin with so
+15:01 
+
+15:01 you're thinking about it more like from
+15:03 
+
+15:03 a strategic standpoint and I would say
+15:06 
+
+15:06 try to work smarter about it versus in
+15:09 
+
+15:09 the past I would like work harder now
+15:11 
+
+15:11 like there's no way I there's no way I
+15:13 
+
+15:13 can times 10 I'm not 10times 10 engineer
+15:16 
+
+15:16 anymore I wasn't to begin with um but
+15:20 
+
+15:20 you know it's more about like what
+15:23 
+
+15:23 problem are you trying to solve and is
+15:24 
+
+15:24 there a more creative way we can go
+15:26 
+
+15:26 about solving that having that
+15:27 
+
+15:27 conversation with your manager is also
+15:29 
+
+15:29 important because I think they want to
+15:31 
+
+15:31 at the end of the day you're a software
+15:32 
+
+15:32 engineer or engineer and you're a
+15:34 
+
+15:34 problem solver how you get to Sol the
+15:37 
+
+15:37 solution um is also an important thing
+15:40 
+
+15:40 to show your manager right and if they
+15:42 
+
+15:42 can see that you're creative about it
+15:44 
+
+15:44 then okay you know it it's something
+15:46 
+
+15:46 that I know that human is thinking about
+15:49 
+
+15:49 sonone is thinking about Victoria is
+15:50 
+
+15:50 thinking about um and she's coming up
+15:52 
+
+15:52 with solutions that maybe be out of the
+15:54 
+
+15:54 norm but gets us to where we want to be
+15:57 
+
+15:57 so I think that's important as well to
+15:59 
+
+15:59 recognize
+15:60 
+
+15:60 not everything is like a number that
+16:01 
+
+16:01 needs to be hit or if you if it is a
+16:04 
+
+16:04 number you need to be to hit then how
+16:06 
+
+16:06 can we get there in the non-traditional
+16:08 
+
+16:08 ways um yeah I think that's that's how
+16:11 
+
+16:11 we would go about it did you also have
+16:13 
+
+16:13 like uh circumstances where you'll
+16:15 
+
+16:15 realize like your colleagues they are
+16:17 
+
+16:17 also working equally hard and then and
+16:20 
+
+16:20 but then you mean just because she gave
+16:22 
+
+16:22 birth she gets to be you know have more
+16:25 
+
+16:25 leeway if it did I never felt that um um
+16:29 
+
+16:29 I was also very cognizant about uring
+16:33 
+
+16:33 that I'm not never using the oh I have a
+16:36 
+
+16:36 mommy brain
+16:38 
+
+16:38 excuse I tried to to keep like being a
+16:41 
+
+16:41 new mom out of it what I tried to do was
+16:44 
+
+16:44 like Hey I do need time I'm I'm having
+16:47 
+
+16:47 stricter
+16:48 
+
+16:48 boundaries I will take up projects I
+16:51 
+
+16:51 will you know Dr Dr I me the directly
+16:54 
+
+16:54 responsible individual for a project I
+16:56 
+
+16:56 will lead it um but as as long as my my
+16:60 
+
+16:60 manager is also comfortable right
+17:01 
+
+17:01 because if I were treated as a new hire
+17:05 
+
+17:05 would my manager feel comfortable giving
+17:06 
+
+17:06 me a project right off the B probably
+17:08 
+
+17:08 not and I'll be fine with that but that
+17:10 
+
+17:10 doesn't mean that it's okay to not
+17:12 
+
+17:12 include me in discussions I think my pet
+17:16 
+
+17:16 peeve is when people make assumptions
+17:18 
+
+17:18 about you know new moms or about folks
+17:21 
+
+17:21 coming back from a extended period of
+17:23 
+
+17:23 time that oh you know you probably I'm
+17:24 
+
+17:24 just going to assume that you just want
+17:25 
+
+17:25 to recover I think that is my biggest
+17:28 
+
+17:28 pet peeve um where where you know maybe
+17:31 
+
+17:31 I do want to be participative and maybe
+17:33 
+
+17:33 I am yearning that because I've been
+17:35 
+
+17:35 talking to a baby or toddler for Way
+17:39 
+
+17:39 Long like I'm done with the whole like
+17:42 
+
+17:42 um you know monologue that happens when
+17:45 
+
+17:45 they haven't they haven't learned yet
+17:47 
+
+17:47 how to speak and I'm just constantly you
+17:49 
+
+17:49 know reading to them things like that I
+17:51 
+
+17:51 I'm yearning that you know uh
+17:54 
+
+17:54 participation that allows me to reain
+17:57 
+
+17:57 the muscle that you know I probably have
+17:59 
+
+17:59 to to hone again um in those discussions
+18:02 
+
+18:02 and so no I would hope nobody feels that
+18:05 
+
+18:05 they would think that you know oh she's
+18:06 
+
+18:06 coming from Leave You must give her more
+18:08 
+
+18:08 leeway or a manager to think that I must
+18:10 
+
+18:10 give her more leeway because she came
+18:11 
+
+18:11 out from leave I I would hope that never
+18:13 
+
+18:13 crosses people's minds because at the
+18:15 
+
+18:15 end of the day yeah you like it is my
+18:18 
+
+18:18 responsibility as an individual to also
+18:20 
+
+18:20 come back to speed and also be
+18:23 
+
+18:23 very um I think very clear about my
+18:27 
+
+18:27 intentions so I came back and I so said
+18:29 
+
+18:29 that you know I know that I've missed a
+18:32 
+
+18:32 lot of contacts while I was out where
+18:34 
+
+18:34 can I read the tldr what are some issues
+18:37 
+
+18:37 that I can you know read up on so I can
+18:39 
+
+18:39 get myself up to speed what are the most
+18:41 
+
+18:41 important things because there's no way
+18:42 
+
+18:42 I'm going through all of the backlog or
+18:44 
+
+18:44 all the step conversations or web
+18:46 
+
+18:46 notifications I've gotten but where's
+18:48 
+
+18:48 the latest on this I can read up on and
+18:50 
+
+18:50 so I think you know showing the
+18:52 
+
+18:52 initiative that hey I'm ready I'm ready
+18:54 
+
+18:54 to come back I'm ready to be back in the
+18:56 
+
+18:56 game but please help me out in like the
+18:58 
+
+18:58 tldr right I think that's where I feel
+19:03 
+
+19:03 that companies should strive towards
+19:05 
+
+19:05 that team should strive towards and
+19:07 
+
+19:07 Engineering managers or managers as as a
+19:09 
+
+19:09 whole should strive towards I know we're
+19:11 
+
+19:11 not there as a society today um and
+19:14 
+
+19:14 that's something that I think coming
+19:16 
+
+19:16 back to Singapore was another thing that
+19:18 
+
+19:18 I hope to help you know break this kind
+19:22 
+
+19:22 of stereotype and normalize that how
+19:27 
+
+19:27 else are we going to have um you know
+19:30 
+
+19:30 kids and and you know help our society
+19:33 
+
+19:33 um build up the future generation if
+19:36 
+
+19:36 we're not supporting the ones who are
+19:37 
+
+19:37 building up this generation so we can't
+19:40 
+
+19:40 really have you know say one thing and
+19:42 
+
+19:42 then do another our actions have to fit
+19:44 
+
+19:44 with what we are trying to promote right
+19:48 
+
+19:48 um so I think it it's if we're not there
+19:50 
+
+19:50 today I I think it's up to us also to be
+19:54 
+
+19:54 more vocal about that yeah listen to
+19:58 
+
+19:58 this podcast
+19:59 
+
+19:59 by listening to this podcast yeah I love
+20:01 
+
+20:01 how like you talk about how you
+20:03 
+
+20:03 proactively communicate I think that's
+20:05 
+
+20:05 the thing like um right now we're still
+20:08 
+
+20:08 just trying to recognize more women
+20:11 
+
+20:11 intact and you know trying to like have
+20:14 
+
+20:14 a system that can support women
+20:16 
+
+20:16 especially like those who just became
+20:18 
+
+20:18 parents and still struggling finding
+20:20 
+
+20:20 their way back into jobs so I think you
+20:24 
+
+20:24 really emphasize it clearly that it's
+20:26 
+
+20:26 about proactively communicating your
+20:27 
+
+20:27 intentions hey I'm actually ready to go
+20:29 
+
+20:29 back to it and not assigning yourself a
+20:31 
+
+20:31 label that says I'm actually a new
+20:33 
+
+20:33 parent and you kind of have to be
+20:35 
+
+20:35 professional about it at the same time
+20:36 
+
+20:36 so I really like what you said about
+20:38 
+
+20:38 that and actually I want to mention you
+20:40 
+
+20:40 did write a blog post did not finish
+20:42 
+
+20:42 that blog post I did not I have it like
+20:44 
+
+20:44 in draft still but you did publish one
+20:47 
+
+20:47 before right uh I don't know if it's
+20:49 
+
+20:49 published it's probably still draft
+20:51 
+
+20:51 maybe this will motivate me too if
+20:52 
+
+20:52 people are interested comment in there
+20:55 
+
+20:55 and I will publish it right yeah cuz I
+20:57 
+
+20:57 think there's so much to elaborate on
+20:58 
+
+20:58 like like you know the similarities
+21:00 
+
+21:00 between parenting and Engineering just
+21:03 
+
+21:03 the two points that you mentioned I
+21:04 
+
+21:04 think you know that it's already so much
+21:07 
+
+21:07 learning that people can take away I
+21:08 
+
+21:08 think people definitely underestimate
+21:10 
+
+21:10 how similar parenting and Engineering is
+21:13 
+
+21:13 and the fact that since you're playing
+21:14 
+
+21:14 both roles you get to you know find
+21:16 
+
+21:16 similarities and learn from both sides I
+21:18 
+
+21:18 think that's something that many people
+21:20 
+
+21:20 want to read about so if you ever want
+21:22 
+
+21:22 to I will I will this will be my
+21:24 
+
+21:24 motivation yes I I love it that you know
+21:26 
+
+21:26 being a mom has also elevated you in
+21:28 
+
+21:28 your professional life like it's
+21:30 
+
+21:30 actually making you smart work smarter
+21:33 
+
+21:33 and like you know think in that
+21:34 
+
+21:34 particular Manner and handle things
+21:36 
+
+21:36 handle changes all the time handle curve
+21:38 
+
+21:38 balls thrown at you I feel like every
+21:41 
+
+21:41 episode we will learn a lot of things
+21:43 
+
+21:43 from you and I hope our audience also
+21:45 
+
+21:45 learn a lot from you yes so just to wrap
+21:48 
+
+21:48 up I think being a mom being an engineer
+21:51 
+
+21:51 no matter which role you are like
+21:52 
+
+21:52 there's always something that you will
+21:54 
+
+21:54 learn from something that you can um
+21:57 
+
+21:57 kind of apply to the roles each other
+21:60 
+
+21:60 and you also mentioned how it's
+22:02 
+
+22:02 difficult to
+22:03 
+
+22:03 compartmentalize yeah but eventually you
+22:06 
+
+22:06 figure out how to set boundaries set
+22:08 
+
+22:08 expectations and I think above all is
+22:10 
+
+22:10 you mentioned how you vocalize that cuz
+22:12 
+
+22:12 I think a lot of people in the workplace
+22:14 
+
+22:14 they just in our culture it's like we
+22:16 
+
+22:16 have to kind of be quiet and like just
+22:19 
+
+22:19 do our best silently but we don't
+22:21 
+
+22:21 vocalize then no one will know like if
+22:22 
+
+22:22 we're struggling or if we need help so I
+22:25 
+
+22:25 think you emphasize a lot about
+22:26 
+
+22:26 vocalizing which is something that I
+22:29 
+
+22:29 need to learn as well so once again
+22:31 
+
+22:31 always learn a lot from you so thank you
+22:33 
+
+22:33 so much I think I I will I will add one
+22:36 
+
+22:36 thing earlier the first question was
+22:38 
+
+22:38 like the term mom Jer and we talked
+22:40 
+
+22:40 about playing the engineering role and
+22:42 
+
+22:42 the mom role mom Jer combines the two
+22:45 
+
+22:45 and I think like when you Embrace that I
+22:47 
+
+22:47 personally am embracing that and you
+22:49 
+
+22:49 know you see the parallels at work then
+22:51 
+
+22:51 it's more fun I I just have more fun now
+22:53 
+
+22:53 that knowing that I can be both at the
+22:55 
+
+22:55 same time and I am both it's both of my
+22:57 
+
+22:57 identities so yeah I think think I would
+22:59 
+
+22:59 encourage anyone who feels that they are
+23:01 
+
+23:01 struggling with that to reach out like I
+23:04 
+
+23:04 am more than happy to at least provide
+23:06 
+
+23:06 some ways that I cope with it as well
+23:09 
+
+23:09 okay yes we'll definitely link all of um
+23:12 
+
+23:12 human's uh Social Links you can follow
+23:15 
+
+23:15 her you can follow her journey I can see
+23:17 
+
+23:17 her really cute kids she have so cute
+23:21 
+
+23:21 kids yeah so thank you so much for
+23:23 
+
+23:23 watching today's episode we hope it has
+23:25 
+
+23:25 been insightful and valuable to you so
+23:27 
+
+23:27 thank you thank you y
+23:29 
+
+23:29 this has been Rec Tech so follow us on
+23:31 
+
+23:31 our socials subscribe and hit that
+23:33 
+
+23:33 notification button right have a good
+23:35 
+
+23:35 one byebye
+23:37 
+
+23:37 [Music]

@@ -1,0 +1,2341 @@
+00:04 okay
+00:06 
+
+00:06 record hello
+00:10 
+
+00:10 everybody did you just throw your
+00:14 
+
+00:14 octo okay we have R tag and today we are
+00:17 
+
+00:17 doing a special episode oh so Lo came
+00:20 
+
+00:20 with soft ey but as you can see we're
+00:22 
+
+00:22 slightly unhinged right
+00:25 
+
+00:25 now this is a very different format of
+00:28 
+
+00:28 video uh but we wanted to try something
+00:30 
+
+00:30 you out aside from our usual podcasts uh
+00:33 
+
+00:33 formats uh and to be able to bring a
+00:36 
+
+00:36 little bit of code a little bit of
+00:38 
+
+00:38 application a little bit of well our
+00:40 
+
+00:40 usual benter style um but in this new
+00:44 
+
+00:44 format um through sort of like an online
+00:47 
+
+00:47 stream uh so today what we decided to do
+00:51 
+
+00:51 is uh we're going to review an app that
+00:54 
+
+00:54 is built by one of us and we might
+00:56 
+
+00:56 continue this as a series if like the
+00:58 
+
+00:58 feedback is good but uh the person that
+01:01 
+
+01:01 we're going to review the app is salones
+01:05 
+
+01:05 also in case you don't know oh we should
+01:07 
+
+01:07 introduce ourselves I know our names are
+01:08 
+
+01:08 there but yeah Salone you can introduce
+01:11 
+
+01:11 yourself since today you're going to be
+01:13 
+
+01:13 our guest
+01:14 
+
+01:14 star hello everyone I'm sonone a
+01:17 
+
+01:17 software
+01:18 
+
+01:18 developer and co-host
+01:21 
+
+01:21 here yeah I'm Natasha software engineer
+01:26 
+
+01:26 also co-host here and I'm Victoria also
+01:31 
+
+01:31 uh not also I'm Solutions engineer I'm
+01:35 
+
+01:35 also co-host here yeah and if you want
+01:38 
+
+01:38 to find out what like a Solutions
+01:39 
+
+01:39 engineer or a software developer does
+01:41 
+
+01:41 click our previous videos we do cover
+01:43 
+
+01:43 each and every one of us in an in-depth
+01:45 
+
+01:45 like self- inro video as well as talking
+01:47 
+
+01:47 about what our jobs entail so you can
+01:49 
+
+01:49 check that out so yeah without further
+01:51 
+
+01:51 Ado I know we're all kind of awkward
+01:53 
+
+01:53 here because we're trying to get used to
+01:55 
+
+01:55 this format but Victoria and I have not
+01:58 
+
+01:58 seen this app soone has been telling us
+02:00 
+
+02:00 about it uh for quite a while now we
+02:03 
+
+02:03 know she's been building it we know it's
+02:05 
+
+02:05 about food but that's about all we know
+02:07 
+
+02:07 we've not really seen the app yet so I
+02:09 
+
+02:09 think first and
+02:11 
+
+02:11 foremost um yeah what is your app about
+02:14 
+
+02:14 and yeah you can take the stage
+02:17 
+
+02:17 Soo yes so I would first like to make
+02:21 
+
+02:21 some things clear it's not a very
+02:22 
+
+02:22 impressive app it was just me tinkering
+02:25 
+
+02:25 with open Ai and trying to see exactly
+02:29 
+
+02:29 what's what it's all about and how we
+02:31 
+
+02:31 can use it and so okay why did I even
+02:35 
+
+02:35 come up with this app was because I
+02:37 
+
+02:37 actually am getting health conscious and
+02:40 
+
+02:40 so you know how skittles here Skittles
+02:44 
+
+02:44 it has I can't tell if it's if it's like
+02:49 
+
+02:49 yeah if it's healthy or not like of
+02:53 
+
+02:53 course it's not healthy but if you
+02:55 
+
+02:55 really want to know if it's healthy or
+02:56 
+
+02:56 not uh you can you can actually look at
+02:59 
+
+02:59 this like nutrition label thingy wait
+03:01 
+
+03:01 where am I pointing you're not pointing
+03:04 
+
+03:04 right go go left or right yeah yeah yeah
+03:07 
+
+03:07 you got it yeah so this nutrition label
+03:10 
+
+03:10 I don't know how many of you can
+03:12 
+
+03:12 actually read this but I actually do not
+03:15 
+
+03:15 understand if it's what exactly it's all
+03:17 
+
+03:17 about like protein energy cholesterol is
+03:20 
+
+03:20 it good is it bad I mean how much is
+03:22 
+
+03:22 good is bad so then I was like you know
+03:25 
+
+03:25 what let's just this is like a good use
+03:27 
+
+03:27 case for me to make like a very simple
+03:29 
+
+03:29 app where I just pass in this nutrition
+03:32 
+
+03:32 information to Chad GP and it is able to
+03:35 
+
+03:35 tell me exactly what I want to know
+03:37 
+
+03:37 which is should I eat this or not at the
+03:40 
+
+03:40 moment so it's a binary yes or no kind
+03:43 
+
+03:43 of thing no I actually wanted yes or no
+03:47 
+
+03:47 uh with some information like you know
+03:49 
+
+03:49 how much is it very sugary is it not so
+03:53 
+
+03:53 much can I just eat it right now
+03:55 
+
+03:55 something like that so I just went about
+03:58 
+
+03:58 will you really just throw it away
+04:00 
+
+04:00 or what I going to do with it I will let
+04:04 
+
+04:04 my guilt conscious take
+04:09 
+
+04:09 effect I Del it okay got it yeah it's so
+04:15 
+
+04:15 why are you food conscious in the first
+04:17 
+
+04:17 place oh is it because like of your
+04:19 
+
+04:19 division board you had and then you had
+04:22 
+
+04:22 like I want to be more healthy this year
+04:24 
+
+04:24 I remember seeing that at your place uh
+04:27 
+
+04:27 yes healthy in general yes and you're
+04:30 
+
+04:30 beautiful the way you are
+04:33 
+
+04:33 right thank
+04:35 
+
+04:35 you but like you know you know a lot of
+04:38 
+
+04:38 things like you don't actually know that
+04:40 
+
+04:40 uh they are healthy or not and also that
+04:44 
+
+04:44 there are alternate versions of it that
+04:46 
+
+04:46 are healthier like the I was talking
+04:48 
+
+04:48 Victoria telling her that did you know
+04:49 
+
+04:49 that there was something called
+04:51 
+
+04:51 cauliflower chips so instead of potato
+04:54 
+
+04:54 chips you can eat cauliflower chips I
+04:56 
+
+04:56 didn't know that chip the organic
+04:59 
+
+04:59 section
+05:00 
+
+05:00 giant chips yeah banana chips yeah yeah
+05:05 
+
+05:05 slow exploring the health food area
+05:08 
+
+05:08 health food section yes in grocery
+05:11 
+
+05:11 stores so does the app give you
+05:13 
+
+05:13 alternative to go there it doesn't it
+05:15 
+
+05:15 doesn't do that it's not that awesome
+05:17 
+
+05:17 yet I haven't made it awesome yet but it
+05:20 
+
+05:20 does tell me if this is good or not at
+05:22 
+
+05:22 the moment let me show you this app of
+05:26 
+
+05:26 mine so it is I've like hosted it on ver
+05:30 
+
+05:30 so uh and this is how it looks like very
+05:32 
+
+05:32 very simple this is on my web on on web
+05:36 
+
+05:36 browser so that therefore it's like
+05:37 
+
+05:37 super huge but it'll be nice and small
+05:40 
+
+05:40 on a mobile screen so how it works is
+05:43 
+
+05:43 all you have to do is click on open
+05:46 
+
+05:46 camera and it's this camera so let's
+05:50 
+
+05:50 actually see Skittles I've actually not
+05:52 
+
+05:52 tried it so let's see what what happen
+05:54 
+
+05:54 so if I let
+05:57 
+
+05:57 me take a so here can it see clearly I
+06:02 
+
+06:02 think I think it's there's a sheen on it
+06:05 
+
+06:05 because of the
+06:06 
+
+06:06 gloss but CH is actually quite smart it
+06:10 
+
+06:10 it should be able to read
+06:12 
+
+06:12 this so it says it is
+06:16 
+
+06:16 bad very good
+06:18 
+
+06:18 Chad the food is high in sugar contains
+06:21 
+
+06:21 no protein or dietary fiber it also
+06:23 
+
+06:23 contains artificial colors and other
+06:26 
+
+06:26 additives this can contribute to health
+06:28 
+
+06:28 issues like tooth decay and is
+06:31 
+
+06:31 considered unhealthy and therefore I
+06:34 
+
+06:34 shall not be eating this now are you
+06:37 
+
+06:37 going to throw it so that's my very
+06:39 
+
+06:39 simple app no I actually will eat itth
+06:42 
+
+06:42 sometimes if I do
+06:44 
+
+06:44 like right one small one wouldn't harm
+06:47 
+
+06:47 me maybe like eating five at a go might
+06:49 
+
+06:49 yeah maybe like a future feature it's
+06:51 
+
+06:51 like caveat you can technically half
+06:54 
+
+06:54 like one a day that's okay maybe I don't
+06:57 
+
+06:57 know but oh that's really cool can you
+06:59 
+
+06:59 try on something
+07:00 
+
+07:00 I have a question yeah because for
+07:02 
+
+07:02 Skittles it's quite obvious that it's
+07:04 
+
+07:04 unhealthy so what if it's something like
+07:06 
+
+07:06 in the middle like you're not so sure do
+07:08 
+
+07:08 you have something like more
+07:10 
+
+07:10 ambiguous y let me try do this work so
+07:15 
+
+07:15 now I actually have a 100 plus so I'm a
+07:18 
+
+07:18 100 plus fan I just love this I drink it
+07:22 
+
+07:22 as an energy drink and I think it's
+07:24 
+
+07:24 healthy so let's see what Chad GPD says
+07:28 
+
+07:28 it's here and I'll take a
+07:33 
+
+07:33 picture and it's it's still
+07:39 
+
+07:39 loading and it is okay actually and yeah
+07:44 
+
+07:44 it's low in calories zero fat and
+07:46 
+
+07:46 there's sodium in it I actually did not
+07:49 
+
+07:49 know that there was salt in this 100 BL
+07:52 
+
+07:52 well it has I think sodium is actually
+07:54 
+
+07:54 good for like energy drinks maybe that's
+07:57 
+
+07:57 why because you need to have sodium uh
+07:60 
+
+07:60 after you lose like so much sweat and
+08:04 
+
+08:04 everything yeah so it does it does say
+08:06 
+
+08:06 here that the sodium content is low
+08:08 
+
+08:08 making it a decent option for low sodium
+08:11 
+
+08:11 diet so I guess low sodium looking for
+08:14 
+
+08:14 low low salt there you go and it has
+08:18 
+
+08:18 potassium and calcium and while this
+08:20 
+
+08:20 drink is not nutrient dense it can be a
+08:23 
+
+08:23 part of a healthy diet if enjoyed
+08:27 
+
+08:27 occasionally occasionally so so this is
+08:30 
+
+08:30 what my app does and that's how it helps
+08:34 
+
+08:34 me oh that's pretty cool nice nice can
+08:39 
+
+08:39 can I try using mine like can it take a
+08:40 
+
+08:40 picture from my
+08:43 
+
+08:43 screen uh
+08:45 
+
+08:45 no but open this app on your end because
+08:48 
+
+08:48 it is hosted yeah yeah because she
+08:50 
+
+08:50 hosted it of herself so let me actually
+08:54 
+
+08:54 send you the link on
+08:58 
+
+08:58 Telegram and then and you should be able
+09:01 
+
+09:01 to also share your
+09:04 
+
+09:04 screen and try it out on your products
+09:08 
+
+09:08 so uh the interesting like while just
+09:10 
+
+09:10 setting it up the interesting thing
+09:12 
+
+09:12 about this is that it actually took me
+09:14 
+
+09:14 quite so the actual setup of the app
+09:17 
+
+09:17 itself was really simple right so I just
+09:18 
+
+09:18 had to make the make a react app and
+09:23 
+
+09:23 call open
+09:24 
+
+09:24 Ai and once I did
+09:27 
+
+09:27 that yeah open Ai and then put in like
+09:30 
+
+09:30 the environment keys and stuff and then
+09:32 
+
+09:32 the hard part was to actually get the
+09:35 
+
+09:35 content out the
+09:37 
+
+09:37 analysis the overall what mean shows up
+09:40 
+
+09:40 like why why is that the difficult
+09:42 
+
+09:42 part so I actually had to tell it what I
+09:46 
+
+09:46 want to know exactly like I want to know
+09:48 
+
+09:48 is it healthy or not and I want a lay
+09:50 
+
+09:50 person to understand it so there was a
+09:53 
+
+09:53 lot of back and for with me and CH yeah
+09:56 
+
+09:56 yeah and then when I finally got the
+09:59 
+
+09:59 prompt that want the response that I
+10:01 
+
+10:01 want and then I just asked from a Chad
+10:04 
+
+10:04 back can you give me this response in a
+10:07 
+
+10:07 prompt format so that I can use it in my
+10:10 
+
+10:10 app I literally said that and it gave me
+10:13 
+
+10:13 the prompt itself so GPD can actually
+10:16 
+
+10:16 give me the prompt so then I was like
+10:19 
+
+10:19 then why is everyone so upbeat about
+10:21 
+
+10:21 this it's just telling it to give you
+10:23 
+
+10:23 the prompt The Prompt engineer asking
+10:26 
+
+10:26 the the chat GPT to give the prompt and
+10:30 
+
+10:30 isn't it expensive though like for the
+10:32 
+
+10:32 tokens to I I was just gonna ask like
+10:35 
+
+10:35 per API call like how much is
+10:37 
+
+10:37 it so I I've yet to calculate it but
+10:41 
+
+10:41 it's not that expensive uh so I've
+10:43 
+
+10:43 actually sorry I've actually put up
+10:45 
+
+10:45 Victoria's screen on this so you can
+10:48 
+
+10:48 start your day we come back to the whole
+10:49 
+
+10:49 AP I think later but that's
+10:53 
+
+10:53 yeah oh you actually went to get
+10:57 
+
+10:57 something there you go oh actually this
+11:00 
+
+11:00 one is very very extensive the nutrition
+11:04 
+
+11:04 label yes try it on this you might have
+11:06 
+
+11:06 to scroll down on the website and click
+11:08 
+
+11:08 take a picture there's a button called
+11:10 
+
+11:10 take a picture yeah but it doesn't look
+11:12 
+
+11:12 so clear in the yeah you have to go a
+11:15 
+
+11:15 bit behind maybe back up one thing I do
+11:19 
+
+11:19 for open a right because you're actually
+11:21 
+
+11:21 sending this picture over to their
+11:22 
+
+11:22 servers try not to show your face yeah
+11:25 
+
+11:25 just for privacy reasons I don't think
+11:28 
+
+11:28 it's capturing it that way well because
+11:30 
+
+11:30 of your webcam or maybe if you have a
+11:33 
+
+11:33 have
+11:36 
+
+11:36 a CU actually this could be a this could
+11:40 
+
+11:40 be a good Edge
+11:43 
+
+11:43 case what if you send it a bad picture
+11:46 
+
+11:46 what does it actually say with the with
+11:48 
+
+11:48 the fixed prompt that I've sent to it
+11:50 
+
+11:50 okay should I try just taking a picture
+11:53 
+
+11:53 like this yeah yeah try it's not that
+11:56 
+
+11:56 expensive case testing let's go we love
+12:01 
+
+12:01 testing I love HK T watching it
+12:06 
+
+12:06 break Victoria's shirt is clearer
+12:11 
+
+12:11 than so it's gonna be like life I'm
+12:14 
+
+12:14 evaluating the nutrition of
+12:17 
+
+12:17 life so you know how like as developers
+12:20 
+
+12:20 we when we test our own apps we never
+12:23 
+
+12:23 break it I actually have not broken my
+12:25 
+
+12:25 app like broken in a sense like found a
+12:27 
+
+12:27 bug in my app so that's excited like you
+12:30 
+
+12:30 know what do this do this unclear thing
+12:32 
+
+12:32 and I want to see what the actually
+12:34 
+
+12:34 produces
+12:37 
+
+12:37 or also is it because Victoria you have
+12:40 
+
+12:40 the blur filter
+12:42 
+
+12:42 on
+12:45 
+
+12:45 maybe what's what's coming up on your
+12:48 
+
+12:48 terminalone on like the hosting uh I'll
+12:52 
+
+12:52 have to log in actually I'm not yet
+12:56 
+
+12:56 quite a bit should I try taking another
+12:58 
+
+12:58 picture
+13:01 
+
+13:01 Yeah by now it should have returned a
+13:03 
+
+13:03 response it's probably not it's probably
+13:06 
+
+13:06 not not that great because I was relying
+13:10 
+
+13:10 on
+13:10 
+
+13:10 the
+13:13 
+
+13:13 format so I've asked G to give me a
+13:16 
+
+13:16 fixed format response and I actually did
+13:19 
+
+13:19 not ask it to give any error if there is
+13:22 
+
+13:22 any that's a good idea I should I can
+13:25 
+
+13:25 actually add it yeah can just prompt it
+13:28 
+
+13:28 to say like oh eror handling for this
+13:30 
+
+13:30 specific era I just wonder what the era
+13:32 
+
+13:32 is right now because it's just like
+13:34 
+
+13:34 unlimited loading now yeah it's probably
+13:37 
+
+13:37 an error and if there's no response it
+13:41 
+
+13:41 would just show the loading okay so
+13:43 
+
+13:43 basically if you put in a picture that
+13:45 
+
+13:45 cannot be read you
+13:49 
+
+13:49 probably will run into an error and you
+13:52 
+
+13:52 haven't handled it
+13:54 
+
+13:54 ticket ticket J ticket or whatever
+13:58 
+
+13:58 platform would you be interested to look
+13:60 
+
+13:60 at my code sure I mean I have a lot of
+14:04 
+
+14:04 like like code questions but yeah I I I
+14:07 
+
+14:07 think it's supposed to work maybe if
+14:09 
+
+14:09 Victoria you TR use your phone instead
+14:11 
+
+14:11 maybe our webcams are just not that
+14:14 
+
+14:14 great is using her iPhone to record
+14:19 
+
+14:19 yeah Mac to Mac
+14:22 
+
+14:22 advantages so this would actually
+14:25 
+
+14:25 [Music]
+14:27 
+
+14:27 be here after the cameras
+14:33 
+
+14:33 did you also use or like co-pilot to
+14:36 
+
+14:36 spit up the
+14:39 
+
+14:39 app uh I got I use chib to create
+14:43 
+
+14:43 portions of it in whenever I did not
+14:46 
+
+14:46 know how to do it by by myself I think I
+14:48 
+
+14:48 broke your
+14:50 
+
+14:50 app you broke
+14:53 
+
+14:53 it I can't access it anymore oh oh dang
+14:57 
+
+14:57 you got to check versel deoy maybe the
+14:59 
+
+14:59 sell it got down I tried to reload this
+15:03 
+
+15:03 is what happens when when developers
+15:06 
+
+15:06 this is what happens when developers
+15:07 
+
+15:07 test the app I see no
+15:11 
+
+15:11 bug we're bug testers we're QA
+15:15 
+
+15:15 today okay so for you're using react uh
+15:22 
+
+15:22 yes oh nextjs is it nextjs or
+15:25 
+
+15:25 react uh
+15:27 
+
+15:27 nextjs react with next
+15:30 
+
+15:30 yes so yes I don't to explain all these
+15:35 
+
+15:35 like Stacks in this video I because like
+15:37 
+
+15:37 I know in our podcast we tend to try to
+15:39 
+
+15:39 explain the very technical Concepts but
+15:43 
+
+15:43 do we want to briefly explain react next
+15:46 
+
+15:46 year is that necessary you think maybe
+15:48 
+
+15:48 that's for a separate
+15:50 
+
+15:50 video separate video maybe we'll put
+15:53 
+
+15:53 like that I don't know yeah but okay our
+15:57 
+
+15:57 subscribers can tell us what did didn't
+15:60 
+
+15:60 understand in this video and we can see
+16:03 
+
+16:03 if we can answer it in the comments
+16:04 
+
+16:04 please leave your feedback below we
+16:07 
+
+16:07 don't know what kind of audiences would
+16:08 
+
+16:08 reach honestly like uh we're happy to
+16:11 
+
+16:11 explain all these things to non teches
+16:13 
+
+16:13 as well uh but right now we're just
+16:15 
+
+16:15 running off the top of our head um but
+16:19 
+
+16:19 yes actually even for people who don't
+16:21 
+
+16:21 know how to read code a lot of code is
+16:23 
+
+16:23 very literal like as you can see set is
+16:27 
+
+16:27 loading it's a function to be be able to
+16:30 
+
+16:30 set the loading State like just now when
+16:33 
+
+16:33 you saw the app and then you had the
+16:34 
+
+16:34 little circle thing like going on and on
+16:38 
+
+16:38 yeah so this function basically sets the
+16:40 
+
+16:40 loading
+16:42 
+
+16:42 State soone what what is like the key
+16:46 
+
+16:46 part of uh your app so far that you were
+16:48 
+
+16:48 quite proud of yourself about having
+16:51 
+
+16:51 implemented
+16:52 
+
+16:52 it um I think I think it was what I
+16:56 
+
+16:56 mentioned where I asked GPD to give me
+16:59 
+
+16:59 the prompt itself I think I was when I
+17:02 
+
+17:02 did that I I had this moment of
+17:04 
+
+17:04 Enlightenment that wait I can actually
+17:08 
+
+17:08 ask it to do even that I thought that
+17:10 
+
+17:10 was the most difficult part which was
+17:12 
+
+17:12 creating the prompt and then let me
+17:14 
+
+17:14 actually show
+17:17 
+
+17:17 you how did you prompt the The Prompt
+17:21 
+
+17:21 engine yeah
+17:25 
+
+17:25 prompt here it's
+17:29 
+
+17:29 this is very ugly but this is the text
+17:32 
+
+17:32 that I sent this is the prompt that I
+17:34 
+
+17:34 send it uh analyze the nutritional
+17:37 
+
+17:37 information so this is actually given to
+17:39 
+
+17:39 me by chat
+17:42 
+
+17:42 GPT so you ask chat GPT hey give me a
+17:45 
+
+17:45 prompt to be able to ask you about the
+17:48 
+
+17:48 nutritional information but in a
+17:49 
+
+17:49 consistent manner something like
+17:52 
+
+17:52 that yes like yeah I actually have some
+17:56 
+
+17:56 Snippets of me I actually like
+17:57 
+
+17:57 screenshoted me asking
+18:00 
+
+18:00 like after after I got the response that
+18:03 
+
+18:03 I wanted from it uh something like this
+18:06 
+
+18:06 the next question I asked it was can I
+18:08 
+
+18:08 get a query template of this response so
+18:10 
+
+18:10 that I can ask you for different
+18:12 
+
+18:12 nutrition effects imag can I get the
+18:14 
+
+18:14 query template I like
+18:17 
+
+18:17 that that's gave it to me template for a
+18:21 
+
+18:21 prompt oh there somebody I just copy
+18:23 
+
+18:23 pasted it I just copy pasted this into
+18:26 
+
+18:26 my app and voila
+18:30 
+
+18:30 was that
+18:31 
+
+18:31 easy so do you learn anything about like
+18:34 
+
+18:34 PR engineering from here like what is
+18:37 
+
+18:37 the good practice or what is like a good
+18:40 
+
+18:40 structure that makes it clear for chat
+18:42 
+
+18:42 jpt to execute your your questions your
+18:45 
+
+18:45 prompt not really actually I mean as I
+18:48 
+
+18:48 didn't I haven't done any formal study
+18:50 
+
+18:50 around prompt engineering itself I
+18:53 
+
+18:53 usually just ask it like I would to a
+18:56 
+
+18:56 person so as you can see I'm actually
+18:58 
+
+18:58 very nice to Chad I'm like can I please
+19:01 
+
+19:01 get something from you I that I thank
+19:04 
+
+19:04 you too I don't know why it's like the
+19:07 
+
+19:07 people it is very humanik though like
+19:10 
+
+19:10 absolutely here has a c template for you
+19:13 
+
+19:13 something like that right
+19:14 
+
+19:14 like oh thank you that you made my life
+19:17 
+
+19:17 so much
+19:20 
+
+19:20 easier yeah definitely you actually
+19:22 
+
+19:22 forget sometimes that it's actually a
+19:24 
+
+19:24 machine that I'm that you're talking to
+19:26 
+
+19:26 so oh you forget sometimes you're
+19:29 
+
+19:29 talking to machine I I do yeah actually
+19:33 
+
+19:33 app I actually did a lot of talking to
+19:35 
+
+19:35 it so then I actually did forget for a
+19:37 
+
+19:37 while that it's actually a machine
+19:39 
+
+19:39 talking a machine yeah I had a friend
+19:41 
+
+19:41 who was telling me that she was using
+19:43 
+
+19:43 this AI mental Wellness app that was
+19:45 
+
+19:45 basically acting as a counselor so yeah
+19:49 
+
+19:49 even like that kind of uh social aspect
+19:53 
+
+19:53 yeah AI is able to do it now but
+19:56 
+
+19:56 actually coming back to the question
+19:57 
+
+19:57 like how much was it like per API call
+20:00 
+
+20:00 so again for viewers who are in like
+20:02 
+
+20:02 teches every time you send like a
+20:06 
+
+20:06 request like a question in this case to
+20:09 
+
+20:09 a a third party uh uh app in this case
+20:12 
+
+20:12 open AI is that third party app um
+20:15 
+
+20:15 sometimes they do charge you per request
+20:18 
+
+20:18 so in this case I I know that uh open AI
+20:21 
+
+20:21 CH GPT has some kind of pricing
+20:23 
+
+20:23 structure even though chat is free did
+20:26 
+
+20:26 you have to
+20:27 
+
+20:27 pay yes I had to B out actually quite
+20:30 
+
+20:30 surprised that there isn't a free option
+20:32 
+
+20:32 for developers you like usually apis for
+20:36 
+
+20:36 developers are free to like you know
+20:37 
+
+20:37 test it out and things like that but it
+20:41 
+
+20:41 it wasn't the case for this and so this
+20:45 
+
+20:45 is actually the cost okay so how it
+20:49 
+
+20:49 works is like at first you just have to
+20:51 
+
+20:51 top up like uh an amount of money to
+20:54 
+
+20:54 this open AI
+20:56 
+
+20:56 platform and I did $10 to to test it out
+20:60 
+
+20:60 oh and then I just started using it so
+21:03 
+
+21:03 it was actually like
+21:05 
+
+21:05 0.001 Cent for I don't know I have to
+21:11 
+
+21:11 calculate 18 cents was I just I
+21:17 
+
+21:17 38 38 requests for 18 cents that's okay
+21:21 
+
+21:21 okay because you fantastic all one user
+21:23 
+
+21:23 yourself until Victoria came along yeah
+21:25 
+
+21:25 so that would be
+21:29 
+
+21:29 and broke it yes so that's actually
+21:33 
+
+21:33 0.005 cents per
+21:36 
+
+21:36 call and uh so while it's very cheap I
+21:42 
+
+21:42 would say uh but like one thing that I
+21:44 
+
+21:44 realized is that so it works with this
+21:46 
+
+21:46 thing called tokens right and I think it
+21:50 
+
+21:50 even the size of your prompt matters
+21:54 
+
+21:54 here so if you send a whole long prompt
+21:58 
+
+21:58 it will cost do more if you can make it
+22:00 
+
+22:00 summarized in the shorter prompt it will
+22:03 
+
+22:03 be cheaper for you and of course sending
+22:05 
+
+22:05 image is another
+22:07 
+
+22:07 cost in this case you you have to send
+22:10 
+
+22:10 an image right yeah in this case I have
+22:12 
+
+22:12 to send the image it's not like logging
+22:15 
+
+22:15 the image
+22:17 
+
+22:17 cost I don't think it breaks it down and
+22:20 
+
+22:20 tells us what it
+22:24 
+
+22:24 is I think I saw reest image request is
+22:28 
+
+22:28 it
+22:31 
+
+22:31 yeah oh no I think this is the response
+22:34 
+
+22:34 image like it it is not returning me the
+22:37 
+
+22:37 image yeah yeah oh I see I see okay okay
+22:40 
+
+22:40 I think so that that's why zero I would
+22:43 
+
+22:43 think so T to speech yeah yeah okay okay
+22:49 
+
+22:49 okay so it's it's not that expensive but
+22:51 
+
+22:51 at the same time yeah you're right like
+22:52 
+
+22:52 with a lot of like apis at least if
+22:55 
+
+22:55 you're in the uh testing stage they
+22:58 
+
+22:58 usually give it to you for free just so
+23:01 
+
+23:01 because as like developers you're always
+23:03 
+
+23:03 like prototyping and testing um
+23:06 
+
+23:06 extensively and then if you're spending
+23:09 
+
+23:09 so much money on every single API
+23:11 
+
+23:11 request when it's not even in production
+23:13 
+
+23:13 and life it's kind of painful to go
+23:17 
+
+23:17 through an extensive testing process so
+23:20 
+
+23:20 I'm just kind of like bummed with that
+23:23 
+
+23:23 but at the same time people are paying
+23:25 
+
+23:25 for it so I guess the business model
+23:27 
+
+23:27 works for them but I don't know if this
+23:30 
+
+23:30 works well for like more I don't know
+23:33 
+
+23:33 open-ended development and encouraging
+23:35 
+
+23:35 people to test their apps more
+23:38 
+
+23:38 thoroughly because you'll be a bit like
+23:40 
+
+23:40 oh but if I try and put it through this
+23:43 
+
+23:43 testing cycle like let's say if e2e to
+23:45 
+
+23:45 some extent and every time you push that
+23:47 
+
+23:47 deployment it's going to run the whole
+23:49 
+
+23:49 E2 process then you'll be spending so
+23:51 
+
+23:51 much after a while yeah I can imagine it
+23:54 
+
+23:54 will accumulate over time yeah yeah yeah
+23:57 
+
+23:57 thanks so much for sharing the project
+23:59 
+
+23:59 Salone I think it's a really cool
+24:01 
+
+24:01 project and definitely how the way you
+24:03 
+
+24:03 come out with it is it's like relevant
+24:04 
+
+24:04 to your own use case so it's nice to see
+24:07 
+
+24:07 basically you building just out of like
+24:09 
+
+24:09 a problem you want to solve yourself
+24:11 
+
+24:11 that's so cool yeah yeah that's why we
+24:13 
+
+24:13 program that's why we buildt
+24:15 
+
+24:15 stuff to make our life sowhat easier are
+24:20 
+
+24:20 you intending to add more features like
+24:22 
+
+24:22 what what's your uh end State for the
+24:24 
+
+24:24 app or you just like I just want to do
+24:25 
+
+24:25 this for
+24:26 
+
+24:26 fun I was actually just doing it for fun
+24:29 
+
+24:29 but actually so uh like one one thing
+24:33 
+
+24:33 that I realized while doing this was
+24:35 
+
+24:35 that actually why would anyone use my
+24:37 
+
+24:37 app they can just use it for themselves
+24:39 
+
+24:39 on chat gbt right like who's stopping
+24:42 
+
+24:42 you from doing it right now on chat gbt
+24:44 
+
+24:44 itself like upload the image and so the
+24:47 
+
+24:47 only thing is the The Prompt it took me
+24:50 
+
+24:50 some time to make the prompt to be able
+24:52 
+
+24:52 to to tell me exactly what it is it will
+24:54 
+
+24:54 take you like maybe 10 minutes to now
+24:58 
+
+24:58 for yourself so that's the value
+25:01 
+
+25:01 proposition here the prompt interesting
+25:04 
+
+25:04 I never thought about it that prompt
+25:06 
+
+25:06 that the way the time that you spend
+25:08 
+
+25:08 doing the prompt engineering becomes the
+25:11 
+
+25:11 Val proposition I always was very
+25:13 
+
+25:13 skeptical of the term prompt engineer
+25:14 
+
+25:14 when it came out but you've basically
+25:16 
+
+25:16 proven that oh it's actually quite like
+25:21 
+
+25:21 value adding um uh skill set yeah I was
+25:24 
+
+25:24 actually yeah of the same belief I also
+25:26 
+
+25:26 didn't understand exactly what's this
+25:28 
+
+25:28 prompt engineering everyone's talking
+25:29 
+
+25:29 about but then here it comes when I
+25:31 
+
+25:31 actually started this app I'm like I see
+25:34 
+
+25:34 now that why would why would people be
+25:37 
+
+25:37 like so into this prompt engineering
+25:40 
+
+25:40 it's a whole skill in itself that's true
+25:42 
+
+25:42 I mean in a way uh in in an Inception
+25:46 
+
+25:46 sort of way it's sort of like what we do
+25:47 
+
+25:47 right um people T it to us because we
+25:50 
+
+25:50 can ask questions in a certain way to
+25:52 
+
+25:52 prompt people in a certain way I guess
+25:55 
+
+25:55 so it is a skill right people hopefully
+25:58 
+
+25:58 tune in because of that so I guess this
+26:01 
+
+26:01 way yeah but this one is prompting a
+26:03 
+
+26:03 machine not a human yeah so make the
+26:07 
+
+26:07 prompt
+26:08 
+
+26:08 better oh yeah sorry as a future thing
+26:12 
+
+26:12 make the prompt
+26:13 
+
+26:13 better and if you want to sa money for
+26:16 
+
+26:16 the API request I was thinking maybe you
+26:18 
+
+26:18 can add some like memory storage so you
+26:20 
+
+26:20 can save like previous prompts then you
+26:23 
+
+26:23 know if you look up the same food item
+26:26 
+
+26:26 they already you have already stored
+26:27 
+
+26:27 like
+26:29 
+
+26:29 cash it yeah you can cash it so that way
+26:32 
+
+26:32 you're not calling again for the same
+26:34 
+
+26:34 label nutrition label yeah yeah of
+26:36 
+
+26:36 course there's a cost benefit if like
+26:38 
+
+26:38 cashing it and I don't know if you want
+26:39 
+
+26:39 to do a Reddit store Reddit is very
+26:41 
+
+26:41 expensive itself so if and also it has
+26:44 
+
+26:44 to do image to image uh matching like is
+26:47 
+
+26:47 this image the same as another image
+26:49 
+
+26:49 people different angle images
+26:51 
+
+26:51 [Music]
+26:53 
+
+26:53 right that would be to figure
+26:56 
+
+26:56 out solution
+26:60 
+
+26:60 I was actually asking uh Victoria for
+27:03 
+
+27:03 help in this where how can I earn money
+27:05 
+
+27:05 from this like if I do put it out there
+27:07 
+
+27:07 for people to
+27:09 
+
+27:09 use many people would start using it
+27:11 
+
+27:11 then actually my $10 would start de
+27:13 
+
+27:13 beating very fast and Victor offered
+27:16 
+
+27:16 like solution of like adding
+27:18 
+
+27:18 ads just so
+27:20 
+
+27:20 randomly maybe ads would come
+27:22 
+
+27:22 up and that's
+27:25 
+
+27:25 that's yeah at the time I was thinking
+27:27 
+
+27:27 because I thought it was a mobile app so
+27:29 
+
+27:29 if it's a mobile app ads is always like
+27:32 
+
+27:32 an easy way it just doesn't have to be
+27:34 
+
+27:34 so intrusive kind of ads it can be like
+27:36 
+
+27:36 those little popup banner ads that you
+27:38 
+
+27:38 can put in that will pop up sometime and
+27:40 
+
+27:40 then you can always click the close
+27:42 
+
+27:42 button then it wouldn't like intrusive
+27:44 
+
+27:44 it's not that intrusive or I was
+27:47 
+
+27:47 thinking it goes very well in line with
+27:49 
+
+27:49 like do you guys know Health 365 in
+27:55 
+
+27:55 Singapore oh where's my camera
+27:58 
+
+27:58 365 oh wait this one yeah and then uh
+28:03 
+
+28:03 basically it's a government uh funded uh
+28:07 
+
+28:07 app to be you know to keep people
+28:09 
+
+28:09 healthy but they already have like a
+28:10 
+
+28:10 scan function not for nutrition but to
+28:13 
+
+28:13 scan receipts where you go to the
+28:15 
+
+28:15 grocery store and you buy something
+28:17 
+
+28:17 healthy it out and stuff this could be
+28:20 
+
+28:20 your exit strategy maybe you can like
+28:22 
+
+28:22 pitch to them maybe they'll buy you over
+28:25 
+
+28:25 yeah yeah quick quick entry quick exit
+28:29 
+
+28:29 yeah and all they're buying is my
+28:32 
+
+28:32 prompt actually think about it they're
+28:34 
+
+28:34 just buying your
+28:37 
+
+28:37 prompt learn something
+28:40 
+
+28:40 new yeah maybe after this can try we can
+28:44 
+
+28:44 hear more about your prompt engineering
+28:46 
+
+28:46 Adventures maybe you can tweak it make
+28:49 
+
+28:49 it more clear or even you know display
+28:52 
+
+28:52 the results in a very easy to read way
+28:54 
+
+28:54 instead of like just a whole string as a
+28:56 
+
+28:56 paragraph and then maybe a good pitch
+28:59 
+
+28:59 for health
+29:01 
+
+29:01 365 Health 365 yeah what's about like
+29:05 
+
+29:05 health related app if you want that to
+29:06 
+
+29:06 be exit strategy but the ad seemed like
+29:08 
+
+29:08 a more straightforward idea just yeah if
+29:12 
+
+29:12 you wanted to be stand yeah we're just
+29:15 
+
+29:15 throwing things out like yeah but we
+29:17 
+
+29:17 just want to see you make it we want to
+29:19 
+
+29:19 see you make it yeah yeah but you you
+29:21 
+
+29:21 you went to it not so much to making
+29:23 
+
+29:23 money but just like to have fun with it
+29:26 
+
+29:26 yeah I want to try it out like what what
+29:27 
+
+29:27 is all this hype about with open Ai and
+29:31 
+
+29:31 what exactly is this
+29:33 
+
+29:33 prompting I I got I I see it now but
+29:40 
+
+29:40 yeah yeah you can call yourself a prompt
+29:43 
+
+29:43 engineer
+29:45 
+
+29:45 now I I'll actually I will spend some
+29:48 
+
+29:48 time uh learning about promp engineering
+29:50 
+
+29:50 to see maybe like there are strategies
+29:53 
+
+29:53 out there to make prom thing better
+29:56 
+
+29:56 maybe so if that's the case why not I
+29:58 
+
+29:58 I'll be up for it to learn more yeah
+30:03 
+
+30:03 yeah
+30:04 
+
+30:04 yeah thanks to you I'm also now
+30:06 
+
+30:06 interested now I'm also curious about
+30:08 
+
+30:08 prompt engineering and maybe sometime
+30:10 
+
+30:10 I'll like check it out and try my
+30:12 
+
+30:12 own try yeah I will look forward to a
+30:16 
+
+30:16 Blog article from you my journey trying
+30:19 
+
+30:19 out being a prompt engineer
+30:22 
+
+30:22 engineer actually all all prompt
+30:25 
+
+30:25 engineering is is communication with a
+30:29 
+
+30:29 machine I love it I love the way you put
+30:32 
+
+30:32 it communication with a machine that's
+30:35 
+
+30:35 great so so basically when you learn
+30:37 
+
+30:37 prompt engine you're just learning how
+30:38 
+
+30:38 to talk to a
+30:39 
+
+30:39 machine it's just like a like a
+30:42 
+
+30:42 communication is a university course
+30:46 
+
+30:46 pump
+30:48 
+
+30:48 engineering
+30:50 
+
+30:50 machines that's very true and in fact
+30:52 
+
+30:52 it's probably a little bit more
+30:54 
+
+30:54 straightforward sometimes it's just that
+30:55 
+
+30:55 you need to feed it context that's the
+30:57 
+
+30:57 main difference
+30:59 
+
+30:59 like communicating with humans verus
+31:00 
+
+31:00 communicating with machines like um
+31:03 
+
+31:03 machines don't have contact and that's
+31:05 
+
+31:05 why you have to feed it to them and so
+31:07 
+
+31:07 the whole Pro thing
+31:10 
+
+31:10 forth actually I I would think it's not
+31:13 
+
+31:13 that different to talking to humans I I
+31:17 
+
+31:17 mean did make mistakes like a human and
+31:19 
+
+31:19 then I did correct it as I would like to
+31:22 
+
+31:22 maybe like a junior developer or
+31:26 
+
+31:26 something so yeah
+31:28 
+
+31:28 I'm actually quite curious about this
+31:30 
+
+31:30 space
+31:31 
+
+31:31 exactly is so different what why why are
+31:34 
+
+31:34 people making such a big deal about this
+31:37 
+
+31:37 like like specifically propt engineering
+31:40 
+
+31:40 yeah yeah well you maybe less skeptical
+31:43 
+
+31:43 and want to like explore it more maybe
+31:45 
+
+31:45 we'll explore it in like a a actual
+31:47 
+
+31:47 full-blown episode after this see if can
+31:50 
+
+31:50 get some experts in a fi I really want
+31:53 
+
+31:53 to see if there's a person whose job
+31:55 
+
+31:55 title is prompt engineer
+31:58 
+
+31:58 like it's is there such a
+32:01 
+
+32:01 thing I think there there was I've seen
+32:04 
+
+32:04 it right that's how we
+32:07 
+
+32:07 got Google it okay also anybody in
+32:11 
+
+32:11 audience if you happen to be a prompt
+32:12 
+
+32:12 engineer and you're based in Singapore
+32:15 
+
+32:15 um hit us up we would like to ask you
+32:17 
+
+32:17 some questions we want to prompt The
+32:19 
+
+32:19 Prompt
+32:20 
+
+32:20 engineer oh yes we I prompt Engineers
+32:24 
+
+32:24 earn 300K salaries
+32:28 
+
+32:28 this is import yeah so it's a real job
+32:33 
+
+32:33 oh yes oh yes very interesting okay
+32:36 
+
+32:36 there is even even in Singapore there is
+32:39 
+
+32:39 a prompt engineer opening at Sleek this
+32:43 
+
+32:43 company called Sleek Evolution Singapore
+32:47 
+
+32:47 Raa AI I guess basically to do this
+32:50 
+
+32:50 exactly what I just did but maybe bit
+32:52 
+
+32:52 more strategies in place yeah I'm sure
+32:56 
+
+32:56 there's a strategy around that like you
+32:59 
+
+32:59 know when you you ask like can I have a
+33:02 
+
+33:02 query template for I just thought that
+33:04 
+
+33:04 oh that's an interesting strategy of
+33:05 
+
+33:05 asking so I'm sure somebody already like
+33:08 
+
+33:08 has like a whole list of different
+33:10 
+
+33:10 strategies to PR depending on what
+33:12 
+
+33:12 you're trying to get out of it and here
+33:14 
+
+33:14 is
+33:15 
+
+33:15 AWS uh definition of prompt engineering
+33:19 
+
+33:19 so from AWS prompt engineering makes it
+33:21 
+
+33:21 easy for users to obtain relevant
+33:23 
+
+33:23 results in the first prompt so that's
+33:26 
+
+33:26 what
+33:28 
+
+33:28 prom I got it like after seven
+33:31 
+
+33:31 prompts why you engineered and then now
+33:33 
+
+33:33 you perfect prompt for your nutrition
+33:36 
+
+33:36 and then I put the the perfect promp
+33:38 
+
+33:38 yeah exactly that's what I did exactly
+33:41 
+
+33:41 so you have prompt engineer prom yeah
+33:44 
+
+33:44 can we put a crown on Salon like
+33:47 
+
+33:47 prompt okay is there anything on stream
+33:49 
+
+33:49 yet no okay
+33:51 
+
+33:51 [Music]
+33:52 
+
+33:52 but yeah this is fun let's do this kind
+33:55 
+
+33:55 of episodes again actually
+33:58 
+
+33:58 yeah yeah like see each other's apps
+34:01 
+
+34:01 yeah well I think it's time it's a good
+34:02 
+
+34:02 time to just kind of wrap up I think
+34:05 
+
+34:05 we've kind of explored quite a few
+34:06 
+
+34:06 topics even like just through this very
+34:08 
+
+34:08 short um sharing session uh I think we
+34:12 
+
+34:12 might do it again uh because this was
+34:15 
+
+34:15 actually surprisingly fun and
+34:17 
+
+34:17 insightful um but again like audience
+34:19 
+
+34:19 members put it down in the comments
+34:21 
+
+34:21 below how you think like the format of
+34:23 
+
+34:23 this can be improved what you think
+34:25 
+
+34:25 about prompt engineering what do you
+34:26 
+
+34:26 think about salon's food AI app would
+34:28 
+
+34:28 you pay for it would you buy it do you
+34:30 
+
+34:30 have any pricing strategies for us um or
+34:33 
+
+34:33 you do you want to try using it do you
+34:35 
+
+34:35 want to try breaking it like
+34:37 
+
+34:37 Victoria can sign up to be a QA tester
+34:39 
+
+34:39 but yeah as always this was a rack tag
+34:43 
+
+34:43 uh and we'll see you in the next few
+34:46 
+
+34:46 episodes so remember to like
+34:49 
+
+34:49 subscribe comment
+34:52 
+
+34:52 comment follow all socials and stuff
+34:56 
+
+34:56 like that um just search us rate US oh
+35:00 
+
+35:00 yeah yeah there was like for the rating
+35:02 
+
+35:02 on like say Spotify it's a very strange
+35:06 
+
+35:06 extensive process so uh if you really
+35:09 
+
+35:09 want to be like really supportive uh do
+35:12 
+
+35:12 Google how to like rate US on Spotify um
+35:15 
+
+35:15 and rate US that would be really helpful
+35:18 
+
+35:18 so thank you so much yeah okay bye
+35:23 
+
+35:23 everybody bye-bye thanks for watching

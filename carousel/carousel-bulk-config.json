@@ -1,0 +1,187 @@
+{
+  "transcriptName": "CTO",
+  "videoId": "n8IVhPQnje8",
+  "showLogo": false,
+  "carousels": [
+    {
+      "name": "what-makes-a-good-cto",
+      "description": "The skills a CTO needs beyond just coding",
+      "slides": [
+        {
+          "topTimestamp": 249,
+          "bottomTimestamp": 256,
+          "topText": "It's probably easy to find a techie.",
+          "bottomText": "But what you actually need in a CTO is more than just a technical background."
+        },
+        {
+          "topTimestamp": 263,
+          "bottomTimestamp": 268,
+          "topText": "They can't just be junior level in tech.",
+          "bottomText": "They need to be mid-to-senior level."
+        },
+        {
+          "topTimestamp": 268,
+          "bottomTimestamp": 278,
+          "topText": "They need product thinking.",
+          "bottomText": "Which honestly, as software engineers, we're not trained in. You have to learn it on the side."
+        },
+        {
+          "topTimestamp": 279,
+          "bottomTimestamp": 291,
+          "topText": "You have to do side projects that teach you:",
+          "bottomText": "How do I find a problem? What are the minimum viable features? How do I validate it?"
+        },
+        {
+          "topTimestamp": 291,
+          "bottomTimestamp": 300,
+          "topText": "These are not things we do as software engineers.",
+          "bottomText": "We sit there and wait for features to appear in a ticket."
+        },
+        {
+          "topTimestamp": 300,
+          "bottomTimestamp": 305,
+          "topText": "Cool. Code. Ship.",
+          "bottomText": "Not my problem anymore. Tell me what to do next."
+        },
+        {
+          "topTimestamp": 305,
+          "bottomTimestamp": 317,
+          "topText": "So you need somebody with product thinking",
+          "bottomText": "AND the ability to pitch — to explain tech in layman's terms."
+        }
+      ]
+    },
+    {
+      "name": "vibe-coding-not-enough",
+      "description": "Why no-code and vibe coding won't scale",
+      "slides": [
+        {
+          "topTimestamp": 957,
+          "bottomTimestamp": 965,
+          "topText": "A lot of non-technical founders think they don't need a CTO at all.",
+          "bottomText": "They truly believe that vibe coding, no-code tools is enough to start a tech startup."
+        },
+        {
+          "topTimestamp": 972,
+          "bottomTimestamp": 979,
+          "topText": "Oh yeah, I know what's an API. I know what's a database.",
+          "bottomText": "There are tools to get these things. Voila. I'm a tech."
+        },
+        {
+          "topTimestamp": 983,
+          "bottomTimestamp": 993,
+          "topText": "They truly believe the no-code platform will handle all of this for them.",
+          "bottomText": "But when asked: what happens when you scale to users beyond this region?"
+        },
+        {
+          "topTimestamp": 996,
+          "bottomTimestamp": 1005,
+          "topText": "For us it's intuitive — data availability, provisioning.",
+          "bottomText": "But this is not intuitive to the layman because they've never encountered it."
+        },
+        {
+          "topTimestamp": 1012,
+          "bottomTimestamp": 1022,
+          "topText": "A lot of no-code platforms are just wrappers over existing AI models.",
+          "bottomText": "They aren't equipped to create apps that scale."
+        },
+        {
+          "topTimestamp": 1025,
+          "bottomTimestamp": 1038,
+          "topText": "These founders have never worked in a tech company before.",
+          "bottomText": "They don't know about unit testing, integration testing, end-to-end testing."
+        }
+      ]
+    },
+    {
+      "name": "engineering-not-coding",
+      "description": "Why software is engineering, not just coding",
+      "slides": [
+        {
+          "topTimestamp": 1084,
+          "bottomTimestamp": 1092,
+          "topText": "That's why it's called engineering.",
+          "bottomText": "It's more than coding — it's about the architecture."
+        },
+        {
+          "topTimestamp": 1092,
+          "bottomTimestamp": 1100,
+          "topText": "It's like building a bridge.",
+          "bottomText": "You can't change one small part and ignore the rest."
+        },
+        {
+          "topTimestamp": 1100,
+          "bottomTimestamp": 1108,
+          "topText": "You're not considering the whole physics of it.",
+          "bottomText": "How it'll break or anything."
+        },
+        {
+          "topTimestamp": 1103,
+          "bottomTimestamp": 1115,
+          "topText": "Non-coders see it as: as long as the app looks like it works...",
+          "bottomText": "They don't understand the back end."
+        },
+        {
+          "topTimestamp": 1116,
+          "bottomTimestamp": 1125,
+          "topText": "They're not properly educated or trained in this.",
+          "bottomText": "So they don't see it as engineering. They see it as coding."
+        },
+        {
+          "topTimestamp": 1128,
+          "bottomTimestamp": 1137,
+          "topText": "A lot of my non-technical friends say 'Oh, you're a coder.'",
+          "bottomText": "They don't say engineer because it's an unfamiliar term."
+        },
+        {
+          "topTimestamp": 1137,
+          "bottomTimestamp": 1152,
+          "topText": "It shows in how they see vibe coding:",
+          "bottomText": "I'm building an app from zero to one and it works. What about the secrets? What about security?"
+        }
+      ]
+    },
+    {
+      "name": "fractional-cto-trend",
+      "description": "The rise of fractional CTOs",
+      "slides": [
+        {
+          "topTimestamp": 693,
+          "bottomTimestamp": 704,
+          "topText": "I've been seeing fractional CTOs becoming more common.",
+          "bottomText": "A company hires someone as a CTO on a part-time basis."
+        },
+        {
+          "topTimestamp": 711,
+          "bottomTimestamp": 722,
+          "topText": "A fractional CTO can advise multiple startups at once.",
+          "bottomText": "All the way from seed stage to Series B, C, D."
+        },
+        {
+          "topTimestamp": 725,
+          "bottomTimestamp": 735,
+          "topText": "It's kind of like a lawyer on retainer.",
+          "bottomText": "You only call them when something happens."
+        },
+        {
+          "topTimestamp": 755,
+          "bottomTimestamp": 768,
+          "topText": "For seed-stage startups, they'll ask for technical strategy:",
+          "bottomText": "Which developers do I hire? What tech stack do I need?"
+        },
+        {
+          "topTimestamp": 771,
+          "bottomTimestamp": 785,
+          "topText": "Once that groundwork is set up, they're like 'Okay, bye-bye.'",
+          "bottomText": "Until the next round: 'We need to refactor. What should we do?'"
+        },
+        {
+          "topTimestamp": 807,
+          "bottomTimestamp": 817,
+          "topText": "It's probably like a temporary CTO.",
+          "bottomText": "While you're finding someone really invested in the idea, get someone to solve immediate problems."
+        }
+      ]
+    }
+  ]
+}

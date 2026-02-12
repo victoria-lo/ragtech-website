@@ -1,0 +1,1390 @@
+00:00 about like everything is interconnected
+00:02 
+
+00:02 right you think like you're you're just
+00:04 
+
+00:04 starting out learning how to build like
+00:06 
+
+00:06 a not GS app and before you know it
+00:08 
+
+00:08 you're looking into cicd and before you
+00:11 
+
+00:11 know it you're looking into cloud
+00:13 
+
+00:13 computing as well and you're like it
+00:16 
+
+00:16 have that I like sometimes when I face
+00:18 
+
+00:18 imposter syndrome or just low confidence
+00:21 
+
+00:21 in in some sense I'll always think to
+00:24 
+
+00:24 myself that oh but I'm not director of
+00:26 
+
+00:26 women deps I'm representing women devs
+00:30 
+
+00:30 down while like I have no doubts that
+00:32 
+
+00:32 sonone would somehow like just rise it
+00:34 
+
+00:34 back up like I was just waiting for that
+00:36 
+
+00:36 message until say we're back you know
+00:40 
+
+00:40 [Music]
+00:43 
+
+00:43 like welcome everyone to R te where we
+00:46 
+
+00:46 engage in bites and banter I'm Salon a
+00:49 
+
+00:49 software developer I'm Natasha a
+00:51 
+
+00:51 software engineer and I'm Victoria a
+00:53 
+
+00:53 Solutions engineer and today's episode
+00:55 
+
+00:55 is going to be about imposter syndrome
+00:57 
+
+00:57 imposter syndrome is something a lot of
+00:59 
+
+00:59 tech people people actually face and
+01:02 
+
+01:02 experience in today's episode we'll be
+01:04 
+
+01:04 talking about our personal stories and
+01:06 
+
+01:06 how we deal with it in our life as well
+01:09 
+
+01:09 as work my recent experience U mentoring
+01:13 
+
+01:13 uh somebody else who was more Junior
+01:15 
+
+01:15 than I was uh it was part of a
+01:17 
+
+01:17 mentorship program and she brought up
+01:19 
+
+01:19 like that she was experiencing that in
+01:22 
+
+01:22 her first ever Endeavor in the workplace
+01:25 
+
+01:25 it really brought back memories of me
+01:27 
+
+01:27 back when I first ventured into Tech and
+01:29 
+
+01:29 I started of feeling like I was way more
+01:32 
+
+01:32 stupid than everybody else and I think
+01:34 
+
+01:34 it's very natural in this industry to
+01:37 
+
+01:37 feel that way because it's so technical
+01:40 
+
+01:40 right like everything seems to rest on
+01:41 
+
+01:41 your technical competence from the day
+01:43 
+
+01:43 you start University right from the day
+01:46 
+
+01:46 you if if you do take a computer science
+01:48 
+
+01:48 or related software engineering course
+01:50 
+
+01:50 and the moment you step out then it's
+01:52 
+
+01:52 lead coding it's a technical interviews
+01:54 
+
+01:54 like everything just seems so based on
+01:57 
+
+01:57 your technical Merit that you often
+02:00 
+
+02:00 don't know where the end is like at what
+02:03 
+
+02:03 point I consider myself a specialist an
+02:05 
+
+02:05 expert for her she was still in uh
+02:08 
+
+02:08 University she just started like sort of
+02:10 
+
+02:10 like her first internship I think when
+02:12 
+
+02:12 she brought this up it was in the
+02:14 
+
+02:14 context of she was experiencing a
+02:17 
+
+02:17 workplace situation but she didn't dare
+02:20 
+
+02:20 to speak up and this not wanting to
+02:23 
+
+02:23 speak up really stemmed from like oh
+02:25 
+
+02:25 that self-doubt you know that comes from
+02:27 
+
+02:27 feeling like an imposter in this case
+02:30 
+
+02:30 and how does imposter syndrome really
+02:31 
+
+02:31 feel like it's the root of it is
+02:33 
+
+02:33 self-doubt feeling like you're not good
+02:36 
+
+02:36 enough that you're faking it all the
+02:38 
+
+02:38 time um even though you call yourself
+02:41 
+
+02:41 like a software engineer am I really one
+02:44 
+
+02:44 if I can I I have never technically
+02:46 
+
+02:46 built like a full-fledged app you know
+02:50 
+
+02:50 and that kind of self-doubt does uh
+02:52 
+
+02:52 perpetuate I think the other perspective
+02:54 
+
+02:54 I had was also now I wouldn't consider
+02:57 
+
+02:57 myself senior more mid-grade I realize I
+02:59 
+
+02:59 still have that that just that now I
+03:01 
+
+03:01 have more experience and lived
+03:03 
+
+03:03 experiences to advise me that I am not
+03:06 
+
+03:06 the stupidest person in the room and
+03:08 
+
+03:08 that I am qualified to actually voice my
+03:11 
+
+03:11 opinions but I think even more so rather
+03:13 
+
+03:13 than coming from a mid level person like
+03:16 
+
+03:16 myself you know Salone as somebody
+03:18 
+
+03:18 senior would you say that that is
+03:20 
+
+03:20 something that you're still dealing with
+03:21 
+
+03:21 uh presently definitely imposer syndrome
+03:24 
+
+03:24 for me kind of comes and remains there
+03:28 
+
+03:28 for some time and then goes away until
+03:30 
+
+03:30 I've figure it out and I think it's
+03:31 
+
+03:31 normal especially when something doesn't
+03:34 
+
+03:34 go my way it it's deaths when it kind of
+03:37 
+
+03:37 hits me again like oh no I oh this sucks
+03:41 
+
+03:41 and and I can't do this anymore and like
+03:43 
+
+03:43 everyone's smarter around me how do like
+03:45 
+
+03:45 I can't I can't I can't do it but that's
+03:48 
+
+03:48 where my self-awareness kicks in you
+03:49 
+
+03:49 know like be aware that okay you are
+03:52 
+
+03:52 facing something feeling something and
+03:55 
+
+03:55 one thing that really works for me when
+03:58 
+
+03:58 when I face it face this kind of thing
+04:00 
+
+04:00 just remembering that you're not stupid
+04:04 
+
+04:04 okay you're you're not it's okay to be
+04:07 
+
+04:07 the not the smartest person in the room
+04:09 
+
+04:09 that's good that means that people
+04:11 
+
+04:11 around you are smarter than you and you
+04:13 
+
+04:13 get to learn from them like look at it
+04:15 
+
+04:15 in a positive way if you were the
+04:18 
+
+04:18 smartest person in the room who are you
+04:20 
+
+04:20 going to learn from right so it's good
+04:22 
+
+04:22 to have smarter people in the room then
+04:24 
+
+04:24 you but of course always look at how can
+04:26 
+
+04:26 you also be as smart as them so that's
+04:29 
+
+04:29 good that's a good thing really but of
+04:32 
+
+04:32 course there are times where you spiral
+04:34 
+
+04:34 into this thing where I can't do it uh
+04:37 
+
+04:37 like you know everyone's everyone's just
+04:39 
+
+04:39 better than me let let them handle this
+04:41 
+
+04:41 project or like let them do this I I
+04:44 
+
+04:44 can't do it uh that's when you have to
+04:46 
+
+04:46 remember there must be something that
+04:48 
+
+04:48 you have done right right for example
+04:50 
+
+04:50 the reason you in the
+04:52 
+
+04:52 workplace probably had to pass the
+04:54 
+
+04:54 interview and software engineering
+04:55 
+
+04:55 interview is like five six rounds you
+04:58 
+
+04:58 you did that that's number one okay that
+05:01 
+
+05:01 you have something in you and always
+05:04 
+
+05:04 writing down your achievements every
+05:07 
+
+05:07 even if it's small big that's not only
+05:09 
+
+05:09 good for like your kpi and like talking
+05:11 
+
+05:11 one-on-one with your leads and stuff but
+05:13 
+
+05:13 it's also good as a memory for you that
+05:16 
+
+05:16 I achieved this I did this I did this
+05:18 
+
+05:18 especially when you know other
+05:20 
+
+05:20 colleagues commented on you or like tked
+05:22 
+
+05:22 you in public or like oh kudos to Salon
+05:25 
+
+05:25 for doing this screenshot it keep it
+05:28 
+
+05:28 keep it with you and then from time to
+05:30 
+
+05:30 look at it that's like a sense of like
+05:32 
+
+05:32 you did something you you are good you
+05:35 
+
+05:35 know so it's okay to have some failures
+05:37 
+
+05:37 but also there were some good parts as
+05:39 
+
+05:39 well that's that's something that works
+05:41 
+
+05:41 for me I also learned this thing from
+05:43 
+
+05:43 Human actually uh where she said that I
+05:45 
+
+05:45 should also try to give kudos to my team
+05:49 
+
+05:49 members uh when they do something good
+05:52 
+
+05:52 and then usually they will do the same
+05:54 
+
+05:54 back to you so these kind small small
+05:56 
+
+05:56 winds here and there kind of adds up
+05:59 
+
+05:59 this is the the main thing that kind of
+06:01 
+
+06:01 keeps me up but I would definitely say
+06:03 
+
+06:03 it's it's normal to feel that way what
+06:06 
+
+06:06 about yourself Victoria like did you
+06:08 
+
+06:08 have any personal experiences or like
+06:11 
+
+06:11 yeah I I have a personal anecdote on
+06:14 
+
+06:14 this I even wrote an article about this
+06:16 
+
+06:16 like oh like a while back yeah so
+06:19 
+
+06:19 basically when I first pivot into Tech I
+06:22 
+
+06:22 join a lot of heck andon right just to
+06:24 
+
+06:24 learn something from everyone I remember
+06:26 
+
+06:26 joining this random group of people and
+06:29 
+
+06:29 then like I was still learning
+06:30 
+
+06:30 JavaScript at the time so I'm not very
+06:32 
+
+06:32 familiar with no JS so they asked me to
+06:35 
+
+06:35 you know set up an environment and all
+06:37 
+
+06:37 that and then I asked um Can someone
+06:40 
+
+06:40 guide me how do I do this and then one
+06:42 
+
+06:42 person was like you don't even know how
+06:43 
+
+06:43 to do something like this oh somebody
+06:45 
+
+06:45 said that yeah and honestly at the time
+06:48 
+
+06:48 I was still pivoting right so obviously
+06:50 
+
+06:50 it hurts my confidence but I also know
+06:53 
+
+06:53 that whatever this person say it is the
+06:55 
+
+06:55 truth after I learned more so now that I
+06:57 
+
+06:57 become like around mid level just being
+06:60 
+
+06:60 aware of that there's so many things
+07:01 
+
+07:01 that I don't know it makes me feel like
+07:03 
+
+07:03 I'm never good enough right and also
+07:05 
+
+07:05 partly because I always imagine if I had
+07:08 
+
+07:08 that fouryear education like proper
+07:11 
+
+07:11 formal education in CS I might have been
+07:14 
+
+07:14 a lot better than I am currently so I
+07:17 
+
+07:17 always had that what if scenario stuck
+07:19 
+
+07:19 in my mind and that feeds into my
+07:22 
+
+07:22 imposter syndrome like especially my
+07:24 
+
+07:24 early days of tech blogging I'll be like
+07:26 
+
+07:26 do I even have the right to write about
+07:28 
+
+07:28 this like I'm already knowledgeable
+07:30 
+
+07:30 about this now but what if someone who
+07:32 
+
+07:32 had formal CS education can write it
+07:35 
+
+07:35 better than me or can explain it better
+07:37 
+
+07:37 than me cuz they know other CS people
+07:39 
+
+07:39 usually how I solve my own problems is I
+07:41 
+
+07:41 just do a lot of research so I research
+07:44 
+
+07:44 a lot into what causes impul syndrome
+07:47 
+
+07:47 and one of the things I found during my
+07:48 
+
+07:48 research is is the Dunning Krueger
+07:50 
+
+07:50 effect so there is this Dunning Krueger
+07:52 
+
+07:52 effect where the line will goes up and
+07:54 
+
+07:54 up so the more things you know the more
+07:56 
+
+07:56 confidence you feel as well as times go
+07:58 
+
+07:58 by but then you'll reach a Peak where
+07:60 
+
+07:60 you think you know everything and then
+08:02 
+
+08:02 you feel this like sense of confidence
+08:04 
+
+08:04 like oh I'm so great but that's actually
+08:06 
+
+08:06 the dangerous Peak is the peak of
+08:08 
+
+08:08 arrogance complacency but then I've
+08:11 
+
+08:11 actually before I knew it I have passed
+08:13 
+
+08:13 that Peak so I'm like in the peak where
+08:16 
+
+08:16 I'm down below like my confidence level
+08:18 
+
+08:18 is like bottom but actually I have like
+08:22 
+
+08:22 more experience gained it's kind of an
+08:24 
+
+08:24 irony like a contradiction but that's
+08:26 
+
+08:26 how imposter syndrome actually came
+08:28 
+
+08:28 about because when people people know
+08:30 
+
+08:30 more they also know that they don't know
+08:33 
+
+08:33 so much they also realize that they
+08:35 
+
+08:35 don't know so much and so that causes
+08:36 
+
+08:36 the Imposter syndrome so after I
+08:39 
+
+08:39 research about that and then I become
+08:41 
+
+08:41 aware of that I had this like aha moment
+08:44 
+
+08:44 like oh okay so in a way it it helps me
+08:47 
+
+08:47 like reaffirm myself that okay that
+08:49 
+
+08:49 means I I know more now that's why I
+08:52 
+
+08:52 know how much I don't know and that's
+08:54 
+
+08:54 why syndrome the more you know the more
+08:57 
+
+08:57 you don't you know you don't know you
+08:58 
+
+08:58 don't know exactly
+08:60 
+
+09:00 and I think it tends uh this tends to
+09:03 
+
+09:03 happen more perhaps in like our industry
+09:06 
+
+09:06 because we're kind of trained to
+09:08 
+
+09:08 constantly be curious and to find out
+09:11 
+
+09:11 more and the more you find out the more
+09:13 
+
+09:13 you find out you don't know so in that
+09:16 
+
+09:16 sense like we we hardly ever perhaps
+09:18 
+
+09:18 like reach that Peak because every time
+09:21 
+
+09:21 we think we know more we open more gates
+09:24 
+
+09:24 to like wow there's a thousand other
+09:26 
+
+09:26 things that we don't know and the thing
+09:27 
+
+09:27 about like everything is interconnected
+09:29 
+
+09:29 right you think like you're you're just
+09:31 
+
+09:31 starting out learning how to build like
+09:33 
+
+09:33 a note GS app and before you know it
+09:35 
+
+09:35 you're looking into cicd and before you
+09:38 
+
+09:38 know it you're looking into cloud
+09:40 
+
+09:40 computing as well and you're like I can
+09:42 
+
+09:42 never do this like I just constantly am
+09:45 
+
+09:45 in a state of I don't know and then you
+09:47 
+
+09:47 add that to the fact that in the world
+09:49 
+
+09:49 in a very fast-paced world of check
+09:51 
+
+09:51 there's always something new there's
+09:53 
+
+09:53 always a new library a new framework a
+09:55 
+
+09:55 new language a new just disruptive
+09:58 
+
+09:58 technology and concept
+10:00 
+
+10:00 that even if you reach if you somehow
+10:03 
+
+10:03 reach that Peak right tomorrow the news
+10:05 
+
+10:05 comes out that like there's something
+10:07 
+
+10:07 new and you realize wow okay that's
+10:08 
+
+10:08 something new I don't know and I think
+10:11 
+
+10:11 that's why we're constantly stuck in a
+10:12 
+
+10:12 loop but I love that you brought it up
+10:14 
+
+10:14 that it is normal especially in our
+10:17 
+
+10:17 industry that to feel like you don't
+10:19 
+
+10:19 know enough to feel like there are
+10:21 
+
+10:21 people smarter than you is actually a
+10:24 
+
+10:24 good thing because I think a lot of
+10:26 
+
+10:26 people viy to be the smartest person in
+10:27 
+
+10:27 the room but I've been in scenario SC
+10:29 
+
+10:29 arios where and not not in an arrogant
+10:32 
+
+10:32 flamboyant way but I've been in crowds
+10:35 
+
+10:35 where I realized I wasn't getting
+10:36 
+
+10:36 inspired by anyone and I just kind of
+10:39 
+
+10:39 felt very out of place and I feel like
+10:41 
+
+10:41 I'm constantly searching to be in a room
+10:44 
+
+10:44 where there's always something that I
+10:46 
+
+10:46 can learn from others that I'm not the
+10:48 
+
+10:48 smartest person in the room I we we want
+10:50 
+
+10:50 that and We crave for that and that
+10:52 
+
+10:52 combined with the dun Krueger effect you
+10:54 
+
+10:54 mentioned yeah just makes so much sense
+10:57 
+
+10:57 now we've been uh organize events that
+11:01 
+
+11:01 are mostly like techies that are
+11:02 
+
+11:02 concentrated and say like oh uh learn
+11:05 
+
+11:05 cloud computing or like whatever it's
+11:07 
+
+11:07 it's very centered around technical
+11:08 
+
+11:08 workshops and learning so the people who
+11:10 
+
+11:10 attend are looking for knowledge but
+11:12 
+
+11:12 there are also events that are very
+11:14 
+
+11:14 intentional towards like uh networking
+11:17 
+
+11:17 startups so you know putting your skill
+11:19 
+
+11:19 sets out there it's meant for that you
+11:21 
+
+11:21 know and then it's a different crowd of
+11:22 
+
+11:22 people perhaps less technical maybe more
+11:25 
+
+11:25 functional but the intention of those
+11:27 
+
+11:27 events is to get investors is to get
+11:28 
+
+11:28 people to buy in and get clients right
+11:31 
+
+11:31 so instead of like showing that you
+11:33 
+
+11:33 don't know the intention of those kinds
+11:34 
+
+11:34 of events is to show that you know these
+11:37 
+
+11:37 two types of events I've been to and
+11:39 
+
+11:39 I've realized the Dunning Krueger effect
+11:42 
+
+11:42 I guess you you would have to
+11:44 
+
+11:44 demonstrate that you're at a peak of
+11:46 
+
+11:46 that for the latter because you need to
+11:48 
+
+11:48 show people that you are an expert and
+11:51 
+
+11:51 even if deep down you don't feel like
+11:53 
+
+11:53 let's say I'm an AI expert now you know
+11:56 
+
+11:56 like oh there's still so much I don't
+11:58 
+
+11:58 know about l and I don't necessarily
+12:01 
+
+12:01 know like the latest technology but in
+12:04 
+
+12:04 that event you have to tell everybody
+12:05 
+
+12:05 that I am an expert because if you don't
+12:07 
+
+12:07 you're never going to get clients you're
+12:09 
+
+12:09 never going to get that investment so I
+12:11 
+
+12:11 understand that the reverse of impos
+12:14 
+
+12:14 syndrome is important and perhaps more
+12:17 
+
+12:17 people in the business D functions are
+12:20 
+
+12:20 forced to overcome that that syndrome um
+12:23 
+
+12:23 more readily because their job relies on
+12:26 
+
+12:26 it so that's why I learned something
+12:28 
+
+12:28 from that also through a book is James
+12:31 
+
+12:31 Clear Atomic habits oh so what he say is
+12:34 
+
+12:34 like like let's say you want to get into
+12:36 
+
+12:36 a habit of like you know eating healthy
+12:38 
+
+12:38 don't say I'm going to eat healthy you
+12:41 
+
+12:41 say to yourself I am a healthy eater so
+12:44 
+
+12:44 you already tell yourself I'm a healthy
+12:46 
+
+12:46 eater which means you will reaffirm
+12:48 
+
+12:48 yourself I am this person and that's why
+12:51 
+
+12:51 you will have to stick to these habits
+12:53 
+
+12:53 so for me when I first start my blog I
+12:55 
+
+12:55 put like cuz I was a freelance web
+12:57 
+
+12:57 developer so I put like aspire sofware
+12:60 
+
+12:60 engineer or something and I see a lot of
+13:02 
+
+13:02 my readers do that aspiring something
+13:04 
+
+13:04 something right but they will constantly
+13:06 
+
+13:06 if you put aspiring that means it's like
+13:08 
+
+13:08 someday you're going to be so if you
+13:10 
+
+13:10 remove that you say I am now a software
+13:13 
+
+13:13 engineer so you put your mind into that
+13:16 
+
+13:16 kind of like you brainwash yourself
+13:17 
+
+13:17 right then you can like in a way fake it
+13:19 
+
+13:19 till you make it to fake it to you make
+13:21 
+
+13:21 it sometimes that strategy works so that
+13:23 
+
+13:23 is what I learned from James Clear he's
+13:25 
+
+13:25 like don't say you are going to be a
+13:27 
+
+13:27 marathon runner say you are now a
+13:29 
+
+13:29 marathon on Runner and it will make you
+13:31 
+
+13:31 run and go every day so that is what I
+13:34 
+
+13:34 learned so I remove all the aspiring
+13:36 
+
+13:36 from my like now I'm no longer aspiring
+13:38 
+
+13:38 I already am so I said that all to my
+13:41 
+
+13:41 readers as well those who like email me
+13:43 
+
+13:43 like how do I you know Advance how do I
+13:45 
+
+13:45 get out of this mindset I say with all
+13:47 
+
+13:47 you're aspiring cuz it doesn't matter
+13:50 
+
+13:50 you know if you want to be that person
+13:52 
+
+13:52 just say you're that person now it'll
+13:54 
+
+13:54 help you build that confidence so that's
+13:56 
+
+13:56 how you counteract kind of but you'll
+13:59 
+
+13:59 still get it from time to time because
+14:00 
+
+14:00 like you mentioned Natasha the nature of
+14:02 
+
+14:02 our work is to be curious and to know
+14:04 
+
+14:04 what we don't know so we can find out
+14:05 
+
+14:05 more so it'll hit us from time to time
+14:07 
+
+14:07 but having that um non aspiring and only
+14:11 
+
+14:11 like knowing what we are like that that
+14:14 
+
+14:14 really helps yeah manifestation that's
+14:16 
+
+14:16 like what mentioned yeah it's that
+14:19 
+
+14:19 manifestation that help I would say this
+14:21 
+
+14:21 pry SM because like literally we always
+14:23 
+
+14:23 do our introductions right like hey I'm
+14:25 
+
+14:25 solution and every time I do that
+14:27 
+
+14:27 introduction I I still feel that tinch
+14:30 
+
+14:30 of discomfort of saying like hi I'm
+14:32 
+
+14:32 Natasha I'm a software engineer and but
+14:35 
+
+14:35 there's I think you guys will see but
+14:37 
+
+14:37 there's always the hesitance but I tell
+14:39 
+
+14:39 myself I have to put myself out there
+14:41 
+
+14:41 and fake it till I make it because you
+14:42 
+
+14:42 know the podcast relies on it our labels
+14:44 
+
+14:44 are important but now that you talk
+14:46 
+
+14:46 about like the idea of that kind of
+14:49 
+
+14:49 manifestation as a form of affirmation
+14:51 
+
+14:51 that you were talking about um it it
+14:54 
+
+14:54 does make sense now because it's not
+14:56 
+
+14:56 just about me anymore it's also you know
+14:58 
+
+14:58 if I under bu so I undermine both of you
+15:00 
+
+15:00 as well and that's not fair so I think
+15:03 
+
+15:03 that's what works for me specifically is
+15:05 
+
+15:05 to see how I can relate that to a higher
+15:09 
+
+15:09 objective um and I guess I would
+15:12 
+
+15:12 classify myself as a very highly
+15:14 
+
+15:14 sensitive empathetic person you know if
+15:16 
+
+15:16 I don't say that I'm a software engineer
+15:18 
+
+15:18 today how am I going to face like say
+15:21 
+
+15:21 the mentees that I'm mentoring you know
+15:24 
+
+15:24 and then when people uh find out that
+15:27 
+
+15:27 they're my Mente what are they going to
+15:28 
+
+15:28 think of them I know this is probably
+15:29 
+
+15:29 not like a very healthy way no no I
+15:32 
+
+15:32 actually have that I like sometimes when
+15:34 
+
+15:34 I face imposter syndrome or just low
+15:37 
+
+15:37 confidence in in some sense I'll always
+15:40 
+
+15:40 think to myself that oh but I'm not
+15:42 
+
+15:42 director of women devs I'm representing
+15:46 
+
+15:46 woms uh so for them like that kind of
+15:49 
+
+15:49 give you some inspiration or like
+15:52 
+
+15:52 motivation to like no for all the women
+15:54 
+
+15:54 livs out there I got I need to like
+15:57 
+
+15:57 figure this out and I'll learn I'll I'll
+16:01 
+
+16:01 do it well and and she has done it very
+16:04 
+
+16:04 well yes you have yeah especially like
+16:08 
+
+16:08 representing a whole Community as you
+16:10 
+
+16:10 still you as well as our other co-
+16:12 
+
+16:12 director toelle St so steadfast and hit
+16:14 
+
+16:14 strong but I'm sure there was a lot of
+16:16 
+
+16:16 self-doubt that played in between where
+16:18 
+
+16:18 you were thinking like even as maybe
+16:20 
+
+16:20 even as a director I wasn't able to do
+16:22 
+
+16:22 anything about this I didn't even have
+16:23 
+
+16:23 as much information where people were
+16:25 
+
+16:25 just like what's happening and stuff
+16:26 
+
+16:26 like that it's the whole community that
+16:28 
+
+16:28 we bring bringing forward and also like
+16:31 
+
+16:31 to know that the community is there like
+16:34 
+
+16:34 I know like if anything you know we have
+16:36 
+
+16:36 so many volunteers who are very
+16:38 
+
+16:38 passionate about it they are right there
+16:40 
+
+16:40 they can they can help us out yeah I
+16:44 
+
+16:44 think that's what makes me like I
+16:46 
+
+16:46 already know from the start even when
+16:48 
+
+16:48 woman who code was uh down for a while
+16:51 
+
+16:51 like I have no doubts that soney would
+16:53 
+
+16:53 somehow like just rise it back up like I
+16:56 
+
+16:56 was just waiting for that message until
+16:58 
+
+16:58 someone say we're back
+16:60 
+
+16:60 you know like I know I somehow just know
+17:02 
+
+17:02 cuz I know that L strong leader but
+17:05 
+
+17:05 highly empathetic as well so she has all
+17:07 
+
+17:07 the good benefits of like a the strength
+17:10 
+
+17:10 of a leader screenshot put in
+17:13 
+
+17:13 mind a don't need the screenshot rewatch
+17:17 
+
+17:17 the video I think that's a very strong
+17:20 
+
+17:20 um a little bit extreme way of like
+17:22 
+
+17:22 keeping yourself going but I do think
+17:23 
+
+17:23 like in a very practical sense it does
+17:26 
+
+17:26 work so definitely yeah but rather um I
+17:30 
+
+17:30 think also what helps is that the moment
+17:33 
+
+17:33 that you feel and acknowledge those
+17:35 
+
+17:35 feelings coming that self-doubt uh it's
+17:38 
+
+17:38 not to lie to yourself like it doesn't
+17:40 
+
+17:40 matter and stuff like that it's to sit
+17:42 
+
+17:42 in it and then acknowledge okay I'm
+17:44 
+
+17:44 feeling doubtful and but I do know it is
+17:47 
+
+17:47 fleeting it will go away but what other
+17:49 
+
+17:49 things I have to do to overcome this
+17:51 
+
+17:51 right now and she was like okay this is
+17:53 
+
+17:53 going to be super random not connected
+17:55 
+
+17:55 to anything that we did at all I give
+17:57 
+
+17:57 you all these quotes and these oh yes
+17:59 
+
+17:59 yes thought I will need someone else to
+18:02 
+
+18:02 look at everything that I've talked to
+18:04 
+
+18:04 myself already cuz we too w
+18:08 
+
+18:08 [Music]

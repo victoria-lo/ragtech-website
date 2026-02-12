@@ -1,0 +1,1042 @@
+00:00 [Music]
+00:04 
+
+00:04 Hello everybody. Welcome to Red Tag.
+00:07 
+
+00:07 This is the place where we talk about
+00:08 
+
+00:08 real life topics in tech, otherwise
+00:10 
+
+00:10 known as bites and banter. I'm Natasha.
+00:12 
+
+00:12 I'm a software engineer. I'm Salon,
+00:14 
+
+00:14 software de developer. And I'm Victoria,
+00:16 
+
+00:16 a solutions engineer. And today's
+00:18 
+
+00:18 episode will be all about AI and the
+00:21 
+
+00:21 future of developers. Wanted to bring up
+00:24 
+
+00:24 something interesting that Victoria said
+00:26 
+
+00:26 the other day. What did I say? which
+00:27 
+
+00:27 okay so people are worried about AI
+00:29 
+
+00:29 replacing developers but you were like
+00:32 
+
+00:32 but I think solution engineers our jobs
+00:34 
+
+00:34 are safe so what do you have to say
+00:37 
+
+00:37 about that and I guess it's also a good
+00:39 
+
+00:39 like exercise for us to think like are
+00:42 
+
+00:42 there jobs that could arguably be uh uh
+00:46 
+
+00:46 unthreatened by like age of AI
+00:50 
+
+00:50 I was thinking about like what you said
+00:52 
+
+00:52 just now about 50% coding 50% people
+00:55 
+
+00:55 management because that kind of defines
+00:58 
+
+00:58 what solutions engineering kind of is is
+01:02 
+
+01:02 literally 50% coding 50% management. M I
+01:05 
+
+01:05 remember when I first uh enter my first
+01:09 
+
+01:09 experience my job as a solutions
+01:11 
+
+01:11 engineer I asked them a lot of questions
+01:13 
+
+01:13 right I asked the interviewer like how
+01:15 
+
+01:15 many% is coding how many% is
+01:17 
+
+01:17 communication and all of them gave me
+01:20 
+
+01:20 similar answers which is it's half half
+01:22 
+
+01:22 or it's 7030 like one person says a
+01:26 
+
+01:26 little bit more extreme 70 coding 30%
+01:29 
+
+01:29 communication so that's when I realized
+01:31 
+
+01:31 that solutions engineering it's always a
+01:34 
+
+01:34 mixed bag. It's never just you just sit
+01:36 
+
+01:36 down, code, debug, optimize code, and do
+01:39 
+
+01:39 all that. It's really about
+01:41 
+
+01:41 communication. And after 5 years in this
+01:44 
+
+01:44 field, what I noticed is that it's it's
+01:47 
+
+01:47 true. If someone asks me, let's say I'm
+01:50 
+
+01:50 interviewing a a new solutions engineer
+01:52 
+
+01:52 and they're asking me, what do you
+01:54 
+
+01:54 define a solutions engineer? I will also
+01:57 
+
+01:57 probably say the same thing. You need to
+01:59 
+
+01:59 be able to understand, talk to people,
+02:02 
+
+02:02 understand why is this feature in the
+02:05 
+
+02:05 code, why is it in the product. So it's
+02:07 
+
+02:07 like a mixed bag of product management,
+02:10 
+
+02:10 sales, technical expertise, business
+02:13 
+
+02:13 acumen, strategic decision making. So
+02:17 
+
+02:17 it's a lot of things and these are all
+02:20 
+
+02:20 things that I would say it's very hard
+02:22 
+
+02:22 for AI to replace because people still
+02:25 
+
+02:25 want that human connection. Imagine
+02:27 
+
+02:27 you're a client, you're like looking for
+02:28 
+
+02:28 solutions, all right, like a technical
+02:30 
+
+02:30 person that can advise you how to
+02:33 
+
+02:33 integrate certain products. Why would
+02:35 
+
+02:35 you ask an AI who would give you a
+02:37 
+
+02:37 generic answer? Yeah. For your company,
+02:40 
+
+02:40 whereas someone who can truly
+02:41 
+
+02:41 understand, dig deep, what your business
+02:43 
+
+02:43 needs, what product that your business
+02:46 
+
+02:46 can use to flourish your business. If
+02:49 
+
+02:49 there's a human that can do that,
+02:52 
+
+02:52 wouldn't you trust that human more?
+02:54 
+
+02:54 Yeah, definitely people will trust that
+02:56 
+
+02:56 human more. So that's why I don't see
+02:59 
+
+02:59 social engineers being replaced anytime
+03:01 
+
+03:01 soon unless somehow the AI become like
+03:04 
+
+03:04 dang smart as a human. No, I actually
+03:06 
+
+03:06 based on what you said, I really don't
+03:08 
+
+03:08 think that will happen because what you
+03:09 
+
+03:09 mentioned trust, trust is the factor
+03:11 
+
+03:11 here. I think when we're building uh a
+03:13 
+
+03:13 lot of uh machine based systems, we're
+03:15 
+
+03:15 talking about zero trust all the time,
+03:17 
+
+03:17 right? How can we make them as objective
+03:19 
+
+03:19 as possible? Remove emotional
+03:21 
+
+03:21 attachment. But really the baseline of
+03:23 
+
+03:23 being human is about that trust. If at
+03:25 
+
+03:25 the end of the day, let's say I'm just
+03:27 
+
+03:27 like uh calling a call center it and
+03:29 
+
+03:29 they give you an option. Do you want to
+03:31 
+
+03:31 chat with an agent or do you want to
+03:32 
+
+03:32 chat with our chatbot? You will always
+03:34 
+
+03:34 choose the agent, right? And uh you just
+03:37 
+
+03:37 reminded me of something. I literally
+03:38 
+
+03:38 called my should I mention the name? I
+03:42 
+
+03:42 literally called like the service center
+03:45 
+
+03:45 just yesterday about my headphones and
+03:47 
+
+03:47 then I realized it's a you know those
+03:50 
+
+03:50 not those chatbot the one with already
+03:52 
+
+03:52 predefined script oh press one no the
+03:55 
+
+03:55 real chatbot who's recording you in real
+03:57 
+
+03:57 time and answering according you
+04:00 
+
+04:00 accordingly in real time so they're like
+04:02 
+
+04:02 waiting for what I'm saying and then I
+04:04 
+
+04:04 say this is my problem and then then
+04:06 
+
+04:06 they give like a customized like so it's
+04:08 
+
+04:08 those kind of chatbot that's not not
+04:11 
+
+04:11 predefined scripts
+04:13 
+
+04:13 It's like AI chatbot and I'm like I
+04:16 
+
+04:16 don't know it just feels a bit strange
+04:18 
+
+04:18 to me because it sounds almost humanike
+04:21 
+
+04:21 like in terms of the language it uses is
+04:24 
+
+04:24 very human not like oh please press one
+04:26 
+
+04:26 no it's like I'm waiting for your
+04:28 
+
+04:28 response like so creepy and I'm
+04:32 
+
+04:32 like okay I say my so it's not like
+04:35 
+
+04:35 press one or two my response is yes I'll
+04:38 
+
+04:38 wait or something you like I have to say
+04:40 
+
+04:40 that and then they're like okay I'll uh
+04:42 
+
+04:42 connect you to a real person like like
+04:44 
+
+04:44 you know they're like always goes back
+04:47 
+
+04:47 to that. Yeah. And then I was like oh
+04:49 
+
+04:49 like I breathe a sigh of relief
+04:52 
+
+04:52 when they say I'm going to just speak to
+04:54 
+
+04:54 a real person because it just feels so
+04:57 
+
+04:57 strange to me at that moment and also
+04:59 
+
+04:59 like to this AI chatbot for example
+05:02 
+
+05:02 someone had to give the universe to this
+05:05 
+
+05:05 this is your domain knowledge and it
+05:07 
+
+05:07 won't be able to think outside this
+05:09 
+
+05:09 domain knowledge. So that's the that's
+05:11 
+
+05:11 the reason why you would prefer human
+05:13 
+
+05:13 because you don't have to tell the human
+05:14 
+
+05:14 other things. They would be able to get
+05:16 
+
+05:16 it by themselves cuz they live in the
+05:18 
+
+05:18 same universe. They experience more
+05:20 
+
+05:20 diverse experiences than what an AI
+05:24 
+
+05:24 experience, right? Yeah. I think we're
+05:26 
+
+05:26 always talking about context here. Being
+05:29 
+
+05:29 a human means, you know, you live in a
+05:31 
+
+05:31 context that's so unique and you base a
+05:34 
+
+05:34 lot of your interactions uh trusting
+05:36 
+
+05:36 that the other person has the same
+05:37 
+
+05:37 context as you. What do I mean by this?
+05:39 
+
+05:39 Basically, let's say you talk to AI
+05:40 
+
+05:40 agent, you have problems with your
+05:42 
+
+05:42 headphones, and you want to request for
+05:44 
+
+05:44 repair. But there's also that subtle of
+05:46 
+
+05:46 like, I don't want to straight out like,
+05:47 
+
+05:47 "Hi, uh, like whatever call center, I
+05:50 
+
+05:50 want a replacement of my headphones
+05:51 
+
+05:51 because I have this problem because they
+05:53 
+
+05:53 likely won't give the immediate
+05:54 
+
+05:54 replacement to you." But what you want
+05:56 
+
+05:56 to do is kind of like string them along.
+05:58 
+
+05:58 Oh, yeah. You know, but I'm having so
+05:60 
+
+06:00 much trouble. Maybe replacing this part
+06:02 
+
+06:02 might be like a little bit unnecessary.
+06:04 
+
+06:04 you're waiting for like a human at the
+06:06 
+
+06:06 other end of the loop to get the context
+06:08 
+
+06:08 that you're hinting towards. Please
+06:10 
+
+06:10 replace a whole headphone for me because
+06:12 
+
+06:12 these options are not working. Whereas a
+06:15 
+
+06:15 uh chatbot or like uh an AI uh enabled
+06:18 
+
+06:18 chatbot would basically bring you down
+06:20 
+
+06:20 the troubleshooting process. Did you try
+06:22 
+
+06:22 this? Did you try that? Did you try
+06:23 
+
+06:23 this? Okay, now try that. That's not
+06:26 
+
+06:26 what you want. And um and I think that's
+06:28 
+
+06:28 the essence of why like AI cannot
+06:31 
+
+06:31 completely replace not just developers
+06:33 
+
+06:33 but like just humans in general because
+06:36 
+
+06:36 this idea of like um the trust that you
+06:39 
+
+06:39 talked about of subtle context that we
+06:43 
+
+06:43 always have to like uh we we we won't be
+06:46 
+
+06:46 able to uh translate our entire context
+06:49 
+
+06:49 into like code or words to any machine
+06:52 
+
+06:52 learning uh platform. That's just
+06:54 
+
+06:54 impossible because we right now we can
+06:56 
+
+06:56 only upload textual context. We can only
+06:59 
+
+06:59 upload like audio and now we can do uh
+07:02 
+
+07:02 uh like image based context. But what
+07:05 
+
+07:05 about all the other senses that we have
+07:07 
+
+07:07 the touch you know the smell I guess
+07:10 
+
+07:10 what old factory and then there's also
+07:12 
+
+07:12 the emotion that's never going to be
+07:14 
+
+07:14 built in in AI no matter how I think
+07:15 
+
+07:15 about it. Yep. And at the end of the day
+07:18 
+
+07:18 humans do need that emotion to make
+07:21 
+
+07:21 decisions. Exactly. We're not completely
+07:24 
+
+07:24 rational. It's highly emotional. But
+07:27 
+
+07:27 beyond like instead of thinking about it
+07:29 
+
+07:29 uh in terms of like what jobs are
+07:31 
+
+07:31 threatened and what jobs are not
+07:33 
+
+07:33 threatened by AI, I wanted to shift our
+07:35 
+
+07:35 perspective to what jobs are created
+07:38 
+
+07:38 because of the introduction of like
+07:40 
+
+07:40 right now off the top of my obviously
+07:42 
+
+07:42 you have your data science and AI like
+07:44 
+
+07:44 careers. So that's a given. But what
+07:47 
+
+07:47 about the other jobs? What other jobs
+07:48 
+
+07:48 within our tech industry can you think
+07:50 
+
+07:50 of that you know might increase or are
+07:53 
+
+07:53 new jobs created? I don't see any like
+07:57 
+
+07:57 at least I don't think of any new jobs
+07:59 
+
+07:59 created per se but the existing job
+08:02 
+
+08:02 roles I think uh they have I think
+08:05 
+
+08:05 everyone has to further improve
+08:08 
+
+08:08 themselves right now there's this new
+08:10 
+
+08:10 skill out there everyone has to upskill
+08:12 
+
+08:12 themselves uh and include this as part
+08:15 
+
+08:15 of their job. So like for example uh me
+08:18 
+
+08:18 as a software developer I'm now
+08:19 
+
+08:19 integrating with AI right I don't just
+08:22 
+
+08:22 have to now it's a API just use the API
+08:25 
+
+08:25 actually that's what it is just an API
+08:27 
+
+08:27 right just gives request response uh but
+08:30 
+
+08:30 I don't just have to think about that I
+08:31 
+
+08:31 also have to think about things like
+08:34 
+
+08:34 what am I the information I'm feeding
+08:36 
+
+08:36 this API where is it storing because it
+08:39 
+
+08:39 is for example customers personal data
+08:42 
+
+08:42 that I'm sending over to analyze and
+08:45 
+
+08:45 return me back response. Where are you
+08:46 
+
+08:46 saving this data that I just sent you?
+08:48 
+
+08:48 Are you going to use this data further
+08:49 
+
+08:49 for something else? That's true. And
+08:51 
+
+08:51 things like that. Yeah. New roles might
+08:53 
+
+08:53 be created along the way to encrypt that
+08:55 
+
+08:55 data. So now instead of just like
+08:57 
+
+08:57 sending uh data over to that API as an
+08:59 
+
+08:59 engineer, they might now create a new
+09:01 
+
+09:01 role in the middle that um bypasses that
+09:04 
+
+09:04 data in a different yeah a proxy. So
+09:07 
+
+09:07 maybe you'll have more people who are
+09:08 
+
+09:08 good at encryption because now we are at
+09:10 
+
+09:10 a higher risk of uh private data
+09:13 
+
+09:13 leaking. So I can see that cyber
+09:16 
+
+09:16 security but these roles do already
+09:18 
+
+09:18 exist. It's just that they now have to
+09:20 
+
+09:20 learn this new skill of how do you you
+09:22 
+
+09:22 know bypass this and still return back a
+09:25 
+
+09:25 valid response catered to your personal
+09:28 
+
+09:28 data still but not saving the personal
+09:31 
+
+09:31 data just upskilling. Everyone just has
+09:33 
+
+09:33 to upskill themselves in in all of their
+09:36 
+
+09:36 different fields right it's new problems
+09:38 
+
+09:38 to solve. So now you have a you need to
+09:40 
+
+09:40 have like a wider breadth of like uh
+09:43 
+
+09:43 solutioning capability correct
+09:44 
+
+09:44 pertaining to this new context and uh I
+09:48 
+
+09:48 guess in the middle like um I was
+09:50 
+
+09:50 thinking new jobs created when you were
+09:52 
+
+09:52 talking about oh yeah cyber security you
+09:54 
+
+09:54 know you might see an increase in jobs
+09:55 
+
+09:55 there you'll definitely see an increase
+09:57 
+
+09:57 in jobs uh pertaining to database
+09:59 
+
+09:59 management now there's so many data
+10:01 
+
+10:01 centers everywhere and even like
+10:03 
+
+10:03 companies um now even have their own uh
+10:06 
+
+10:06 data centers and servers to maintain So
+10:08 
+
+10:08 yeah, you could see that uh growing as
+10:10 
+
+10:10 well and I could see like cloud
+10:12 
+
+10:12 engineers the entire cloud family
+10:14 
+
+10:14 growing as they because it's the cloud
+10:17 
+
+10:17 uh services that offer the AI services.
+10:19 
+
+10:19 So now you have to like have people uh
+10:22 
+
+10:22 engineering around the cloud if you were
+10:23 
+
+10:23 to subscribe. So actually data
+10:26 
+
+10:26 scientists themselves just understanding
+10:29 
+
+10:29 how to build a model, how to protect the
+10:30 
+
+10:30 model. Yeah, exactly. And then also like
+10:33 
+
+10:33 ML ops are the pipelines these things
+10:35 
+
+10:35 need to be maintained since everything
+10:37 
+
+10:37 is growing. So I guess like you know
+10:40 
+
+10:40 people who are out there looking for
+10:42 
+
+10:42 jobs don't be like scared or frightened
+10:45 
+
+10:45 or threatened because like yes it is one
+10:47 
+
+10:47 perspective the nature of the job might
+10:50 
+
+10:50 be changing but it might be changing in
+10:51 
+
+10:51 good ways in the sense that you know
+10:53 
+
+10:53 like what salony said your solution
+10:56 
+
+10:56 solutioning capabilities now has to go
+10:57 
+
+10:57 beyond now instead of just like sending
+10:59 
+
+10:59 data over to API now you have to think
+11:01 
+
+11:01 about like okay what happens to the data
+11:04 
+
+11:04 how do I need to encrypt it and so on
+11:05 
+
+11:05 and so forth. Um you also uh can think
+11:08 
+
+11:08 about in the perspective of like there
+11:10 
+
+11:10 are some jobs that are not as affected
+11:12 
+
+11:12 that uh has more of like a
+11:14 
+
+11:14 communications people management factor
+11:16 
+
+11:16 to it like solutions engineers and also
+11:19 
+
+11:19 like if you're an engineer at more
+11:21 
+
+11:21 senior levels thinking about the
+11:22 
+
+11:22 managerial track or the technical track
+11:24 
+
+11:24 now with AI you're able to um achieve
+11:28 
+
+11:28 more of a 50/50 instead of the prior
+11:31 
+
+11:31 2080 and then there's also new jobs a
+11:34 
+
+11:34 lot more jobs are being created other
+11:35 
+
+11:35 than like you know your data science and
+11:37 
+
+11:37 AI jobs itself. You also see other
+11:40 
+
+11:40 fields growing like cyber security,
+11:42 
+
+11:42 cloud um and database management as a
+11:45 
+
+11:45 whole. So if you're really feeling
+11:47 
+
+11:47 scared and threatened, you could
+11:49 
+
+11:49 actually kind of divert your energy to
+11:51 
+
+11:51 looking at this possible these other
+11:54 
+
+11:54 possible options because I think a lot
+11:55 
+
+11:55 of people when they think about the tech
+11:56 
+
+11:56 world, they only think of developers and
+11:58 
+
+11:58 software engineers and I guess to an
+11:60 
+
+11:60 extent we're not very
+12:01 
+
+12:01 diverse. Sorry about that. But actually
+12:04 
+
+12:04 there's a whole big cloud cloud
+12:07 
+
+12:07 literally a whole spectrum of like
+12:09 
+
+12:09 different jobs in this entire industry
+12:11 
+
+12:11 that we haven't ventured to talk about.
+12:14 
+
+12:14 This is just something I observe because
+12:15 
+
+12:15 we run a community together is that
+12:18 
+
+12:18 there's more interest in software
+12:20 
+
+12:20 engineers transitioning to these other
+12:22 
+
+12:22 areas like product management or cyber
+12:25 
+
+12:25 security cuz people have been asking me
+12:27 
+
+12:27 like how do I transition because they're
+12:29 
+
+12:29 slowly thinking of I guess they're
+12:31 
+
+12:31 worried about their future slowly
+12:33 
+
+12:33 thinking of ways that they can keep
+12:35 
+
+12:35 being competitive. Yeah. Yeah, that's
+12:37 
+
+12:37 true. industry. Yeah. And I guess like
+12:38 
+
+12:38 if you kind of instead of targeting the
+12:40 
+
+12:40 wider software engineer uh industry
+12:43 
+
+12:43 where you're up against a lot of people,
+12:45 
+
+12:45 if you go into like smaller niche areas
+12:47 
+
+12:47 that are still related to software
+12:48 
+
+12:48 engineering like cloud, like cyber
+12:50 
+
+12:50 security, then you become more
+12:51 
+
+12:51 competitive by nature of demand and
+12:52 
+
+12:52 supply. So that's a good strategy as
+12:55 
+
+12:55 well for job seekers out there who are
+12:57 
+
+12:57 getting a little bit scared. Don't have
+12:59 
+
+12:59 to be scared. So yeah, I guess that
+13:01 
+
+13:01 wraps up our uh episode about our
+13:04 
+
+13:04 perspectives about how AI is affecting
+13:06 
+
+13:06 developers. Um, we hope you enjoyed this
+13:08 
+
+13:08 episode. Um, and of course we look
+13:10 
+
+13:10 forward to seeing all of you in the next
+13:12 
+
+13:12 episode. So, as always, this was Red
+13:15 
+
+13:15 Tag, the place for Bites Inventor. Thank
+13:18 
+
+13:18 you. Can follow, subscribe. Oh, I
+13:21 
+
+13:21 forgot.
+13:25 
+
+13:25 [Music]

@@ -1,0 +1,1801 @@
+00:00 Is this like space data? There hasn't
+00:03 
+
+00:03 been that much like AI tools for
+00:05 
+
+00:05 geospatial
+00:06 
+
+00:06 >> there spatial database and database like
+00:08 
+
+00:08 what's the difference again like there's
+00:09 
+
+00:09 always a lot of terms around data
+00:11 
+
+00:11 engineer, data scientist, data analyst.
+00:14 
+
+00:14 What are the differences between these
+00:15 
+
+00:15 roles?
+00:18 
+
+00:18 [music]
+00:21 
+
+00:21 >> Hi everyone, welcome to RECT, the place
+00:23 
+
+00:23 where we talk about what's really behind
+00:25 
+
+00:25 the code. Let us first introduce
+00:27 
+
+00:27 ourselves. My name is Victoria. I'm a
+00:28 
+
+00:28 solutions engineer. Hi, I'm Salon,
+00:31 
+
+00:31 software developer. And I'm Natasha,
+00:33 
+
+00:33 software engineer. And today we have our
+00:35 
+
+00:35 guest, Aishwa. Hello everyone. Can you
+00:38 
+
+00:38 act like you guys are friends? You guys
+00:40 
+
+00:40 are friends. I know, but I asked her
+00:43 
+
+00:43 before this if she wants me to introduce
+00:45 
+
+00:45 her by full name or we go by. So, hello
+00:48 
+
+00:48 everyone. I'm Aishwara and I do
+00:50 
+
+00:50 geospatial data engineers. So I'm pretty
+00:53 
+
+00:53 sure a lot of you have heard about data
+00:54 
+
+00:54 engineers but um not many of you have
+00:56 
+
+00:56 heard of like geospatial like data
+00:58 
+
+00:58 engineer or the term geospatial
+01:00 
+
+01:00 geospatial data with like a location for
+01:03 
+
+01:03 example think of it like a data with has
+01:05 
+
+01:05 it address or like a postal codes or
+01:08 
+
+01:08 even like geome coordinates. So these um
+01:11 
+
+01:11 datas basically tell you where exactly a
+01:14 
+
+01:14 certain location is like on earth. So
+01:16 
+
+01:16 that's what I do. So I make sure that um
+01:18 
+
+01:18 using all these geographic data I clean
+01:21 
+
+01:21 it up and make sure that it's actually
+01:22 
+
+01:22 accessible for humans to use.
+01:25 
+
+01:25 >> Is this like space data?
+01:27 
+
+01:27 >> Yes.
+01:27 
+
+01:27 >> I guess governments would probably be
+01:29 
+
+01:29 using this to evaluate.
+01:31 
+
+01:31 >> Yeah. So there are like data sets from
+01:33 
+
+01:33 the for example the like NASA or like
+01:36 
+
+01:36 even our own government as well and so
+01:38 
+
+01:38 we get data from there and then we like
+01:40 
+
+01:40 clean it up and automate it and then use
+01:42 
+
+01:42 it for the like data scientist or the
+01:45 
+
+01:45 data analyst. I have a question and also
+01:47 
+
+01:47 for the folks who don't know like
+01:48 
+
+01:48 there's always a lot of uh terms around
+01:51 
+
+01:51 data engineer, data scientist, data
+01:53 
+
+01:53 analyst. Maybe would you like to explain
+01:55 
+
+01:55 what are the differences between these
+01:57 
+
+01:57 roles?
+01:57 
+
+01:57 >> Yeah, sure. So, um data engineers for
+02:00 
+
+02:00 myself what I do is that I get whatever
+02:03 
+
+02:03 the data that's been given to me and
+02:04 
+
+02:04 then I'll help you to like clean it up
+02:06 
+
+02:06 because usually like data that you get
+02:08 
+
+02:08 it's not like the perfect and it's not
+02:10 
+
+02:10 like very clean. So, what I mean by that
+02:12 
+
+02:12 is that you usually have null or missing
+02:13 
+
+02:13 values. there's always that
+02:15 
+
+02:15 inconsistency in terms of like format or
+02:17 
+
+02:17 anything. So I get all these datas and I
+02:19 
+
+02:19 clean them and I make sure like I
+02:22 
+
+02:22 automate them in or I even like get them
+02:24 
+
+02:24 to like store them in any like
+02:26 
+
+02:26 infrastructure like data infrastructures
+02:29 
+
+02:29 and what basically I do it is that I'll
+02:30 
+
+02:30 pass it over to the data scientist who
+02:33 
+
+02:33 would then build like models for example
+02:35 
+
+02:35 like machine learning models for like
+02:38 
+
+02:38 classifications
+02:39 
+
+02:39 or another thing like data analyst we
+02:41 
+
+02:41 also give them to data analyst. So what
+02:43 
+
+02:43 they do is that they analyze these like
+02:44 
+
+02:44 satellite datas and what they do is that
+02:47 
+
+02:47 they come up with policy recommendations
+02:49 
+
+02:49 for example or even just like um you
+02:52 
+
+02:52 know analyzing the outliers or what can
+02:54 
+
+02:54 be done better or what more we can do in
+02:57 
+
+02:57 depending on the problem that we are
+02:59 
+
+02:59 focusing on. So you're basically saying
+03:01 
+
+03:01 like in the data space there's data
+03:03 
+
+03:03 engineers like yourself, there's data
+03:05 
+
+03:05 scientists and there are data analysts
+03:07 
+
+03:07 and these are the people you usually
+03:09 
+
+03:09 work with or do you also work with other
+03:11 
+
+03:11 people uh across the tech uh space and
+03:14 
+
+03:14 also if you want we also have role cards
+03:16 
+
+03:16 here if you want to look through it see
+03:18 
+
+03:18 if you work uh with um anybody like in
+03:21 
+
+03:21 that deck. I probably should have
+03:24 
+
+03:24 included data scientist and data analyst
+03:26 
+
+03:26 but that was a good point. I will add it
+03:27 
+
+03:27 to the role cards. By the way, these are
+03:29 
+
+03:29 our system design cards. Uh we are
+03:31 
+
+03:31 trying to plan for a board game uh to
+03:34 
+
+03:34 make system design fun and engaging even
+03:36 
+
+03:36 for non- techies. Uh but for the
+03:38 
+
+03:38 purposes of this podcast, we're using
+03:39 
+
+03:39 these as props. And right now, um
+03:42 
+
+03:42 Aishwaria is looking at our role cards
+03:44 
+
+03:44 and seeing well you can see if there's
+03:47 
+
+03:47 any roles that users are with data
+03:48 
+
+03:48 engineer. We also do work with like
+03:50 
+
+03:50 product managers as well in case they
+03:52 
+
+03:52 need light on data as well.
+03:55 
+
+03:55 Where else? probably a backend engineer
+03:58 
+
+03:58 back as well in case like the data like
+03:60 
+
+03:60 leaks or anything cuz we want the data
+04:02 
+
+04:02 to be secure and safe cuz these are
+04:05 
+
+04:05 highly sensitive. So obviously we work
+04:06 
+
+04:06 with like backend engineers as well.
+04:09 
+
+04:09 >> Do you work with front end at all?
+04:11 
+
+04:11 >> Not really.
+04:12 
+
+04:12 >> Not really. But there are geospatial
+04:14 
+
+04:14 like front-end engineers as well cuz
+04:16 
+
+04:16 geospatial is like a domain like we just
+04:18 
+
+04:18 focus on Java data. So there's like um
+04:20 
+
+04:20 front ends like engineers working on
+04:22 
+
+04:22 like more on building like apps for them
+04:25 
+
+04:25 like geographic apps and things like
+04:27 
+
+04:27 that or even for example let's say like
+04:29 
+
+04:29 your Google Earth for example like those
+04:33 
+
+04:33 will front end engineers will get to do
+04:34 
+
+04:34 that as well.
+04:35 
+
+04:35 >> Oh like the 3D
+04:39 
+
+04:39 so like even like your Google maps as
+04:40 
+
+04:40 well. So like front end engineers like
+04:42 
+
+04:42 do that. So those are like some things
+04:44 
+
+04:44 that they do. So you also have like
+04:46 
+
+04:46 solutions engineer basically any of the
+04:48 
+
+04:48 engineers can do a geospatial. It's just
+04:50 
+
+04:50 that it's like whatever you're doing
+04:52 
+
+04:52 plus geospatial.
+04:54 
+
+04:54 It's the domain basically.
+04:55 
+
+04:55 >> It's a domain. Yeah.
+04:56 
+
+04:56 >> Yeah.
+04:57 
+
+04:57 >> It's a very specific niche domain
+04:58 
+
+04:58 knowledge. Yeah.
+04:60 
+
+04:60 >> Domains would be like there's fintech
+05:02 
+
+05:02 that's one domain.
+05:03 
+
+05:03 >> Geospatial is one domain and there's
+05:05 
+
+05:05 e-commerce
+05:06 
+
+05:06 >> something like that. So there's like web
+05:08 
+
+05:08 doain as well like so web. Yeah. So
+05:10 
+
+05:10 those are like domains and then you just
+05:12 
+
+05:12 like you can you can be anything. So
+05:15 
+
+05:15 yeah,
+05:15 
+
+05:15 >> okay. And then all of these roles come
+05:16 
+
+05:16 into play in each of the different
+05:18 
+
+05:18 lines. Yes. How they interact might be
+05:21 
+
+05:21 different.
+05:21 
+
+05:21 >> Yeah, [clears throat] definitely.
+05:23 
+
+05:23 >> Okay. Yeah, that's very interesting. Now
+05:24 
+
+05:24 that we know a little bit about real
+05:27 
+
+05:27 role and maybe some uh some types of
+05:30 
+
+05:30 roles that you work with on a day-to-day
+05:32 
+
+05:32 basis, let's time it's time to play a
+05:34 
+
+05:34 game.
+05:36 
+
+05:36 So again, this is our system design game
+05:38 
+
+05:38 that we are doing uh for this episode.
+05:41 
+
+05:41 And let us first start with the idea
+05:43 
+
+05:43 card. So the idea card is essentially
+05:45 
+
+05:45 the types of uh apps yeah that you can
+05:48 
+
+05:48 choose to essentially let's say you are
+05:51 
+
+05:51 a data engineer you are um and then you
+05:54 
+
+05:54 are doing this project right so let us
+05:57 
+
+05:57 choose one project that you want to do
+05:60 
+
+05:60 and then maybe you can walk us through
+06:02 
+
+06:02 how you would data engineer this right
+06:06 
+
+06:06 yeah so here we have eight different
+06:08 
+
+06:08 cards different idea cards feel free to
+06:10 
+
+06:10 choose one okay so all these look really
+06:13 
+
+06:13 interesting I think they're also like
+06:14 
+
+06:14 geospatial like combined. So, this is
+06:17 
+
+06:17 going to be interesting, but I'll just
+06:18 
+
+06:18 go with the one closest to me. So, which
+06:20 
+
+06:20 is this fire.
+06:21 
+
+06:21 >> It's literally I thought you were going
+06:22 
+
+06:22 to say closest to your domain, but it's
+06:24 
+
+06:24 literally the one closest.
+06:25 
+
+06:25 >> The car that I pull out is like called
+06:27 
+
+06:27 fire sense. So, essentially detect
+06:29 
+
+06:29 wildfires in real time using satellite
+06:31 
+
+06:31 data and alert nearby regions like
+06:34 
+
+06:34 instantly. So, the needs are the
+06:36 
+
+06:36 satellite feed, data pipeline, and alert
+06:39 
+
+06:39 system.
+06:40 
+
+06:40 >> Actually, I just randomly put those
+06:41 
+
+06:41 words in there. I don't know what it
+06:42 
+
+06:42 takes to build an app like that. So you
+06:44 
+
+06:44 can Okay. Well, it's a prototype. Okay.
+06:46 
+
+06:46 So, don't disregard the what it needs.
+06:48 
+
+06:48 We're singerating on that. You're going
+06:50 
+
+06:50 to tell us what it needs. All right. Cuz
+06:51 
+
+06:51 we have another deck of cards. This one
+06:54 
+
+06:54 is it you the blue one. Blue the system
+06:56 
+
+06:56 card. So, the system card is essentially
+06:58 
+
+06:58 system design components that you'll
+06:60 
+
+06:60 typically see. Uh so maybe a you can
+07:02 
+
+07:02 look through all these cards and let us
+07:04 
+
+07:04 know like what does a data engineer
+07:07 
+
+07:07 need? What components do the data
+07:09 
+
+07:09 engineer need?
+07:10 
+
+07:10 >> Okay.
+07:11 
+
+07:11 Literally my first card says like data
+07:13 
+
+07:13 warehouse. So we'll put it all there.
+07:15 
+
+07:15 We'll put all the data like pipelines as
+07:17 
+
+07:17 well, data security. These are things
+07:19 
+
+07:19 that we usually would need obviously
+07:22 
+
+07:22 when it comes with like geospatial
+07:24 
+
+07:24 stuff. So yeah, they also have the
+07:26 
+
+07:26 geoprocessor which is essentially
+07:28 
+
+07:28 performs geospatial computations and
+07:30 
+
+07:30 transformations.
+07:32 
+
+07:32 So these help you to map your like
+07:34 
+
+07:34 geospatial like map data. You also have
+07:36 
+
+07:36 like spatial database essentially um
+07:39 
+
+07:39 just a database for spatial data. So it
+07:41 
+
+07:41 helps you to like store it efficiently
+07:44 
+
+07:44 and yeah you also have web maps which
+07:47 
+
+07:47 basically displays like geospatial data
+07:49 
+
+07:49 online. Think of it like your Google
+07:51 
+
+07:51 maps. So yeah so for wildfire obviously
+07:54 
+
+07:54 you need like web maps so you can see
+07:57 
+
+07:57 where exactly like which region is
+07:59 
+
+07:59 happening and like all the heat maps as
+08:01 
+
+08:01 well. So heat maps are basically like
+08:03 
+
+08:03 the hotspots. So you know how in
+08:05 
+
+08:05 Singapore where we have really high
+08:07 
+
+08:07 temperatures and sometimes it's like
+08:08 
+
+08:08 really low temperature because it's like
+08:09 
+
+08:09 raining or something like that. So we
+08:12 
+
+08:12 heat spot heat maps are basically just
+08:13 
+
+08:13 like heat spots that tells you like when
+08:15 
+
+08:15 where is it like most humid or like
+08:18 
+
+08:18 where is it like heat is mostly there
+08:20 
+
+08:20 >> your spatial database and database like
+08:22 
+
+08:22 what's the difference again? Do you want
+08:24 
+
+08:24 to tell uh that to
+08:26 
+
+08:26 >> it's actually the difference is just
+08:28 
+
+08:28 that um the fact that one has a location
+08:32 
+
+08:32 in it as well and so when it has like a
+08:35 
+
+08:35 location I think obviously sensitivity
+08:37 
+
+08:37 is also a lot higher as well so yeah
+08:39 
+
+08:39 that's just pretty much it and also you
+08:41 
+
+08:41 have like a very specific like
+08:43 
+
+08:43 coordinate so it's like a tracker I
+08:45 
+
+08:45 would say so you have like each day you
+08:47 
+
+08:47 have like a tracker cuz like the
+08:49 
+
+08:49 location has like you track the location
+08:51 
+
+08:51 so I guess that's like the only I would
+08:53 
+
+08:53 say difference
+08:54 
+
+08:54 >> I I would think like uh I mean location
+08:57 
+
+08:57 is is one but I would think spatial
+09:00 
+
+09:00 database is maybe more high rights and
+09:04 
+
+09:04 yeah high rights and then also high read
+09:06 
+
+09:06 so it's just optimized for that purpose
+09:09 
+
+09:09 really but it's just a type of database
+09:11 
+
+09:11 like there's no SQL SQL MongoDB and
+09:15 
+
+09:15 stuff and all these have different
+09:16 
+
+09:16 advantages disadvantages so maybe in
+09:19 
+
+09:19 this case maybe it's high rights cuz
+09:22 
+
+09:22 you're tracking something so probably
+09:25 
+
+09:25 just optimized for it but it's a
+09:27 
+
+09:27 database essentially
+09:28 
+
+09:28 >> and location is always a very tricky
+09:30 
+
+09:30 data object to handle and that's why
+09:32 
+
+09:32 it's better to have like many
+09:34 
+
+09:34 >> coordinates like your xaxis y axis and
+09:37 
+
+09:37 then what other
+09:38 
+
+09:38 >> and for those people out there who
+09:39 
+
+09:39 thinks storing location is just storing
+09:42 
+
+09:42 like addresses can you explain to them
+09:44 
+
+09:44 that it's way more than that like what
+09:45 
+
+09:45 kind of fields and parameters do you
+09:46 
+
+09:46 have to consider when storing location
+09:48 
+
+09:48 data
+09:49 
+
+09:49 >> so is um we obviously look at it in like
+09:51 
+
+09:51 a there's like 2D versions of it but
+09:53 
+
+09:53 there's also like 3D versions of it then
+09:55 
+
+09:55 you have to look at it as well and also
+09:57 
+
+09:57 let's say there's like a change in
+09:59 
+
+09:59 location then we need to be like alerted
+10:01 
+
+10:01 and then you need to have alert and then
+10:03 
+
+10:03 to like make the necessary changes as
+10:06 
+
+10:06 well so things like that so we obviously
+10:08 
+
+10:08 have like um and thing about satellite
+10:11 
+
+10:11 data is that it takes a while to
+10:12 
+
+10:12 actually come so it's not real time like
+10:14 
+
+10:14 uh continuous data so usually when the
+10:17 
+
+10:17 data comes to us like things have
+10:19 
+
+10:19 already happened or like a certain
+10:21 
+
+10:21 region would have and destroy or just
+10:23 
+
+10:23 things like that from the wildfire or
+10:24 
+
+10:24 anything. So like it's very important
+10:26 
+
+10:26 that we have like the database now and
+10:29 
+
+10:29 then after that like like you know like
+10:30 
+
+10:30 frequently like change it a bit cuz the
+10:32 
+
+10:32 earth is changing and like you know
+10:34 
+
+10:34 obviously
+10:35 
+
+10:35 >> earth is changing climate change.
+10:37 
+
+10:37 >> Are there other things in the deck that
+10:39 
+
+10:39 you think might be relevant? I'll say
+10:41 
+
+10:41 like ETL pipelines as well where we
+10:43 
+
+10:43 basically get to like from the database
+10:45 
+
+10:45 we get to like actually write and like
+10:46 
+
+10:46 transform and load the like data and but
+10:48 
+
+10:48 then ETL pipelines because we also have
+10:51 
+
+10:51 like the spatial like involved as well.
+10:52 
+
+10:52 It's a lot more different I would say.
+10:55 
+
+10:55 Yeah. And then we also have like APIs as
+10:58 
+
+10:58 well so that people users can also like
+10:60 
+
+10:60 get the data as well for like in case
+11:02 
+
+11:02 they want to do like their own projects
+11:04 
+
+11:04 and everything.
+11:05 
+
+11:05 >> Thanks so much for sharing. So now we
+11:06 
+
+11:06 learned that these are all the
+11:07 
+
+11:07 components needed as your day-to-day
+11:10 
+
+11:10 role as a data engineer is you're going
+11:12 
+
+11:12 to be working with all these components.
+11:14 
+
+11:14 That's really good to know. Um in our
+11:16 
+
+11:16 next part of the game, is there any
+11:18 
+
+11:18 parts in your job, your day-to-day job
+11:21 
+
+11:21 where like you know AI can essentially
+11:24 
+
+11:24 replace or or not? So you can look
+11:26 
+
+11:26 through the tool
+11:27 
+
+11:27 >> can look through see if there are any
+11:30 
+
+11:30 relevant tools that you are actually
+11:32 
+
+11:32 using. Now, I mean, obviously they're
+11:34 
+
+11:34 all codified in different names cuz we
+11:36 
+
+11:36 don't want brands to come out.
+11:37 
+
+11:37 >> So, there is uh Google Analytics. So
+11:40 
+
+11:40 cute. We have Power Beehive.
+11:43 
+
+11:43 So, that's a new one.
+11:45 
+
+11:45 >> Never heard of that. Well, it's funny.
+11:47 
+
+11:47 Kid Journey. Natasha came up with all
+11:49 
+
+11:49 this by the way. So, so creative. I
+11:52 
+
+11:52 think my favorite one has Megma.
+11:55 
+
+11:55 [laughter]
+11:56 
+
+11:56 >> Like, if you know the me, you know how
+11:58 
+
+11:58 cuz you're Jen C. So you know as always
+12:02 
+
+12:02 >> I don't know do you know what no it's
+12:04 
+
+12:04 okay it's okay for me
+12:04 
+
+12:04 >> any tools that you
+12:06 
+
+12:06 >> so obviously um depending on what area
+12:09 
+
+12:09 of um like geospatial you do and
+12:11 
+
+12:11 definitely because like we right now
+12:13 
+
+12:13 we're focusing more on the data part so
+12:15 
+
+12:15 power beehive cuz we know you need the
+12:17 
+
+12:17 data visualization to see how like where
+12:20 
+
+12:20 are the areas of like like where are the
+12:23 
+
+12:23 certain areas of maps that we need to
+12:24 
+
+12:24 track or like um how like the damage how
+12:28 
+
+12:28 like however the damage like a certain
+12:30 
+
+12:30 area has been so power probably power
+12:32 
+
+12:32 beehive is one
+12:34 
+
+12:34 >> is there AI baked into power beehive
+12:36 
+
+12:36 grid well the real power beehive right
+12:39 
+
+12:39 now like when you use it do they have
+12:41 
+
+12:41 like special AI features
+12:43 
+
+12:43 >> um not that I know of like
+12:45 
+
+12:45 >> just a m analytics uh visualization uh
+12:48 
+
+12:48 platform
+12:50 
+
+12:50 >> we also have like co-il like co-pilot
+12:52 
+
+12:52 like cat and GBT usually we use AI to
+12:55 
+
+12:55 help us like clean the data faster maybe
+12:57 
+
+12:57 that's also one thing or to like help us
+12:59 
+
+12:59 to automate the data faster when what we
+13:03 
+
+13:03 don't need AI for or like I don't think
+13:05 
+
+13:05 AI will help us replace is things like
+13:07 
+
+13:07 human judgment and accountability. So
+13:10 
+
+13:10 like I mentioned earlier because we use
+13:11 
+
+13:11 these datas to like all these data
+13:13 
+
+13:13 analystic we use the data to um make
+13:16 
+
+13:16 policy recommendations or to like have
+13:19 
+
+13:19 new implements or any new features that
+13:21 
+
+13:21 we need and so like things like that you
+13:23 
+
+13:23 can't really have like AI to help us as
+13:26 
+
+13:26 well and AI helps you to detect the
+13:28 
+
+13:28 patterns that's happening but they don't
+13:30 
+
+13:30 really like get to tell you like exactly
+13:32 
+
+13:32 why such patterns is happening or
+13:34 
+
+13:34 something like that. For example, like
+13:36 
+
+13:36 um in Indonesian there's like wildfires
+13:38 
+
+13:38 happening around like Indonesia. I'm
+13:41 
+
+13:41 sure you can relate. And like um it
+13:44 
+
+13:44 tells you like where exactly it's going
+13:45 
+
+13:45 to happen. I think it can also tell you
+13:46 
+
+13:46 like a predictability like well in the
+13:49 
+
+13:49 next region but like it wouldn't tell
+13:51 
+
+13:51 you like why not like you've gone you
+13:54 
+
+13:54 gone over to Indonesian like see why or
+13:57 
+
+13:57 you know if there's any like is it cause
+13:59 
+
+13:59 of deforestation or like it's like a
+14:01 
+
+14:01 man-made thing or it's like a nature
+14:03 
+
+14:03 like a natural thing. So those are
+14:06 
+
+14:06 things that AIs can't really like um
+14:08 
+
+14:08 predict for us. So that's where humans
+14:10 
+
+14:10 like us need to step in and to see as
+14:13 
+
+14:13 well. So things like that and like um
+14:16 
+
+14:16 even just like for example like planning
+14:18 
+
+14:18 out your city route and stuff like that
+14:20 
+
+14:20 for like example like a new train line
+14:22 
+
+14:22 that's happening like the Jurong like uh
+14:25 
+
+14:25 train line that's called JRL if I'm not
+14:27 
+
+14:27 wrong and then like for example like
+14:29 
+
+14:29 some of the walkways are like obviously
+14:31 
+
+14:31 blocked and restricted due to the uh
+14:33 
+
+14:33 construction area. So those are things
+14:35 
+
+14:35 that AI is currently like predicting or
+14:37 
+
+14:37 anything. These are some things that
+14:38 
+
+14:38 like you know that humans need to like
+14:40 
+
+14:40 manually update in like a database for
+14:42 
+
+14:42 example. So these are the things that
+14:44 
+
+14:44 like you know AI don't can really
+14:46 
+
+14:46 replace us but it does help us make our
+14:48 
+
+14:48 like lives fast like help us lives
+14:50 
+
+14:50 smoother helps us like an like automate
+14:53 
+
+14:53 the data faster I would say. Oh, at
+14:55 
+
+14:55 least can I ask like how exactly is AI
+14:58 
+
+14:58 helping you do things
+15:01 
+
+15:01 automate faster? Like are you asking it
+15:03 
+
+15:03 to write scripts for you in that manner
+15:06 
+
+15:06 or are you just here's our database
+15:09 
+
+15:09 clean this up? Like what kind of prompts
+15:12 
+
+15:12 do you would you give?
+15:14 
+
+15:14 >> Yeah, like those are like um some
+15:16 
+
+15:16 prompts you can give as well like
+15:17 
+
+15:17 helping you to like clean the data
+15:19 
+
+15:19 faster. So you give it access to your
+15:22 
+
+15:22 database like I'm imagining billions of
+15:24 
+
+15:24 records in the database.
+15:26 
+
+15:26 >> You can give it like a sample of it like
+15:28 
+
+15:28 to see or you can even give them like a
+15:30 
+
+15:30 sample to try to analyze as well just
+15:32 
+
+15:32 like get like a GI gist of what's
+15:34 
+
+15:34 happening. Those are like some ways you
+15:37 
+
+15:37 can do this. Why then what AI would we
+15:39 
+
+15:39 use like chat GPT right like it
+15:41 
+
+15:41 >> are there AI tools in your specific
+15:43 
+
+15:43 field? Obviously this deck is based on
+15:45 
+
+15:45 like our knowledge and what we know but
+15:47 
+
+15:47 we're not geospatial engineers. What
+15:49 
+
+15:49 would you recommend that we put in a
+15:51 
+
+15:51 deck that you've been using? Are there
+15:53 
+
+15:53 like tools that uh like you said in this
+15:55 
+
+15:55 case clean data faster? Um tools that
+15:59 
+
+15:59 connect maybe directly to the database
+16:00 
+
+16:00 and then clean it all up for you.
+16:03 
+
+16:03 >> Maybe it's just a program.
+16:04 
+
+16:04 >> Maybe program like a very specific
+16:07 
+
+16:07 program like there hasn't been that much
+16:09 
+
+16:09 like AI like tools for geospatial but
+16:12 
+
+16:12 there are like it's still like
+16:13 
+
+16:13 happening. It's still like slowly like
+16:15 
+
+16:15 building on. I think dual AI is a thing
+16:18 
+
+16:18 as well. I think you're like creating it
+16:20 
+
+16:20 or it's already been created when this
+16:22 
+
+16:22 video comes up. But yeah, so that's like
+16:24 
+
+16:24 one of them.
+16:25 
+
+16:25 >> It seems right now like if we were to
+16:27 
+
+16:27 ask you is AI helping you or is AI
+16:30 
+
+16:30 replacing you? It it seems that it isn't
+16:32 
+
+16:32 really disrupting your workflow because
+16:34 
+
+16:34 they're just uh it's a niche. That's one
+16:38 
+
+16:38 uh probably uh uh not really uh put in
+16:41 
+
+16:41 the spotlight yet for people to be like,
+16:42 
+
+16:42 "Oh yeah, we can use AI here." But what
+16:44 
+
+16:44 you've been using is just like very
+16:46 
+
+16:46 day-to-day using chatbt. Give it sample
+16:49 
+
+16:49 and then tell me like what uh fields I
+16:52 
+
+16:52 might want to take a look at. Tell me
+16:53 
+
+16:53 what fields might need more cleaning.
+16:55 
+
+16:55 You know, then you will write the actual
+16:57 
+
+16:57 script to clean it.
+16:58 
+
+16:58 >> Yeah.
+16:58 
+
+16:58 >> So it's one of the interesting like
+17:01 
+
+17:01 domains that it uses a lot of like
+17:03 
+
+17:03 physical aspects and as well as human
+17:05 
+
+17:05 aspects. So like you know there's so
+17:07 
+
+17:07 much like um like science like um like
+17:10 
+
+17:10 satellite data understanding how
+17:12 
+
+17:12 satellite data comes about. It's a lot
+17:13 
+
+17:13 of like geography related as well
+17:15 
+
+17:15 because you kind of know like things
+17:17 
+
+17:17 like purple maps like purple graphs and
+17:19 
+
+17:19 like um satellite imagery and things
+17:22 
+
+17:22 like that and also you do need like
+17:24 
+
+17:24 humans to kind of look at the maps as
+17:26 
+
+17:26 well. So like those are things that like
+17:29 
+
+17:29 it's there there's a lot of like human
+17:30 
+
+17:30 like um judgment involved I would say.
+17:33 
+
+17:33 This was one of those things that hasn't
+17:35 
+
+17:35 been like um it's slowly like been
+17:37 
+
+17:37 trying to make things like AI generated
+17:39 
+
+17:39 or like slowly getting AI to automate
+17:41 
+
+17:41 but like as far as I've known and seen
+17:44 
+
+17:44 is still a upcoming like it's still
+17:46 
+
+17:46 pretty new I would say especially here
+17:49 
+
+17:49 in Singapore like not that many people
+17:50 
+
+17:50 like talk about it. So like a lot like
+17:53 
+
+17:53 my even like my knowledge came from like
+17:54 
+
+17:54 LinkedIn like people on LinkedIn and
+17:56 
+
+17:56 like UDI course. So shout out to all
+17:58 
+
+17:58 these people. So it's still like it's
+17:60 
+
+17:60 still relatively like new and people are
+18:02 
+
+18:02 still trying to explore those areas as
+18:03 
+
+18:03 well. You talk a lot about what AI
+18:06 
+
+18:06 cannot replace and maybe things that you
+18:08 
+
+18:08 know require a lot of human judgment in
+18:10 
+
+18:10 your day-to-day role. I was thinking
+18:11 
+
+18:11 like maybe you can talk about what are
+18:13 
+
+18:13 some common challenges in geospatial and
+18:16 
+
+18:16 do you think AI can solve it or is that
+18:20 
+
+18:20 AI can solve it? I would say like one of
+18:23 
+
+18:23 them is just like having more like real
+18:25 
+
+18:25 time like data like getting data like u
+18:28 
+
+18:28 come through like process through like a
+18:29 
+
+18:29 lot faster. I think that's something
+18:31 
+
+18:31 that I would like like AI to solve
+18:33 
+
+18:33 because of like on the flow of events
+18:35 
+
+18:35 right obviously with like natural
+18:37 
+
+18:37 disasters like response like uh
+18:39 
+
+18:39 emergency like response like those two
+18:41 
+
+18:41 things like it could I hope we can speed
+18:44 
+
+18:44 up like the time. So what I mean by that
+18:46 
+
+18:46 is like by time we like um like we kind
+18:50 
+
+18:50 of like know there's like a event that's
+18:52 
+
+18:52 happening like an environment disaster
+18:53 
+
+18:53 like a flood is happening. I wish we
+18:55 
+
+18:55 could um or even things happens like um
+18:59 
+
+18:59 some things we are able to kind of like
+19:00 
+
+19:00 oh we can tell there's like a flood
+19:01 
+
+19:01 that's going to happen or there's a
+19:02 
+
+19:02 earthquake that's going to happen but
+19:04 
+
+19:04 some things that we just cannot like um
+19:06 
+
+19:06 predict or it just happens like um
+19:09 
+
+19:09 happens on the spot. So like you know by
+19:11 
+
+19:11 the time we like figure about it and
+19:13 
+
+19:13 everything or like even think of it in
+19:15 
+
+19:15 the long term like and there's like
+19:17 
+
+19:17 short-term effects as like so there's
+19:18 
+
+19:18 short-term effects and long-term effects
+19:20 
+
+19:20 as like short-term solutions and
+19:22 
+
+19:22 long-term solutions and I hope that like
+19:24 
+
+19:24 AIS could help us like provide more of
+19:26 
+
+19:26 like a long-term solutions to these
+19:28 
+
+19:28 problems maybe especially for example
+19:31 
+
+19:31 like things like housing policies or
+19:34 
+
+19:34 like things like that and so like those
+19:36 
+
+19:36 are things that like um for example like
+19:39 
+
+19:39 wildfire right and and um in destroys
+19:41 
+
+19:41 like homes and everything. And so like
+19:43 
+
+19:43 we would like to um get those data as
+19:46 
+
+19:46 fast as possible to help these people as
+19:48 
+
+19:48 well so that we can help them like
+19:50 
+
+19:50 aftermath or like bring them to a more
+19:53 
+
+19:53 safer location. And so
+19:55 
+
+19:55 >> so you're talking more about like you
+19:56 
+
+19:56 hope for there to be more innovations or
+19:59 
+
+19:59 like the data like actually fetching the
+20:01 
+
+20:01 data. So maybe you're talking about like
+20:03 
+
+20:03 the sensors over there yourself a wider
+20:06 
+
+20:06 availability and then would would this
+20:08 
+
+20:08 also be like the pipelines that you're
+20:10 
+
+20:10 talking about like is there I don't
+20:12 
+
+20:12 think it's an issue with the pipelines
+20:14 
+
+20:14 issue of pipelines like the sensors the
+20:16 
+
+20:16 harder part is the hardest part of like
+20:18 
+
+20:18 geospatial is the collection of data I
+20:20 
+
+20:20 would say cuz it's very like it is um
+20:23 
+
+20:23 collecting is one thing and also like
+20:24 
+
+20:24 it's really really like messy and
+20:26 
+
+20:26 inconsistent as well. So like it takes a
+20:29 
+
+20:29 long time to clean up those like data as
+20:31 
+
+20:31 well.
+20:31 
+
+20:31 >> Well, that's definitely something AI can
+20:33 
+
+20:33 do.
+20:34 
+
+20:34 >> But we need to first solve the problem
+20:36 
+
+20:36 of collection of data.
+20:37 
+
+20:37 >> Yeah. Only if we give the input to the
+20:39 
+
+20:39 AI then it can do something about it.
+20:42 
+
+20:42 Yeah. And produce results and solutions.
+20:44 
+
+20:44 >> We probably need to get like somebody in
+20:46 
+
+20:46 the IoT the census space on this show.
+20:49 
+
+20:49 Thank you so much for sharing. I She's
+20:52 
+
+20:52 your friend Victoria. I have camera shy
+20:54 
+
+20:54 issues back almost two years of rag tech
+20:56 
+
+20:56 and she's still camera shy.
+20:58 
+
+20:58 >> Thank you Ashish for sharing.
+20:59 
+
+20:59 >> Thank you Rick. Thank you Sonia and
+21:01 
+
+21:01 Natasha for having me. And that's it.
+21:04 
+
+21:04 Reg. Remember to follow, subscribe and
+21:07 
+
+21:07 turn on notifications for our next
+21:10 
+
+21:10 series and also our next episodes. So
+21:12 
+
+21:12 thank you so much everyone. Bye-bye.

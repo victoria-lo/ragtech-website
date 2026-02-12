@@ -1,0 +1,2413 @@
+00:01 okay okay so um we're gonna CL I was
+00:06 
+
+00:06 just making myself up
+00:12 
+
+00:12 okay this can be behind the
+00:15 
+
+00:15 [Music]
+00:18 
+
+00:18 scen hello everybody we are R Tech I'm
+00:20 
+
+00:20 Natasha a software engineer I'm Salon
+00:22 
+
+00:22 software engineer and I'm Victoria
+00:24 
+
+00:24 Solutions engineer and together we are
+00:26 
+
+00:26 re Tech today's episode will be all
+00:28 
+
+00:28 about mentorship um this was a topic
+00:31 
+
+00:31 that was kind of requested by a few
+00:33 
+
+00:33 viewers um especially those uh in the
+00:35 
+
+00:35 tech industry already as well as outside
+00:37 
+
+00:37 as well um because I think mentorship is
+00:39 
+
+00:39 quite a generic topic that everybody um
+00:42 
+
+00:42 thinks about in their own Industries so
+00:45 
+
+00:45 uh we decided to do this topic today um
+00:47 
+
+00:47 on mentorship um so first off I'll just
+00:50 
+
+00:50 kind of start off with um kind of like a
+00:53 
+
+00:53 a question for Salone actually because
+00:56 
+
+00:56 amongst three of us um you're the most
+00:58 
+
+00:58 experienced ones and if I were to place
+00:60 
+
+00:60 it I think um both of us would likely be
+01:03 
+
+01:03 in the space of seeking mentors where
+01:05 
+
+01:05 for you I feel like people seek you for
+01:07 
+
+01:07 mentors uh for mentorship so uh how has
+01:10 
+
+01:10 your experience been like um what how
+01:13 
+
+01:13 would you describe your phase in life
+01:14 
+
+01:14 right now as a senior a software
+01:16 
+
+01:16 engineer and do people come to you for
+01:18 
+
+01:18 uh mentorship and
+01:20 
+
+01:20 advice um okay
+01:23 
+
+01:23 so so personally I've actually never had
+01:26 
+
+01:26 my own Mentor actually uh but yes I I
+01:30 
+
+01:30 have been a mentor at certain programs
+01:33 
+
+01:33 like within our community like women
+01:35 
+
+01:35 code had a mentorship program Tech
+01:37 
+
+01:37 ladies had a mentorship program I was a
+01:40 
+
+01:40 mentor in those programs cuz I had like
+01:44 
+
+01:44 uh five plus years experience already
+01:46 
+
+01:46 till till then and uh usually that's
+01:49 
+
+01:49 what I've been seeing that the entry
+01:52 
+
+01:52 level software Engineers would they
+01:55 
+
+01:55 would want a mentor with either a lot of
+01:59 
+
+01:59 experience like 10 plus years experience
+02:00 
+
+02:00 or they actually also want someone with
+02:02 
+
+02:02 just a few more years ahead of them to
+02:05 
+
+02:05 also just see uh how how they can just
+02:08 
+
+02:08 you know leap through that far yeah so
+02:11 
+
+02:11 uh how it's been I mean it's not like
+02:14 
+
+02:14 people come up to me and like Oh Be My
+02:15 
+
+02:15 Mentor be my mentor that that people
+02:18 
+
+02:18 would like do that because especially
+02:20 
+
+02:20 with you being the director of women and
+02:21 
+
+02:21 code and then in your organization as
+02:23 
+
+02:23 well in the different companies you've
+02:25 
+
+02:25 been in I was actually wondering if
+02:26 
+
+02:26 people just come up to you and ask like
+02:28 
+
+02:28 can you actually be my mentor or but
+02:30 
+
+02:30 you're saying it's not that explicit no
+02:32 
+
+02:32 I I mean I didn't have anyone come up to
+02:35 
+
+02:35 me saying that uh if I was like a part
+02:38 
+
+02:38 of a mentorship program then also no one
+02:41 
+
+02:41 had like special request to have Salone
+02:45 
+
+02:45 but uh yeah so it has been I really love
+02:50 
+
+02:50 uh mentoring but I mean I don't see it
+02:52 
+
+02:52 as like mentoring like oh reach where I
+02:55 
+
+02:55 am kind of thing I I see it as uh like
+02:59 
+
+02:59 also want to see like what's happening
+03:01 
+
+03:01 in like a few years before like a like
+03:05 
+
+03:05 the the younger generation like what's
+03:07 
+
+03:07 happening in the entry level right now
+03:10 
+
+03:10 and uh definitely I do have some words
+03:12 
+
+03:12 of advice like some things that I could
+03:14 
+
+03:14 have done better or like uh some
+03:17 
+
+03:17 experiences that is kind of like a right
+03:19 
+
+03:19 of passage that I would like to tell
+03:21 
+
+03:21 them that or don't worry or don't don't
+03:22 
+
+03:22 stress out about this it it happens and
+03:24 
+
+03:24 you can deal with it in a certain manner
+03:26 
+
+03:26 so I do like to share my knowledge and
+03:29 
+
+03:29 my experience so I like to do that uh
+03:33 
+
+03:33 but yeah so that's how I look at it I
+03:36 
+
+03:36 definitely wouldn't ever tell my M that
+03:39 
+
+03:39 uh you have to do things in a certain
+03:41 
+
+03:41 way or something it's like I always have
+03:42 
+
+03:42 a have an open mind that different
+03:44 
+
+03:44 people would have different ways of
+03:46 
+
+03:46 reaching some certain goals uh I
+03:49 
+
+03:49 definitely only have this one track that
+03:52 
+
+03:52 I've taken so I don't know about the
+03:53 
+
+03:53 other tracks I always tell them that
+03:55 
+
+03:55 it's this is my opinion this is how I
+03:57 
+
+03:57 did it this is what my experience taught
+03:59 
+
+03:59 me so so you are open to trying out
+04:02 
+
+04:02 other things but just just know that
+04:04 
+
+04:04 there would be these outcomes and like
+04:07 
+
+04:07 you can still get over things in a
+04:08 
+
+04:08 certain way so I I look at it in that
+04:11 
+
+04:11 manner like so I also get to learn from
+04:13 
+
+04:13 them and there are different experiences
+04:15 
+
+04:15 that's
+04:16 
+
+04:16 happening uh and I get to like also
+04:19 
+
+04:19 share my own and that that that feels
+04:21 
+
+04:21 like a like a reflection sometimes so I
+04:24 
+
+04:24 like sharing like oh what happened to me
+04:26 
+
+04:26 like a few years ago in this company in
+04:28 
+
+04:28 that project yeah for sure I I really
+04:31 
+
+04:31 like what you said about um how you know
+04:34 
+
+04:34 with mentorship a lot of people think
+04:35 
+
+04:35 it's a oneway learning process like if
+04:37 
+
+04:37 you taught of something that it's just
+04:39 
+
+04:39 me absorbing but for you you approach it
+04:42 
+
+04:42 as a way of learning so um actually when
+04:46 
+
+04:46 it comes to like the I guess younger I
+04:48 
+
+04:48 don't want to say younger generation
+04:50 
+
+04:50 it's not younger generation generation
+04:52 
+
+04:52 it's just the mty yeah it could be
+04:56 
+
+04:56 anyone it could be an even more
+04:57 
+
+04:57 experienced person wanting to seek
+04:59 
+
+04:59 mentorship in some other aspects or it
+05:03 
+
+05:03 could be the other way around yeah yeah
+05:04 
+
+05:04 cuz my organization actually tried uh a
+05:08 
+
+05:08 pilot reverse mentoring program actually
+05:11 
+
+05:11 um which by itself was kind of like a
+05:13 
+
+05:13 misnomer I felt because like reverse
+05:16 
+
+05:16 mentoring it's like it really Bears the
+05:18 
+
+05:18 assumption that there's a one-way
+05:21 
+
+05:21 mentoring process and you're reversing
+05:23 
+
+05:23 it but okay I understand it was a pilot
+05:24 
+
+05:24 trial uh and it was a big thing for any
+05:27 
+
+05:27 organization um but it was interesting
+05:30 
+
+05:30 um for me to be in that program because
+05:32 
+
+05:32 I had always seen it as a 2-way process
+05:34 
+
+05:34 when I would be I I was in a program
+05:36 
+
+05:36 where I was assigned mentors actually um
+05:39 
+
+05:39 it was um kind of like a a systemized uh
+05:42 
+
+05:42 mentorship program which uh unlike in uh
+05:45 
+
+05:45 your experience you said that actually
+05:47 
+
+05:47 you don't throw the what mentors around
+05:49 
+
+05:49 it just kind of naturally happens um but
+05:51 
+
+05:51 in my organization they would match us
+05:54 
+
+05:54 um quite deliberately with um mentors
+05:56 
+
+05:56 that they felt um could uh benefit
+05:60 
+
+06:00 that we could benefit from um so I think
+06:04 
+
+06:04 that process of attaching a label to
+06:08 
+
+06:08 mentorship was kind of inorganic for me
+06:10 
+
+06:10 because firstly it's the assumption that
+06:12 
+
+06:12 you only have one Mentor uh in your
+06:15 
+
+06:15 organization and in life but actually
+06:17 
+
+06:17 when I reflected on it I had multiple
+06:18 
+
+06:18 for different domains of my life I
+06:20 
+
+06:20 benefited from diverse opinions and a
+06:22 
+
+06:22 lot of times it was a two-way exchange I
+06:25 
+
+06:25 felt like like you said uh as much as I
+06:27 
+
+06:27 was asking them questions you know they
+06:29 
+
+06:29 were also asking me and we were going
+06:32 
+
+06:32 back to like our work domains or our
+06:34 
+
+06:34 personal life domains with new knowledge
+06:36 
+
+06:36 that we both learned um so it's
+06:38 
+
+06:38 interesting just seeing that and hearing
+06:40 
+
+06:40 from you how organic and informal that
+06:42 
+
+06:42 process is you don't even think about it
+06:44 
+
+06:44 but it's just like when people say oh
+06:46 
+
+06:46 yeah I guess I was indeed a mentor to
+06:48 
+
+06:48 this person kind of thing but for me
+06:50 
+
+06:50 it's just like yeah I was assigned a
+06:52 
+
+06:52 mentor and I was even part of a reever
+06:53 
+
+06:53 reverse mentorship program um which was
+06:56 
+
+06:56 kind of interesting the full question I
+06:58 
+
+06:58 have for this like that was was my
+07:00 
+
+07:00 experience as in a a systemized um
+07:03 
+
+07:03 mentorship program but for uh Victoria I
+07:06 
+
+07:06 was actually wondering for you people
+07:08 
+
+07:08 seek your mentorship for say technical
+07:10 
+
+07:10 blogging as well as like your journey uh
+07:13 
+
+07:13 um venturing into uh software
+07:15 
+
+07:15 engineering um and now in Solutions
+07:17 
+
+07:17 engineering but for you do you seek out
+07:20 
+
+07:20 mentors on your own uh and how would you
+07:22 
+
+07:22 describe your phase of um life and
+07:24 
+
+07:24 mentorship right now okay uh yeah that's
+07:26 
+
+07:26 a good question so actually I agree with
+07:29 
+
+07:29 whatever you guys mentioned as well I
+07:30 
+
+07:30 think that for me at least people who
+07:33 
+
+07:33 seek uh for me for like mentorship I
+07:36 
+
+07:36 would often tell them that I don't
+07:38 
+
+07:38 really have much to teach because I am
+07:42 
+
+07:42 just someone who's also continuously
+07:43 
+
+07:43 learning and everything that's based on
+07:46 
+
+07:46 my experience is just solely my
+07:48 
+
+07:48 experience so I kind of have this
+07:50 
+
+07:50 contradicting view that you don't really
+07:52 
+
+07:52 need mentorship it's more like when
+07:55 
+
+07:55 you're in a community that's when you
+07:57 
+
+07:57 can learn the most you can learn from
+07:59 
+
+07:59 all different types of of people because
+08:01 
+
+08:01 no one is really a master in everything
+08:04 
+
+08:04 like we all have different experiences
+08:06 
+
+08:06 so that makes us who we are so I cannot
+08:08 
+
+08:08 tell you like oh if this is what I do
+08:11 
+
+08:11 you can succeed or like you know you can
+08:14 
+
+08:14 follow me you know like I I think
+08:16 
+
+08:16 everyone would Forge their own path so
+08:19 
+
+08:19 if people ask me for mentorship I say um
+08:22 
+
+08:22 I'm not really there yet or like I don't
+08:25 
+
+08:25 even think about like being a mentor
+08:27 
+
+08:27 it's more like if you want to learn from
+08:29 
+
+08:29 like maybe from my journey or my advice
+08:32 
+
+08:32 my story I can basically share that so
+08:35 
+
+08:35 kind of like how Salone mentioned about
+08:36 
+
+08:36 sharing knowledge like I like to share
+08:38 
+
+08:38 my knowledge and if you want to take
+08:40 
+
+08:40 that as something like oh that that is a
+08:42 
+
+08:42 good reference for me to like maybe
+08:44 
+
+08:44 apply a little bit there's some
+08:46 
+
+08:46 similarity there then that's good but I
+08:48 
+
+08:48 don't want to tell them like you said
+08:51 
+
+08:51 right like you have to do it this way
+08:52 
+
+08:52 this is the only it's not right
+08:55 
+
+08:55 definitely and especially just during
+08:56 
+
+08:56 early days of my career when I was
+08:58 
+
+08:58 pivoting from Finance into Tech that
+09:01 
+
+09:01 part is when I read a lot of blogs of
+09:04 
+
+09:04 like different people from different
+09:05 
+
+09:05 walks of life how they also transition
+09:08 
+
+09:08 into Tech and I would say not a single
+09:10 
+
+09:10 person have the exact same story and
+09:13 
+
+09:13 that makes a lot of sense because no one
+09:15 
+
+09:15 would experience the same thing no one
+09:17 
+
+09:17 would have the same skills from the
+09:19 
+
+09:19 beginning so when people ask me oh how
+09:21 
+
+09:21 do you transition into Tech I say yes
+09:23 
+
+09:23 this is how I do it but that does not
+09:25 
+
+09:25 mean that's the only way to do it yeah
+09:28 
+
+09:28 yeah so the best I can do is just you
+09:31 
+
+09:31 know give them what I've experienced and
+09:33 
+
+09:33 maybe they can take something away from
+09:35 
+
+09:35 it so um actually Last year me and Sono
+09:38 
+
+09:38 we organize a eight month long
+09:40 
+
+09:40 mentorship program through women who C
+09:42 
+
+09:42 and Tech ladies and I also learned a lot
+09:44 
+
+09:44 about the mentor Mente relationship in
+09:46 
+
+09:46 that part where like you mentioned
+09:49 
+
+09:49 Natasha it's definitely two-way cuz at
+09:51 
+
+09:51 the end of the eight months of
+09:52 
+
+09:52 everything I talk to the mentors I talk
+09:54 
+
+09:54 to the mentees all of them learn
+09:56 
+
+09:56 something from each other it's not
+09:58 
+
+09:58 definitely not one way kind of
+09:59 
+
+09:59 relationship so I think the term
+10:02 
+
+10:02 mentorship can be more about like just a
+10:05 
+
+10:05 relationship basically yeah yeah a
+10:07 
+
+10:07 relationship of you know learning from
+10:09 
+
+10:09 each other kind yeah it also goes back
+10:11 
+
+10:11 to like what I used to say like teaching
+10:13 
+
+10:13 is the best way to learn so like you are
+10:17 
+
+10:17 kind of teaching like oh you can do it a
+10:19 
+
+10:19 certain way and this is why you should
+10:21 
+
+10:21 do it a certain way and then you're also
+10:23 
+
+10:23 learning from that process like oh this
+10:25 
+
+10:25 is what I learned and reflect on it and
+10:27 
+
+10:27 things like that so yeah it's definitely
+10:29 
+
+10:29 two way like it's it's never one that's
+10:32 
+
+10:32 why I really just find myself sometimes
+10:33 
+
+10:33 immersed in like reading other people's
+10:35 
+
+10:35 blogs because like they all just have
+10:38 
+
+10:38 such different experience that like sure
+10:40 
+
+10:40 it might not be exactly my experience
+10:42 
+
+10:42 but I just really like to hear them
+10:43 
+
+10:43 sharing that part like how they overcome
+10:46 
+
+10:46 their own struggles and just doing that
+10:48 
+
+10:48 is inspiring so it's inspiring to me and
+10:51 
+
+10:51 I hope to give back that inspiration as
+10:53 
+
+10:53 well like through my blogs my own blogs
+10:55 
+
+10:55 so I think overall the mentorship part
+10:58 
+
+10:58 is about um taking from various sources
+11:02 
+
+11:02 not just one right and then learning
+11:05 
+
+11:05 like each part of them they all have
+11:06 
+
+11:06 some wisdom to share and then learn from
+11:09 
+
+11:09 all of them yeah yeah yeah I I think I
+11:11 
+
+11:11 basically both of you uh both Converge
+11:14 
+
+11:14 on sort of the same rhetoric that even
+11:17 
+
+11:17 though you use a libal mentorship but
+11:19 
+
+11:19 it's really more about sharing knowledge
+11:21 
+
+11:21 and more than just sharing just
+11:23 
+
+11:23 knowledge it's I'm sharing my experience
+11:26 
+
+11:26 um and these are my opinions based on my
+11:28 
+
+11:28 perspective of whatever domain uh you're
+11:31 
+
+11:31 interested in but um you don't come with
+11:34 
+
+11:34 the mindset that you have to take my
+11:36 
+
+11:36 advice as is in fact like don't like I
+11:38 
+
+11:38 I'm just Shar you want to emphasize that
+11:40 
+
+11:40 this is my personal experience and pro
+11:43 
+
+11:43 and both of you also insinuated that you
+11:45 
+
+11:45 you should probably also look for other
+11:47 
+
+11:47 opinions as well and you know in sort of
+11:50 
+
+11:50 like the mentee perspective the
+11:52 
+
+11:52 obligation on the mentee in this case is
+11:54 
+
+11:54 to seek multiple mentors seek multiple
+11:57 
+
+11:57 opinions and I think it becomes more fun
+11:59 
+
+11:59 right right when people are already in
+12:01 
+
+12:01 that process they come to you as a
+12:02 
+
+12:02 mentor and you share your experience and
+12:04 
+
+12:04 they come back with oh yeah actually I
+12:05 
+
+12:05 was talking to this other person and
+12:07 
+
+12:07 that experience sounds similar or like
+12:08 
+
+12:08 oh they actually said this other thing
+12:10 
+
+12:10 and you know that becomes like it's no
+12:13 
+
+12:13 longer like a one-on-one Mentor mentee
+12:15 
+
+12:15 relationship it's your experiences and
+12:18 
+
+12:18 your experiences talking to different
+12:19 
+
+12:19 people converging into one and it's also
+12:23 
+
+12:23 not just like a single conversation um
+12:26 
+
+12:26 that's why with like the traditional
+12:28 
+
+12:28 systemized mentorship program progr
+12:29 
+
+12:29 there's always like a Cadence and a
+12:31 
+
+12:31 frequency with the tech ladies program
+12:33 
+
+12:33 it was 8 months yeah but eight month
+12:35 
+
+12:35 it's not saying that the mentorship ends
+12:37 
+
+12:37 at 8 months uh you're trying to
+12:38 
+
+12:38 emphasize that it's this continued uh
+12:41 
+
+12:41 frequency of interaction and post8
+12:43 
+
+12:43 months you hope that they've built that
+12:45 
+
+12:45 kind of trust and that understanding of
+12:47 
+
+12:47 what mentorship really means you know
+12:48 
+
+12:48 it's not just a word it's like that
+12:50 
+
+12:50 mindset of wanting to find different
+12:52 
+
+12:52 people to learn from yeah I actually
+12:54 
+
+12:54 have a personal story um recently just
+12:57 
+
+12:57 caught up with one of the mentors from
+12:59 
+
+12:59 the mentorship program it's been long
+13:01 
+
+13:01 after the mentorship program but he
+13:03 
+
+13:03 still often meets with his Mente even
+13:06 
+
+13:06 until today it's an ongoing relationship
+13:08 
+
+13:08 and whenever I hear those stories it
+13:10 
+
+13:10 just felt so heartwarming like they met
+13:12 
+
+13:12 through this mentorship program that we
+13:14 
+
+13:14 match them with and at first it's like
+13:17 
+
+13:17 both of them are not really sure like
+13:19 
+
+13:19 he's a newbie Mentor she's a newbie
+13:21 
+
+13:21 mentee and they both just meet in that
+13:24 
+
+13:24 environment and that's when like just
+13:26 
+
+13:26 all the conversation start flowing and
+13:28 
+
+13:28 they are able to navigate with through
+13:30 
+
+13:30 each others you know just by discussions
+13:32 
+
+13:32 and often communicating they manag to
+13:36 
+
+13:36 actually both of them find something
+13:38 
+
+13:38 more valuable and more meaningful in
+13:40 
+
+13:40 their Journeys so I think when I hear
+13:42 
+
+13:42 those stories I felt like it makes it
+13:44 
+
+13:44 all worth it and they themselves know
+13:46 
+
+13:46 that this is a two-way relationship like
+13:48 
+
+13:48 both of them will find the time to meet
+13:50 
+
+13:50 each other and to catch up and making
+13:52 
+
+13:52 sure that everyone is you know happy
+13:55 
+
+13:55 yeah yeah yeah so just want to share
+13:57 
+
+13:57 that yeah actually that's that's nice
+13:59 
+
+13:59 that you sh like it was like we were the
+14:01 
+
+14:01 papa te made it happen yeah yeah you
+14:04 
+
+14:04 really like the I actually like touching
+14:06 
+
+14:06 on this topic um what I've realized
+14:08 
+
+14:08 after like meeting different people you
+14:09 
+
+14:09 know we've all met different people had
+14:11 
+
+14:11 different events there seems to be a
+14:13 
+
+14:13 very clear group of people that come up
+14:16 
+
+14:16 to us after one it's like people seeking
+14:19 
+
+14:19 more advice more mentorships so the
+14:21 
+
+14:21 mentees and then there's also the group
+14:23 
+
+14:23 where um they're actually looking to
+14:25 
+
+14:25 give to share and they want to look for
+14:27 
+
+14:27 people who are uh in that same uh uh uh
+14:30 
+
+14:30 process of trying to um learn from
+14:32 
+
+14:32 others as well and I think like what we
+14:35 
+
+14:35 do in our organizations is basically
+14:37 
+
+14:37 create this bridge for people like the
+14:39 
+
+14:39 eight-month program that both of you
+14:41 
+
+14:41 shared about but also in our personal um
+14:44 
+
+14:44 Journeys as we talk and speak to people
+14:46 
+
+14:46 also connecting people to each other so
+14:48 
+
+14:48 I think that's also a very like um
+14:50 
+
+14:50 unstated part of quote unquote
+14:53 
+
+14:53 mentorship it's also the people and the
+14:55 
+
+14:55 organizations that try to bridge this
+14:57 
+
+14:57 group of people who want to learn learn
+14:59 
+
+14:59 and this group of people who want to
+15:00 
+
+15:00 give but in the process both learn and
+15:02 
+
+15:02 give together and I think that's by
+15:05 
+
+15:05 itself it's a very um poetic and
+15:09 
+
+15:09 beautiful kind of thing that it's it's
+15:10 
+
+15:10 so discreet right like you know when uh
+15:13 
+
+15:13 you hear about these two people the
+15:15 
+
+15:15 mentors and mentees meeting even after
+15:17 
+
+15:17 the program you know you feel like wow
+15:19 
+
+15:19 I've actually done something um perhaps
+15:22 
+
+15:22 to like the people in these programs um
+15:24 
+
+15:24 they I I'm sure like they're very
+15:26 
+
+15:26 thankful for for the program itself but
+15:28 
+
+15:28 you don't really I how much of an impact
+15:30 
+
+15:30 that you've had on somebody's lives
+15:31 
+
+15:31 until you know you hear these stories
+15:33 
+
+15:33 and I think that's really nice I do want
+15:35 
+
+15:35 to throw a curveball in this because um
+15:38 
+
+15:38 I spoke with some people from uh
+15:39 
+
+15:39 different mentorship programs including
+15:41 
+
+15:41 uh the one that we talked about
+15:43 
+
+15:43 including um my my own like mentorship
+15:46 
+
+15:46 programs in my organization and honestly
+15:49 
+
+15:49 there were mentors I was matched with or
+15:52 
+
+15:52 mentees um other people have matched
+15:54 
+
+15:54 with they just didn't click and they did
+15:56 
+
+15:56 not follow from that um that mentorship
+15:59 
+
+15:59 program uh process so I wanted to ask
+16:02 
+
+16:02 both of you um I guess this goes into
+16:05 
+
+16:05 like what do you look for in uh when you
+16:07 
+
+16:07 want to learn from someone um when
+16:09 
+
+16:09 you're seeking a mentor or a mentee and
+16:12 
+
+16:12 what do you not look out for where do
+16:13 
+
+16:13 you know that okay this is probably not
+16:15 
+
+16:15 going to work out have you had those
+16:17 
+
+16:17 experiences can I go first Yeah so
+16:20 
+
+16:20 basically just based on my experiences
+16:22 
+
+16:22 like through personal stories and also
+16:24 
+
+16:24 through this mentorship program that we
+16:26 
+
+16:26 organize is that when we're matching
+16:27 
+
+16:27 mentees and mentors we must make sure
+16:29 
+
+16:29 both of their goals aligned and I do
+16:32 
+
+16:32 notice that some M and Mentor
+16:34 
+
+16:34 relationship that actually fall apart is
+16:37 
+
+16:37 because they do not have the same goals
+16:39 
+
+16:39 or they were not clear about each
+16:40 
+
+16:40 other's goals so they become confused
+16:43 
+
+16:43 how to help and then the mentee will be
+16:46 
+
+16:46 confused what to ask for help in so when
+16:49 
+
+16:49 there's that confusion there's just no
+16:51 
+
+16:51 Clarity like it's all a fog and people
+16:53 
+
+16:53 just start like feeling like oh this is
+16:55 
+
+16:55 a waste of time and then they decided
+16:57 
+
+16:57 not to communicate anymore so usually it
+16:60 
+
+16:60 all boils down into both parties having
+17:02 
+
+17:02 clear objectives what do they want out
+17:04 
+
+17:04 of this relationship um it might sound a
+17:06 
+
+17:06 bit transactional like you know what do
+17:08 
+
+17:08 you want out of this relationship but in
+17:10 
+
+17:10 a way or another it is like the reason
+17:13 
+
+17:13 why they want to come together in the
+17:15 
+
+17:15 first place so they do need to define
+17:17 
+
+17:17 the objectives clearly and during our
+17:20 
+
+17:20 mentorship kickoff we do mention some of
+17:22 
+
+17:22 like expectations does and don'ts of you
+17:24 
+
+17:24 know being in a mentorship and one of
+17:26 
+
+17:26 the don'ts is don't expect your mentor
+17:29 
+
+17:29 like for the M perspective don't expect
+17:31 
+
+17:31 them to give you everything like give
+17:33 
+
+17:33 you oh here's the the book of life and
+17:36 
+
+17:36 you will be this a curriculum like yeah
+17:38 
+
+17:38 what you yeah I think most mentees came
+17:40 
+
+17:40 in with that expectation also that oh my
+17:43 
+
+17:43 mentor is going to help me do everything
+17:45 
+
+17:45 or like they're going to give me all
+17:46 
+
+17:46 these contexts and I'm going to be like
+17:48 
+
+17:48 super super duper great at all this like
+17:51 
+
+17:51 in my career and I'm going to just
+17:53 
+
+17:53 launch to like you know a successful
+17:55 
+
+17:55 Journey but that's not the case they
+17:57 
+
+17:57 also have to put an effort in their own
+17:59 
+
+17:59 part and of course all the mentor can do
+18:02 
+
+18:02 is give advice guide but they cannot
+18:06 
+
+18:06 give them the fish you know they only
+18:09 
+
+18:09 teach them how to fish so at the end of
+18:11 
+
+18:11 the day it's all about also managing
+18:13 
+
+18:13 expectations so knowing your objectives
+18:16 
+
+18:16 and managing expectations of each other
+18:18 
+
+18:18 yeah like even the commitment levels
+18:20 
+
+18:20 like some mentees and mentors they don't
+18:23 
+
+18:23 align in their commitment level some
+18:25 
+
+18:25 maybe want to meet more frequently than
+18:26 
+
+18:26 others that can also cause some you know
+18:29 
+
+18:29 disagreement in general but yeah so want
+18:32 
+
+18:32 to add anything I don't I mean
+18:35 
+
+18:35 definitely like uh it's because we are
+18:37 
+
+18:37 matching them there would be some
+18:38 
+
+18:38 hiccups here and there there were a few
+18:40 
+
+18:40 dropouts and like people who didn't want
+18:42 
+
+18:42 that Mentor that mentee uh but I think
+18:46 
+
+18:46 the end of it is like you you have to
+18:48 
+
+18:48 know that you have to respect each
+18:49 
+
+18:49 other's time and yeah I think the
+18:52 
+
+18:52 respect is respect each other
+18:54 
+
+18:54 actually uh but like uh back to your
+18:57 
+
+18:57 question on like what should we look out
+18:59 
+
+18:59 for what shouldn't we look out for in
+19:01 
+
+19:01 our Mentor I was actually just
+19:03 
+
+19:03 reflecting like as as we were conversing
+19:06 
+
+19:06 that actually I myself didn't or don't
+19:09 
+
+19:09 have a mentor in in my entire Journey
+19:12 
+
+19:12 yet and it might have been a bit
+19:15 
+
+19:15 deliberate I think in my case cuz I used
+19:20 
+
+19:20 to fear that having a mentor would hold
+19:24 
+
+19:24 me too accountable in the sense that uh
+19:29 
+
+19:29 you know what if like like at that point
+19:31 
+
+19:31 I used to think that it would be one way
+19:35 
+
+19:35 right so I used to have a fear that it
+19:37 
+
+19:37 might be a bit too controlling then that
+19:40 
+
+19:40 I would have to uh you know commit to a
+19:44 
+
+19:44 few things that they have to offer and I
+19:47 
+
+19:47 have to follow that and I have to meet
+19:48 
+
+19:48 certain goals in certain time and I
+19:52 
+
+19:52 might not be able to go on my own
+19:54 
+
+19:54 trajectory or like explore things uh on
+19:57 
+
+19:57 my own and I also wasn't sure what do I
+19:60 
+
+19:60 want exactly like a couple of years ago
+20:03 
+
+20:03 even now I mean I can't say I know what
+20:04 
+
+20:04 exactly I want so I kind of liked that
+20:07 
+
+20:07 I'm still searching and trying to PVE my
+20:10 
+
+20:10 own path here and there not to say that
+20:12 
+
+20:12 I don't have mentors at all I do have uh
+20:15 
+
+20:15 like you men pseudo mentors like in Tech
+20:18 
+
+20:18 influencers like I follow a few
+20:20 
+
+20:20 influencers where I do have the thing
+20:22 
+
+20:22 that oh I want to be like them like you
+20:24 
+
+20:24 know influence in Tech have like a a
+20:28 
+
+20:28 follow of myself uh things like so I
+20:31 
+
+20:31 look out for I look like I look out for
+20:34 
+
+20:34 these kind of people and I kind of
+20:36 
+
+20:36 follow their path whatever they're
+20:38 
+
+20:38 showing on social media and uh I'll
+20:40 
+
+20:40 support them even uh so I actually like
+20:43 
+
+20:43 buy merchandise and like causes for of
+20:48 
+
+20:48 these people who who really do good in
+20:51 
+
+20:51 like like this one influence I follow uh
+20:53 
+
+20:53 she's she's from India so it's kti pwani
+20:57 
+
+20:57 she started off we like doing Tech
+20:59 
+
+20:59 influencing and like and she'll also
+21:01 
+
+21:01 bring her own personality onto that
+21:03 
+
+21:03 space and now she's she started teaching
+21:06 
+
+21:06 like DSA and system design
+21:09 
+
+21:09 causes again uh data structures and
+21:12 
+
+21:12 algorithm okay okay I don't know why I
+21:13 
+
+21:13 was thinking direct School
+21:16 
+
+21:16 admission no really stupid with acon we
+21:20 
+
+21:20 should always clarify for audience as
+21:22 
+
+21:22 well so the structures and algorithms
+21:25 
+
+21:25 and system design she's a software
+21:26 
+
+21:26 developer and then I I signed up for one
+21:29 
+
+21:29 of her course and it was so so good like
+21:32 
+
+21:32 her way of teaching is so good so that
+21:35 
+
+21:35 even if I so like I actually want to uh
+21:39 
+
+21:39 want to encourage others to get her
+21:41 
+
+21:41 course because I think she's so good and
+21:43 
+
+21:43 she deserves people to follow her and
+21:46 
+
+21:46 get her course and like go to even
+21:48 
+
+21:48 higher so so she's kind of like a she
+21:51 
+
+21:51 doesn't know she's a mentor to me but
+21:53 
+
+21:53 she could be in that aspect that she
+21:55 
+
+21:55 does give her advice on on her channels
+21:58 
+
+21:58 as well so I do follow a few people and
+22:00 
+
+22:00 like follow certain traits of theirs
+22:03 
+
+22:03 that I would like to also incorporate so
+22:06 
+
+22:06 in that way I have pseudo mentors they
+22:09 
+
+22:09 don't know they are my mentors but
+22:10 
+
+22:10 they're there and uh yeah so like I
+22:13 
+
+22:13 don't one person to be accountable and I
+22:16 
+
+22:16 I I fear that a little bit so I wouldn't
+22:20 
+
+22:20 actively go out there and seek a mentor
+22:22 
+
+22:22 like that but I would appreciate talking
+22:24 
+
+22:24 to people not at a mentor position but
+22:28 
+
+22:28 like please do share your experiences or
+22:31 
+
+22:31 like what advice do you have to give and
+22:33 
+
+22:33 not have the thinking that I would heat
+22:36 
+
+22:36 to your advice or something yeah no
+22:39 
+
+22:39 actually like we keep coming to the same
+22:41 
+
+22:41 um conclusion it's that I think the word
+22:44 
+
+22:44 mentorship is way too singular it's too
+22:47 
+
+22:47 one way and we all didn't really fite
+22:50 
+
+22:50 with that way of learning through people
+22:52 
+
+22:52 but we've all been kind of in our own
+22:54 
+
+22:54 way seeking our own people to learn from
+22:56 
+
+22:56 picking our own people to learn from
+22:58 
+
+22:58 also sharing knowledge and not really
+23:00 
+
+23:00 picking our mentees but also through
+23:02 
+
+23:02 conversations realizing that we share
+23:04 
+
+23:04 knowledge organically and I like what
+23:06 
+
+23:06 you said it's basically just a
+23:07 
+
+23:07 relationship it's just a friendship it's
+23:09 
+
+23:09 just a relationship uh mentorship is
+23:11 
+
+23:11 just one way to describe it um and I
+23:14 
+
+23:14 think perhaps this term was created more
+23:17 
+
+23:17 uh in an institution where you know like
+23:19 
+
+23:19 in my case where the organization had to
+23:22 
+
+23:22 kind of institutionalize mentorship I
+23:25 
+
+23:25 assign like an older uh like a more
+23:27 
+
+23:27 experienced employee to a younger uh
+23:30 
+
+23:30 employee so that they can share work
+23:32 
+
+23:32 experiences together but Tak it in real
+23:34 
+
+23:34 life actually we all are experiencing
+23:37 
+
+23:37 mentorships of some way of form um
+23:40 
+
+23:40 through communicating with others um one
+23:42 
+
+23:42 through the way we like make friends
+23:44 
+
+23:44 with others and learn from them I like
+23:46 
+
+23:46 what you said about like you also look
+23:47 
+
+23:47 up to people who don't know that you're
+23:49 
+
+23:49 a Mente but actually it's mentorship at
+23:52 
+
+23:52 scale for them you know it it's teaching
+23:55 
+
+23:55 uh they're they're trying to teach to a
+23:56 
+
+23:56 wider pool of people recognizing that
+23:58 
+
+23:58 they're experiences um might not just
+24:00 
+
+24:00 benefit just one mentee but many so
+24:03 
+
+24:03 they're trying to use medians um like
+24:05 
+
+24:05 these uh influencing uh platforms to
+24:08 
+
+24:08 share this knowledge at large um and you
+24:11 
+
+24:11 know even in this conversation it could
+24:13 
+
+24:13 Loosely be be labeled as some sort of
+24:15 
+
+24:15 mentorship as well we're sharing this
+24:17 
+
+24:17 this is this is us sharing knowledge
+24:20 
+
+24:20 with each each other and actually I was
+24:22 
+
+24:22 kind of thinking like At first I
+24:24 
+
+24:24 classified as you are more likely to be
+24:26 
+
+24:26 a mentor than both of us and we're
+24:28 
+
+24:28 likely to be in the process of searching
+24:29 
+
+24:29 for mentors but I reflected on it I I
+24:32 
+
+24:32 wouldn't categorize myself in any of
+24:34 
+
+24:34 those binaries cuz you're also saying
+24:36 
+
+24:36 that I'm not intention intentionally
+24:38 
+
+24:38 looking for a mentor but I'm look I'm
+24:40 
+
+24:40 still looking out for people I can learn
+24:42 
+
+24:42 from you know so in this process yeah we
+24:45 
+
+24:45 shouldn't Park ourselves in that binary
+24:47 
+
+24:47 Mentor mentee we shouldn't Park
+24:48 
+
+24:48 ourselves um in terms of like one uh
+24:51 
+
+24:51 Mentor one mentee it's always us looking
+24:54 
+
+24:54 for diverse opinions to learn from and I
+24:57 
+
+24:57 yeah actually
+24:58 
+
+24:58 you know that that was quite a
+24:60 
+
+24:60 breakthrough in my head through this
+25:01 
+
+25:01 conversation yeah and what you mentioned
+25:03 
+
+25:03 actually also reminds me of this saying
+25:05 
+
+25:05 like it takes a village to raise a child
+25:07 
+
+25:07 well it takes a community to grow a
+25:10 
+
+25:10 person as well
+25:14 
+
+25:14 so I don't know I just I just I just
+25:17 
+
+25:17 apply that to a bigger scale but yeah I
+25:19 
+
+25:19 think it's true like we all learn from
+25:21 
+
+25:21 like various people that we meet
+25:22 
+
+25:22 throughout our lives like that makes us
+25:24 
+
+25:24 a part of who we are like just by
+25:26 
+
+25:26 interacting with people every day we
+25:28 
+
+25:28 actually learn something like maybe even
+25:30 
+
+25:30 subconsciously we learn things from them
+25:32 
+
+25:32 so yeah like you mentioned it's not
+25:34 
+
+25:34 something binary and also I love how
+25:37 
+
+25:37 when sonone mentioned that uh she don't
+25:39 
+
+25:39 want really the accountability thing oh
+25:42 
+
+25:42 like maybe that's why I also like when
+25:45 
+
+25:45 in navigating my career I also just want
+25:47 
+
+25:47 to have the freedom to explore it myself
+25:50 
+
+25:50 make some mistakes myself you know I
+25:52 
+
+25:52 think a lot of people they're scared of
+25:53 
+
+25:53 falling down but you know like sometimes
+25:56 
+
+25:56 you you got to fall down so you know you
+25:58 
+
+25:58 learn how to get back up so that is
+26:00 
+
+26:00 something that I wanted to do and maybe
+26:03 
+
+26:03 that's why I just I just you know try
+26:06 
+
+26:06 everything yeah yeah yeah yeah for sure
+26:09 
+
+26:09 yeah oh no actually I I was um the last
+26:14 
+
+26:14 uh point I had uh was uh actually more
+26:18 
+
+26:18 of uh I also through this process don't
+26:20 
+
+26:20 want to invalidate people who are
+26:22 
+
+26:22 looking for mentors you know cuz I um
+26:25 
+
+26:25 different people are different there
+26:26 
+
+26:26 could be something you know you want to
+26:28 
+
+26:28 get to or you definitely want this
+26:31 
+
+26:31 person's path and then I would
+26:34 
+
+26:34 definitely encourage that if you have
+26:35 
+
+26:35 found a person you want to be for sure
+26:38 
+
+26:38 then you should seek that person as a
+26:41 
+
+26:41 like a official Mentor have have uh
+26:44 
+
+26:44 frequent meetings and you know catch up
+26:47 
+
+26:47 or if some people like to be accountable
+26:49 
+
+26:49 right yeah they want like structure they
+26:51 
+
+26:51 want accountability correct so then
+26:54 
+
+26:54 there is also that we are not saying
+26:56 
+
+26:56 that's no no don't do that m that's
+26:58 
+
+26:58 another person's opinion another
+27:00 
+
+27:00 person's way of working so and uh like
+27:04 
+
+27:04 we are part of women code we are going
+27:06 
+
+27:06 to be doing more mentorship programs yes
+27:09 
+
+27:09 definely not invalidating yeah so we are
+27:11 
+
+27:11 definitely I personally uh am very happy
+27:14 
+
+27:14 to like make people match up where they
+27:16 
+
+27:16 can find some uh guidance through their
+27:19 
+
+27:19 career or like it could be even a short
+27:22 
+
+27:22 thing where can you help me get a job
+27:25 
+
+27:25 can you help me switch into Tech it
+27:26 
+
+27:26 could just be a short uh shortterm thing
+27:29 
+
+27:29 for example so uh I I would like someone
+27:33 
+
+27:33 if I ever figure out what a shortterm
+27:35 
+
+27:35 thing I want and if I can find someone
+27:36 
+
+27:36 who can mentor me I would definitely
+27:38 
+
+27:38 love that as well yeah yeah and in know
+27:40 
+
+27:40 way it's it's more of like um I we we
+27:43 
+
+27:43 acknowledge our privileged circumstance
+27:45 
+
+27:45 that you know our personalities have
+27:47 
+
+27:47 allowed us to be more exploratory in
+27:49 
+
+27:49 nature and to see the world in this way
+27:51 
+
+27:51 where in communities where we're exposed
+27:54 
+
+27:54 to many many people that we can learn
+27:55 
+
+27:55 from but a lot of people don't start
+27:57 
+
+27:57 from that that same Landing point and
+27:59 
+
+27:59 that's why we create these programs to
+28:01 
+
+28:01 start them off um uh with um like you
+28:04 
+
+28:04 talk to this person and you talk to this
+28:05 
+
+28:05 person because a lot of people can't
+28:07 
+
+28:07 even take that first step because of
+28:10 
+
+28:10 their uh external circumstances because
+28:12 
+
+28:12 of the way that they've been brought up
+28:13 
+
+28:13 so many different reasons but I think
+28:15 
+
+28:15 how we see the mentorship program is uh
+28:18 
+
+28:18 or like any mentorship program that
+28:19 
+
+28:19 we're in it's more of we give you the
+28:21 
+
+28:21 starting point here's like One Mentor
+28:23 
+
+28:23 but we hope that um people will
+28:25 
+
+28:25 eventually come to uh their own
+28:27 
+
+28:27 conclusion that wait I don't have to
+28:28 
+
+28:28 just stick to this moment or wait
+28:30 
+
+28:30 there's also this other person that's
+28:32 
+
+28:32 why it's a mentorship program right
+28:33 
+
+28:33 you're also showing that look these are
+28:35 
+
+28:35 all the different people you could learn
+28:36 
+
+28:36 from for now you can learn from start
+28:38 
+
+28:38 with uh this one person but you can talk
+28:39 
+
+28:39 to this other one you can talk to this
+28:41 
+
+28:41 other one and you know as we talk about
+28:43 
+
+28:43 how mentorship it's not about us telling
+28:45 
+
+28:45 you exactly what to do even in this
+28:47 
+
+28:47 conversation we're obviously not telling
+28:49 
+
+28:49 everybody like don't seek out mentorship
+28:51 
+
+28:51 this is our experience and our Journeys
+28:53 
+
+28:53 realizing that mentorship is not binary
+28:56 
+
+28:56 it's not singular and we share sharing
+28:58 
+
+28:58 that experience hoping that that seats a
+28:60 
+
+28:60 thought in somebody else's head but
+29:02 
+
+29:02 we're also not prescribing it because
+29:03 
+
+29:03 you know everybody's experiences are
+29:05 
+
+29:05 different and definitely and just to add
+29:07 
+
+29:07 on to that like everyone's journey is
+29:08 
+
+29:08 different so some people mentorship is
+29:10 
+
+29:10 just a part of that Journey so even if
+29:12 
+
+29:12 someone is still in their exploratory
+29:15 
+
+29:15 kind of stage they might seek out
+29:17 
+
+29:17 mentorship just so that they can get
+29:19 
+
+29:19 exposed to like that area of tech and
+29:21 
+
+29:21 like realize maybe that's not for them
+29:23 
+
+29:23 maybe that is for them so it really
+29:26 
+
+29:26 depends like you mentioned on their
+29:28 
+
+29:28 personality and what they want from the
+29:30 
+
+29:30 mentorship program and that's why once
+29:32 
+
+29:32 again I emphasize like if you are if you
+29:34 
+
+29:34 are seeking mentorship then you need to
+29:36 
+
+29:36 be clear like what do you want out of
+29:38 
+
+29:38 the mentorship so that you know you
+29:40 
+
+29:40 don't feel lost during the whole process
+29:43 
+
+29:43 the whole program in fact yeah so it can
+29:47 
+
+29:47 be for anyone and it's just something
+29:50 
+
+29:50 that we have to try yeah exactly exactly
+29:52 
+
+29:52 you wouldn't know unless you try it out
+29:54 
+
+29:54 so definitely try things yeah yeah for
+29:57 
+
+29:57 sure well I think that was a really
+29:59 
+
+29:59 beautiful conclusion to this topic I
+30:01 
+
+30:01 actually didn't realize we would come to
+30:02 
+
+30:02 this point in the sense where we started
+30:05 
+
+30:05 with like mentorship because a lot of
+30:06 
+
+30:06 people like requested for it but then
+30:08 
+
+30:08 realizing that our own views of on
+30:10 
+
+30:10 mentorship is um convergent amongst us
+30:14 
+
+30:14 but also acknowledging that like um
+30:16 
+
+30:16 that's uh not a view that anybody uh
+30:19 
+
+30:19 needs to have also um but yeah I think
+30:23 
+
+30:23 that was a really good wrap up in terms
+30:25 
+
+30:25 of uh how we View mentorship and how um
+30:27 
+
+30:27 um we also like uh construct programs to
+30:31 
+
+30:31 connect people together like that role
+30:32 
+
+30:32 is very important as well uh through our
+30:34 
+
+30:34 experiences in women and code and for
+30:36 
+
+30:36 all three of us right here this is also
+30:38 
+
+30:38 our way of sharing knowledge um both to
+30:40 
+
+30:40 each other and hopefully to the world
+30:42 
+
+30:42 through the medium of this video podcast
+30:45 
+
+30:45 so um as always um I guess we have to
+30:48 
+
+30:48 thank everybody for like um tuning in to
+30:50 
+
+30:50 this episode uh we talked about
+30:52 
+
+30:52 mentorship today but we'll have like
+30:53 
+
+30:53 even more topics um talking about a lot
+30:55 
+
+30:55 of different things as always we
+30:57 
+
+30:57 appreciate all the comments as you can
+30:58 
+
+30:58 see based on people's uh responses and
+31:01 
+
+31:01 comments we adopt like these topics and
+31:03 
+
+31:03 you give us like topics to talk about so
+31:05 
+
+31:05 as always um like comment subscribe
+31:10 
+
+31:10 follow I will never get this right yeah
+31:13 
+
+31:13 do all the socials all the socials all
+31:14 
+
+31:14 the socials yeah thank you and have a
+31:18 
+
+31:18 good day and this is Rec tag this is re
+31:21 
+
+31:21 [Music]
+31:23 
+
+31:23 tag

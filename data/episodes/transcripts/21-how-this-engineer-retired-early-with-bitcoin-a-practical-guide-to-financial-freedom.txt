@@ -1,0 +1,1675 @@
+00:00 welcome to re Tech a place for bites and
+00:02 
+
+00:02 bentor where we talk about real life in
+00:04 
+
+00:04 tech for techies and non- techies alike
+00:07 
+
+00:07 we're Natasha and Salone rtech co-hosts
+00:10 
+
+00:10 and software Engineers we have our guest
+00:12 
+
+00:12 speaker Martin a recently retired
+00:14 
+
+00:14 software engineer in the last episode we
+00:17 
+
+00:17 talked to Martin about the tech
+00:18 
+
+00:18 Community culture of Open Source with
+00:20 
+
+00:20 his experience in the python User Group
+00:22 
+
+00:22 Tech Community in today's episode we'll
+00:25 
+
+00:25 be looking into how he managed his
+00:27 
+
+00:27 finances to retire relatively early as a
+00:29 
+
+00:29 software engineer
+00:31 
+
+00:31 [Music]
+00:35 
+
+00:35 yeah but now I kind of want to seg into
+00:37 
+
+00:37 your new label as a retired engineer as
+00:40 
+
+00:40 well as a that uh but to get to this
+00:42 
+
+00:42 stage of retirement obviously like you
+00:45 
+
+00:45 it has to do a lot with how you manage
+00:47 
+
+00:47 your finances otherwise you'll be
+00:48 
+
+00:48 working to the end of time um so we
+00:50 
+
+00:50 wanted to ask you in your perspective as
+00:52 
+
+00:52 as an engineer uh what is your take on
+00:56 
+
+00:56 how you manage your own finances M well
+00:60 
+
+01:00 we've already spoken about this before
+01:02 
+
+01:02 the the talk right so um my case as with
+01:04 
+
+01:04 everything that I do is is probably a
+01:06 
+
+01:06 little bit off the Beaten Track right
+01:08 
+
+01:08 and and um un
+01:10 
+
+01:10 unconventional um my retirement is not
+01:13 
+
+01:13 fueled by any of the work that I've ever
+01:15 
+
+01:15 done so like I've coded the code base
+01:18 
+
+01:18 for six startups of which probably four
+01:21 
+
+01:21 are still alive um I have shares in
+01:24 
+
+01:24 certain startups but none of that ever
+01:26 
+
+01:26 gave me a windfall of money so that's
+01:28 
+
+01:28 not what worked out for me in the end
+01:30 
+
+01:30 like like all this coding was fun but it
+01:32 
+
+01:32 wasn't lucrative I mean I I still make
+01:34 
+
+01:34 good salary I guess but um um nothing
+01:37 
+
+01:37 crazy not not nothing like you hear from
+01:39 
+
+01:39 Silicon Valley Engineers or anything
+01:41 
+
+01:41 like that right um pretty normal salary
+01:43 
+
+01:43 for Singapore terms what I did is I read
+01:46 
+
+01:46 the Bitcoin white paper 13 years ago I
+01:49 
+
+01:49 understood the implications of it and I
+01:51 
+
+01:51 sent an email to my five best friends in
+01:54 
+
+01:54 Germany and I said guys I found this
+01:55 
+
+01:55 thing we need to start buying this and
+01:57 
+
+01:57 so then the six of us all started
+02:01 
+
+02:01 dollar cost averaging interest so like
+02:03 
+
+02:03 this's this term DCA technically it's
+02:05 
+
+02:05 not right to say that this is dollar
+02:06 
+
+02:06 cost averaging because in reality dollar
+02:09 
+
+02:09 cost averaging means I have a lot of
+02:10 
+
+02:10 money how do I spend it do I spend it
+02:12 
+
+02:12 all at once and and and buy Bitcoin all
+02:14 
+
+02:14 at once or do I split it up and and
+02:16 
+
+02:16 every months or every interval I buy the
+02:18 
+
+02:18 same amount that would be dollar cost
+02:20 
+
+02:20 average I didn't have a lot of money but
+02:22 
+
+02:22 I still every month actually in the
+02:25 
+
+02:25 beginning every week I spent uh the same
+02:27 
+
+02:27 amount of money to buy Bitcoin right I
+02:29 
+
+02:29 asked my myself how much money can I
+02:31 
+
+02:31 flush down the toilet without affecting
+02:33 
+
+02:33 my lifestyle at all so then you know we
+02:36 
+
+02:36 waste a lot of money at Starbucks or
+02:38 
+
+02:38 Cinema or like fancy restaurants that
+02:40 
+
+02:40 not necessary and all kinds of crap that
+02:42 
+
+02:42 we buy and I decided maybe I can flush
+02:45 
+
+02:45 down like $40 every week some money that
+02:49 
+
+02:49 you're okay to uh lose yeah exactly
+02:52 
+
+02:52 that's in crypto that's what everybody
+02:53 
+
+02:53 says right don't invest what you can't
+02:55 
+
+02:55 afford to lose and at the time I I mean
+02:58 
+
+02:58 that was 13 years ago very humble
+02:60 
+
+02:60 Beginnings for me right I was like
+03:02 
+
+03:02 sleeping on the floor at at my wife's
+03:04 
+
+03:04 house because there was no room and um
+03:07 
+
+03:07 you know just started my own company and
+03:09 
+
+03:09 basically my salary was whatever was
+03:12 
+
+03:12 left at the end of the month from our
+03:14 
+
+03:14 profits and that was not much right and
+03:17 
+
+03:17 uh so some months I just earned like
+03:19 
+
+03:19 $500 and then the next months maybe I
+03:21 
+
+03:21 got a bigger project and I earned like
+03:23 
+
+03:23 three or $4,000 right and I mean
+03:25 
+
+03:25 obviously that grows and grows and grows
+03:26 
+
+03:26 as you got get better known and your
+03:29 
+
+03:29 portfolio speaks for itself um but yeah
+03:32 
+
+03:32 I just kept buying every single months
+03:34 
+
+03:34 no matter if the price goes up or goes
+03:36 
+
+03:36 down just buy so to me in the Bitcoin
+03:38 
+
+03:38 community in the in on crypto Twitter
+03:40 
+
+03:40 people call this DCA dollar cost average
+03:43 
+
+03:43 although technically it's not DCA right
+03:45 
+
+03:45 but um it's a bit scary because when
+03:50 
+
+03:50 when I started it the price was at the
+03:52 
+
+03:52 mount Cox Peak ,300 or so I started
+03:56 
+
+03:56 buying and it crashed down to like $200
+03:59 
+
+03:59 yeah but actually when your goal is to
+04:02 
+
+04:02 acquire more Bitcoin you are happy about
+04:04 
+
+04:04 that as it went down for my $40 I got
+04:08 
+
+04:08 more Bitcoins every every months right
+04:11 
+
+04:11 so I I ended up getting much more than I
+04:13 
+
+04:13 anticipated and then after four years
+04:16 
+
+04:16 the next Bull uh run happens and then
+04:19 
+
+04:19 that money that I invested became 10x
+04:21 
+
+04:21 more so now I had the psychological
+04:23 
+
+04:23 effect that oh actually if uh you know I
+04:26 
+
+04:26 took out the money that I had already
+04:28 
+
+04:28 invested by then just so so that
+04:30 
+
+04:30 psychologically I can tell myself if
+04:32 
+
+04:32 Bitcoin gets banned or crashes or
+04:34 
+
+04:34 whatever gets hacked at least I got
+04:36 
+
+04:36 those $5,000 that I spent last four
+04:38 
+
+04:38 years I got it back and then I bought
+04:39 
+
+04:39 myself a Macbook or whatever or some
+04:41 
+
+04:41 nice Christmas usually I buy nice
+04:42 
+
+04:42 Christmas gifts for all my
+04:44 
+
+04:44 friends so I want to be a
+04:46 
+
+04:46 friend so um um and I just kept doing
+04:50 
+
+04:50 this all the time I never really touched
+04:53 
+
+04:53 my stack right and as and and then
+04:56 
+
+04:56 suddenly you have this big pile of worst
+04:59 
+
+04:59 there and so then you feel more
+05:01 
+
+05:01 confident to increase the amount of
+05:03 
+
+05:03 money that you can Flash down the toilet
+05:04 
+
+05:04 also you probably you know progress in
+05:07 
+
+05:07 your career and you earn more salary as
+05:09 
+
+05:09 well so I would say like 5 to 10% of
+05:11 
+
+05:11 anyone's salary should be put away for
+05:14 
+
+05:14 savings and um and now people will say
+05:18 
+
+05:18 oh but you can't do this now anymore
+05:19 
+
+05:19 because you know Bitcoin has done its
+05:21 
+
+05:21 thing but that's not what I believe I
+05:23 
+
+05:23 mean when you think about how many
+05:25 
+
+05:25 people do own Bitcoin among your friends
+05:28 
+
+05:28 and family probably no one right it's
+05:29 
+
+05:29 still still incredibly Niche and um but
+05:34 
+
+05:34 now we have governments playing around
+05:35 
+
+05:35 with it you know like in in the US there
+05:38 
+
+05:38 are entire States who make new laws to
+05:41 
+
+05:41 make sure that people are always allowed
+05:43 
+
+05:43 to self- custody their own coins to make
+05:45 
+
+05:45 sure that mining operations um can
+05:48 
+
+05:48 function properly and so on so this
+05:50 
+
+05:50 thing is still growing and thriving and
+05:53 
+
+05:53 um that you know you have to think about
+05:55 
+
+05:55 Metal's law which is um the the value of
+05:59 
+
+05:59 a network um grows exponentially with
+06:02 
+
+06:02 the number of notes in the network right
+06:04 
+
+06:04 when you think about the telephone
+06:05 
+
+06:05 Network when there was in the beginning
+06:07 
+
+06:07 there was I think the US president and
+06:09 
+
+06:09 Russian president they had telephone
+06:11 
+
+06:11 line it's cool technology but not very
+06:13 
+
+06:13 useful as a network when every household
+06:15 
+
+06:15 in the world has a telephone it becomes
+06:18 
+
+06:18 incredibly disruptive technology that is
+06:20 
+
+06:20 incredibly valuable and money is a
+06:22 
+
+06:22 network actually right the more people
+06:24 
+
+06:24 use the same kind of money the more
+06:27 
+
+06:27 valuable that kind of money becomes and
+06:29 
+
+06:29 the more useful and that's why being the
+06:33 
+
+06:33 the country that has the global Reserve
+06:35 
+
+06:35 currency the US dollar makes the US
+06:37 
+
+06:37 dollar incredibly powerful because
+06:38 
+
+06:38 everywhere in the world every government
+06:40 
+
+06:40 wants to have US dollars so that they
+06:42 
+
+06:42 can buy oil right so the network effect
+06:45 
+
+06:45 is incredible and so Bitcoin would be
+06:48 
+
+06:48 even better right
+06:50 
+
+06:50 because the US can you can use the US
+06:52 
+
+06:52 dollar as economic Ware and U you know
+06:56 
+
+06:56 push down other countries Bitcoin would
+06:59 
+
+06:59 would eradicate that there would be
+07:01 
+
+07:01 finally a um um a currency that cannot
+07:06 
+
+07:06 be manipulated by any one government
+07:08 
+
+07:08 right and so it becomes a win-win
+07:09 
+
+07:09 situation for all the governments in the
+07:11 
+
+07:11 world right so I still believe that
+07:15 
+
+07:15 there's you know the the real mainstream
+07:17 
+
+07:17 effect of Bitcoin hasn't happened yet
+07:19 
+
+07:19 when you when you look at adoption S
+07:20 
+
+07:20 curve we are probably still at the very
+07:22 
+
+07:22 bottom where it's just going ballistic
+07:25 
+
+07:25 right early adopter stage yeah and so
+07:28 
+
+07:28 when you just think about medal's law
+07:29 
+
+07:29 and these things and game theory of you
+07:31 
+
+07:31 know the first country who prints money
+07:34 
+
+07:34 in order to buy Bitcoin uh in order to
+07:36 
+
+07:36 then Escape hyperinflation will will be
+07:39 
+
+07:39 the the country that will be the most
+07:40 
+
+07:40 wealthy after after hyperinflation
+07:42 
+
+07:42 globally happens and so on right so then
+07:44 
+
+07:44 all other countries will do this as well
+07:46 
+
+07:46 and then it becomes like a black hole
+07:47 
+
+07:47 that soaks in all the Fiat money and in
+07:49 
+
+07:49 the end the only money that has any
+07:50 
+
+07:50 value is Bitcoin right so I think this
+07:52 
+
+07:52 will eventually play out so um in my
+07:55 
+
+07:55 mind the the foure cycles of Bitcoin
+07:59 
+
+07:59 will continue to do it thing and anyone
+08:02 
+
+08:02 who still does this dollar cost
+08:03 
+
+08:03 averaging today will probably you know
+08:07 
+
+08:07 um experience quite a big appreciation
+08:10 
+
+08:10 of their investment every four years
+08:13 
+
+08:13 right so yeah I mean it's it's such a
+08:16 
+
+08:16 silly stupid simple thing that I did um
+08:19 
+
+08:19 but it worked out and and I I still
+08:21 
+
+08:21 think it will work out for other people
+08:23 
+
+08:23 as well um talking about managing
+08:26 
+
+08:26 finances right um I mentioned this
+08:28 
+
+08:28 earlier as well there's this app you
+08:29 
+
+08:29 need a budget
+08:30 
+
+08:30 oh yeah you need a budget.com I'm not
+08:32 
+
+08:32 affiliate with with them totally worse
+08:35 
+
+08:35 the subscription you have the book I
+08:37 
+
+08:37 have the book oh they have a book they
+08:39 
+
+08:39 they have a book which explains their
+08:41 
+
+08:41 the philosophy behind the app exactly so
+08:45 
+
+08:45 it's a super slick app and um you
+08:48 
+
+08:48 basically key in all the money that you
+08:50 
+
+08:50 spent right and and
+08:53 
+
+08:53 um and then when you key in that you got
+08:55 
+
+08:55 salary then you have the money sitting
+08:57 
+
+08:57 there on top as uh money to be uh put
+08:60 
+
+08:60 into buckets so then you have to come up
+09:02 
+
+09:02 with all the buckets what do I actually
+09:03 
+
+09:03 want to do with my money right so first
+09:06 
+
+09:06 you create all the buckets for your
+09:07 
+
+09:07 monthly builds electricity internet
+09:09 
+
+09:09 mobile phone and whatever right these
+09:12 
+
+09:12 things reappear then you create buckets
+09:14 
+
+09:14 for not so monthly things um I don't
+09:17 
+
+09:17 know buying clothes going to the
+09:18 
+
+09:18 hairdresser or whatever um and then
+09:21 
+
+09:21 actually I have buckets for birthday
+09:22 
+
+09:22 gifts for All My Friends Christmas gifts
+09:24 
+
+09:24 for all my friends if you add this up
+09:26 
+
+09:26 that's a lot of money per year that you
+09:27 
+
+09:27 spend on gifts actually but does any
+09:29 
+
+09:29 want plan for that no right when
+09:31 
+
+09:31 Christmas comes along you like damn I
+09:33 
+
+09:33 need why so many gifts I didn't save the
+09:35 
+
+09:35 money for that right so if you create
+09:37 
+
+09:37 all these buckets also done vacation you
+09:39 
+
+09:39 probably want to go on a fancy vacation
+09:41 
+
+09:41 which cost I don't know3 to $4,000 maybe
+09:43 
+
+09:43 you want to buy a new Macbook when your
+09:45 
+
+09:45 old one breaks down you have to plan for
+09:47 
+
+09:47 that you will eventually need a new
+09:48 
+
+09:48 backbook and these things cost $8,000
+09:50 
+
+09:50 nowadays right so um and then you can
+09:53 
+
+09:53 set the date like I want the new
+09:54 
+
+09:54 backbook four years from now then the
+09:56 
+
+09:56 app will break it down into monthly
+09:59 
+
+09:59 payments that you theoretically need to
+10:01 
+
+10:01 put aside so that in four years you have
+10:03 
+
+10:03 $8,000 for the mbook right so then every
+10:06 
+
+10:06 month when my money comes in uh in my
+10:08 
+
+10:08 bank account and that's the problem
+10:10 
+
+10:10 right when people don't have a savings
+10:12 
+
+10:12 account they get salary and they Splurge
+10:15 
+
+10:15 they feel like oh I'm so rich I can buy
+10:16 
+
+10:16 all kinds of things that you know I
+10:18 
+
+10:18 don't really need but actually at this
+10:21 
+
+10:21 app forces you at the beginning of the
+10:22 
+
+10:22 month to then take your salary and put
+10:25 
+
+10:25 it into all the buckets that you have
+10:27 
+
+10:27 created and then you realize oh
+10:30 
+
+10:30 I'm actually living above my means I
+10:32 
+
+10:32 don't have enough celery to fill the
+10:35 
+
+10:35 monthly little um drops into each bucket
+10:38 
+
+10:38 so that later on when I need that bucket
+10:40 
+
+10:40 I have the amount that I need right and
+10:42 
+
+10:42 that really changes your perspective on
+10:45 
+
+10:45 consumerism totally right um every time
+10:48 
+
+10:48 like when I go to like a restaurant or
+10:50 
+
+10:50 whatever can I actually afford uh
+10:53 
+
+10:53 grocery shop or like restaurant eating
+10:54 
+
+10:54 out there there's a category for eating
+10:56 
+
+10:56 out like this month I have actually
+10:59 
+
+10:59 already used up my budget for eating out
+11:01 
+
+11:01 right can I afford to have one more
+11:03 
+
+11:03 fancy meal at heido or whatever probably
+11:07 
+
+11:07 not right that means if I eat heidy L
+11:09 
+
+11:09 now I have to take this money away from
+11:11 
+
+11:11 another bucket that comes much later
+11:13 
+
+11:13 usually my MacBook bucket because that's
+11:15 
+
+11:15 always farar is it is a lot of money
+11:17 
+
+11:17 that I might not need uh at that time I
+11:21 
+
+11:21 can always wait a few more months before
+11:22 
+
+11:22 I then actually buy the makeb right but
+11:25 
+
+11:25 yeah um this app if anyone has trouble
+11:29 
+
+11:29 having month money left at the end of
+11:31 
+
+11:31 the month for savings right this app
+11:34 
+
+11:34 will get you there and then you have
+11:36 
+
+11:36 money left for savings so then you can
+11:38 
+
+11:38 put that money into Bitcoin right so
+11:40 
+
+11:40 have you been using this app since the
+11:42 
+
+11:42 beginning yeah yeah yeah for I've been
+11:44 
+
+11:44 using this for8 years or so yeah and and
+11:48 
+
+11:48 when I came to Singapore I was always
+11:50 
+
+11:50 broke when I started using that at
+11:52 
+
+11:52 literally like three months later I was
+11:53 
+
+11:53 like wow I have money at the end of the
+11:56 
+
+11:56 months there's money in my bank account
+11:58 
+
+11:58 when you start uh giving work to every
+12:00 
+
+12:00 single scent of your money then that's
+12:03 
+
+12:03 when you can actually see how much you
+12:05 
+
+12:05 were actually wasting how much and then
+12:07 
+
+12:07 you also care about like you you work so
+12:10 
+
+12:10 hard to make this money you want to put
+12:12 
+
+12:12 it for good use exactly so so that's the
+12:14 
+
+12:14 idea behind yeah it makes you plan your
+12:17 
+
+12:17 future right what do I want to do with
+12:19 
+
+12:19 my money and but it's just a
+12:20 
+
+12:20 psychological effect like you get a
+12:22 
+
+12:22 salary at the months of the at the
+12:24 
+
+12:24 beginning of the month and you actually
+12:26 
+
+12:26 know you can't touch this right it's
+12:29 
+
+12:29 already planed way and you and then it
+12:31 
+
+12:31 makes people realize that they live
+12:33 
+
+12:33 above their needs you usually not see
+12:35 
+
+12:35 that yeah yeah but I guess um it's as
+12:39 
+
+12:39 you can see it's nothing fancy I have
+12:41 
+
+12:41 not I've done no fancy Finance stuff um
+12:44 
+
+12:44 it's simply um exchanging my in my
+12:47 
+
+12:47 opinion worthless Fiat money to a more
+12:51 
+
+12:51 valuable uh store of value which is
+12:54 
+
+12:54 Bitcoin right um but it's amazing how in
+12:57 
+
+12:57 the beginning you believed and you
+13:00 
+
+13:00 understood Bitcoin such that even when
+13:03 
+
+13:03 it went down you had you had the
+13:06 
+
+13:06 understanding that it's it's just one of
+13:08 
+
+13:08 the lows it will go up cuz you know
+13:11 
+
+13:11 people might Panic at that time uh the
+13:16 
+
+13:16 crypto community on Reddit our Bitcoin
+13:19 
+
+13:19 right uh was very hilarious like the
+13:21 
+
+13:21 meming was so entertaining so as it went
+13:25 
+
+13:25 down the memes got more funny and so
+13:27 
+
+13:27 you're just like browsing every morning
+13:29 
+
+13:29 and you see see all the cool memes and
+13:30 
+
+13:30 you're okay everybody's having fun it's
+13:32 
+
+13:32 probably not not so uh not not such a
+13:34 
+
+13:34 big problem maybe I should be worried
+13:36 
+
+13:36 and um but yeah the white paper is worth
+13:39 
+
+13:39 reading the Bitcoin PDF it's only like
+13:41 
+
+13:41 nine pages or so and I think the only
+13:44 
+
+13:44 difficult thing in terms of computer
+13:45 
+
+13:45 science is Merkel trees so when I read
+13:48 
+
+13:48 the white paper I went to Wikipedia and
+13:50 
+
+13:50 I I read about Merkel trees did some
+13:53 
+
+13:53 online tutorial that makes it visualize
+13:56 
+
+13:56 little bit and so then I intellectually
+13:58 
+
+13:58 understood what trees are and then you
+14:00 
+
+14:00 can actually fully understand how this
+14:02 
+
+14:02 money Works isn't that unbelievable can
+14:04 
+
+14:04 you understand how a central bank Works
+14:06 
+
+14:06 nobody can understand that nobody knows
+14:08 
+
+14:08 how the Federal Reserve Bank Works where
+14:10 
+
+14:10 does the money come from nobody knows
+14:11 
+
+14:11 where the money comes from right so we
+14:13 
+
+14:13 have a system there that just explains
+14:15 
+
+14:15 the entire Financial system in like nine
+14:17 
+
+14:17 pages that are accessible to anyone um
+14:20 
+
+14:20 you don't need to be a rocket scientist
+14:22 
+
+14:22 to understand it's just it's that to me
+14:25 
+
+14:25 is already proof enough that this will
+14:26 
+
+14:26 prevail right um I been doing dollar
+14:30 
+
+14:30 cost averaging with uh ETFs yeah so I
+14:34 
+
+14:34 mean it it doesn't go 10x but so so my
+14:38 
+
+14:38 my annual interest rate is on average
+14:43 
+
+14:43 40% wow I don't think you can find an EF
+14:45 
+
+14:45 that gives you 40% per year no I mean
+14:49 
+
+14:49 people will always say yeah yeah yeah
+14:50 
+
+14:50 but you got in early and you know that
+14:52 
+
+14:52 it appreciated 20,000% no but I still
+14:56 
+
+14:56 think 12 years from now somebody who
+14:59 
+
+14:59 started now will also experience a 5 to
+15:02 
+
+15:02 10,000% appreciation right so U don't
+15:05 
+
+15:05 don't dismiss this as oh I missed the
+15:07 
+
+15:07 train and you just got lucky because you
+15:08 
+
+15:08 got in early and anyone who says you
+15:11 
+
+15:11 just got lucky I challenge you to huddle
+15:14 
+
+15:14 huddle means to hold on to your coins
+15:16 
+
+15:16 and don't spend them puddled through uh
+15:18 
+
+15:18 three major crashes right it crashes 85%
+15:22 
+
+15:22 each after each Peak it crashes 85% and
+15:25 
+
+15:25 then have the balls to not sell Panic
+15:28 
+
+15:28 sell on the way down is not so easy
+15:30 
+
+15:30 psychologically right yeah yeah I think
+15:32 
+
+15:32 the caveat here that you're also putting
+15:34 
+
+15:34 out is one make sure that it's money
+15:36 
+
+15:36 that you are willing to flush down the
+15:38 
+
+15:38 drain you know and that starts with like
+15:40 
+
+15:40 budgeting and knowing how much you can
+15:41 
+
+15:41 even put aide H you need a budget.com uh
+15:45 
+
+15:45 the second principle here and I think
+15:46 
+
+15:46 maybe it's because of a trade as an
+15:48 
+
+15:48 engineer also the tendency to want to
+15:50 
+
+15:50 look into what you're actually investing
+15:52 
+
+15:52 I think uh the the the first time you
+15:54 
+
+15:54 read the white paper you know you went
+15:56 
+
+15:56 the extra mile to understand how a
+15:57 
+
+15:57 blockchain even works that was like my
+15:59 
+
+15:59 Journey as well but I took it down the
+16:01 
+
+16:01 research route because I was like this
+16:02 
+
+16:02 is really cool and I want to like look
+16:04 
+
+16:04 at blockchain more but to have that
+16:06 
+
+16:06 interest to want to pursue that more
+16:08 
+
+16:08 understand the mechanics behind it and
+16:09 
+
+16:09 know that this is this is a sound
+16:11 
+
+16:11 technology and it's never going to lose
+16:14 
+
+16:14 its value um even though like right now
+16:17 
+
+16:17 you know that there are cycles of
+16:18 
+
+16:18 fluctuations but these are normal like
+16:20 
+
+16:20 you said it's a cycle it happens
+16:22 
+
+16:22 iteratively and there's a reason behind
+16:24 
+
+16:24 that it's driven you know both by um the
+16:27 
+
+16:27 way that the basically yeah oh yeah the
+16:30 
+
+16:30 having and and stuff like that and you
+16:31 
+
+16:31 also know about um you know theories
+16:34 
+
+16:34 beyond that for example adoption curves
+16:36 
+
+16:36 we know that it's like the early
+16:37 
+
+16:37 adoption stage at each point of time
+16:41 
+
+16:41 wherever you might feel some sort of
+16:43 
+
+16:43 anxiety or Panic you go back to logic
+16:45 
+
+16:45 you go back to like what is the
+16:46 
+
+16:46 long-term outcome here so that's the
+16:48 
+
+16:48 second principle that we're really
+16:49 
+
+16:49 looking at here and the third to also
+16:53 
+
+16:53 like not falter when it comes to like
+16:55 
+
+16:55 those dips I think when it comes to
+16:58 
+
+16:58 investment basically we're talking about
+16:59 
+
+16:59 Investments here right um it's really
+17:02 
+
+17:02 about that psychological aspect going in
+17:05 
+
+17:05 uh to invest um I think like for me I
+17:09 
+
+17:09 did try out like uh uh trading in crypto
+17:12 
+
+17:12 for a bit I did try out stock trading
+17:13 
+
+17:13 for a bit and um the thing is I knew my
+17:17 
+
+17:17 own psychological uh demeanors and
+17:19 
+
+17:19 tendencies through that small experience
+17:20 
+
+17:20 I put $3,000 aside and tried it out I
+17:23 
+
+17:23 knew I panicked like way too much even
+17:24 
+
+17:24 if it's rooted in logic so that's why I
+17:26 
+
+17:26 turned to like investing in more
+17:28 
+
+17:28 tangible so I invested in housing in
+17:31 
+
+17:31 Singapore so I think it's also a lot
+17:33 
+
+17:33 about like knowing yourself but also
+17:35 
+
+17:35 letting yourself experiment going
+17:37 
+
+17:37 through those principles and then okay
+17:39 
+
+17:39 even even if I have those principles in
+17:41 
+
+17:41 place this is still not really for me
+17:43 
+
+17:43 yeah then instead of Bitcoin there's
+17:44 
+
+17:44 something else that you can try you know
+17:46 
+
+17:46 we're not saying here that everybody
+17:48 
+
+17:48 needs to go to bitcoin but it would
+17:49 
+
+17:49 actually be good if everybody did but
+17:52 
+
+17:52 we're we're also saying that you know if
+17:53 
+
+17:53 you want to like make that investment
+17:55 
+
+17:55 follow these principles and do what is
+17:57 
+
+17:57 best for you don't be afraid to
+17:59 
+
+17:59 experiment but experiment with money you
+18:01 
+
+18:01 can put aside that's one what you said
+18:02 
+
+18:02 about trading is also very important I
+18:04 
+
+18:04 mean I've been reading about Bitcoin
+18:07 
+
+18:07 every single day of my life for 13 years
+18:11 
+
+18:11 for at least two hours per day so at at
+18:14 
+
+18:14 the beginning I was completely obsessed
+18:16 
+
+18:16 with it right I would I would literally
+18:18 
+
+18:18 have sleepless nights where I just can't
+18:19 
+
+18:19 sleep and I would just browse and read
+18:21 
+
+18:21 more stuff and read everything about it
+18:23 
+
+18:23 I have every single Bitcoin book ever
+18:25 
+
+18:25 published in my library at
+18:27 
+
+18:27 home I'm actually going to build an llm
+18:30 
+
+18:30 I will scan all the books vectorize them
+18:32 
+
+18:32 and I will create an oracle that you can
+18:35 
+
+18:35 ask any question about Bitcoin and it
+18:36 
+
+18:36 will reply back based on the um text in
+18:40 
+
+18:40 those books um you're building that or
+18:42 
+
+18:42 um that's going to be one of my hobby
+18:45 
+
+18:45 projects looking forward to it um well I
+18:47 
+
+18:47 don't know if I can publish this because
+18:49 
+
+18:49 technically it's copyright infringement
+18:50 
+
+18:50 right so I'm going to reach out to those
+18:51 
+
+18:51 authors I think most Bitcoin authors are
+18:54 
+
+18:54 um Anarchist crypto cyber punks anyways
+18:57 
+
+18:57 they wouldn't care if somebody does this
+18:58 
+
+18:58 I think M and I mean in the end um you
+19:01 
+
+19:01 still wouldn't be able to read the
+19:02 
+
+19:02 actual pages of the book that I have
+19:04 
+
+19:04 scanmed you would only just get answers
+19:07 
+
+19:07 um so people will still have to buy the
+19:08 
+
+19:08 original books if they want to you know
+19:10 
+
+19:10 dive deeper right but anyways um
+19:12 
+
+19:12 speaking about trading so I've been
+19:14 
+
+19:14 obsessed with it right I've looked at
+19:16 
+
+19:16 the Bitcoin price every 10 minutes the
+19:19 
+
+19:19 first few years right and you would
+19:21 
+
+19:21 think that oh you you would think that I
+19:24 
+
+19:24 know everything about it and I've seen
+19:25 
+
+19:25 the price movements I have a feeling for
+19:27 
+
+19:27 it no way every single time when I told
+19:30 
+
+19:30 myself oh now I will sell a little bit
+19:32 
+
+19:32 so I can buy back when it drips or I
+19:34 
+
+19:34 will put in a little bit more because
+19:37 
+
+19:37 you know it's going to appreciate soon
+19:39 
+
+19:39 not not once have I been right every
+19:42 
+
+19:42 single time the exact opposite of what I
+19:44 
+
+19:44 thought would happen happened right and
+19:46 
+
+19:46 so um I mean that was I mean at some
+19:48 
+
+19:48 point I had so much money that I can do
+19:49 
+
+19:49 these playful things and try a little
+19:52 
+
+19:52 bit of trading without losing everything
+19:54 
+
+19:54 but it never worked out so even somebody
+19:56 
+
+19:56 completely obsessed with this and having
+19:58 
+
+19:58 a lot of spare time
+19:60 
+
+19:60 you are if you if you're not a
+20:01 
+
+20:01 professional Trader don't touch this
+20:03 
+
+20:03 thing as as a trading vehicle do not
+20:05 
+
+20:05 touch this just do DCA don't worry about
+20:07 
+
+20:07 the price and forget about everything
+20:08 
+
+20:08 else yeah for sure for sure I think
+20:10 
+
+20:10 that's really good advice like could be
+20:12 
+
+20:12 DCA for anything like for Salon casic uh
+20:16 
+
+20:16 well this this famous quote from I think
+20:17 
+
+20:17 Warren Buffett right time in the market
+20:20 
+
+20:20 beats timing the market right patience
+20:24 
+
+20:24 yeah exactly just have to bet on the
+20:26 
+
+20:26 right horse just right how do you find
+20:27 
+
+20:27 the right horse is it NV now is a Tesla
+20:31 
+
+20:31 who knows yeah yeah yeah but definitely
+20:33 
+
+20:33 just do your due diligence you know and
+20:35 
+
+20:35 try not to succumb to like the uh the
+20:37 
+
+20:37 lows of it yeah try also not to succumb
+20:40 
+
+20:40 to the highs of it yeah as you said not
+20:43 
+
+20:43 professional Traders you're you
+20:44 
+
+20:44 shouldn't be reacting should be just
+20:46 
+
+20:46 like a discipline kind of like
+20:48 
+
+20:48 investment yeah thank you for watching
+20:50 
+
+20:50 the second part of our interview with
+20:52 
+
+20:52 Martin in the next part Martin will
+20:54 
+
+20:54 expand more into his financial worldview
+20:56 
+
+20:56 on how he USS his startup his job as a
+20:58 
+
+20:58 soft Ware engineer his crypto investment
+21:01 
+
+21:01 and more as Diversified assets stay
+21:04 
+
+21:04 tuned for the next bi-weekly Episode by
+21:06 
+
+21:06 subscribing to our Channel and following
+21:08 
+
+21:08 our social media platforms and remember
+21:10 
+
+21:10 to like and leave a comment if you
+21:11 
+
+21:11 enjoyed this episode as always this was
+21:14 
+
+21:14 re Tech the place for bites and bentor
+21:17 
+
+21:17 see you in two weeks

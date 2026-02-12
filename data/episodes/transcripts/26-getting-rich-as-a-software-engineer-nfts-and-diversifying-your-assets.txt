@@ -1,0 +1,1234 @@
+00:01 in our last episode with Martin a
+00:03 
+
+00:03 retired software engineer and startup
+00:05 
+
+00:05 founder sonone and I got to understand
+00:07 
+
+00:07 more about his journey investing into
+00:09 
+
+00:09 Bitcoin in this episode we continue to
+00:12 
+
+00:12 explore his financial world view such as
+00:14 
+
+00:14 his views on the commonly perceived
+00:16 
+
+00:16 wealth of software engineers and startup
+00:18 
+
+00:18 Founders his opinions on nfts and views
+00:21 
+
+00:21 on asset
+00:24 
+
+00:24 [Music]
+00:27 
+
+00:27 diversification so it's it's interesting
+00:29 
+
+00:29 how our re engineer was not uh it was
+00:33 
+
+00:33 not rich like from from
+00:37 
+
+00:37 engineering even though that is actually
+00:39 
+
+00:39 very frustrating it feels uh I've wasted
+00:43 
+
+00:43 20 years of my career and it it didn't
+00:46 
+
+00:46 amount to anything it kind of feels like
+00:48 
+
+00:48 that right I me you do I mean I did all
+00:51 
+
+00:51 the community stuff and open source
+00:53 
+
+00:53 Library so there is something there but
+00:55 
+
+00:55 I mean I would really have preferred to
+00:57 
+
+00:57 have that one startup exit you know when
+00:59 
+
+00:59 I came to Singapore that was 13 years
+01:01 
+
+01:01 ago there were uh hackathons at night
+01:04 
+
+01:04 everywhere there were VCS running around
+01:06 
+
+01:06 throwing parties all the time uh it was
+01:09 
+
+01:09 really bustling and the the VC money was
+01:13 
+
+01:13 flowing from the sky like Mana you know
+01:16 
+
+01:16 and um but still most startups actually
+01:18 
+
+01:18 fail 99% of all startups fail and this
+01:21 
+
+01:21 is really true and it's so frustrating
+01:23 
+
+01:23 right all the code that we've written
+01:25 
+
+01:25 for nothing it's all Gone Gone With the
+01:27 
+
+01:27 Wind I'm glad that you brought this up
+01:30 
+
+01:30 because I you know we've talked about
+01:32 
+
+01:32 startups in other episodes before and um
+01:34 
+
+01:34 Tech is also very closely related to the
+01:36 
+
+01:36 startup Community as you can see um but
+01:39 
+
+01:39 I think the notion that people have
+01:40 
+
+01:40 about people in tech people in startups
+01:42 
+
+01:42 is that oh you must be earning big money
+01:45 
+
+01:45 yeah that is a stereotype it's not
+01:47 
+
+01:47 necessarily true in fact majority of the
+01:49 
+
+01:49 time it's not true um if you do see like
+01:52 
+
+01:52 an example of somebody who's retired
+01:53 
+
+01:53 early and stuff like that kind of like
+01:55 
+
+01:55 Martin it's not necessarily because of
+01:58 
+
+01:58 like a shirt out or because that we're
+01:59 
+
+01:59 software Engineers or whatsoever um a
+02:02 
+
+02:02 lot of us are just like average people
+02:04 
+
+02:04 just trying to get by but we very
+02:06 
+
+02:06 resourceful means of um using our money
+02:10 
+
+02:10 uh investing our money so that's
+02:12 
+
+02:12 something that we really would like to
+02:13 
+
+02:13 emphasize that it's a stereotype that
+02:15 
+
+02:15 we're all rich in this field yeah yeah
+02:17 
+
+02:17 and and I guess um even though Singapore
+02:21 
+
+02:21 tries to be the Silicon Valley of Asia
+02:23 
+
+02:23 sast Asia and so on and um you know
+02:26 
+
+02:26 there is still a busting startup scene I
+02:28 
+
+02:28 believe um I be very careful with
+02:31 
+
+02:31 betting your future wealth on your
+02:34 
+
+02:34 shares like making an exit and and then
+02:36 
+
+02:36 there's Texas and all and there's
+02:37 
+
+02:37 dilution and everything you don't even
+02:39 
+
+02:39 know how much you get end out at the
+02:40 
+
+02:40 very end right even if it's a successful
+02:42 
+
+02:42 exit you might end up with very little
+02:44 
+
+02:44 um you need to have a plan B like my my
+02:47 
+
+02:47 my work at artling was always artling a
+02:51 
+
+02:51 plan a
+02:52 
+
+02:52 oh and I mean it could still happen I
+02:55 
+
+02:55 mean the company is not gone right the
+02:56 
+
+02:56 company is still growing Plan B Bitcoin
+02:58 
+
+02:58 and plan B is Bitcoin yeah exactly was
+03:00 
+
+03:00 my plan B right um so see my
+03:04 
+
+03:04 child we'll go into that
+03:06 
+
+03:06 later yeah but definitely I I like that
+03:10 
+
+03:10 notion that there's always plan a b and
+03:12 
+
+03:12 c I think people get very stuck on like
+03:13 
+
+03:13 there is only this one means of like
+03:16 
+
+03:16 getting rich getting successful but
+03:18 
+
+03:18 really it's a life can go in very
+03:20 
+
+03:20 unexpected ways there is no sure win for
+03:22 
+
+03:22 anything we're all taking bets here kind
+03:24 
+
+03:24 of like better on Bitcoin in a way and I
+03:25 
+
+03:25 guess then you could say a word about
+03:27 
+
+03:27 diversification right so my startup
+03:30 
+
+03:30 Journey plan a is one asset people might
+03:34 
+
+03:34 think oh I just put money into many many
+03:36 
+
+03:36 startups but maybe they are all actually
+03:38 
+
+03:38 related correlated to each other if the
+03:40 
+
+03:40 economy goes down the VC money dries up
+03:42 
+
+03:42 all startups die right and then there's
+03:44 
+
+03:44 no there's no diversification Happening
+03:46 
+
+03:46 Here If you put all your X on these
+03:49 
+
+03:49 asset types they will all die
+03:52 
+
+03:52 simultaneously right Bitcoin is
+03:54 
+
+03:54 completely separate from that right so
+03:56 
+
+03:56 if maybe the startup scene dies down
+03:58 
+
+03:58 maybe the crypto Scene goes up right so
+04:00 
+
+04:00 and then people say oh in the crypto
+04:03 
+
+04:03 scene you have to diversify you have to
+04:04 
+
+04:04 buy all these other I call them
+04:06 
+
+04:06 shitcoins right I don't believe in in
+04:08 
+
+04:08 any other I have never touched any other
+04:10 
+
+04:10 crypto coin and yeah cardano whatever um
+04:14 
+
+04:14 I would not touch them it's basically
+04:17 
+
+04:17 literally gambling I me they all go up
+04:19 
+
+04:19 but then they go down and they never
+04:20 
+
+04:20 come back up again that's the problem
+04:21 
+
+04:21 except ethereum and one guy can actually
+04:23 
+
+04:23 uh change the F of it exactly yeah yeah
+04:28 
+
+04:28 um yeah so um you cannot diversify
+04:31 
+
+04:31 within the crypto world if you spread
+04:33 
+
+04:33 your money you know you made lots of
+04:35 
+
+04:35 money with Bitcoin then you spread it to
+04:37 
+
+04:37 like 100 different coins it's still
+04:39 
+
+04:39 gambling and they all move in tendem
+04:41 
+
+04:41 with Bitcoin so if Bitcoin goes down
+04:43 
+
+04:43 they all go down as well so where's the
+04:44 
+
+04:44 diversification in that right so like
+04:47 
+
+04:47 you said like property is probably a
+04:48 
+
+04:48 good thing do building something is a
+04:51 
+
+04:51 good thing startups right and then in
+04:53 
+
+04:53 using some investment vehicle like ETS
+04:55 
+
+04:55 or Rec coin or whatever is a good thing
+04:57 
+
+04:57 art might be a good thing but I mean I'm
+05:00 
+
+05:00 in the art
+05:02 
+
+05:02 industry very
+05:05 
+
+05:05 difficult yeah sure yeah okay an sorry
+05:08 
+
+05:08 about your the art link is it a web
+05:11 
+
+05:11 agency or is it a art it's it's we are
+05:15 
+
+05:15 basically the probably the world's
+05:17 
+
+05:17 largest database for contemporary art so
+05:21 
+
+05:21 um our the artists can make a profile
+05:23 
+
+05:23 and they list their works and then if
+05:25 
+
+05:25 somebody buys the art the artist will
+05:26 
+
+05:26 Shi to that person so we don't hold
+05:27 
+
+05:27 inventory okay and um yeah we we spent
+05:31 
+
+05:31 10 years onboarding all these artists
+05:34 
+
+05:34 and cating so it's like not everybody
+05:36 
+
+05:36 can list so uh and the our cators are
+05:40 
+
+05:40 trained art historian like uh they they
+05:43 
+
+05:43 went to University and learned
+05:44 
+
+05:44 everything about art they know what
+05:45 
+
+05:45 they're doing so um yeah we have like an
+05:48 
+
+05:48 amazing collection of really really good
+05:50 
+
+05:50 art and um we have Consultants that know
+05:53 
+
+05:53 how to pull of big art projects so many
+05:57 
+
+05:57 many hotels here in Singapore and all
+05:59 
+
+05:59 over the world and Sydney as well on the
+06:01 
+
+06:01 Maldives they actually buy their art
+06:03 
+
+06:03 from us so when the new hotel opens they
+06:06 
+
+06:06 need like you know we need 5,000
+06:07 
+
+06:07 artworks for like all these rooms uh and
+06:10 
+
+06:10 then we we try to find something that
+06:12 
+
+06:12 suits their budget and their style that
+06:14 
+
+06:14 they want to have yeah so since you're
+06:16 
+
+06:16 in this field is Art also one form of
+06:19 
+
+06:19 investment vehicle for you sort of like
+06:21 
+
+06:21 a plan I don't know what no
+06:23 
+
+06:23 no oh Modern Art I feel is is really
+06:28 
+
+06:28 really weird like most of the time I
+06:30 
+
+06:30 feel like this is Art this like the
+06:32 
+
+06:32 Flesh of color anyone can do that right
+06:35 
+
+06:35 oops upper interpretation yeah so you
+06:39 
+
+06:39 would have to be really deep in that
+06:42 
+
+06:42 scene and know the who is who of of the
+06:44 
+
+06:44 upcoming artists and so on and uh I I
+06:48 
+
+06:48 don't have the time to mingle with with
+06:50 
+
+06:50 this scene and get to know everybody so
+06:52 
+
+06:52 um it's yeah there's a lot of Insider
+06:55 
+
+06:55 knowledge and and you know rich people
+06:57 
+
+06:57 pushing up certain artists and then it
+06:59 
+
+06:59 becomes self-fulfilling prophecy that
+07:01 
+
+07:01 that artist will become valuable within
+07:03 
+
+07:03 their lifetime right so yeah yeah it's
+07:06 
+
+07:06 it's beautiful but I I don't dare to use
+07:08 
+
+07:08 this as an investment
+07:10 
+
+07:10 vehicle what's your take on nfds oh my
+07:13 
+
+07:13 God yeah
+07:15 
+
+07:15 um well since it's on ethereum and I
+07:17 
+
+07:17 think that everything except Bitcoin is
+07:19 
+
+07:19 a scam I didn't touch it and it turned
+07:21 
+
+07:21 out I was right NF the whole NFD craze
+07:24 
+
+07:24 came we actually implemented nfts on our
+07:26 
+
+07:26 platform as well against my will and um
+07:29 
+
+07:29 no nobody ever bought any nft from our
+07:31 
+
+07:31 platform nobody cares about it anymore
+07:33 
+
+07:33 it's dead basically um I
+07:37 
+
+07:37 think the philosophy behind it is quite
+07:40 
+
+07:40 cool to have some digital thing that you
+07:42 
+
+07:42 know you can own but Bitcoin already is
+07:45 
+
+07:45 that Bitcoin is uh something digital
+07:48 
+
+07:48 digital that's also scars I mean when
+07:51 
+
+07:51 you think about that's an incredible uh
+07:53 
+
+07:53 Innovation right normally we can copy
+07:55 
+
+07:55 files on a computer nothing digital can
+07:58 
+
+07:58 ever be scar you can just copy and paste
+07:59 
+
+07:59 it but you can't copy and paste Bitcoins
+08:02 
+
+08:02 so they solve that thing that digital
+08:04 
+
+08:04 digital things cannot be scars right um
+08:07 
+
+08:07 and with nfts I think the problem is
+08:08 
+
+08:08 simply
+08:10 
+
+08:10 um when they are art they are very large
+08:13 
+
+08:13 in the file size so you can't put them
+08:15 
+
+08:15 on the blockchain because a blockchain
+08:17 
+
+08:17 only works when the block space is
+08:18 
+
+08:18 limited and there's a there's a market
+08:20 
+
+08:20 competing for the block space so what do
+08:23 
+
+08:23 they do they actually put it on some
+08:24 
+
+08:24 other uh storage maybe the
+08:26 
+
+08:26 interplanetary file system or just
+08:29 
+
+08:29 Dropbox or anything or Google Drive and
+08:32 
+
+08:32 on the blockchain they just put a
+08:33 
+
+08:33 pointer to where the actual file is so
+08:37 
+
+08:37 that means and then usually that pointer
+08:39 
+
+08:39 points to a domain of the people who all
+08:41 
+
+08:41 run the nft marketplace what if that
+08:43 
+
+08:43 domain goes down all the pointers are
+08:46 
+
+08:46 gone
+08:47 
+
+08:47 so what if Dropbox goes down or or
+08:51 
+
+08:51 Google drive or wherever they store it
+08:53 
+
+08:53 all the works are gone right so yeah I
+08:56 
+
+08:56 don't know it's the idea is cool but it
+08:58 
+
+08:58 doesn't work on on the ethereum
+09:00 
+
+09:00 blockchain and and on any blockchain it
+09:02 
+
+09:02 also wouldn't work on the Bitcoin
+09:03 
+
+09:03 blockchain because there the block space
+09:05 
+
+09:05 is even scarcer yeah
+09:08 
+
+09:08 so there was a u recently there was well
+09:12 
+
+09:12 not recently maybe sometime last year I
+09:13 
+
+09:13 can't remember there was a Exhibition at
+09:15 
+
+09:15 Art Science Museum where they did
+09:17 
+
+09:17 something about crypto and nfts and
+09:20 
+
+09:20 there were actually some really cool
+09:21 
+
+09:21 projects where I thought oh this is
+09:23 
+
+09:23 actually kind of cool in terms of art
+09:25 
+
+09:25 well like you know art is supposed to
+09:27 
+
+09:27 make you feel something and reflect on
+09:28 
+
+09:28 things like I I think think uh monkey uh
+09:31 
+
+09:31 pictures or like pixelated n that these
+09:35 
+
+09:35 kind of nfts that's not hard I that's
+09:38 
+
+09:38 somebody messing around with Photoshop
+09:40 
+
+09:40 and then claiming that it's now worth
+09:42 
+
+09:42 $10,000 which is of course nonsense
+09:44 
+
+09:44 right yeah but yeah um I haven't debled
+09:47 
+
+09:47 with it myself enough um but there are
+09:51 
+
+09:51 some ways to make really Innovative art
+09:53 
+
+09:53 with nfts but this whole thing that oh
+09:56 
+
+09:56 you own some digit digital thing and it
+09:58 
+
+09:58 it belongs to you forever that the way
+10:01 
+
+10:01 how it's set up right now is actually
+10:03 
+
+10:03 not fulfilling that promise yeah I like
+10:05 
+
+10:05 how you explain it because in this case
+10:07 
+
+10:07 even though it's so closely related to
+10:09 
+
+10:09 it's the same technology right Bitcoin
+10:11 
+
+10:11 and nfts in this case you knew that it
+10:13 
+
+10:13 was technically unsound for what it was
+10:15 
+
+10:15 proposing so this goes back to like that
+10:16 
+
+10:16 due diligence yes go back and then look
+10:19 
+
+10:19 at like the principles of that thing
+10:20 
+
+10:20 that you're investing and see if it
+10:22 
+
+10:22 actually makes sense for the long term
+10:25 
+
+10:25 and I think that was my feeling around
+10:27 
+
+10:27 uh nfts as well I was very dubious about
+10:29 
+
+10:29 it I think the only thing I was
+10:30 
+
+10:30 interested in was the aspect of uh uh
+10:33 
+
+10:33 potentially protecting artists yeah yeah
+10:35 
+
+10:35 but even that is kind of like uh
+10:38 
+
+10:38 difficult but the other like claims and
+10:40 
+
+10:40 assumptions just were very technically
+10:42 
+
+10:42 unfounded um and I was just like I don't
+10:44 
+
+10:44 I don't trust this enough so naturally
+10:47 
+
+10:47 that just kind of died off but yeah I
+10:49 
+
+10:49 think all in all this summarize um your
+10:52 
+
+10:52 perspective uh over investment or what
+10:54 
+
+10:54 finances as an engineer who isn't like a
+10:57 
+
+10:57 big Silicon Valley mang engineer pulling
+10:60 
+
+10:60 in hordes of money and even if you're
+11:02 
+
+11:02 like that kind of engineer you still
+11:03 
+
+11:03 need to save and invest as well and uh
+11:05 
+
+11:05 otherwise you'll just be spending it
+11:07 
+
+11:07 every time you're paycheck comes maybe
+11:08 
+
+11:08 one last thing that we should mention
+11:10 
+
+11:10 I'm actually very thankful that I am in
+11:13 
+
+11:13 Singapore my journey wouldn't have
+11:15 
+
+11:15 worked like this in any other country
+11:17 
+
+11:17 because uh there's capital gains tax in
+11:20 
+
+11:20 Singapore there's no capital gains tax
+11:22 
+
+11:22 right so um in the US if you want to
+11:25 
+
+11:25 sell your Bitcoin in the end and have a
+11:27 
+
+11:27 nice life then you have to pay a lot of
+11:29 
+
+11:29 Texas right uh in Germany actually it's
+11:31 
+
+11:31 okay if you hold for one year then it's
+11:33 
+
+11:33 also taxfree um but in Singapore you can
+11:36 
+
+11:36 actually trade and that will be no
+11:38 
+
+11:38 capital gains taxes so um and then the
+11:40 
+
+11:40 overall taxes in Singapore I don't know
+11:42 
+
+11:42 if singaporeans think that way but as a
+11:43 
+
+11:43 German this thing is uh this country is
+11:46 
+
+11:46 a tax Haven like crazy right so um I
+11:48 
+
+11:48 feel like the money that I earn stays
+11:51 
+
+11:51 with me and it's not all uh given out
+11:54 
+
+11:54 for taxes and I have nothing left at the
+11:55 
+
+11:55 end of the month so then I can make my
+11:57 
+
+11:57 own decisions which is actually very
+11:59 
+
+11:59 very but I think I hope that um our
+12:02 
+
+12:02 politicians don't mess it up over time I
+12:04 
+
+12:04 have I feel like there's a a little bit
+12:06 
+
+12:06 of uh socialist Tendencies recently like
+12:08 
+
+12:08 the government is giving out free money
+12:10 
+
+12:10 left and right everywhere to dampen the
+12:13 
+
+12:13 effects of inflation I guess right after
+12:15 
+
+12:15 covid um I actually think that they've
+12:18 
+
+12:18 put fuel into the fire by doing this if
+12:20 
+
+12:20 you give out free money prices will go
+12:23 
+
+12:23 up that's how it works so they actually
+12:25 
+
+12:25 create more inflation trying to dampen
+12:27 
+
+12:27 the effects of inflation it's kind of
+12:29 
+
+12:29 insane I think they're really trying to
+12:31 
+
+12:31 be measured About It by giving out
+12:32 
+
+12:32 vouchers as specific to supermarkets and
+12:35 
+
+12:35 local yeah the supermarket just go up
+12:38 
+
+12:38 that's what's happening that's true yeah
+12:41 
+
+12:41 but you know all in all still like
+12:43 
+
+12:43 compare it and relative to other
+12:45 
+
+12:45 countries what you're saying is that
+12:46 
+
+12:46 Singapore you know with his tier Tech
+12:48 
+
+12:48 system is like uh very beneficial um for
+12:51 
+
+12:51 individuals to feel like they have
+12:52 
+
+12:52 autonomy over the money so it's also you
+12:55 
+
+12:55 know I mean it's it's also understanding
+12:58 
+
+12:58 the conditions of the uh uh uh places
+13:01 
+
+13:01 that you live in uh to be able to think
+13:04 
+
+13:04 about how you want to Sate finances
+13:05 
+
+13:05 because obviously if you were in the US
+13:07 
+
+13:07 then your perspective of money might be
+13:09 
+
+13:09 different because now you have to factor
+13:11 
+
+13:11 in like taxes and uh quite like a large
+13:14 
+
+13:14 scale so that might you know affect your
+13:17 
+
+13:17 retirement plans that might affect this
+13:18 
+
+13:18 so I guess what this boil is down to is
+13:21 
+
+13:21 that this last principle is also
+13:22 
+
+13:22 understand the constraints or like the
+13:24 
+
+13:24 environment that you're working in when
+13:26 
+
+13:26 it comes to your finances you know taxes
+13:28 
+
+13:28 work differently in country so I think a
+13:30 
+
+13:30 lot of people don't do this by due
+13:32 
+
+13:32 diligence when it comes to like
+13:33 
+
+13:33 understanding how your finances work in
+13:35 
+
+13:35 the place that you are operating of and
+13:38 
+
+13:38 especially with the age of like digital
+13:39 
+
+13:39 Nomads remote workers you know people
+13:42 
+
+13:42 have flexibility to locate themselves in
+13:44 
+
+13:44 uh different countries depending on the
+13:46 
+
+13:46 company that you work for yeah but I
+13:48 
+
+13:48 mean most countries these days tax you
+13:49 
+
+13:49 globally right so especially Americans
+13:52 
+
+13:52 no matter where they work they will be
+13:53 
+
+13:53 taxed in the US so they are screwed
+13:55 
+
+13:55 that's true but you could also do for
+13:57 
+
+13:57 Germany if I spend half a year in the
+13:59 
+
+13:59 other count then I will be text to the
+13:60 
+
+13:60 other country so yeah yeah I think
+14:03 
+
+14:03 companies are cognizant of that as well
+14:05 
+
+14:05 yeah but there are other things you can
+14:07 
+
+14:07 do that even if you know you're located
+14:09 
+
+14:09 and you're paid like us salary and then
+14:11 
+
+14:11 tax us but maybe you could own foreign
+14:13 
+
+14:13 property somewhere else and the tax is a
+14:15 
+
+14:15 different so kind of like also doing
+14:17 
+
+14:17 that uh due diligence study and look at
+14:20 
+
+14:20 your different options um I guess the
+14:22 
+
+14:22 digital NOA thing is less about taxes
+14:25 
+
+14:25 but more about earning uh Western salary
+14:29 
+
+14:29 but living in a country where the living
+14:31 
+
+14:31 cost is very low so you have more left
+14:34 
+
+14:34 over which you can then invest yeah yeah
+14:36 
+
+14:36 I think that's a really important aspect
+14:38 
+
+14:38 to think about as well the cost of
+14:40 
+
+14:40 living that goes into like knowing your
+14:42 
+
+14:42 budget right yeah that that same amount
+14:44 
+
+14:44 of money that could uh fetch you like
+14:46 
+
+14:46 this amount of meals in one country you
+14:47 
+
+14:47 can fetch you that amount of meals in
+14:48 
+
+14:48 another country so there's a lot of
+14:50 
+
+14:50 things you can do around finances um
+14:53 
+
+14:53 evaluate your constraints know your the
+14:55 
+
+14:55 opportunities and just be smart about
+14:57 
+
+14:57 your money so we hope like this segment
+14:60 
+
+14:60 and picking Martin's brain about how he
+15:02 
+
+15:02 manages his finances has uh enlightened
+15:05 
+
+15:05 not just our Engineers but also like uh
+15:08 
+
+15:08 this is very generic advice actually not
+15:09 
+
+15:09 just for engineers yeah has enlightened
+15:11 
+
+15:11 people about how they should spend we
+15:14 
+
+15:14 hope you enjoyed this segment of our
+15:15 
+
+15:15 interview with Martin and took away
+15:17 
+
+15:17 great financial tips and advice that you
+15:19 
+
+15:19 can use in your own Financial strategies
+15:21 
+
+15:21 in our final segment with Martin we talk
+15:24 
+
+15:24 about how he has been settling into his
+15:26 
+
+15:26 new role as a full-time dad especially
+15:28 
+
+15:28 his views on parenting as a software
+15:30 
+
+15:30 engineer stay tuned and as always do
+15:33 
+
+15:33 remember to like comment and subscribe
+15:35 
+
+15:35 to us across YouTube Instagram and our
+15:37 
+
+15:37 various podcast and social media
+15:39 
+
+15:39 channels goodbye

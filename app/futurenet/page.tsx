@@ -105,7 +105,7 @@ export default function FutureNetPage() {
 
       {/* Hero Section */}
       <Hero
-        heroImage="/assets/futurenet.png"
+        heroImage="/assets/techybara/techybara-with-two-children.png"
         title="FutureNet"
         titleOnImage={false}
         subtitle="Research for a Safer Digital Future"
@@ -160,7 +160,7 @@ export default function FutureNetPage() {
               className="flex items-center justify-center"
             >
               <Image
-                src="/assets/children.png"
+                src="/assets/techybara/techybara-parent-and-child-with-screen.png"
                 alt="Child engrossed in digital device"
                 width={400}
                 height={400}

@@ -4,7 +4,7 @@ slug: "why-finding-a-cto-is-harder-than-you-think"
 author:
   name: "ragTech Team"
   email: "hello@ragtechdev.com"
-  profilePicture: "/assets/authors/ragtech-team.png"
+  profilePicture: "/assets/team/ragtech-team.png"
 publishedAt: "2026-02-08T12:00:00Z"
 coverImage: "/posts/2026-02-08-why-finding-a-cto-is-harder-than-you-think/1-cover-image.webp"
 brief: "Exploring the challenges non-technical founders face in finding the right CTO, from skill gaps to market saturation, and why this role is more than just coding."

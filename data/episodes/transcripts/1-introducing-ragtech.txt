@@ -1,0 +1,2635 @@
+00:00 I first uh like got into computer
+00:02 
+
+00:02 science like in uni the first thing I
+00:05 
+
+00:05 asked my mom and dad was like do you
+00:07 
+
+00:07 think I would be able to fix the light
+00:08 
+
+00:08 bulb after my uni definitely the fomo
+00:10 
+
+00:10 thing is real just because I'm I was
+00:13 
+
+00:13 active in Tech Twitter everything else
+00:14 
+
+00:14 is not true right like wearing a
+00:17 
+
+00:17 hoodie don't talk about like things in
+00:21 
+
+00:21 great technical detail like public
+00:23 
+
+00:23 static white m r semicolon yeah we don't
+00:28 
+
+00:28 talk about that I did not know that
+00:31 
+
+00:31 Robotics and software like come together
+00:33 
+
+00:33 I mean you need that software to operate
+00:35 
+
+00:35 the robot
+00:36 
+
+00:36 [Music]
+00:39 
+
+00:39 yeah hi there we're rag Tech we're a
+00:41 
+
+00:41 group of friends in Tech who decided to
+00:43 
+
+00:43 make a podcast to talk about the
+00:44 
+
+00:44 realities in Tech and the most casual
+00:46 
+
+00:46 least techy way possible in our rack
+00:49 
+
+00:49 teac team we have Saloni a software
+00:51 
+
+00:51 engineer Victoria a Solutions engineer
+00:53 
+
+00:53 and Natasha a software engineer together
+00:56 
+
+00:56 we're the friends who form R Tech where
+00:58 
+
+00:58 we indulge in bites and benter in our
+01:00 
+
+01:00 first episode we wanted to quickly chat
+01:02 
+
+01:02 about how the idea for rec Tech started
+01:05 
+
+01:05 and also briefly chat about the various
+01:06 
+
+01:06 topics on the realities behind Tech we
+01:08 
+
+01:08 wanted to explore more in our podcasts
+01:10 
+
+01:10 it's our first episode so we're just
+01:12 
+
+01:12 starting to learn the ropes so be sure
+01:14 
+
+01:14 to like And subscribe and leave comments
+01:16 
+
+01:16 Below on how we can improve and what you
+01:17 
+
+01:17 would like us to chat about so now on to
+01:20 
+
+01:20 our first episode introducing rect Tech
+01:23 
+
+01:23 but I think at the end of the day we
+01:24 
+
+01:24 just wanted like a platform that we all
+01:26 
+
+01:26 the three of us can share and then we
+01:28 
+
+01:28 just want to be able to talk about our
+01:30 
+
+01:30 perspectives in Tech our experiences
+01:33 
+
+01:33 because they're diverse you know that's
+01:34 
+
+01:34 why I re Tech yeah so our diverse
+01:36 
+
+01:36 experience in Tech as well as like being
+01:38 
+
+01:38 able to connect with other people so
+01:41 
+
+01:41 using our platform to actually connect
+01:43 
+
+01:43 with other people and interview them and
+01:45 
+
+01:45 learn about their perspectives so in a
+01:48 
+
+01:48 way we want this to be a more casual
+01:50 
+
+01:50 light-hearted way for us to like bring
+01:53 
+
+01:53 the realities of tech to the general
+01:56 
+
+01:56 public you know yeah yeah I think we
+01:58 
+
+01:58 were talking a lot about like how um the
+02:00 
+
+02:00 existing media about tech oh yeah she's
+02:02 
+
+02:02 right next to you the existing media
+02:05 
+
+02:05 about tech tends to be very intense very
+02:07 
+
+02:07 serious it's like it's something that I
+02:09 
+
+02:09 guess technical folks like us would go
+02:11 
+
+02:11 to when we want to learn stuff it's like
+02:12 
+
+02:12 oh how to build like a react app in like
+02:14 
+
+02:14 5 hours but that kind of intensity can
+02:17 
+
+02:17 scare a lot of like people who are still
+02:19 
+
+02:19 trying to set foot into the industry and
+02:21 
+
+02:21 even for like technical folks like
+02:23 
+
+02:23 ourselves there's also this feeling of
+02:25 
+
+02:25 like wow everybody is out there doing so
+02:27 
+
+02:27 many like serious intensely cool stuff
+02:29 
+
+02:29 and you feel like
+02:30 
+
+02:30 which was also a topic that we were
+02:32 
+
+02:32 discussing about about how it's okay to
+02:35 
+
+02:35 be an average Joe in Tech yeah yeah
+02:39 
+
+02:39 average Jane average Jane yes yeah but
+02:42 
+
+02:42 definitely the fomo thing is real just
+02:44 
+
+02:44 because I'm I was active in Tech Twitter
+02:46 
+
+02:46 for quite a while and Tech Twitter is
+02:48 
+
+02:48 really full of like people who are new
+02:50 
+
+02:50 to Tech and they're like checking out
+02:52 
+
+02:52 new content like what kind of things I
+02:53 
+
+02:53 should learn if I want to get started
+02:55 
+
+02:55 and it's always like top 10 languages
+02:57 
+
+02:57 you have to learn by 2024 and it creates
+02:60 
+
+02:60 a lot of like this kind of competitive
+03:02 
+
+03:02 pressure for people who are starting and
+03:04 
+
+03:04 they'll think like oh in Tech it's all
+03:06 
+
+03:06 about like you know being like outdoing
+03:08 
+
+03:08 each other or like learning the most
+03:10 
+
+03:10 newest technology learning the newest
+03:13 
+
+03:13 testing uh library and all that tools
+03:15 
+
+03:15 framework that's why I'm not on Twitter
+03:17 
+
+03:17 it's like way too intense for me Twitter
+03:19 
+
+03:19 as well no I'm not yeah but I'm on
+03:21 
+
+03:21 LinkedIn and Linkedin is also the same
+03:22 
+
+03:22 thing right I just do Instagram
+03:25 
+
+03:25 scrolling so yeah I mean Instagram also
+03:28 
+
+03:28 has like a few like Tech account
+03:31 
+
+03:31 and you know you getet and it comes with
+03:34 
+
+03:34 like images which is like nice but yeah
+03:36 
+
+03:36 I think still like despite all these
+03:38 
+
+03:38 like more neutral platforms that are
+03:40 
+
+03:40 like yeah top 10 languages to learn it
+03:42 
+
+03:42 still tends to be like really intense in
+03:45 
+
+03:45 Syria so I think we realized it was kind
+03:47 
+
+03:47 of like a missing market for like
+03:50 
+
+03:50 perhaps something that looks at Tech in
+03:52 
+
+03:52 a more casual and light-hearted manner
+03:54 
+
+03:54 you know it it kind of like simulates
+03:56 
+
+03:56 the conversations that we would have
+03:57 
+
+03:57 over dinner I mean even like software
+03:59 
+
+03:59 engineers my it's like we don't talk
+04:02 
+
+04:02 about like things in great technical
+04:05 
+
+04:05 detail like public static white me with
+04:09 
+
+04:09 semicolon we don't talk about that we we
+04:12 
+
+04:12 don't go too deep deep into Tech we
+04:15 
+
+04:15 actually we do mention it we talk about
+04:18 
+
+04:18 high level Tech stuff that we working on
+04:20 
+
+04:20 maybe but yeah it's
+04:22 
+
+04:22 usually yeah I mean we rarely like go
+04:25 
+
+04:25 into detail about oh what teex stack do
+04:26 
+
+04:26 I use this is the exact teex St what I
+04:28 
+
+04:28 don't know what stack you use I
+04:30 
+
+04:30 or like how do you design your database
+04:32 
+
+04:32 like exactly tell me and like no we
+04:34 
+
+04:34 don't we are not that intense and that's
+04:36 
+
+04:36 why we're trying to kind of use this
+04:38 
+
+04:38 platform to also demystify all of that
+04:40 
+
+04:40 yeah yeah yeah so people can really see
+04:43 
+
+04:43 the realities of what it means to be a
+04:46 
+
+04:46 person in the tech industry that it's
+04:48 
+
+04:48 not all like intense that you know we
+04:50 
+
+04:50 are all like people trying to get by I
+04:53 
+
+04:53 mean the other day we were talking about
+04:55 
+
+04:55 like um what does it mean to be coding
+04:58 
+
+04:58 to be a software engineer but really
+04:60 
+
+04:60 were saying that it was basically like
+05:01 
+
+05:01 just being really good at
+05:03 
+
+05:03 Google I mean yeah like I said right
+05:06 
+
+05:06 like the difference between a 10K celery
+05:08 
+
+05:08 versus 100K celery kind of software
+05:11 
+
+05:11 Engineers really because one has more
+05:13 
+
+05:13 experience and one is just a better
+05:15 
+
+05:15 googler you know but of course in the
+05:17 
+
+05:17 future it'll be a better cheat GPT
+05:19 
+
+05:19 prompter prompter yeah yeah it's funny
+05:23 
+
+05:23 yeah yeah it definitely is a skill a
+05:24 
+
+05:24 skill yeah but I think you know even
+05:26 
+
+05:26 things that come up like it's funny that
+05:28 
+
+05:28 we were talking about like coders just
+05:30 
+
+05:30 very good googlers and we were at Google
+05:32 
+
+05:32 talking about it yeah but at the same
+05:34 
+
+05:34 time we were also talking about like how
+05:36 
+
+05:36 um as coders like when people realize
+05:38 
+
+05:38 you do code you're like so you know AI
+05:41 
+
+05:41 oh oh yes yeah yeah coding is AI nope no
+05:45 
+
+05:45 it's not it's not there are so many
+05:47 
+
+05:47 different spectrums to the tech industry
+05:50 
+
+05:50 you could be a software developer you
+05:52 
+
+05:52 could be a data scientist data analyst
+05:54 
+
+05:54 Business
+05:56 
+
+05:56 Development yeah and cyber security
+05:58 
+
+05:58 there's so many etc etc a lot of stuff
+06:02 
+
+06:02 that we don't really know yet that we're
+06:03 
+
+06:03 still trying to explore and and these
+06:05 
+
+06:05 are things that we you know in our own
+06:07 
+
+06:07 domains would never have expertise over
+06:09 
+
+06:09 or claim that we would have expertise
+06:11 
+
+06:11 over you know like even though like data
+06:13 
+
+06:13 science and AI right now it's a big
+06:15 
+
+06:15 thing and you know and while we do
+06:17 
+
+06:17 software and those are perhaps like
+06:19 
+
+06:19 services that we use like you ask us to
+06:22 
+
+06:22 build a model I'll just be like staring
+06:24 
+
+06:24 at it's a black box it's a black box
+06:26 
+
+06:26 right even Salone just mentioned how she
+06:28 
+
+06:28 went out with her data science friend
+06:30 
+
+06:30 and she talk about data sciencey stuff
+06:32 
+
+06:32 did you guys even talk about data
+06:33 
+
+06:33 science we did not talk about data
+06:35 
+
+06:35 sciencey stuff I just
+06:38 
+
+06:38 generaliz you don't know what of that's
+06:41 
+
+06:41 why yeah and also we did not talk about
+06:43 
+
+06:43 software engineering stuff so it's
+06:47 
+
+06:47 just yeah yeah I think we talk about
+06:50 
+
+06:50 like generic things uh about being in
+06:53 
+
+06:53 Tech you know you were talking about
+06:55 
+
+06:55 more like promotions and stuff like that
+06:58 
+
+06:58 it's stuff that even people in non Tech
+07:00 
+
+07:00 also talk about it's just applied in the
+07:03 
+
+07:03 context of tech and it's just that like
+07:05 
+
+07:05 um in the context of tech this can like
+07:07 
+
+07:07 look a little bit different from the uh
+07:09 
+
+07:09 from other Industries outside and those
+07:11 
+
+07:11 are things that we talk about on a day
+07:13 
+
+07:13 on day with our friends and we want the
+07:15 
+
+07:15 world to know about as well because a
+07:16 
+
+07:16 lot of like the popular media out there
+07:18 
+
+07:18 might not cover this you know it it
+07:20 
+
+07:20 probably like cover things like oh how
+07:22 
+
+07:22 much do you earn as like a software
+07:23 
+
+07:23 engineer but it's it's not the same you
+07:26 
+
+07:26 can't just like you know Proclaim that
+07:28 
+
+07:28 software Engineers like because earn
+07:30 
+
+07:30 like I don't know 10K Plus+ per month at
+07:32 
+
+07:32 Google that means like any software
+07:34 
+
+07:34 engineer job is going to earn that yeah
+07:36 
+
+07:36 those are myths that I think a lot of
+07:38 
+
+07:38 people um believe is true yeah it's also
+07:42 
+
+07:42 quite common circulating around social
+07:44 
+
+07:44 media like this is the road map to get
+07:46 
+
+07:46 into a mang job and all that right oh
+07:49 
+
+07:49 yeah so follow these exact steps and you
+07:52 
+
+07:52 will reach that dream you know yeah yeah
+07:54 
+
+07:54 at first I was mang I was like oh Fang
+07:56 
+
+07:56 and now meta like raming that kind of
+07:59 
+
+07:59 keep track the tech industry moves too
+08:01 
+
+08:01 fast it does move very very fast so um I
+08:04 
+
+08:04 know we're just talking earlier like Sal
+08:06 
+
+08:06 how you mentioned you just went off the
+08:07 
+
+08:07 grid for for two weeks yeah and I
+08:10 
+
+08:10 actually I was actually uh feeling
+08:12 
+
+08:12 anxious when I came back like oh no the
+08:14 
+
+08:14 tech industry must have moved like 10
+08:15 
+
+08:15 leaps forward in the two weeks which is
+08:19 
+
+08:19 it probably did like a few more liaries
+08:21 
+
+08:21 have come up probably in the two weeks
+08:23 
+
+08:23 but we need to know that relax it does
+08:26 
+
+08:26 not change the world you are still
+08:28 
+
+08:28 relevant and you still know how to do
+08:31 
+
+08:31 your part of the work and yeah liaries
+08:33 
+
+08:33 will be releasing everyday new languages
+08:35 
+
+08:35 coming out every day but you don't have
+08:37 
+
+08:37 to jump on every new hype yeah exactly
+08:41 
+
+08:41 yeah because if you were to jump on
+08:42 
+
+08:42 every new height right and then you
+08:44 
+
+08:44 basically I don't know on link into
+08:46 
+
+08:46 something you have like Stacks and
+08:47 
+
+08:47 stacks and stacks of like all these
+08:48 
+
+08:48 different languages but truly like what
+08:50 
+
+08:50 do you really know it's really about
+08:52 
+
+08:52 like sure you can be using this one
+08:55 
+
+08:55 stack for like the next 5 years of your
+08:57 
+
+08:57 life but really underlying it the design
+09:00 
+
+09:00 of it you know the foundational
+09:02 
+
+09:02 knowledge that you have and the use case
+09:04 
+
+09:04 we were talking a lot about the use case
+09:06 
+
+09:06 specific to your company or specific to
+09:07 
+
+09:07 that site project you're on it doesn't
+09:09 
+
+09:09 mean that because it's the newest best
+09:11 
+
+09:11 language and everybody is talking about
+09:13 
+
+09:13 it that you have to use it it's about
+09:15 
+
+09:15 measuring the pros and cons across like
+09:18 
+
+09:18 these newer Stacks versus like the
+09:20 
+
+09:20 current stack that you're using it's
+09:22 
+
+09:22 also like if your company is already
+09:23 
+
+09:23 using that stack you know a lot of
+09:25 
+
+09:25 people don't understand that you can't
+09:27 
+
+09:27 just switch from one thing to another
+09:29 
+
+09:29 overnight yeah yeah it's like a huge
+09:32 
+
+09:32 effort for a company so I think these
+09:36 
+
+09:36 are things that we really wanted to also
+09:38 
+
+09:38 talk about yeah and
+09:40 
+
+09:40 demystify definitely yeah use case is
+09:43 
+
+09:43 very important that's why I'll say a lot
+09:45 
+
+09:45 of people who like my readers who
+09:47 
+
+09:47 contacted me and asked me hey um should
+09:50 
+
+09:50 I learn you know these testing tools
+09:52 
+
+09:52 should I learn these Frameworks and I'll
+09:54 
+
+09:54 say why do you want to learn it right
+09:57 
+
+09:57 you need to have a good reason like do
+09:58 
+
+09:58 you what you want want to build
+09:60 
+
+09:60 basically right you don't just learn it
+10:02 
+
+10:02 for the sake of learning it and plus it
+10:04 
+
+10:04 will not you will not retain it if you
+10:05 
+
+10:05 don't like actually have the use case
+10:07 
+
+10:07 you know like people just learn it and
+10:09 
+
+10:09 then they'll like not use it right if
+10:11 
+
+10:11 you not if you don't use it you'll lose
+10:12 
+
+10:12 it so I always ask them these questions
+10:15 
+
+10:15 make sure that they really have a true
+10:17 
+
+10:17 reason to basically use these and so
+10:21 
+
+10:21 yeah we were just talking about earlier
+10:22 
+
+10:22 with you know graphql right like how in
+10:25 
+
+10:25 the end you didn't adopt graphql and
+10:28 
+
+10:28 that's okay right so that's the thing
+10:30 
+
+10:30 about tech like it's always changing and
+10:32 
+
+10:32 it's always evolving right but you just
+10:34 
+
+10:34 need to find like the tools that suit
+10:36 
+
+10:36 for you and it doesn't matter whether
+10:38 
+
+10:38 it's new or it's old like old can be
+10:41 
+
+10:41 it's debatable but old can also be a
+10:43 
+
+10:43 classic right it can also be something
+10:46 
+
+10:46 that you will use so it's like tried and
+10:47 
+
+10:47 tested with a good development uh tool
+10:51 
+
+10:51 developer Tools around it yeah exactly I
+10:54 
+
+10:54 mean it's just like Microsoft PowerPoint
+10:57 
+
+10:57 has been here forever you don't see
+10:59 
+
+10:59 people getting off it right people still
+11:00 
+
+11:00 list like Microsoft PowerPoint as like a
+11:03 
+
+11:03 treasured skill on LinkedIn because like
+11:05 
+
+11:05 yeah it's a tried and tested tool and
+11:07 
+
+11:07 over the years people know that it's
+11:09 
+
+11:09 good that's why they don't like migrate
+11:10 
+
+11:10 to other platforms so I think it's the
+11:12 
+
+11:12 same logic here and you know the
+11:14 
+
+11:14 pressure to want to like keep trying
+11:16 
+
+11:16 every new thing and spitting up site
+11:18 
+
+11:18 projects just to try out that new thing
+11:21 
+
+11:21 it's like oh I I did this and I used
+11:23 
+
+11:23 this St I did that and I used this stack
+11:24 
+
+11:24 I mean there's also like the going
+11:26 
+
+11:26 pressure of like thinking that you need
+11:29 
+
+11:29 to have multiple site projects outside
+11:31 
+
+11:31 your 9 to5 yeah so that is definitely
+11:35 
+
+11:35 something that we've also talked about
+11:36 
+
+11:36 about site projects how it becomes it
+11:39 
+
+11:39 feels like the norm right like everyone
+11:40 
+
+11:40 thinks oh you work 9 to5 and then 5 to9
+11:43 
+
+11:43 S project so I was of I was I was one of
+11:47 
+
+11:47 them I actually used to think even now
+11:49 
+
+11:49 sometimes I do I still have side
+11:51 
+
+11:51 projects but my main thing was that okay
+11:54 
+
+11:54 after my 95 I should be working on side
+11:56 
+
+11:56 projects because in interviews that's
+11:59 
+
+11:59 what interviewers look out for cuz there
+12:01 
+
+12:01 is there are Brazilian people who want
+12:03 
+
+12:03 to come into software development and
+12:06 
+
+12:06 it's so easy to now become a software
+12:07 
+
+12:07 developer boot camps Udi you know just
+12:11 
+
+12:11 just follow a few follow a few articles
+12:14 
+
+12:14 and videos there you are you can you can
+12:17 
+
+12:17 now start coding but how do you
+12:19 
+
+12:19 differentiate the the good passionate
+12:21 
+
+12:21 software developers from the ones who
+12:23 
+
+12:23 are just in it to you know make the big
+12:25 
+
+12:25 bucks for example so the distinguishing
+12:29 
+
+12:29 factor for me was site projects so okay
+12:32 
+
+12:32 so yeah this is your resume that's good
+12:34 
+
+12:34 but what do you do on the site so then I
+12:36 
+
+12:36 could say things like oh I actually
+12:38 
+
+12:38 built uh this to-do list for example uh
+12:43 
+
+12:43 that actually syncs between me and my
+12:45 
+
+12:45 husband and we can actually have like a
+12:48 
+
+12:48 sync to-do list and we check things off
+12:50 
+
+12:50 so that that actually sounds that like
+12:52 
+
+12:52 someone like someone who is passionate
+12:55 
+
+12:55 about coding and is now applying it to
+12:58 
+
+12:58 their real life and coding for me is not
+13:00 
+
+13:00 just my way of earning money but it's
+13:03 
+
+13:03 also my hobby my passion so I would then
+13:06 
+
+13:06 hire this person because they must be
+13:08 
+
+13:08 really good at coding and they'll do
+13:10 
+
+13:10 good for my company exactly but at the
+13:12 
+
+13:12 same time it's kind of like crazy that
+13:15 
+
+13:15 it's and like companies expect it I
+13:17 
+
+13:17 don't see like other Industries I don't
+13:20 
+
+13:20 know like accounting do you do
+13:21 
+
+13:21 accounting on a day-to-day
+13:23 
+
+13:23 outside buch of like you you don't see
+13:25 
+
+13:25 that I me anyways like it just happened
+13:27 
+
+13:27 that they asked that question you had a
+13:29 
+
+13:29 functional side project you had a
+13:30 
+
+13:30 problem like and you created like that
+13:33 
+
+13:33 app to like solve it but you didn't
+13:35 
+
+13:35 create it because you were going to
+13:37 
+
+13:37 interview because you felt like you
+13:39 
+
+13:39 needed to be part of the hustle culture
+13:41 
+
+13:41 but it it helped so then then that's why
+13:43 
+
+13:43 I started like preaching to others
+13:45 
+
+13:45 around me that oh you must have a side
+13:47 
+
+13:47 project cuz that's what people look out
+13:49 
+
+13:49 for yeah yeah I don't know I'm kind of
+13:52 
+
+13:52 on the fence on whether to encourage or
+13:54 
+
+13:54 like disc it's become like a toxic Loop
+13:56 
+
+13:56 of expectations right like people are
+13:58 
+
+13:58 expecting it from you so you end up
+13:60 
+
+13:60 doing it but it originally started
+14:02 
+
+14:02 because you really like to do it and you
+14:04 
+
+14:04 do have a problem to solve you're not
+14:06 
+
+14:06 doing it for the sake of just you know
+14:08 
+
+14:08 you just have to build your portfolio
+14:10 
+
+14:10 but these days it becomes quite
+14:12 
+
+14:12 artificial um and so um it's really
+14:15 
+
+14:15 nothing to judge like you you see
+14:16 
+
+14:16 someone with like a more grayish GitHub
+14:20 
+
+14:20 like comit
+14:22 
+
+14:22 history I I confess I haven't been you
+14:25 
+
+14:25 know my GitHub looks kind of blank but
+14:27 
+
+14:27 it's okay right like because we are
+14:29 
+
+14:29 people you know we're not like 24/7
+14:32 
+
+14:32 coding like that's also another
+14:34 
+
+14:34 definitely there that's also another
+14:36 
+
+14:36 misconception when I talk with my
+14:38 
+
+14:38 friends who are outside of the tech
+14:39 
+
+14:39 industry they think like don't you like
+14:41 
+
+14:41 like almost every day 24 hours like in
+14:44 
+
+14:44 your dark room like just coding like
+14:46 
+
+14:46 that then I'm like no in fact the dark
+14:48 
+
+14:48 room part is correct because I do like
+14:50 
+
+14:50 my dark room but but everything else is
+14:53 
+
+14:53 not true right like you're not wearing a
+14:56 
+
+14:56 hoodie they do give a lot of Hoodie
+14:58 
+
+14:58 merch though like gave me merch yeah
+14:60 
+
+15:00 yeah it's not practical in singap
+15:02 
+
+15:02 weather let's be real yeah yeah but I
+15:04 
+
+15:04 would say The Stereotype though at the
+15:07 
+
+15:07 end of the day it's not it's not that
+15:08 
+
+15:08 true yeah it's definitely not that true
+15:11 
+
+15:11 and I think like this obsession over
+15:14 
+
+15:14 like having so many side projects
+15:16 
+
+15:16 because like the demand is there like
+15:19 
+
+15:19 now the tech industry is so saturated
+15:21 
+
+15:21 because like the media also like blows
+15:23 
+
+15:23 it out how much money you can earn and
+15:24 
+
+15:24 stuff like that I mean it's kind of
+15:26 
+
+15:26 crazy you know the expectation that
+15:28 
+
+15:28 there's so many people just flooding the
+15:29 
+
+15:29 industry right now that I was like at
+15:31 
+
+15:31 this Tech Community event and I had like
+15:34 
+
+15:34 a first year university student come up
+15:37 
+
+15:37 to me and you know she was like really
+15:39 
+
+15:39 talking about like oh what do you do
+15:41 
+
+15:41 what do I do and towards the end of the
+15:42 
+
+15:42 conversation I was just like you're a
+15:44 
+
+15:44 first year university so it's great that
+15:46 
+
+15:46 you're attending all these events but
+15:48 
+
+15:48 like what are you trying to get out of
+15:49 
+
+15:49 it and then uh the person was just like
+15:52 
+
+15:52 I'm trying to get an internship I'm like
+15:53 
+
+15:53 in your first year and she's like yeah
+15:56 
+
+15:56 because you know everybody is saying
+15:57 
+
+15:57 that in my first year I have to get like
+15:59 
+
+15:59 a a man internship and then the second
+16:01 
+
+16:01 year maybe try for like a smaller
+16:02 
+
+16:02 company and then my third year this and
+16:04 
+
+16:04 a entire road map planed and then I
+16:06 
+
+16:06 stopped her and I asked her like have so
+16:09 
+
+16:09 what classes are you taking right now
+16:10 
+
+16:10 and have you actually touched code and
+16:12 
+
+16:12 she was like no I'm taking like a data
+16:15 
+
+16:15 structures and algorithms class right
+16:16 
+
+16:16 now and I'm like did you even try like
+16:20 
+
+16:20 actually coding for fun and the answer
+16:22 
+
+16:22 was no she couldn't answer me so gone in
+16:25 
+
+16:25 the days of like people coming into like
+16:28 
+
+16:28 the software engineering World coding
+16:30 
+
+16:30 world because you know they were playing
+16:32 
+
+16:32 Minecraft and trying to mod it with like
+16:34 
+
+16:34 JavaScript stuff or like for myself I
+16:36 
+
+16:36 was just like fiddling around with like
+16:38 
+
+16:38 notepad to like hold up my own program I
+16:40 
+
+16:40 mean and these are all reasons that we
+16:42 
+
+16:42 came into like uh the industry so it's
+16:45 
+
+16:45 very obvious like this is a passion yeah
+16:48 
+
+16:48 but I think like more and more people
+16:49 
+
+16:49 are coming into it because they know
+16:51 
+
+16:51 there's big money yeah yeah um and I
+16:54 
+
+16:54 think that's why because people are
+16:56 
+
+16:56 coming in thinking that I'm going to get
+16:58 
+
+16:58 big money then the demand of like
+16:59 
+
+16:59 interviewers have changed because now
+17:00 
+
+17:00 they have the question like are you
+17:02 
+
+17:02 actually passionate about this are you
+17:03 
+
+17:03 here for correct I do have um uh a
+17:08 
+
+17:08 reader of mine who have contacted me
+17:10 
+
+17:10 before saying she got so burnt out and
+17:12 
+
+17:12 overwhelmed because she was doing all
+17:14 
+
+17:14 these courses at once and attending all
+17:16 
+
+17:16 these networking events that says would
+17:18 
+
+17:18 benefit her and her future but then she
+17:20 
+
+17:20 realized that she actually don't like
+17:22 
+
+17:22 coding she just wants it because of the
+17:24 
+
+17:24 money cuz many people say this is your
+17:26 
+
+17:26 way to get into Silicon Valley and be
+17:28 
+
+17:28 dang rich and like own a big you know
+17:30 
+
+17:30 Bungalow in in the states and she was
+17:33 
+
+17:33 like yeah that was my path and now I'm
+17:35 
+
+17:35 so dang lost because I realized that I
+17:38 
+
+17:38 don't enjoy it I'm so dang burned out
+17:40 
+
+17:40 yeah so the these things happen and
+17:43 
+
+17:43 that's why we are trying to debunk all
+17:45 
+
+17:45 these right like the realities of
+17:47 
+
+17:47 software engineering and we're not like
+17:48 
+
+17:48 saying that oh you must like super duper
+17:51 
+
+17:51 like to code to be like intact like you
+17:54 
+
+17:54 can like enjoy it as a work if you don't
+17:57 
+
+17:57 enjoy it as like a a hobby you have
+17:59 
+
+17:59 other Hobbies that's also fine right
+18:01 
+
+18:01 like life is all about like balancing
+18:03 
+
+18:03 those Hobbies right so if you see your
+18:06 
+
+18:06 work which is like programming and
+18:08 
+
+18:08 designing software as a part of things
+18:10 
+
+18:10 that you enjoy that's also good like you
+18:12 
+
+18:12 can finish 9 to5 and then after 5 you
+18:15 
+
+18:15 can go swimming tennis whatever hobes
+18:17 
+
+18:17 you enjoy that's also fine like it's
+18:19 
+
+18:19 seriously um sometimes people treat uh
+18:22 
+
+18:22 think themselves like super seriously
+18:24 
+
+18:24 but I've read this in the book somewhere
+18:25 
+
+18:25 it's like someone put a quote in that
+18:27 
+
+18:27 book and then it says we're just all
+18:29 
+
+18:29 monkeys with a plan monke Co
+18:33 
+
+18:33 monkeys yeah just don't treat don't take
+18:35 
+
+18:35 ourselves so seriously B yeah exactly
+18:38 
+
+18:38 and the truth is like our like outside
+18:40 
+
+18:40 of work like we're not just doing coding
+18:44 
+
+18:44 like we have hobbies that are not
+18:45 
+
+18:45 related to code like I personally like
+18:48 
+
+18:48 climb I have cats you know doing a lot
+18:50 
+
+18:50 of Animal Welfare stuff like you know
+18:52 
+
+18:52 Foster cat right here but now adopted
+18:55 
+
+18:55 cat yeah I think you tell you play a lot
+18:57 
+
+18:57 of games it's actually games is how I
+18:59 
+
+18:59 got into coding in the first place cuz I
+19:01 
+
+19:01 built like a game with Visual Basic what
+19:05 
+
+19:05 I know I know you a game with Visual
+19:08 
+
+19:08 Basic ah seriously I I go crazy I go
+19:11 
+
+19:11 crazy I literally download like all the
+19:13 
+
+19:13 pngs of like the characters I wanted and
+19:16 
+
+19:16 that's how I even pick up Photoshop cuz
+19:18 
+
+19:18 I have to photoshop out the background
+19:20 
+
+19:20 and all that oh my gosh that's how you
+19:22 
+
+19:22 created your assive I know and then I
+19:24 
+
+19:24 start drawing in Photoshop as well like
+19:26 
+
+19:26 backgrounds and all that trees and then
+19:29 
+
+19:29 slowly I got into game development so I
+19:31 
+
+19:31 learned C right oh so you started in
+19:33 
+
+19:33 Game Dev actually actually it was just a
+19:36 
+
+19:36 hobby at that time so I was in uni and
+19:38 
+
+19:38 I'm just developing games as a hobby and
+19:40 
+
+19:40 I even like just showing off to my
+19:42 
+
+19:42 friends like look at my first platform a
+19:44 
+
+19:44 game you know but it's it's really
+19:46 
+
+19:46 something I don't Envision me myself
+19:48 
+
+19:48 doing right cuz I'm actually uh graduate
+19:51 
+
+19:51 with a finance degree so I'm I thought
+19:53 
+
+19:53 I'll be into like I'll be working in a
+19:55 
+
+19:55 bank right but then when I realized that
+19:58 
+
+19:58 I really love like building things and I
+19:60 
+
+19:60 like to like solve problems through code
+20:04 
+
+20:04 I'm like this is what I want to do yeah
+20:07 
+
+20:07 yeah so sometimes people find it later
+20:09 
+
+20:09 right in life and sometimes people find
+20:11 
+
+20:11 it you know immediately and that's okay
+20:14 
+
+20:14 as well yeah yeah exactly like for
+20:16 
+
+20:16 yourself did you you graduated a
+20:18 
+
+20:18 computer science deg I grad computer
+20:19 
+
+20:19 science but like even before getting
+20:22 
+
+20:22 into computer science I already knew
+20:24 
+
+20:24 that I would go into computer science
+20:26 
+
+20:26 because like yourself I also actually
+20:28 
+
+20:28 started making games using flashh flashh
+20:31 
+
+20:31 okay so action script right action so
+20:33 
+
+20:33 I'm actually visal basic then action
+20:36 
+
+20:36 script then Unity okay yes I did I did
+20:39 
+
+20:39 not delve into game development though
+20:41 
+
+20:41 like after I just went I was then I
+20:44 
+
+20:44 joined robotics Club in my
+20:47 
+
+20:47 JC that's so cool so then that's when I
+20:49 
+
+20:49 started learning about algorithms like
+20:51 
+
+20:51 how to get the the micromouse true am
+20:54 
+
+20:54 maze oh yeah and that's when like you
+20:57 
+
+20:57 know Dept first or breakfast do you join
+21:00 
+
+21:00 a micro Mouse competition yeah in JC yes
+21:03 
+
+21:03 so then that's how I got into coding and
+21:05 
+
+21:05 then then I was like oh yes I'm going to
+21:06 
+
+21:06 be a software developer and I'm going to
+21:09 
+
+21:09 build my own app and become super
+21:13 
+
+21:13 rich even then like it wasn't like I
+21:16 
+
+21:16 think the rich part only like comes in
+21:18 
+
+21:18 this generation right oh no I was born
+21:21 
+
+21:21 to be
+21:23 
+
+21:23 rich okay okay we're not revealing our
+21:26 
+
+21:26 ages here but like okay yeah you're okay
+21:29 
+
+21:29 the truth is like we're all three of us
+21:31 
+
+21:31 obviously not super rich like that not a
+21:34 
+
+21:34 myth everybody keeps thinking like you
+21:36 
+
+21:36 know if you work in like Tech you're
+21:38 
+
+21:38 going to be earning the big bucks I
+21:40 
+
+21:40 would be sitting here like he was
+21:42 
+
+21:42 earning a big bucks yes that is that
+21:44 
+
+21:44 yeah definitely just now when you did
+21:46 
+
+21:46 talk about you know like how people
+21:48 
+
+21:48 would think that yes get into Tech and
+21:50 
+
+21:50 then get a get a big buck salary and
+21:52 
+
+21:52 then get a house everything that's not
+21:54 
+
+21:54 really true I don't have a house and it
+21:57 
+
+21:57 Singapore is kind of hard we live in
+21:60 
+
+21:60 singap music we we live in Singapore and
+22:03 
+
+22:03 so it's different from place from like
+22:05 
+
+22:05 country to Country and from job from the
+22:08 
+
+22:08 company that you're working for as well
+22:10 
+
+22:10 and like how you're getting promoted
+22:12 
+
+22:12 within the company so could be in the
+22:14 
+
+22:14 same company not be earning the same
+22:16 
+
+22:16 salary even so there are a lot of things
+22:18 
+
+22:18 at play do not get like blinded by all
+22:22 
+
+22:22 of these things make your own decisions
+22:24 
+
+22:24 do your own research and it's not just
+22:27 
+
+22:27 engineering
+22:29 
+
+22:29 even like medical even marketing
+22:32 
+
+22:32 accountancy there are big bucks if you
+22:34 
+
+22:34 want to so it all depends on your
+22:36 
+
+22:36 passion so do what you are passionate
+22:39 
+
+22:39 for don't don't do things for money like
+22:41 
+
+22:41 especially not a 9 to5 for money yeah
+22:45 
+
+22:45 yeah for yeah that shouldn't be like
+22:47 
+
+22:47 your aim to like oh I want to go into
+22:48 
+
+22:48 this field because of the 9 to5 pays
+22:51 
+
+22:51 this much no definitely know yeah yeah
+22:55 
+
+22:55 it's definitely about like following
+22:56 
+
+22:56 your passion as much as possible about
+22:58 
+
+22:58 also not saying that you have to like
+22:60 
+
+23:00 you know work at a place that you're
+23:02 
+
+23:02 passionate about you know it's a lot
+23:04 
+
+23:04 about like pivoting and really rovering
+23:06 
+
+23:06 your passions from here and there I mean
+23:08 
+
+23:08 just look at the ways that we describe
+23:09 
+
+23:09 our journey like we went from like one
+23:11 
+
+23:11 area to another and honestly now we're
+23:14 
+
+23:14 so discovering right because you know
+23:16 
+
+23:16 even though we know like roughly we know
+23:18 
+
+23:18 that we're we want to be in a tech uh
+23:20 
+
+23:20 industry but even a tech industry like
+23:22 
+
+23:22 you mention has so many different
+23:23 
+
+23:23 vertical that I I am still exploring
+23:26 
+
+23:26 like I feel like being a software
+23:28 
+
+23:28 engineer is also a very generic role
+23:30 
+
+23:30 that I can just kind of like place
+23:31 
+
+23:31 myself for now um but in terms of like
+23:34 
+
+23:34 the actual track I'm still kind of
+23:36 
+
+23:36 discovering that through like community
+23:37 
+
+23:37 events through talking to different
+23:38 
+
+23:38 people like robotics engineering and
+23:40 
+
+23:40 something new that I came to know about
+23:42 
+
+23:42 did not I I think it's stupid but I did
+23:44 
+
+23:44 not know that Robotics and software like
+23:47 
+
+23:47 come together I mean you need the
+23:48 
+
+23:48 software to operate the robot but yeah
+23:51 
+
+23:51 these are still things I'm discovering
+23:53 
+
+23:53 yeah even though it's been so long in
+23:55 
+
+23:55 like um the number of years relative to
+23:57 
+
+23:57 like uh people out there but yeah a lot
+24:01 
+
+24:01 of people still don't know that all
+24:02 
+
+24:02 these different tracks exist and even
+24:04 
+
+24:04 within the different tracks there's the
+24:06 
+
+24:06 coding tracks and there's the non-coding
+24:08 
+
+24:08 tracks like C security um so there's
+24:11 
+
+24:11 still so much to discover and talk about
+24:13 
+
+24:13 yeah yeah that's why this is actually
+24:15 
+
+24:15 something I'm really excited about
+24:17 
+
+24:17 through this podcast is we get to
+24:18 
+
+24:18 actually meet other people who are non
+24:21 
+
+24:21 software Engineers because when people
+24:22 
+
+24:22 think oh you're in Tech you're software
+24:24 
+
+24:24 engineer like that's so like the common
+24:26 
+
+24:26 label and to be honest since was from
+24:28 
+
+24:28 Finance I also think oh if I go into
+24:30 
+
+24:30 Tech I can only be a software engineer
+24:32 
+
+24:32 that's like a one track thing and then
+24:33 
+
+24:33 I'm like um okay but what if I want to
+24:36 
+
+24:36 try other things right what if I'm
+24:37 
+
+24:37 interested in Ai and machine learning so
+24:40 
+
+24:40 during my time when I was like kind of
+24:42 
+
+24:42 like in covid period it was like you
+24:44 
+
+24:44 know everyone was in their homes I kind
+24:47 
+
+24:47 of used that time to actually explore
+24:49 
+
+24:49 like Devil in different things like I
+24:51 
+
+24:51 used the Google auto ml API just to
+24:53 
+
+24:53 build my own custom image classification
+24:55 
+
+24:55 model and check out machine learning
+24:57 
+
+24:57 words oh sorry and and then I attended
+25:01 
+
+25:01 many hackathons like back to back just
+25:02 
+
+25:02 to like try different Technologies and
+25:04 
+
+25:04 see which type do I like cloud computing
+25:07 
+
+25:07 or do I like web development like what
+25:09 
+
+25:09 what exactly do I want in Tech basically
+25:12 
+
+25:12 so in a way this podcast I'm also really
+25:15 
+
+25:15 excited about just learning how to
+25:17 
+
+25:17 navigate through Tech like we get to
+25:18 
+
+25:18 explore ourselves as well for us and for
+25:21 
+
+25:21 maybe the people who are listening right
+25:23 
+
+25:23 yeah yeah exactly and therefore we have
+25:25 
+
+25:25 R Tech yeah so like why we call rag tag
+25:29 
+
+25:29 I mean we talk about how we came on this
+25:32 
+
+25:32 podcast idea but the notion of rag tag
+25:34 
+
+25:34 it came from the word like rag tag r a g
+25:36 
+
+25:36 which means like a disorganized group of
+25:38 
+
+25:38 people group of thoughts which is kind
+25:40 
+
+25:40 of like how a conversations go it goes
+25:42 
+
+25:42 from one to another as as you can see
+25:44 
+
+25:44 from the last I don't know how many
+25:46 
+
+25:46 minutes um but you basically just change
+25:48 
+
+25:48 the th to
+25:49 
+
+25:49 te and um inside joke is that it's a
+25:52 
+
+25:52 camel case if you know what it is then
+25:54 
+
+25:54 yeah good for you you're in the right
+25:55 
+
+25:55 place but yeah that's kind of like what
+25:57 
+
+25:57 we arrived snat and then our tagline um
+26:00 
+
+26:00 which we well you came up with it bites
+26:03 
+
+26:03 and banter so so so disclaimer I did not
+26:07 
+
+26:07 come up with it it's it's awesome but
+26:09 
+
+26:09 Chad GPD did help us get to it so yeah
+26:13 
+
+26:13 bites and bent basically bytes is b t s
+26:17 
+
+26:17 so bits and bites btes so this would be
+26:20 
+
+26:20 like bite-sized information for you guys
+26:23 
+
+26:23 on uh regarding Tech and also ban where
+26:26 
+
+26:26 you know the three of us coming together
+26:28 
+
+26:28 M we'll be talking about this from our
+26:30 
+
+26:30 own perspectives from our own opinion so
+26:32 
+
+26:32 we will be you know like questioning
+26:35 
+
+26:35 each other like oh why why this why that
+26:37 
+
+26:37 and bringing this all for you guys uh so
+26:40 
+
+26:40 that's our teline bites and B and yeah
+26:42 
+
+26:42 light-heartedness of course so yeah yeah
+26:45 
+
+26:45 we're just going to keep it chill just
+26:46 
+
+26:46 like our usual conversations and
+26:48 
+
+26:48 obviously it's not just three of us
+26:50 
+
+26:50 we're looking to bring in a lot of other
+26:51 
+
+26:51 people because you know software
+26:53 
+
+26:53 engineer software engineer uh Solutions
+26:54 
+
+26:54 engineer like we see we're still still
+26:56 
+
+26:56 trying to discover like different tracks
+26:58 
+
+26:58 we're also trying to explore like
+26:60 
+
+26:60 bringing our non-technical friends in
+27:02 
+
+27:02 and also asking them like what are your
+27:04 
+
+27:04 perspectives on the tech industry like
+27:07 
+
+27:07 do you have any misconceptions for us to
+27:08 
+
+27:08 pass and also maybe try out segments
+27:10 
+
+27:10 like we attempt to explain like cloud
+27:13 
+
+27:13 computing Concepts to a non- Tey and see
+27:15 
+
+27:15 your reaction do anything like the cloud
+27:17 
+
+27:17 is a physical cloud like Google drive or
+27:19 
+
+27:19 something like that like I think those
+27:20 
+
+27:20 are things that we want to exp sad just
+27:22 
+
+27:22 really keeping it casual and
+27:23 
+
+27:23 light-hearted yeah so I think um all in
+27:27 
+
+27:27 all I think this is a very good start
+27:30 
+
+27:30 for us and we just being able to
+27:33 
+
+27:33 casually hang out here uh I know like
+27:36 
+
+27:36 probably in the first few episodes maybe
+27:38 
+
+27:38 it will be slightly awkward cuz you know
+27:39 
+
+27:39 we we we go through a lot to like get
+27:42 
+
+27:42 here like so this is our emotional
+27:44 
+
+27:44 support cat right this is PIP um pip is
+27:48 
+
+27:48 uh well she's my cat but she used to be
+27:50 
+
+27:50 my foster cat she's named after um the
+27:53 
+
+27:53 python package installer yeah like pip
+27:55 
+
+27:55 install also because like you know she
+27:57 
+
+27:57 pits a lot like she goes I mean she
+27:59 
+
+27:59 she's sleeping now maybe next time but
+28:02 
+
+28:02 yay emotional support yeah cuz we know
+28:04 
+
+28:04 that um in the next first few episodes
+28:06 
+
+28:06 we might
+28:08 
+
+28:08 need support we like we we are not the
+28:12 
+
+28:12 most extroverted people but we we like
+28:16 
+
+28:16 sharing our knowledge we like so like uh
+28:18 
+
+28:18 my Moto in life is like teaching is the
+28:22 
+
+28:22 best way to learn so the more I talk
+28:23 
+
+28:23 about it the more I teach it would be
+28:27 
+
+28:27 better for me
+28:29 
+
+28:29 so actually sorry I've lost track of
+28:31 
+
+28:31 what I was saying oh yeah no no that's
+28:33 
+
+28:33 fine yeah I remember you saying this
+28:35 
+
+28:35 that like you teach as a way to learn
+28:37 
+
+28:37 because it's only by teaching that you
+28:39 
+
+28:39 are able to condense that information
+28:41 
+
+28:41 and you hear yourself teaching and you
+28:43 
+
+28:43 force yourself through the process and
+28:44 
+
+28:44 to like think oh exactly why why exactly
+28:47 
+
+28:47 am I saying such thing so yeah yeah so
+28:49 
+
+28:49 that's that's what this is and and I
+28:52 
+
+28:52 actually like while you were explaining
+28:54 
+
+28:54 I I realized ironically Tech is like
+28:58 
+
+28:58 tech knowledge and everything is like
+28:60 
+
+29:00 literally at our fingertips right and
+29:03 
+
+29:03 even then it is so convoluted there's so
+29:06 
+
+29:06 many aspects to it that even though it's
+29:08 
+
+29:08 right out there it's half of the
+29:10 
+
+29:10 information is free on YouTube on like
+29:13 
+
+29:13 so many different articles but why is it
+29:15 
+
+29:15 still so complicated why is it still so
+29:18 
+
+29:18 blackbox to so many people exactly so
+29:21 
+
+29:21 that's why there is a need for such a
+29:24 
+
+29:24 platform where you know people try to
+29:27 
+
+29:27 like we will try to like help make it
+29:29 
+
+29:29 more accessible like explain things that
+29:32 
+
+29:32 there's there's no need to get
+29:34 
+
+29:34 overwhelmed cuz we have been through our
+29:36 
+
+29:36 own phases where we have been
+29:37 
+
+29:37 overwhelmed by the tech world so yeah so
+29:41 
+
+29:41 this is our attempt to demystify things
+29:44 
+
+29:44 and bring the the calm to to Tech bring
+29:49 
+
+29:49 the calm so far listeners I'm literally
+29:52 
+
+29:52 doing the calm movement with my hands
+29:54 
+
+29:54 the calm the calm cat the calm hook
+29:57 
+
+29:57 hopefully
+29:59 
+
+29:59 us and yeah we'll be the average Jane in
+30:03 
+
+30:03 in in the tech industry we'll be like
+30:05 
+
+30:05 the neighbor the the tech neighbor
+30:07 
+
+30:07 friendly neighborhood friendly
+30:10 
+
+30:10 neighborhood your friendly neighborhood
+30:12 
+
+30:12 techie person yeah no if we call
+30:15 
+
+30:15 ourselves that like people are going to
+30:16 
+
+30:16 call us in to fix your computers like my
+30:20 
+
+30:20 my parents would just just assume that I
+30:22 
+
+30:22 know how to like do anything computer
+30:24 
+
+30:24 related anything like I don't know
+30:26 
+
+30:26 Appliance related yeah
+30:28 
+
+30:28 like they keep asking me to fix the
+30:30 
+
+30:30 printer and this is funny cuz I when I
+30:32 
+
+30:32 first uh like got into computer science
+30:35 
+
+30:35 like in uni the first thing I asked my
+30:37 
+
+30:37 mom and dad was like do you think I
+30:39 
+
+30:39 would be able to fix the light bulb
+30:40 
+
+30:40 after my uni okay so you you used to be
+30:44 
+
+30:44 on board on that train I I was of that
+30:47 
+
+30:47 thinking like I can fix any electrical
+30:49 
+
+30:49 Appliance after my computer science
+30:51 
+
+30:51 graduation oh my like that's what who
+30:54 
+
+30:54 I'm going to be you just negated the
+30:55 
+
+30:55 whole electrical engineering department
+30:58 
+
+30:58 like I'll just do everything
+31:01 
+
+31:01 City not not just computer electric city
+31:05 
+
+31:05 oh
+31:06 
+
+31:06 electricity it'll be my fingertips
+31:09 
+
+31:09 you'll be the electricity superheroes
+31:11 
+
+31:11 yeah is it just because you did you use
+31:13 
+
+31:13 Flash it's always like electricity yes
+31:16 
+
+31:16 if I can do flash I can do anything girl
+31:20 
+
+31:20 no not really but yeah as a whole I
+31:24 
+
+31:24 think like that's why we've decided to
+31:26 
+
+31:26 try this podcast out it's not going to
+31:28 
+
+31:28 be like the easiest thing for us um but
+31:31 
+
+31:31 you know this is something that we're
+31:32 
+
+31:32 experimenting with something we're
+31:34 
+
+31:34 trying to get out of our comfort zone so
+31:36 
+
+31:36 that more people can listen to this
+31:39 
+
+31:39 relate to this you know try things out
+31:41 
+
+31:41 as we kind of like talk about it and
+31:42 
+
+31:42 explore it together with us just as
+31:45 
+
+31:45 we're exploring it as well so yeah that
+31:48 
+
+31:48 is us we are Rec Tech um actually did we
+31:52 
+
+31:52 introduce ourselves no we have no okay I
+31:54 
+
+31:54 will introduce ourselves now um I'm
+31:56 
+
+31:56 Natasha software
+31:59 
+
+31:59 engineer I'm Salone I'm also a software
+32:01 
+
+32:01 engineer and I am Victoria I'm a
+32:04 
+
+32:04 Solutions engineer and also Tech blogger
+32:07 
+
+32:07 on the site yes we will definitely have
+32:09 
+
+32:09 like an episode to like explain what
+32:11 
+
+32:11 Solutions engineer is yeah because I
+32:13 
+
+32:13 know like people kind of get confused
+32:14 
+
+32:14 with that and we will also have episodes
+32:16 
+
+32:16 to explain like what you know what is a
+32:18 
+
+32:18 software engineer actually so yeah don't
+32:20 
+
+32:20 worry about that we'll come to that yeah
+32:22 
+
+32:22 I'm not going to explain it like right
+32:23 
+
+32:23 now but yeah we've introduced pip who's
+32:25 
+
+32:25 out of the camera right now so that's
+32:27 
+
+32:27 fine
+32:28 
+
+32:28 but yeah that's us uh stay tuned for
+32:30 
+
+32:30 more episodes uh we're really happy to
+32:33 
+
+32:33 have you guys like here and yeah we're
+32:35 
+
+32:35 looking forward to more yeah also we
+32:38 
+
+32:38 would like to give credit to Jonathan oh
+32:41 
+
+32:41 yeah who actually has set up this entire
+32:44 
+
+32:44 thing for us so speakers video audio
+32:47 
+
+32:47 everything he's now behind the scenes
+32:48 
+
+32:48 behind the camera but yes Jonathan thank
+32:51 
+
+32:51 you so much thank you
+32:53 
+
+32:53 John and yeah then that would be all
+32:57 
+
+32:57 stay tuned to R
+32:60 
+
+32:60 de subscribe like subscribe and follow
+33:04 
+
+33:04 and follow and comment and comment
+33:06 
+
+33:06 everything social media notification
+33:08 
+
+33:08 yeah we're still working on okay we'll
+33:10 
+
+33:10 get to
+33:15 
+
+33:15 [Music]
+33:18 
+
+33:18 it

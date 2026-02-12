@@ -70,7 +70,7 @@ export default function ContactPage() {
         subtitle="Let's Start a Conversation"
         description="Whether you have a question, want to collaborate, or just want to say hi, we'd love to hear from you!"
         backgroundGradient={true}
-        heroImage="/assets/hi.png"
+        heroImage="/assets/techybara/techybara-raising-hand.png"
       />
 
       {/* Contact Reasons Section */}
@@ -171,7 +171,7 @@ export default function ContactPage() {
                 </div>
                 <div className="mt-8 flex justify-center">
                   <Image
-                    src="/assets/email.png"
+                    src="/assets/techybara/techybara-holding-mail.png"
                     alt="Contact Us"
                     width={200}
                     height={200}

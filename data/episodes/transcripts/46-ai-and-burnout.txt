@@ -1,0 +1,2827 @@
+00:00 the greetings show. Yeah.
+00:02 
+
+00:02 >> Hello. Hello. Hello. Oh, yeah. Mine is
+00:05 
+
+00:05 not working.
+00:06 
+
+00:06 >> Yeah.
+00:09 
+
+00:09 Oh, that's I think it's about Oh, hello.
+00:12 
+
+00:12 Hello. Let me Why you laughing? Oh,
+00:14 
+
+00:14 okay. So, I was going to say, hey,
+00:22 
+
+00:22 hello everybody and welcome to Rag Tag.
+00:24 
+
+00:24 This is a place where we talk about real
+00:26 
+
+00:26 life in tech and we're three techies
+00:28 
+
+00:28 here. My name is Natasha. I'm a software
+00:30 
+
+00:30 engineer.
+00:30 
+
+00:30 >> Saloni software developer
+00:32 
+
+00:32 >> and I'm Victoria solutions engineer.
+00:34 
+
+00:34 >> And today's episode will be all about AI
+00:37 
+
+00:37 and burnout i.e. burnout from using AI
+00:40 
+
+00:40 which is kind of ironic because if you
+00:42 
+
+00:42 watched our previous episode we have
+00:44 
+
+00:44 spent a lot of time advocating for the
+00:47 
+
+00:47 use of AI especially uh in the field of
+00:49 
+
+00:49 software engineering. Um so why we're
+00:52 
+
+00:52 talking about this episode today it's uh
+00:54 
+
+00:54 well those episodes that we filmed about
+00:56 
+
+00:56 uh trying to advocate for the use of AI
+00:58 
+
+00:58 was during a time where uh we found that
+01:01 
+
+01:01 it boosted our productivity but uh for
+01:04 
+
+01:04 some reason individually we have all
+01:07 
+
+01:07 started reeling back from the use of AI
+01:09 
+
+01:09 in some domains while still continuing
+01:11 
+
+01:11 the use in others. Um and we only
+01:13 
+
+01:13 realized this fact um when we came
+01:15 
+
+01:15 together and talked about it. Basically
+01:17 
+
+01:17 all three of us came to that uh this new
+01:20 
+
+01:20 conclusion that there needs to be a
+01:22 
+
+01:22 balance in using AI for productivity uh
+01:25 
+
+01:25 versus um trying to manage the burnout
+01:27 
+
+01:27 from using it and today we're going to
+01:29 
+
+01:29 talk all about it. So first of all um I
+01:32 
+
+01:32 want to talk about like how we've been
+01:34 
+
+01:34 using AI for those who haven't been
+01:36 
+
+01:36 watching our previous episode. So uh
+01:38 
+
+01:38 Victoria you're a solutions engineer um
+01:41 
+
+01:41 you're also a technical blogger. Do you
+01:43 
+
+01:43 want to talk briefly about how you've
+01:44 
+
+01:44 been using AI in your work and also how
+01:47 
+
+01:47 has that been for you and what stage of
+01:50 
+
+01:50 using AI are you on?
+01:52 
+
+01:52 >> Yeah, I think um AI is mainly very
+01:56 
+
+01:56 useful for writing. So even as a
+01:58 
+
+01:58 solutions engineer, writing solutions
+01:59 
+
+01:59 documents, writing emails, just writing
+02:02 
+
+02:02 in general, I use it so much to the
+02:04 
+
+02:04 point where like as little as like
+02:07 
+
+02:07 acknowledging someone or like giving
+02:10 
+
+02:10 someone with feedback when I write it on
+02:13 
+
+02:13 my own, I feel like I think AI could
+02:15 
+
+02:15 have worded it better.
+02:18 
+
+02:18 So I over rely even social post I will
+02:21 
+
+02:21 also say yeah as I could do it better
+02:26 
+
+02:26 and then I will always have to prompt
+02:28 
+
+02:28 hey you can help me write this but don't
+02:31 
+
+02:31 make it sound too like you sound make it
+02:34 
+
+02:34 sound a bit like me like that right and
+02:37 
+
+02:37 over time I felt like I forget the
+02:40 
+
+02:40 process on how to think how how to write
+02:44 
+
+02:44 because actually writing involves a lot
+02:46 
+
+02:46 of thinking Right? Like I I tend to back
+02:49 
+
+02:49 when I was really constantly writing on
+02:51 
+
+02:51 my blogs, I would always have these
+02:53 
+
+02:53 thoughts throughout the day like, "Oh,
+02:55 
+
+02:55 how am I going to convey this particular
+02:58 
+
+02:58 idea or concept? I always kind of think
+03:02 
+
+03:02 internally in my head and that will come
+03:04 
+
+03:04 out in my writing,
+03:05 
+
+03:05 >> right?
+03:05 
+
+03:05 >> So I have the whole process like that.
+03:08 
+
+03:08 And now with AI, I'm outsourcing the
+03:10 
+
+03:10 thinking to AI. I'm outsourcing it like
+03:14 
+
+03:14 I'm only in charge of ideiation.
+03:17 
+
+03:17 and uh concepts basically. So AI is
+03:20 
+
+03:20 doing all the thinking, all the writing
+03:21 
+
+03:21 for me. Yeah.
+03:22 
+
+03:22 >> And that's when I realized like I need
+03:25 
+
+03:25 an AI detox. Yeah. So that's why I've
+03:27 
+
+03:27 been telling you both like come out our
+03:29 
+
+03:29 conversations where I'm on an AI detox
+03:31 
+
+03:31 now. I'm like just happily announcing it
+03:33 
+
+03:33 to everyone because I want to make sure
+03:35 
+
+03:35 I'm really doing it as well. The last
+03:38 
+
+03:38 few articles even within my work even
+03:41 
+
+03:41 outside during my technical blogging I I
+03:43 
+
+03:43 try to use zero AI almost I pretty much
+03:47 
+
+03:47 write everything from scratch. I try to
+03:50 
+
+03:50 sit myself down one weekend to finish an
+03:52 
+
+03:52 article and it took longer than I used
+03:56 
+
+03:56 to expect from myself. It used to take
+03:58 
+
+03:58 me maybe four hours and now I have to
+04:01 
+
+04:01 sit down maybe until one two days I will
+04:04 
+
+04:04 have to go back to it and revise it
+04:06 
+
+04:06 again because I realized that my own
+04:10 
+
+04:10 skills has eroded. Yes. And and it's not
+04:14 
+
+04:14 a good feeling for context before how
+04:17 
+
+04:17 was your cadence of writing like how
+04:19 
+
+04:19 long would your articles be and how
+04:21 
+
+04:21 often did you post them? And we have a
+04:24 
+
+04:24 special announcement. We recently
+04:26 
+
+04:26 released a card game.
+04:30 
+
+04:30 This card game uh is called Techie
+04:32 
+
+04:32 Taboo. Uh it's basically a card game
+04:34 
+
+04:34 that's inspired off the original uh
+04:37 
+
+04:37 Taboo.
+04:37 
+
+04:37 >> It's basically a game you can use to
+04:39 
+
+04:39 replace small talk if you don't like
+04:41 
+
+04:41 small talk if you're like me. And a game
+04:43 
+
+04:43 is the best way to bond with people and
+04:46 
+
+04:46 to also think learn about their thought
+04:48 
+
+04:48 process. And this is it
+04:50 
+
+04:50 >> well in the context of tech. Uh so you
+04:53 
+
+04:53 basically how it's played we can play it
+04:55 
+
+04:55 right now.
+04:58 
+
+04:58 >> Okay. So given like one word you can't
+05:00 
+
+05:00 say you have to describe that one word
+05:03 
+
+05:03 without saying the rest of the five
+05:04 
+
+05:04 words below it. So demo mode.
+05:08 
+
+05:08 >> Okay. Demo. Um so you want to style your
+05:14 
+
+05:14 site right?
+05:15 
+
+05:15 >> CSS.
+05:17 
+
+05:17 >> Close. You use you use this to style. So
+05:20 
+
+05:20 it is a type of it but
+05:25 
+
+05:25 >> cascading. Wait, no. Why am I spelling
+05:27 
+
+05:27 CSS out? I'm stupid.
+05:29 
+
+05:29 >> Tailwind.
+05:31 
+
+05:31 >> Okay, another another one.
+05:33 
+
+05:33 >> React.
+05:34 
+
+05:34 >> Wait, no.
+05:34 
+
+05:34 >> Styling.
+05:35 
+
+05:35 >> Just whatever you said there was a like
+05:38 
+
+05:38 a
+05:39 
+
+05:39 >> design system.
+05:40 
+
+05:40 >> No, no, no. Just now what she said.
+05:42 
+
+05:42 >> Arrival of Tailwind.
+05:43 
+
+05:43 >> Yeah, like another alternative for
+05:46 
+
+05:46 another alternative
+05:47 
+
+05:47 >> chakra. Wait. So that just now know the
+05:51 
+
+05:51 one that you mentioned is utility based.
+05:53 
+
+05:53 This one is
+05:54 
+
+05:54 >> component based.
+05:56 
+
+05:56 >> Material.
+05:57 
+
+05:57 >> Ah very close. Uh
+05:58 
+
+05:58 >> material UI.
+05:60 
+
+05:60 >> Ah something else. Something else.
+06:01 
+
+06:01 >> So it is a design system.
+06:03 
+
+06:03 >> Uh yeah it was a component based style
+06:08 
+
+06:08 >> styling
+06:09 
+
+06:09 to style your site.
+06:11 
+
+06:11 >> Yes.
+06:13 
+
+06:13 >> So bootrap. Yes.
+06:16 
+
+06:16 >> Yes. This card game uh is now available
+06:19 
+
+06:19 for weight listing right now. Uh you
+06:22 
+
+06:22 basically go on to our website uh
+06:24 
+
+06:24 ragtagdev.com. There's a little button
+06:27 
+
+06:27 for techietaboo. Click on it. Uh then
+06:29 
+
+06:29 you'll be able to wait list for it by
+06:31 
+
+06:31 giving us a symbolic $1. This is for us
+06:34 
+
+06:34 to know what the demand is like so that
+06:36 
+
+06:36 we can work out u manufacturer kinks.
+06:38 
+
+06:38 Yes.
+06:39 
+
+06:39 >> This is V 1.0.
+06:41 
+
+06:41 >> This is this is V 1.0. We will have 1.12
+06:44 
+
+06:44 you know feedback process. So yeah, do
+06:47 
+
+06:47 support us and thank you so much.
+06:49 
+
+06:49 >> Thank you.
+06:50 
+
+06:50 >> Bye.
+06:51 
+
+06:51 >> Before AI,
+06:52 
+
+06:52 >> before AI, so basically before 2023 when
+06:54 
+
+06:54 I start using super much AI, before
+06:57 
+
+06:57 2023, I would post weekly articles. I
+07:01 
+
+07:01 would have like seven, eight in the
+07:02 
+
+07:02 backlog already like in drafts and I
+07:04 
+
+07:04 would like work on them a little bit a
+07:06 
+
+07:06 little bit throughout the week and I
+07:08 
+
+07:08 would post weekly consistently
+07:10 
+
+07:10 throughout the year. Yeah, if you go
+07:11 
+
+07:11 back to my older articles, you can see
+07:13 
+
+07:13 it's every week and it's written by a
+07:15 
+
+07:15 human, right? Not an AI. And every day
+07:18 
+
+07:18 for me is a source of inspiration. Like
+07:20 
+
+07:20 I'll be talking to people in real life.
+07:22 
+
+07:22 I'll be like, you know, discussing ideas
+07:25 
+
+07:25 and things like, oh, I learned something
+07:27 
+
+07:27 new today. Let me write it down. It
+07:29 
+
+07:29 could be an idea for an article. So, I
+07:31 
+
+07:31 have so many seeds planted. And then
+07:34 
+
+07:34 with AI, it becomes so to the point of
+07:36 
+
+07:36 results driven. We're like results
+07:38 
+
+07:38 driven. You're right. Yeah. Just the
+07:40 
+
+07:40 thinking from I want to share what I see
+07:43 
+
+07:43 these special insights that I get every
+07:45 
+
+07:45 day to I just want to post.
+07:47 
+
+07:47 >> Yeah. Right. Right.
+07:47 
+
+07:47 >> Yeah. I I felt the pressure because
+07:49 
+
+07:49 everyone is putting out articles even
+07:51 
+
+07:51 faster than before and I feel like if I
+07:54 
+
+07:54 don't do at that same rate I I would
+07:57 
+
+07:57 erode and or I would fade away into
+07:60 
+
+07:60 invisibility for my blog. And that gives
+08:03 
+
+08:03 me pressure to just put out as many
+08:05 
+
+08:05 articles even if I'm not super
+08:08 
+
+08:08 passionate about the topic. let me just
+08:10 
+
+08:10 use AI to help me achieve that so I can
+08:13 
+
+08:13 even outsource my boredness to AI to do
+08:17 
+
+08:17 so mundane task like I'm not really
+08:19 
+
+08:19 passionate about this topic so I'll let
+08:21 
+
+08:21 you do the research
+08:22 
+
+08:22 >> and uh but yeah then it got me thinking
+08:25 
+
+08:25 like that's not what I enjoy about
+08:28 
+
+08:28 writing in the first place like I was
+08:30 
+
+08:30 able to do so so consistently preai is
+08:32 
+
+08:32 because I love what I write I can
+08:35 
+
+08:35 remember what I write even years ago So
+08:38 
+
+08:38 whenever my readers refer to me an
+08:40 
+
+08:40 article, I love your article on focus, I
+08:43 
+
+08:43 immediately know, oh, that's the one I
+08:44 
+
+08:44 wrote wrote in 2022. Like I cuz I
+08:47 
+
+08:47 remember every word I wrote and I
+08:49 
+
+08:49 remember how I struggled to think about
+08:52 
+
+08:52 how to get it out out of my brain and
+08:56 
+
+08:56 and that struggle is what makes it real.
+08:58 
+
+08:58 It what's makes it feel like this is
+09:01 
+
+09:01 coming from me and that's why I remember
+09:03 
+
+09:03 I retain it. Right? Usually you teach in
+09:06 
+
+09:06 order to learn also like you you will
+09:08 
+
+09:08 learn 90% of what you teach you can
+09:10 
+
+09:10 retain it better. So when I teach it to
+09:13 
+
+09:13 people through my writing I I remember
+09:15 
+
+09:15 it myself but the the recent AI heavy
+09:19 
+
+09:19 articles the one that I wrote with a lot
+09:21 
+
+09:21 of AI you ask me don't remember it. I
+09:24 
+
+09:24 don't remember probably not proud of it
+09:25 
+
+09:25 as well now. honest with you, I I feel
+09:28 
+
+09:28 like I should just erase those. But but
+09:29 
+
+09:29 that's a separate topic
+09:31 
+
+09:31 >> because there's no you in it. You know,
+09:33 
+
+09:33 it's it I I think the irony here is
+09:36 
+
+09:36 writing has become a mundane task for
+09:38 
+
+09:38 you. I I feel like AI is great for the
+09:40 
+
+09:40 mundane task, but when you start
+09:42 
+
+09:42 relegating things that you used to enjoy
+09:44 
+
+09:44 into a mundane task into AI, that's
+09:46 
+
+09:46 where it starts, you know, losing soul.
+09:49 
+
+09:49 I wanted to come back to uh uh Salon
+09:51 
+
+09:51 actually because Salony you've been
+09:53 
+
+09:53 advocating a lot for the use of AI in
+09:55 
+
+09:55 software engineering. You've even done
+09:57 
+
+09:57 workshops. Uh you've uh some of our
+09:59 
+
+09:59 videos you talk uh avidly about that.
+10:02 
+
+10:02 But recently you told me that coding has
+10:05 
+
+10:05 become boring for you.
+10:07 
+
+10:07 >> Yes. I lost my passion for coding.
+10:11 
+
+10:11 No, I mean it's because I am not coding
+10:13 
+
+10:13 anymore. The AI does the coding for me.
+10:16 
+
+10:16 I all I am is basically this is the task
+10:19 
+
+10:19 do this I like I'll break down the task
+10:22 
+
+10:22 for it because I know better it works
+10:24 
+
+10:24 better when I break it down for it and
+10:26 
+
+10:26 then it it does it but I've not been
+10:28 
+
+10:28 coding at all and yes I'm reviewing code
+10:32 
+
+10:32 but there's no joy in reviewing there's
+10:34 
+
+10:34 joy in writing code right like I want to
+10:37 
+
+10:37 write public static white men I don't
+10:40 
+
+10:40 know when I last wrote it but but beyond
+10:44 
+
+10:44 that uh how I'm seeing is that now this
+10:48 
+
+10:48 I I think the best use case for AI is
+10:50 
+
+10:50 for coding actually because
+10:52 
+
+10:52 >> I agree it is doing what it is it is
+10:56 
+
+10:56 able to write code really well if if the
+10:57 
+
+10:57 prompt is good to if it's clear and
+10:60 
+
+10:60 exactly what it it should be it does
+11:02 
+
+11:02 write really good code uh but sorry I
+11:06 
+
+11:06 forgot my train of thoughts so I think
+11:09 
+
+11:09 like the future of of coding is going to
+11:12 
+
+11:12 be humans software previously known as
+11:15 
+
+11:15 software engineers. Humans would then be
+11:19 
+
+11:19 uh asking it to okay this is the task do
+11:21 
+
+11:21 this and then uh this other AI tool you
+11:23 
+
+11:23 do this and then together it's a whole
+11:25 
+
+11:25 microservices architecture whatever and
+11:27 
+
+11:27 everything will work basically we are
+11:29 
+
+11:29 now solutions architect just think
+11:32 
+
+11:32 that's the word
+11:34 
+
+11:34 >> you're architects now you just tell
+11:37 
+
+11:37 these different AI tools to work on
+11:39 
+
+11:39 these different services and that's how
+11:41 
+
+11:41 it'll collaborate with each other you we
+11:43 
+
+11:43 you see the higher level picture of how
+11:45 
+
+11:45 things will work together the nitty-g
+11:47 
+
+11:47 gritties can let the AI take care of it.
+11:50 
+
+11:50 Of course you you as a software
+11:52 
+
+11:52 developer what I will be using is things
+11:54 
+
+11:54 like uh okay decoupling and you know
+11:58 
+
+11:58 singleton don't reuse the same code
+12:00 
+
+12:00 reuse the same code don't write
+12:02 
+
+12:02 duplicated code these kind of simple
+12:04 
+
+12:04 things
+12:04 
+
+12:04 >> design patterns
+12:05 
+
+12:05 >> design patterns but these would now be
+12:07 
+
+12:07 basics I mean it is still basics but it
+12:10 
+
+12:10 will be even more basic that we'll just
+12:14 
+
+12:14 have to maintain in these uh AI tools
+12:16 
+
+12:16 and I'm pretty sure these AI tools will
+12:18 
+
+12:18 improve on to have that as default in
+12:21 
+
+12:21 them.
+12:22 
+
+12:22 >> Right. Right. Yeah. So in that sense for
+12:24 
+
+12:24 coding like a lot of people uh
+12:27 
+
+12:27 especially non techies might not see it
+12:29 
+
+12:29 as a creative process and it's more
+12:31 
+
+12:31 logical. It's more linear logic kind and
+12:34 
+
+12:34 that's why it lands so well uh with the
+12:37 
+
+12:37 use of uh large language models. I mean
+12:40 
+
+12:40 like chat GPT by itself because of its
+12:42 
+
+12:42 partnership OpenAI's partnership with
+12:44 
+
+12:44 Microsoft. Um yeah their project was
+12:46 
+
+12:46 called Codeex. It was actually not part
+12:48 
+
+12:48 of chat GBT, right? The code generation
+12:50 
+
+12:50 part. And by virtue of them partnering
+12:53 
+
+12:53 with Microsoft, they have access to
+12:54 
+
+12:54 GitHub, which is the world's largest
+12:56 
+
+12:56 open-source code repository. So, it's no
+12:59 
+
+12:59 wonder with that high quality of data
+13:01 
+
+13:01 coming in that technically these LLMs
+13:04 
+
+13:04 could code better than us because none
+13:07 
+
+13:07 of us are going to be the ones like
+13:08 
+
+13:08 reading this huge repository of GitHub
+13:11 
+
+13:11 uh uh code, right? Yeah. But at the same
+13:14 
+
+13:14 time like I've always found coding to be
+13:17 
+
+13:17 a creative process either I also even
+13:20 
+
+13:20 did a talk I don't know if you remember
+13:21 
+
+13:21 you wrote an article on it which is
+13:23 
+
+13:23 coding is an art where I I drew
+13:26 
+
+13:26 similarities between how you would paint
+13:28 
+
+13:28 and you know use colors and do things
+13:30 
+
+13:30 and how that's equivalent to using
+13:32 
+
+13:32 choosing a design pattern for this
+13:34 
+
+13:34 particular
+13:35 
+
+13:35 >> Right. Right.
+13:36 
+
+13:36 >> Right. Like it is a creative creative uh
+13:39 
+
+13:39 artwork but
+13:41 
+
+13:41 >> if it works it works.
+13:42 
+
+13:42 >> Yeah. uh it also still becomes like
+13:45 
+
+13:45 results driven in that way but I guess
+13:47 
+
+13:47 like um there's two sides of it. There
+13:50 
+
+13:50 is a lot of fun in solving um little
+13:54 
+
+13:54 puzzle like problems in code and now
+13:56 
+
+13:56 that we have these uh llens it has taken
+13:59 
+
+13:59 the joy out of like going through the
+14:01 
+
+14:01 process of thinking about the best most
+14:03 
+
+14:03 optimal way to solve this little puzzle.
+14:06 
+
+14:06 Um but it has allowed us to become
+14:08 
+
+14:08 solution architects. So we can uh have
+14:12 
+
+14:12 like a vision in mind and actually
+14:15 
+
+14:15 realize it and I find that really
+14:17 
+
+14:17 helpful for my not so much of my actual
+14:19 
+
+14:19 coding work work but coding side hustles
+14:22 
+
+14:22 side hustles and I don't know both of
+14:25 
+
+14:25 you probably face the same problem where
+14:26 
+
+14:26 you have a lot of side hustle ideas
+14:29 
+
+14:29 preai I I did not have the capacity to
+14:32 
+
+14:32 realize any one of them you know it it
+14:35 
+
+14:35 was all just a work in progress but I
+14:37 
+
+14:37 think post uh llens I have been able to
+14:41 
+
+14:41 um use that to realize um these side
+14:45 
+
+14:45 hustles. So, but uh at the same time,
+14:48 
+
+14:48 I'm always in this dilemma that both of
+14:50 
+
+14:50 you are facing like I'm really excited I
+14:52 
+
+14:52 get to realize it, but at the same time,
+14:54 
+
+14:54 that process of realizing it can fail to
+14:57 
+
+14:57 be fun if I'm stuck in this. Let's just
+14:60 
+
+14:60 keep prompting AI give me the perfect
+15:02 
+
+15:02 answer. I feel like it's this uh dilemma
+15:06 
+
+15:06 between perfection over Yeah. Do you
+15:09 
+
+15:09 feel that all the more so for uh I mean
+15:12 
+
+15:12 you are both a rhino and a coder like
+15:14 
+
+15:14 between these two use cases what do you
+15:16 
+
+15:16 prefer uh using AI for that leads to
+15:19 
+
+15:19 less burnout?
+15:20 
+
+15:20 >> Yeah. So actually what slowly mentioned
+15:22 
+
+15:22 I want to touch on what slowly mentioned
+15:24 
+
+15:24 first about how we're all slowly
+15:25 
+
+15:25 becoming solutions architects because
+15:28 
+
+15:28 previously I use an analogy to my
+15:30 
+
+15:30 friends who probably are not very
+15:32 
+
+15:32 technical so they don't understand
+15:33 
+
+15:33 what's the difference between solutions
+15:34 
+
+15:34 architect and a software engineer. So I
+15:36 
+
+15:36 say that solutions architects are like
+15:38 
+
+15:38 conductors in an orchestra, right?
+15:40 
+
+15:40 You're not the one playing the
+15:42 
+
+15:42 instruments, but you do have the
+15:43 
+
+15:43 knowledge on like, you know, how the
+15:45 
+
+15:45 woodwinds should go with the brasses and
+15:48 
+
+15:48 where the percussion should come in.
+15:49 
+
+15:49 Like you are the conductor, but you are
+15:52 
+
+15:52 not the executor. You're not the one
+15:54 
+
+15:54 creating the music, right? So when you
+15:56 
+
+15:56 mention how more solutions engineers are
+15:59 
+
+15:59 becoming solutions architect, I can see
+16:00 
+
+16:00 that happening like now you're the
+16:02 
+
+16:02 conductor and AI are the musicians.
+16:05 
+
+16:05 They're the one that's like executing,
+16:06 
+
+16:06 you know, writing the code and all that.
+16:09 
+
+16:09 Well, and so yeah, get it. But that's
+16:14 
+
+16:14 why now it's even more important that
+16:16 
+
+16:16 like what she mentioned the foundation
+16:18 
+
+16:18 we need to understand desired patterns,
+16:19 
+
+16:19 right? You cannot be a good conductor if
+16:21 
+
+16:21 you don't understand like sheep music.
+16:23 
+
+16:23 If you don't understand what when the
+16:25 
+
+16:25 woodwind should come in or how does it
+16:28 
+
+16:28 harmonize with the breast like if you
+16:29 
+
+16:29 know nothing about this then you cannot
+16:32 
+
+16:32 be a good conductor.
+16:33 
+
+16:33 >> All right. And then so that's my first
+16:36 
+
+16:36 that's my real realization is like
+16:38 
+
+16:38 everyone's going to be conductors now
+16:40 
+
+16:40 because of AI and then now you mention
+16:43 
+
+16:43 about writing versus coding which one
+16:45 
+
+16:45 would lead to less burnt out. I I think
+16:48 
+
+16:48 coding that that that's my own point of
+16:51 
+
+16:51 view is because see in my day-to-day job
+16:53 
+
+16:53 right now I don't even need to be a
+16:54 
+
+16:54 musician. I am already a conductor for
+16:57 
+
+16:57 coding. All right. Like I want to have
+16:59 
+
+16:59 developer team so that I talk to to help
+17:01 
+
+17:01 me do the execution, but I still need to
+17:04 
+
+17:04 know the foundation. I still need to
+17:06 
+
+17:06 tell them uh I wanted to do it this way
+17:08 
+
+17:08 and this way. So it's like they're the
+17:10 
+
+17:10 ones who are coding and I'm the one that
+17:12 
+
+17:12 say seems like you with but so that that
+17:15 
+
+17:15 is the thing about being a socialist
+17:17 
+
+17:17 architect is coding doesn't affect me as
+17:19 
+
+17:19 much in terms of AI but I am a technical
+17:22 
+
+17:22 blogger who starts out being a musician
+17:25 
+
+17:25 with this analogy right. I I am not a
+17:27 
+
+17:27 conductor. I I'm literally the ones
+17:29 
+
+17:29 who's writing who's putting out over 200
+17:32 
+
+17:32 articles in my blog over 200 like all of
+17:35 
+
+17:35 that is myself that executes self
+17:38 
+
+17:38 execution. So as a writer I'm almost
+17:41 
+
+17:41 like a soloist and producing it all by
+17:44 
+
+17:44 myself and that's why it affected me
+17:46 
+
+17:46 more. I actually realized that I need
+17:48 
+
+17:48 the AI detox from writing from coding
+17:53 
+
+17:53 not so much because like you mentioned I
+17:55 
+
+17:55 think it does help and who mentioned how
+17:58 
+
+17:58 it how to get your prototypes out
+18:00 
+
+18:00 faster. So I see more benefits of the
+18:04 
+
+18:04 use case AI coding rather to write
+18:07 
+
+18:07 versus AI and my also like now that I've
+18:10 
+
+18:10 started using AI to write articles uh
+18:14 
+
+18:14 for I've also realized now I can detect
+18:16 
+
+18:16 when others have used AI to write
+18:18 
+
+18:18 article there's a so now there is a
+18:20 
+
+18:20 pattern there's a way of writing uh as
+18:23 
+
+18:23 well and there are certain nuances that
+18:25 
+
+18:25 can miss out if you read it really fast
+18:27 
+
+18:27 and there's a lot of fluff yeah
+18:29 
+
+18:29 >> for some reason uh which okay only if
+18:32 
+
+18:32 you read enough you might be able to
+18:34 
+
+18:34 detect these things sometimes even I
+18:35 
+
+18:35 miss it but a lot of times I am able to
+18:37 
+
+18:37 detect and it doesn't seem genuine then
+18:40 
+
+18:40 you're right but I think because it's
+18:42 
+
+18:42 writing right it different for coding
+18:43 
+
+18:43 like coding you want to reuse the eye
+18:46 
+
+18:46 pattern meaning we literally have like
+18:47 
+
+18:47 do it once it don't repeat again so if
+18:49 
+
+18:49 we see the same design patterns repeated
+18:51 
+
+18:51 again you know it's not something we
+18:53 
+
+18:53 might but when it comes to literature
+18:55 
+
+18:55 when it comes to Friday sure there are
+18:57 
+
+18:57 tropes that you learn about if you take
+18:59 
+
+18:59 like a writing class right like uh what
+19:02 
+
+19:02 I don't know the name of trope but
+19:03 
+
+19:03 basically the uh this is not this it is
+19:07 
+
+19:07 not this but it is this you know that I
+19:09 
+
+19:09 think it's called counter uh factor
+19:11 
+
+19:11 trope or something that's something that
+19:13 
+
+19:13 AI uses a lot that's why you can you
+19:16 
+
+19:16 notice that something is AI cuz you're
+19:17 
+
+19:17 like why is this trope being used so
+19:19 
+
+19:19 often by this person who doesn't usually
+19:22 
+
+19:22 use this trope or there's another trope
+19:24 
+
+19:24 that uh AI loves like repurposing
+19:28 
+
+19:28 um okay not trope but the M dash is one
+19:31 
+
+19:31 of them like I think that's something
+19:33 
+
+19:33 that everybody knows like uh the dash
+19:35 
+
+19:35 where it adds on more information uh as
+19:38 
+
+19:38 if there's a derary pause for effect but
+19:40 
+
+19:40 in real life you know we don't expect
+19:43 
+
+19:43 people to speak the same way I not with
+19:46 
+
+19:46 so many n dash so you used to use dashes
+19:49 
+
+19:49 quite a bit but uh AI doesn't overuse it
+19:54 
+
+19:54 yes that all that's like okay now this
+19:56 
+
+19:56 one is there definitely check
+19:59 
+
+19:59 and to understand Why like uh large
+20:02 
+
+20:02 language models, you know, they produce
+20:04 
+
+20:04 text that sounds the same. You you have
+20:06 
+
+20:06 to do the work to understand how the
+20:08 
+
+20:08 data is uh being used to train. Well,
+20:10 
+
+20:10 obviously like um these there's a
+20:12 
+
+20:12 problem in the industry where you know
+20:14 
+
+20:14 with big tech that's creating these
+20:16 
+
+20:16 models are not going to be single data
+20:17 
+
+20:17 sources, but that's something we can get
+20:19 
+
+20:19 to in another episode uh another
+20:21 
+
+20:21 episode. But one part of it is that uh I
+20:23 
+
+20:23 think lipgen was used a lot. Uh do do
+20:27 
+
+20:27 you fans know lipjen? Have you invested
+20:28 
+
+20:28 in university? No. No. Live gen. Yeah.
+20:30 
+
+20:30 It's basically okay. It's pirated uh uh
+20:33 
+
+20:33 source of uh books uh online books. You
+20:38 
+
+20:38 know, you can go in like last time when
+20:40 
+
+20:40 I went to university, I didn't want to
+20:42 
+
+20:42 buy the entire book. I will go in there
+20:44 
+
+20:44 and find the ebook copy and it was free.
+20:46 
+
+20:46 Lip gen was one of these sources for
+20:48 
+
+20:48 Chip. Another common source was uh
+20:52 
+
+20:52 Reddit as well because a lot of Reddit
+20:55 
+
+20:55 information was crawled on this source
+20:57 
+
+20:57 called common caller. Um and I think
+21:01 
+
+21:01 with large language models they
+21:02 
+
+21:02 amalgamate the language most commonly
+21:05 
+
+21:05 used it's probabilistic right at the
+21:07 
+
+21:07 end. So if everybody is speaking in the
+21:10 
+
+21:10 same average way you know that's why it
+21:12 
+
+21:12 sounds the same. But in real life like
+21:13 
+
+21:13 you follow people because they sound
+21:15 
+
+21:15 different like you know right here
+21:16 
+
+21:16 sitting right now three of us are
+21:18 
+
+21:18 talking in very different ways. We have
+21:20 
+
+21:20 different accents. We have different
+21:22 
+
+21:22 ways of processing things, different
+21:23 
+
+21:23 ways of putting out our personal life
+21:25 
+
+21:25 stories. You know we also have like
+21:27 
+
+21:27 laughter that I don't think my AI could
+21:30 
+
+21:30 replicate because we have some sort of
+21:31 
+
+21:31 inner source of humor. But you know
+21:34 
+
+21:34 these models are just straight on common
+21:36 
+
+21:36 lexical. So we can't I I think that's
+21:39 
+
+21:39 why it looks so synthetic and artificial
+21:41 
+
+21:41 and it it only happens after you use it
+21:44 
+
+21:44 a period of time but for people later
+21:46 
+
+21:46 when uh Chachi PT first came out and
+21:49 
+
+21:49 then we were seeing all these like
+21:51 
+
+21:51 articles online we wouldn't have been
+21:53 
+
+21:53 able to pick it up but it's only like
+21:54 
+
+21:54 over time that we're not start setting
+21:56 
+
+21:56 it because you're like why am I seeing
+21:58 
+
+21:58 the same person talk again and again you
+22:01 
+
+22:01 know I don't feel like you talk about
+22:02 
+
+22:02 the writing having a lot of fluff. Yeah.
+22:06 
+
+22:06 And what is fluff is basically words
+22:08 
+
+22:08 without substance. Yeah. Because it's
+22:09 
+
+22:09 just predicting the next word by the
+22:11 
+
+22:11 next word rather than understanding the
+22:13 
+
+22:13 the semantics. You know there is no
+22:15 
+
+22:15 opinion in AI. You know in taking
+22:18 
+
+22:18 amalgamated consensus and amalgamated
+22:21 
+
+22:21 consensus is not a period. You know I
+22:24 
+
+22:24 can have an opinion on on uh I don't
+22:28 
+
+22:28 know AI right now. uh but uh I I also
+22:32 
+
+22:32 know that I have not read the whole
+22:33 
+
+22:33 world's books on AI. So my opinion is
+22:37 
+
+22:37 very much based on my unique life
+22:39 
+
+22:39 experiences. Yeah, it's not amalgamated
+22:41 
+
+22:41 consensus. It's just what I think based
+22:43 
+
+22:43 on how I feel and I think that's why it
+22:45 
+
+22:45 becomes so artificial. I but I do like
+22:50 
+
+22:50 um see a good use case for using AI when
+22:53 
+
+22:53 you're just starting out to write. Okay,
+22:56 
+
+22:56 it makes me smile.
+22:57 
+
+22:57 If you're an adult with developed
+22:59 
+
+22:59 frontal boobs and you use EI to write
+23:02 
+
+23:02 because one thing that's been holding
+23:03 
+
+23:03 you back is just post stick then to get
+23:05 
+
+23:05 over that I think it's fine which is uh
+23:08 
+
+23:08 what you've been doing uh recently um
+23:10 
+
+23:10 just to get it out there but I'm sure
+23:12 
+
+23:12 you will will like myself and Victoria
+23:14 
+
+23:14 come to a stick where you're like this
+23:16 
+
+23:16 doesn't sound like me but I've overcome
+23:17 
+
+23:17 the fear of posting already now I'm
+23:19 
+
+23:19 going to start writing that's that's the
+23:21 
+
+23:21 arc I do I do already see that what I
+23:24 
+
+23:24 write by myself is a lot more unique
+23:28 
+
+23:28 and a lot more personal I feel. So I've
+23:31 
+
+23:31 also started writing blogs. It's still
+23:33 
+
+23:33 uh private right now but it is my own
+23:37 
+
+23:37 natural writing and I realize how things
+23:39 
+
+23:39 are so direct with me like it's no yeah
+23:43 
+
+23:43 yeah it's very direct llns and you are
+23:46 
+
+23:46 trained to be nondirect in each because
+23:48 
+
+23:48 they don't want to confrontation and
+23:50 
+
+23:50 they don't want to put out direct
+23:52 
+
+23:52 opinions because legalities but for you
+23:54 
+
+23:54 your style is there you're direct if you
+23:56 
+
+23:56 think something looks wrong you're going
+23:57 
+
+23:57 to that looks wrong yeah it's not going
+23:60 
+
+23:60 to say that it's like h you might be on
+24:02 
+
+24:02 to something. Oh, so right. So that's
+24:05 
+
+24:05 why I actually have a great idea cuz
+24:08 
+
+24:08 when when you said like for new writers
+24:10 
+
+24:10 they can use the eye just to get over
+24:13 
+
+24:13 the fear posting. I actually already
+24:15 
+
+24:15 have an article.
+24:18 
+
+24:18 I shouldn't spoil it but I already have
+24:20 
+
+24:20 my art it's I wrote it is how to start
+24:22 
+
+24:22 idea without AI because I think a lot of
+24:26 
+
+24:26 people especially if you're beginner
+24:27 
+
+24:27 right I I think the offer that all the
+24:30 
+
+24:30 more you shouldn't use AI to write
+24:32 
+
+24:32 because then you'll you'll never develop
+24:34 
+
+24:34 your own voice
+24:37 
+
+24:37 and I can see so many new writers who
+24:40 
+
+24:40 email me and ask why do my voice feel so
+24:44 
+
+24:44 not unique like why why when I read my
+24:46 
+
+24:46 own particles it doesn't sound like me.
+24:49 
+
+24:49 And I'm like, you use a lot of AI and
+24:52 
+
+24:52 now you lost your own voice. You're so
+24:55 
+
+24:55 used to and see the more you consume AI
+24:58 
+
+24:58 written blogs cuz now a lot of blogs are
+25:00 
+
+25:00 written by AI obviously. The more you
+25:03 
+
+25:03 consume those, the more it develops your
+25:05 
+
+25:05 racking self similar because you feel
+25:08 
+
+25:08 like okay this is what a good blog tone
+25:10 
+
+25:10 voice style is. You will subconsciously
+25:14 
+
+25:14 imitate that. And that's why if you read
+25:17 
+
+25:17 a lot of readers from me, I can say
+25:20 
+
+25:20 their writing styles come similar to me.
+25:22 
+
+25:22 I see cuz they consume a lot of from me.
+25:24 
+
+25:24 And then that's the same thing is if I
+25:26 
+
+25:26 read a lot of books from a particular
+25:27 
+
+25:27 author, then suddenly my writing style
+25:30 
+
+25:30 would a little bit follow that author.
+25:32 
+
+25:32 So the same thing for my readers who
+25:35 
+
+25:35 said why is my voice not authentic? is
+25:37 
+
+25:37 because they consume so much AI content
+25:39 
+
+25:39 and then on top of that they use AI to
+25:43 
+
+25:43 generate their blogs like everything
+25:45 
+
+25:45 like all they do is here's my idea
+25:47 
+
+25:47 here's my outline write a you end up
+25:51 
+
+25:51 becoming an AI blogger yourself then it
+25:55 
+
+25:55 it becomes very hard to find your own
+25:56 
+
+25:56 voice they will at some point they'll
+25:58 
+
+25:58 get lost and then they'll not and
+26:01 
+
+26:01 they'll forget the how to think the one
+26:03 
+
+26:03 that says like as a writer you have to
+26:05 
+
+26:05 think constantly you how to why how to
+26:07 
+
+26:07 convey the sentences they don't skip all
+26:10 
+
+26:10 those steps so by then they will not
+26:12 
+
+26:12 have developed those skills of how a
+26:14 
+
+26:14 writer should be and that's why I
+26:17 
+
+26:17 discourage it from my years and that's
+26:19 
+
+26:19 what inspired me to write the article
+26:22 
+
+26:22 which I have always but it's it's
+26:23 
+
+26:23 already scheduled but yeah so that that
+26:25 
+
+26:25 what inspired because we think that yeah
+26:29 
+
+26:29 I I wanted to say like draw similar fars
+26:32 
+
+26:32 to what I'm doing for kodic so I also
+26:35 
+
+26:35 don't want to completely abstain gain
+26:36 
+
+26:36 from it because to some extent I am a
+26:39 
+
+26:39 little bit more used to it. I do see a
+26:41 
+
+26:41 lot of productivity boost things that I
+26:43 
+
+26:43 would take an hour two hours doing I am
+26:45 
+
+26:45 doing it within an hour. So I would like
+26:48 
+
+26:48 to keep it there but I'm very at least I
+26:51 
+
+26:51 try to be very intentional with my usage
+26:53 
+
+26:53 of it. So I would myself break things
+26:55 
+
+26:55 down or use AI to help me break things
+26:58 
+
+26:58 down in a way that makes sense to me and
+27:00 
+
+27:00 then uh very intentionally allocate what
+27:05 
+
+27:05 task that it should be doing and how and
+27:07 
+
+27:07 also making it do smaller shorter task
+27:09 
+
+27:09 is easier for me to review things and uh
+27:13 
+
+27:13 look at it a little bit better and it's
+27:15 
+
+27:15 still I still feel in control of all of
+27:17 
+
+27:17 these things that are done by AI and it
+27:20 
+
+27:20 still feels like my work because it was
+27:22 
+
+27:22 very intentionally ally put to usage in
+27:25 
+
+27:25 these spaces. So uh I yes I still I
+27:30 
+
+27:30 would still say I use it in quite a lot
+27:31 
+
+27:31 of aspects of my daily work as well as
+27:34 
+
+27:34 sign muscles but I also do do not feel
+27:38 
+
+27:38 like I'm overly reliant on it because I
+27:41 
+
+27:41 know when to step in and it is actually
+27:43 
+
+27:43 a very small task that it has been doing
+27:46 
+
+27:46 that it's okay or it's exactly what it
+27:50 
+
+27:50 should be doing right but even then like
+27:53 
+
+27:53 rely on AI to do these small tasks
+27:56 
+
+27:56 there's something called deleg
+27:56 
+
+27:56 delegation fatigue. I I don't know if
+27:58 
+
+27:58 delegation fatigue has been linked to
+28:01 
+
+28:01 LLN's uh yet, but you see this a lot in
+28:05 
+
+28:05 managerial positions where people, you
+28:08 
+
+28:08 know, it the micromanagers, okay, not
+28:10 
+
+28:10 micromanagers, but some managers end up
+28:12 
+
+28:12 by just doing the work themselves
+28:13 
+
+28:13 because they're so tired of like going
+28:16 
+
+28:16 through the process of breaking tasks
+28:17 
+
+28:17 down, having to understand what this uh
+28:20 
+
+28:20 uh subordinate can do, what the strikes
+28:22 
+
+28:22 and we misses out, what I have to that
+28:24 
+
+28:24 they rather do itself. This is called
+28:25 
+
+28:25 delegation fatigue. And I wonder if
+28:28 
+
+28:28 that's happening also for uh AI. There
+28:31 
+
+28:31 are just some that that's why I quit
+28:33 
+
+28:33 using AI for writing completely because
+28:36 
+
+28:36 I was just like I I don't want to baby
+28:38 
+
+28:38 you around and delegate my task into
+28:40 
+
+28:40 tiny little tasks, tell you exactly what
+28:41 
+
+28:41 my tone should be, tell you exactly uh
+28:44 
+
+28:44 what uh what article to search for
+28:47 
+
+28:47 because I don't want you to hallucinate.
+28:49 
+
+28:49 you know when it comes to coding task
+28:51 
+
+28:51 sometimes like if I've been through
+28:53 
+
+28:53 three cycles of trying to uh soft this
+28:56 
+
+28:56 part but even something as simple like
+28:58 
+
+28:58 look this uh div is not center popular
+29:01 
+
+29:01 problem right and I'm just telling it
+29:03 
+
+29:03 left right center like no that's not
+29:04 
+
+29:04 what I meant that this should go left
+29:06 
+
+29:06 the should go right and then I'm going
+29:08 
+
+29:08 into this even larger rabbit hole of
+29:10 
+
+29:10 trying to show it what's the problem
+29:12 
+
+29:12 like I've even done this where uh I copy
+29:15 
+
+29:15 I it was so stupid I copy pasted the uh
+29:18 
+
+29:18 h get kit I was using react and the div
+29:21 
+
+29:21 was just not set uh because I was using
+29:24 
+
+29:24 the framework of react components. I
+29:26 
+
+29:26 went to the page uh because I did not
+29:28 
+
+29:28 understand what I gone wrong uh and then
+29:30 
+
+29:30 I went to inspect it. I copy pasted like
+29:32 
+
+29:32 the HTML element uh for that specific
+29:35 
+
+29:35 div and I type it back. I like look I
+29:37 
+
+29:37 know you cannot see it this but but I
+29:40 
+
+29:40 translated into HTML code. This is what
+29:42 
+
+29:42 happens after it was built. This part
+29:44 
+
+29:44 shouldn't be this number blah blah blah.
+29:46 
+
+29:46 And at that point I'm just like why the
+29:48 
+
+29:48 heck do this? I almost eject LL in fact
+29:51 
+
+29:51 I'm treating their model for them right
+29:53 
+
+29:53 for free. So like I might do this
+29:55 
+
+29:55 myself. So I I went through this period
+29:57 
+
+29:57 of delegation fatigue like imagine LLM
+30:00 
+
+30:00 just feel like these uh new interns who
+30:05 
+
+30:05 know everything of the world but they
+30:07 
+
+30:07 they they can't see where where they
+30:10 
+
+30:10 went wrong and I had to go through this
+30:12 
+
+30:12 mentor process of that. So I don't know
+30:14 
+
+30:14 for you do you ever feel like delegation
+30:17 
+
+30:17 fatigue you know when it comes to
+30:19 
+
+30:19 delegate these tasks as I understand it
+30:21 
+
+30:21 because I I have I have been there but
+30:24 
+
+30:24 lately I am because of my intentional
+30:26 
+
+30:26 usage I haven't been doing that so
+30:29 
+
+30:29 because I've gone through the whole
+30:30 
+
+30:30 thing already so I know when to stop
+30:33 
+
+30:33 when to just look at the code and also I
+30:35 
+
+30:35 I take it as I think we were discussing
+30:37 
+
+30:37 the other day where if you don't code
+30:40 
+
+30:40 enough I I might start losing my coding
+30:42 
+
+30:42 skills also Right. This is an
+30:45 
+
+30:45 interesting premise. Don't know if can
+30:47 
+
+30:47 cover this fully this episode, but the
+30:49 
+
+30:49 idea of losing coding skills. I've
+30:51 
+
+30:51 personally never worried about that in
+30:53 
+
+30:53 the sense that we've already been
+30:55 
+
+30:55 through the process of building those
+30:56 
+
+30:56 skills up, you know. So, it won't be a
+30:59 
+
+30:59 stretch to rebuild those skills. It will
+31:00 
+
+31:00 actually become small. It's in the same
+31:02 
+
+31:02 way that like if you could do pull-ups,
+31:04 
+
+31:04 six pull-ups a day. I used to be able to
+31:06 
+
+31:06 do six bluffs and you got into an
+31:09 
+
+31:09 accident, broke your ankle and then you
+31:11 
+
+31:11 didn't do it for some I didn't do it for
+31:13 
+
+31:13 some time. Um, physiologically you will
+31:16 
+
+31:16 be able to regain the muscle strength in
+31:18 
+
+31:18 much uh lesser amount of time. And I
+31:21 
+
+31:21 feel like because we've had like a good
+31:23 
+
+31:23 amount of time AIS amount of time to
+31:26 
+
+31:26 build our coding skills, we shouldn't
+31:28 
+
+31:28 worry about losing our coexist. What I
+31:31 
+
+31:31 am worried about though and this is not
+31:33 
+
+31:33 just for coders but like in general is
+31:36 
+
+31:36 for the uh the newbies like the people
+31:40 
+
+31:40 the segment of the population who have
+31:44 
+
+31:44 uh been readily outsourcing their
+31:46 
+
+31:46 foundational training. I'm talking about
+31:49 
+
+31:49 uh uh like interns. I'm talking about
+31:51 
+
+31:51 new uh entry- level coders. I'm talking
+31:53 
+
+31:53 about university students. Actually I'm
+31:55 
+
+31:55 talking about children you know and I'm
+31:57 
+
+31:57 so worried about that for especially for
+31:60 
+
+31:60 the children who have not had the
+32:02 
+
+32:02 experience of uh developing their
+32:05 
+
+32:05 cognitive function that you talking
+32:06 
+
+32:06 about of building those skills that that
+32:08 
+
+32:08 the muscle memory in the brain and they
+32:11 
+
+32:11 become completely rely on AI. So if that
+32:14 
+
+32:14 is removed they quickly don't know how
+32:15 
+
+32:15 to think it. I was just watching this
+32:16 
+
+32:16 video on Tik Tok about this teacher in
+32:18 
+
+32:18 the US who was saying that she was
+32:21 
+
+32:21 struggling to get uh eighth graders
+32:23 
+
+32:23 sixth graders basically 12 to 14 year
+32:25 
+
+32:25 olds to complete an essay in 80 minutes
+32:28 
+
+32:28 like write an essay. She was she had to
+32:31 
+
+32:31 like handful them and baby them into
+32:33 
+
+32:33 just writing an intro and they couldn't
+32:35 
+
+32:35 write the intro in 80 minutes. Do you
+32:38 
+
+32:38 remember what we were doing when we were
+32:39 
+
+32:39 12 to 14 years old? We already full like
+32:42 
+
+32:42 compositions already in 60 minutes. Our
+32:46 
+
+32:46 kids are suffering. So, so don't even
+32:47 
+
+32:47 talk about like the new universities CS
+32:50 
+
+32:50 students who don't have equity basics.
+32:52 
+
+32:52 We're looking at children in general who
+32:55 
+
+32:55 are documented
+32:58 
+
+32:58 of ability and appeal. Yes.
+32:60 
+
+32:60 >> I actually didn't want to get to this
+33:01 
+
+33:01 like we are at a state like we are a
+33:03 
+
+33:03 little bit more experienced people. So
+33:05 
+
+33:05 we are able to say things like okay we
+33:07 
+
+33:07 can abstain from AI or we can use it
+33:09 
+
+33:09 intentionally and delegate stuff. Uh but
+33:13 
+
+33:13 this is not the same for someone else
+33:14 
+
+33:14 who is less much less experienced than
+33:17 
+
+33:17 us. I think they should be even more
+33:20 
+
+33:20 intentional where go through what we
+33:22 
+
+33:22 went through to make your basics as
+33:24 
+
+33:24 strong as it should be before relying on
+33:27 
+
+33:27 AI to dedicate all this these task
+33:30 
+
+33:30 because we worked hard to get to this
+33:33 
+
+33:33 stage. Therefore, we are at this
+33:34 
+
+33:34 privilege of
+33:35 
+
+33:35 >> actually using it in this manner and
+33:38 
+
+33:38 making ourselves more productive. But I
+33:40 
+
+33:40 wouldn't let a junior developer do
+33:43 
+
+33:43 exactly what I'm doing. For example,
+33:45 
+
+33:45 >> yeah. Yeah. I think a good rule of thumb
+33:47 
+
+33:47 is that if you've never done it before,
+33:48 
+
+33:48 don't use LLM to do it. If you've never
+33:51 
+
+33:51 written an article before, don't use LLM
+33:54 
+
+33:54 to do it. If you have written the
+33:56 
+
+33:56 article already but are just worried
+33:58 
+
+33:58 about it being quote unquote perfect
+33:60 
+
+33:60 because you want to get over the
+34:01 
+
+34:01 perfectionism syndrome then sure use
+34:03 
+
+34:03 LLMs polish it and then post so you can
+34:06 
+
+34:06 get over the fear of like putting uh
+34:08 
+
+34:08 work effort but if you never even
+34:10 
+
+34:10 written a radical view
+34:11 
+
+34:11 >> yeah use it as a answer key for example
+34:14 
+
+34:14 you know when you practice question
+34:17 
+
+34:17 answer key but we always have been
+34:19 
+
+34:19 asking everyone to practice by yourself
+34:21 
+
+34:21 first then if you don't know after some
+34:24 
+
+34:24 time box duration
+34:25 
+
+34:25 Then look at the answer. Maybe that's
+34:27 
+
+34:27 that's how you should be looking at LN
+34:30 
+
+34:30 also lens are not perfect.
+34:32 
+
+34:32 >> Oh, I was just reading this thing where
+34:35 
+
+34:35 it is not that it is able to answer it
+34:37 
+
+34:37 better than or write it better than you
+34:39 
+
+34:39 can. It is actually you're just asking
+34:41 
+
+34:41 the how would this article sound like
+34:44 
+
+34:44 and that's an example of an article it
+34:46 
+
+34:46 gave you based on its inputs.
+34:50 
+
+34:50 So it's not really the answer but yeah
+34:53 
+
+34:53 that's the next best thing that you
+34:54 
+
+34:54 have.
+34:55 
+
+34:55 >> Exactly. Yeah.
+34:57 
+
+34:57 But yeah I think as a whole we've
+34:59 
+
+34:59 covered quite a lot of things about we
+35:02 
+
+35:02 started at the eye. know we've come down
+35:04 
+
+35:04 to like uh uh recommending from people
+35:07 
+
+35:07 not to rely on AI if you're learning
+35:09 
+
+35:09 something and then later on you can use
+35:12 
+
+35:12 uh AI when you've had the skills but you
+35:14 
+
+35:14 might go through the same arc as all
+35:15 
+
+35:15 three of us where we're starting to feel
+35:17 
+
+35:17 science burnout for reasons of like wait
+35:19 
+
+35:19 this thing doesn't sound like me anymore
+35:21 
+
+35:21 wait like this thing I used to find
+35:23 
+
+35:23 joyful I've relegated it to the mundane
+35:26 
+
+35:26 uh because I've given it to LLM's uh too
+35:28 
+
+35:28 much and now I see as a task we've also
+35:30 
+
+35:30 talked about delegation fatigue you know
+35:32 
+
+35:32 where um you you realize that you're
+35:35 
+
+35:35 getting tired of having to break things
+35:36 
+
+35:36 down into small tasks just so that uh
+35:39 
+
+35:39 these uh LLM can understand it. Uh but
+35:43 
+
+35:43 most importantly uh we've talked about
+35:46 
+
+35:46 how AI is not perfect. The irony that
+35:49 
+
+35:49 people use the to perfect their craft,
+35:51 
+
+35:51 right? But AI in itself is still in the
+35:53 
+
+35:53 process of uh I wouldn't say perfecting.
+35:56 
+
+35:56 It's just trying to get better at
+35:57 
+
+35:57 predicting one uh people will say there
+36:00 
+
+36:00 there if we don't have like a a proper
+36:03 
+
+36:03 metric of what we expect AI to be right
+36:06 
+
+36:06 are we expecting it to sound just like a
+36:10 
+
+36:10 human are we expecting it to have
+36:12 
+
+36:12 original thoughts like those things have
+36:14 
+
+36:14 not been defined in that world yet so
+36:16 
+
+36:16 why are we expecting uh uh to to use AI
+36:19 
+
+36:19 to get perfection when the metric of
+36:21 
+
+36:21 perfection hasn't been defined in that
+36:23 
+
+36:23 space yet there's so many things that
+36:24 
+
+36:24 we've talked about Uh but as always this
+36:27 
+
+36:27 was a lovely conversation. Uh I guess we
+36:30 
+
+36:30 are in our era of uh AI to talks uh for
+36:33 
+
+36:33 now. Uh we're still using AI to further
+36:35 
+
+36:35 our side hustles like this. Uh but uh
+36:38 
+
+36:38 yeah I hope this was a good
+36:40 
+
+36:40 conversation. As always this was Reg.
+36:43 
+
+36:43 This is a place where real people uh
+36:46 
+
+36:46 usually check about real life in tech.
+36:49 
+
+36:49 So follow subscribe.
+36:54 
+
+36:54 So do that. Take it. Bye.
+36:56 
+
+36:56 >> Actually, this is the this sign is the
+36:59 
+
+36:59 least used AI. That is
+37:02 
+
+37:02 >> the editing. Oh my gosh. Yeah, we can
+37:04 
+
+37:04 talk about that next time. The greetings
+37:07 
+
+37:07 stop showing up. Hello. Hello. Hello.
+37:10 
+
+37:10 Some mine is not working.
+37:12 
+
+37:12 >> Yeah.
+37:16 
+
+37:16 Is it? Oh, that's I think it's about Oh,
+37:18 
+
+37:18 hello. Hello.
+37:24 
+
+37:24 Why you laughing? Oh, okay. So, I was
+37:25 
+
+37:25 going to say, "Hey,

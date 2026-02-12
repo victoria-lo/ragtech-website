@@ -1,0 +1,1285 @@
+00:01 [Music]
+00:04 
+
+00:04 Hello everybody. Welcome to Rack Tag.
+00:07 
+
+00:07 This is a place where we talk about real
+00:08 
+
+00:08 life topics in tech, otherwise known as
+00:10 
+
+00:10 bites and banter. I'm Natasha. I'm a
+00:12 
+
+00:12 software engineer. I'm Salon, software
+00:15 
+
+00:15 developer. And I'm Victoria, a solutions
+00:17 
+
+00:17 engineer. And today's episode will be
+00:19 
+
+00:19 all about AI and the future of
+00:22 
+
+00:22 developers. So we often hear this common
+00:25 
+
+00:25 kind of fear-mongering rhetoric
+00:27 
+
+00:27 especially with the launch of uh open AI
+00:29 
+
+00:29 and chat GBT that AI is going to replace
+00:32 
+
+00:32 developers and specifically uh they say
+00:35 
+
+00:35 that AI is going to replace junior
+00:37 
+
+00:37 developers. So we're all seated here
+00:40 
+
+00:40 today uh and I think we've been thinking
+00:42 
+
+00:42 about this topic for quite a while
+00:43 
+
+00:43 because it's quite a common question
+00:45 
+
+00:45 that's thrown to us uh since we're in
+00:47 
+
+00:47 the field. So I wanted to throw it out
+00:50 
+
+00:50 there and I wanted to throw the question
+00:51 
+
+00:51 to Salon first because Salon is a senior
+00:53 
+
+00:53 software developer who has uh engaged
+00:56 
+
+00:56 with a lot of junior developers. So do
+00:58 
+
+00:58 you think that AI will replace junior
+00:60 
+
+00:60 developers?
+01:02 
+
+01:02 I don't know if it can replace replace
+01:04 
+
+01:04 but yes it does do a lot of things. uh
+01:06 
+
+01:06 it can already do a lot of things that
+01:08 
+
+01:08 you would give tasks that you would give
+01:11 
+
+01:11 a junior developer but also actually
+01:13 
+
+01:13 recently someone asked me this question
+01:15 
+
+01:15 and I replied it's actually the AI is
+01:18 
+
+01:18 not only going to replace junior de it's
+01:20 
+
+01:20 actually now a midlevel developer
+01:22 
+
+01:22 already no yes it's it's getting to the
+01:25 
+
+01:25 senior developer already actually but of
+01:28 
+
+01:28 course I mean a developer I I think
+01:30 
+
+01:30 we've talked about this developer is not
+01:32 
+
+01:32 just about someone who can code it's
+01:34 
+
+01:34 also like a product engineer senior
+01:37 
+
+01:37 position now, right? You don't only have
+01:39 
+
+01:39 to given this task, write the code for
+01:42 
+
+01:42 it. You should also be questioning why
+01:44 
+
+01:44 are we building this feature? Why are we
+01:46 
+
+01:46 fixing this bug? Is it even a bug? How
+01:49 
+
+01:49 many people are impacted by this bug,
+01:51 
+
+01:51 this feature, should I make it this way,
+01:53 
+
+01:53 that way? So it's it's not just
+01:55 
+
+01:55 developer is software developer is not
+01:58 
+
+01:58 just about coding coding which is right
+01:59 
+
+01:59 now what uh code copilot and like the
+02:02 
+
+02:02 other coding uh AI does for us. So I
+02:08 
+
+02:08 wouldn't say it will totally totally
+02:09 
+
+02:09 replace us but it will aid us definitely
+02:11 
+
+02:11 it makes me uh definitely a much more
+02:15 
+
+02:15 faster developer. I I am able to debug
+02:18 
+
+02:18 things a lot more quickly. Like those
+02:20 
+
+02:20 underlying stuff, I wouldn't even like
+02:22 
+
+02:22 uh hover over and see what the issue is.
+02:24 
+
+02:24 I'll just like copilot fix it for me
+02:27 
+
+02:27 now. It has that fix me now button fix
+02:30 
+
+02:30 it now. It usually works. I mean
+02:32 
+
+02:32 sometime goes into this rabbit hole but
+02:35 
+
+02:35 uh rare cases. So what you are saying is
+02:38 
+
+02:38 that uh firstly that a developer's job
+02:41 
+
+02:41 is not just purely about writing code.
+02:44 
+
+02:44 Yeah, it's also a lot about how you work
+02:46 
+
+02:46 and collaborate in a team and also
+02:49 
+
+02:49 product mind mind and having a product
+02:52 
+
+02:52 mindset being knowing how to prioritize
+02:54 
+
+02:54 certain features and how to like and
+02:56 
+
+02:56 which fe yeah prioritize features and
+02:58 
+
+02:58 also if it's valuable
+03:02 
+
+03:02 because value I would say is quite
+03:04 
+
+03:04 subjective right that's why there's the
+03:06 
+
+03:06 whole notion of like say value
+03:07 
+
+03:07 engineering in product teams how do you
+03:10 
+
+03:10 like value one feature over another one
+03:12 
+
+03:12 bug fix over another I guess you could
+03:14 
+
+03:14 technically use like co-pilot or any AI
+03:17 
+
+03:17 agent to basically tell you like the
+03:19 
+
+03:19 pros and cons but at the end of the day
+03:21 
+
+03:21 the person who makes the decision is the
+03:23 
+
+03:23 developer in the team like our group of
+03:25 
+
+03:25 developers right exactly and in light of
+03:28 
+
+03:28 this I guess if what we're saying here
+03:31 
+
+03:31 is that a developer is more than just
+03:32 
+
+03:32 code and now that code can be made more
+03:35 
+
+03:35 efficient by AI we should be focused on
+03:37 
+
+03:37 focusing on maybe the other aspects the
+03:39 
+
+03:39 team aspects so what kind of advice vice
+03:42 
+
+03:42 do you have both of you do you have to
+03:44 
+
+03:44 give to junior developers entry- level
+03:47 
+
+03:47 developers who are coming into this uh
+03:49 
+
+03:49 role now that they might have to focus
+03:51 
+
+03:51 more on the soft skills I think I would
+03:54 
+
+03:54 agree with salon in terms of you just
+03:56 
+
+03:56 don't think about writing code but think
+03:58 
+
+03:58 of the end user who's also using that
+04:01 
+
+04:01 application who is actually also um
+04:04 
+
+04:04 experiencing like using the app so given
+04:08 
+
+04:08 my experience as a solutions engineer
+04:10 
+
+04:10 it's always important to also have the
+04:12 
+
+04:12 business acumen. So thinking about what
+04:14 
+
+04:14 does the client wants, what does the
+04:16 
+
+04:16 customer wants. So not just the end user
+04:19 
+
+04:19 but the client who's like actually
+04:21 
+
+04:21 engaging your services to build the
+04:23 
+
+04:23 solution for you. So sometimes
+04:25 
+
+04:25 optimizing code doesn't mean it's
+04:27 
+
+04:27 optimizing for the business. So you have
+04:29 
+
+04:29 to think about cost benefit as well. Um
+04:32 
+
+04:32 being able to weigh that as a skill. I
+04:35 
+
+04:35 think over time because for me I've been
+04:37 
+
+04:37 experimenting a lot with coding AI
+04:39 
+
+04:39 solutions and just comparing like a few
+04:41 
+
+04:41 tools I can already say that these
+04:44 
+
+04:44 coding AI solutions are already pretty
+04:46 
+
+04:46 good for junior developers and even like
+04:50 
+
+04:50 present day junior developers I've met a
+04:52 
+
+04:52 lot who are still just struggling with
+04:55 
+
+04:55 writing basic code and then I realized
+04:59 
+
+04:59 that these coding tools are actually
+05:01 
+
+05:01 like even slightly better in a way
+05:03 
+
+05:03 because you can actually tell them if
+05:06 
+
+05:06 you're really good at prompt engineering
+05:07 
+
+05:07 which I've like experimented throughout
+05:10 
+
+05:10 a few years is like once you give the
+05:12 
+
+05:12 coding AI solution enough context enough
+05:15 
+
+05:15 good uh information they can actually
+05:17 
+
+05:17 write pretty solid ones but I always say
+05:20 
+
+05:20 the AI tool is only as good as the
+05:22 
+
+05:22 prompter. Ah yeah that's why so you are
+05:25 
+
+05:25 given the prom. It's actually as smart
+05:26 
+
+05:26 as you. Oh okay. Yeah tell it the right
+05:29 
+
+05:29 things like refactor it use these design
+05:32 
+
+05:32 patterns. It will do exactly what you
+05:33 
+
+05:33 asked it to do but you asked it to do
+05:35 
+
+05:35 it. Yeah. Yeah. Actually, this is a
+05:38 
+
+05:38 really important point because I was
+05:40 
+
+05:40 just I was helping out my brother uh who
+05:43 
+
+05:43 was doing coding coding module and um he
+05:47 
+
+05:47 tried basically plastering the entire
+05:49 
+
+05:49 like um the the homework assignment into
+05:52 
+
+05:52 chatbt and then it comes out with like
+05:55 
+
+05:55 an answer, right? But his next question
+05:57 
+
+05:57 to me was where does this fit in the
+05:59 
+
+05:59 code? Where does it fit anywhere? How do
+06:01 
+
+06:01 I even utilize this code that chat GBT
+06:04 
+
+06:04 just told me? And I realized like it
+06:06 
+
+06:06 really goes back to the um the AI um
+06:10 
+
+06:10 agent is only as good as like the
+06:11 
+
+06:11 prompter. And as the prompter or as the
+06:13 
+
+06:13 developer in this case, you still need
+06:15 
+
+06:15 your basic fundamentals to know where
+06:17 
+
+06:17 code fits. You know, you it should be
+06:20 
+
+06:20 easy. Yeah, this is the homework. Solve
+06:21 
+
+06:21 this. But also tell me how to run it.
+06:24 
+
+06:24 Yeah, but you need you need to be able
+06:26 
+
+06:26 to write the words. Tell me how to run
+06:27 
+
+06:27 it. If you don't even know the concept
+06:29 
+
+06:29 of running a program in the first place
+06:31 
+
+06:31 and then you also have to give other
+06:33 
+
+06:33 context. I'm using uh I'm using this on
+06:35 
+
+06:35 terminal. I'm using this on PowerShell.
+06:37 
+
+06:37 How do I run it on these uh terminals or
+06:39 
+
+06:39 whatever? Like you need to know the
+06:41 
+
+06:41 context of the environment that you're
+06:42 
+
+06:42 working in in order to prompt and later
+06:44 
+
+06:44 specify that context you're in. And
+06:47 
+
+06:47 often times you might uh run into
+06:49 
+
+06:49 occasions where the um the the AI
+06:52 
+
+06:52 solution gives you a wrong answer.
+06:54 
+
+06:54 Actually, that happens quite a lot. It
+06:56 
+
+06:56 could either be hallucinations or it
+06:58 
+
+06:58 just like it misinterpreted your
+07:00 
+
+07:00 question completely. M so if you're not
+07:03 
+
+07:03 able to understand the context and also
+07:06 
+
+07:06 the fundamentals, how are you going to
+07:07 
+
+07:07 tell when the AI solution tells you
+07:10 
+
+07:10 something wrong? You're just going to be
+07:12 
+
+07:12 taking the code and then oh it doesn't
+07:13 
+
+07:13 run. Why? The troubleshooting process
+07:16 
+
+07:16 which I feel like is one of the most
+07:18 
+
+07:18 important uh skills that a developer
+07:20 
+
+07:20 learns which is troubleshooting uh as
+07:22 
+
+07:22 you go um is about asking the right
+07:25 
+
+07:25 questions even when you don't know the
+07:27 
+
+07:27 answer to it. And I think that as a
+07:29 
+
+07:29 whole like is is a soft skill that a
+07:32 
+
+07:32 developer should learn and can actually
+07:34 
+
+07:34 learn quite well if you're using um uh
+07:36 
+
+07:36 these AI solutions because you're
+07:38 
+
+07:38 training yourself to ask the right
+07:40 
+
+07:40 questions explicitly. Yes. Exactly. I've
+07:42 
+
+07:42 actually heard uh advice that junior
+07:45 
+
+07:45 developers like uh those who are trying
+07:47 
+
+07:47 to get a job entry- level jobs they
+07:49 
+
+07:49 should not use uh AI tools because that
+07:52 
+
+07:52 kind of takes away the without AI tools.
+07:56 
+
+07:56 We have grown up without AI tools as
+07:58 
+
+07:58 entry level. We had to practice,
+07:60 
+
+07:60 practice, practice. Yeah. So they
+08:02 
+
+08:02 actually removing that portion away from
+08:04 
+
+08:04 themselves, practicing debugging
+08:06 
+
+08:06 themselves than just ask for help, you
+08:08 
+
+08:08 know. That's why when I was interviewing
+08:10 
+
+08:10 cuz I was trying to hire some junior
+08:12 
+
+08:12 devs. I was interviewing and I noticed
+08:14 
+
+08:14 they their eyes are not like on the
+08:16 
+
+08:16 camera. They're clearly looking a lot of
+08:19 
+
+08:19 them are clearly reading off something,
+08:21 
+
+08:21 right? So if I asked them like a basic
+08:24 
+
+08:24 question on React like like explain to
+08:26 
+
+08:26 me the use state hook right they
+08:29 
+
+08:29 couldn't even give me a proper answer
+08:32 
+
+08:32 like they just reciting off some script
+08:34 
+
+08:34 that doesn't make much sense and then I
+08:37 
+
+08:37 say can you elaborate and they will be
+08:38 
+
+08:38 like yeah that that's all I have. So a
+08:42 
+
+08:42 lot of I feel like new entry people now
+08:45 
+
+08:45 they're already so over reliant on AI
+08:48 
+
+08:48 tools that they like you mentioned they
+08:51 
+
+08:51 don't have this practice and they're
+08:52 
+
+08:52 unable to form their own opinions. So
+08:54 
+
+08:54 like like let's say I'm interviewing for
+08:56 
+
+08:56 a mid level as well. So they should be
+08:59 
+
+08:59 able to form their own opinions in terms
+09:00 
+
+09:00 of design like system design and
+09:02 
+
+09:02 everything. They couldn't they couldn't
+09:05 
+
+09:05 give me like I wouldn't say all but some
+09:07 
+
+09:07 of them that I've interviewed like a
+09:08 
+
+09:08 good amount they couldn't give me a
+09:11 
+
+09:11 proper answer they will be clearly
+09:14 
+
+09:14 either reading it off somewhere or they
+09:18 
+
+09:18 just they really cannot answer right so
+09:20 
+
+09:20 that's what I noticed is the over
+09:23 
+
+09:23 reliant of AI tools you need to be able
+09:26 
+
+09:26 to still make your own judgment and
+09:28 
+
+09:28 decisions I think that's a huge part
+09:30 
+
+09:30 that would like help you stand out among
+09:33 
+
+09:33 other engineers. No, that's true because
+09:35 
+
+09:35 it's like before the age of AI when we
+09:38 
+
+09:38 had to troubleshoot things, we often
+09:39 
+
+09:39 always go down a rabbit hole, right? And
+09:41 
+
+09:41 it's always these rabbit holes that
+09:43 
+
+09:43 leads us to the deep dark answer to like
+09:45 
+
+09:45 now I'm trying to figure out how the
+09:47 
+
+09:47 hardware of a computer works because I'm
+09:48 
+
+09:48 trying to like I don't know tap into the
+09:50 
+
+09:50 GPU whatever that's how you kind of like
+09:53 
+
+09:53 from your basic let's say you're a web
+09:56 
+
+09:56 application engineer. you're supposed to
+09:58 
+
+09:58 be just writing say front end code but
+10:00 
+
+10:00 somehow you end up like becoming sort of
+10:03 
+
+10:03 a cloud engineer to some point where
+10:04 
+
+10:04 you're trying to find out how come when
+10:06 
+
+10:06 I deploy this on my uh uh local uh
+10:09 
+
+10:09 environment it works but now the cloud
+10:11 
+
+10:11 side is telling me it doesn't deploy and
+10:13 
+
+10:13 that's how you learn that's how you
+10:14 
+
+10:14 troubleshoot but the thing is like with
+10:16 
+
+10:16 co-pilot chat GBT you're so used to I
+10:19 
+
+10:19 face a problem I'm going to get an
+10:21 
+
+10:21 answer straight away from like the AI um
+10:24 
+
+10:24 tool that I'm using that you never go
+10:26 
+
+10:26 down these rabbit hole anymore. So
+10:29 
+
+10:29 without these rabbit holes, you never
+10:30 
+
+10:30 discover the fundamentals. And I think
+10:32 
+
+10:32 that's what I've also noticed out of
+10:35 
+
+10:35 like entry- level engineers or 2B
+10:37 
+
+10:37 engineers these days that they don't
+10:39 
+
+10:39 they're very good at like the high level
+10:41 
+
+10:41 frameworks concepts. But when it comes
+10:44 
+
+10:44 to like down to the very low level
+10:46 
+
+10:46 asking them to explain what a framework
+10:49 
+
+10:49 is for example like they know how to use
+10:50 
+
+10:50 React sure but do you know React is
+10:52 
+
+10:52 built upon of like um the very basic
+10:55 
+
+10:55 JavaScript HTML CSS do you know the
+10:58 
+
+10:58 interconnection between that because you
+10:59 
+
+10:59 they've never gone down that rabbit hole
+11:01 
+
+11:01 so they aren't able to answer that and I
+11:03 
+
+11:03 find that that they don't see the need
+11:06 
+
+11:06 to understand at a deeper level they're
+11:08 
+
+11:08 like why do I need to know these stuff
+11:10 
+
+11:10 why you asking me these questions as
+11:12 
+
+11:12 long as I know how to use this
+11:14 
+
+11:14 framework. Isn't that enough? Yeah. So,
+11:16 
+
+11:16 I would say that's arguable. We can
+11:18 
+
+11:18 argue that day-to-day job you don't need
+11:20 
+
+11:20 to know like at a fundamental level. But
+11:23 
+
+11:23 like you mentioned, troubleshooting is
+11:25 
+
+11:25 part of the learning process and knowing
+11:27 
+
+11:27 how to uh troubleshoot is also a skill.
+11:31 
+
+11:31 So, it's like if you understand it
+11:33 
+
+11:33 deeper, you can actually come up with
+11:36 
+
+11:36 more creative solutions. All right? M
+11:38 
+
+11:38 that's why I think understanding
+11:40 
+
+11:40 something at a deeper level is always
+11:42 
+
+11:42 beneficial than not right but it's not
+11:45 
+
+11:45 like I will totally reject this person
+11:46 
+
+11:46 if they don't understand like all that
+11:49 
+
+11:49 like but it's just like it just gives me
+11:52 
+
+11:52 a more um like that impression that you
+11:55 
+
+11:55 might be able to actually accelerate
+11:58 
+
+11:58 like your career to the next level
+12:00 
+
+12:00 faster because you have that
+12:02 
+
+12:02 understanding and in the future if
+12:04 
+
+12:04 there's like more junior developers that
+12:06 
+
+12:06 come in I can see that you stand out
+12:09 
+
+12:09 above the rest if you have that. Yeah.
+12:12 
+
+12:12 So that's my take on it essentially. I'm
+12:15 
+
+12:15 curious about and I guess like there's
+12:18 
+
+12:18 also the whole notion that AI cannot
+12:20 
+
+12:20 replace junior developers because if
+12:22 
+
+12:22 they if it does replace junior
+12:24 
+
+12:24 developers then we won't have senior
+12:26 
+
+12:26 developers in the future, right? It's a
+12:28 
+
+12:28 pyramid. Yeah. Now that you have junior
+12:30 
+
+12:30 developers coming on board on your team
+12:33 
+
+12:33 and you know that they're going to use
+12:34 
+
+12:34 like AI tools, how would you change your
+12:37 
+
+12:37 way of like mentoring and guiding a
+12:39 
+
+12:39 junior developer to to kind of like
+12:42 
+
+12:42 teach them the skill of like, hey, don't
+12:44 
+
+12:44 rely on your AI tools so much. This is
+12:47 
+
+12:47 what you should do and this is what I
+12:48 
+
+12:48 used to do as a a junior developer to
+12:51 
+
+12:51 get to where I am. I actually uh like
+12:53 
+
+12:53 fortunately I actually have not seen
+12:55 
+
+12:55 anyone over reliant on AI yet and also
+12:58 
+
+12:58 because uh companies nowadays we have
+13:00 
+
+13:00 like tools in place where you're not
+13:03 
+
+13:03 allowed to use chat GPT you have to use
+13:05 
+
+13:05 the in-house tooling and things like
+13:07 
+
+13:07 that so that kind of limits it's not as
+13:09 
+
+13:09 free and open as the chat GPT outside
+13:13 
+
+13:13 and also copilot maybe there's some
+13:15 
+
+13:15 licenses you don't people use it don't
+13:18 
+
+13:18 use it so I was actually shocked that
+13:19 
+
+13:19 people are not using AI as much as I
+13:21 
+
+13:21 would I would think but I think for
+13:24 
+
+13:24 junior developers it's okay fine you can
+13:27 
+
+13:27 use AI tools if it if you know how to
+13:30 
+
+13:30 use it properly you're becoming a better
+13:32 
+
+13:32 prompter that's good also but also I
+13:34 
+
+13:34 would say on the side maybe try
+13:37 
+
+13:37 entrepreneurship because that will give
+13:39 
+
+13:39 you like yeah you can dip your toes into
+13:41 
+
+13:41 product oh like product world and like
+13:44 
+
+13:44 yeah and what are different departments
+13:46 
+
+13:46 and like uh how to see big higher level
+13:49 
+
+13:49 picture of products uh the way things
+13:52 
+
+13:52 work together. Engineering itself from
+13:54 
+
+13:54 like a bigger like a higher level
+13:57 
+
+13:57 perspective. It forces you to try every
+13:59 
+
+13:59 single role like you have you can't just
+14:01 
+
+14:01 be a front-end engineer you have to do
+14:03 
+
+14:03 back end you have to deploy you have to
+14:05 
+
+14:05 do all these other things. So in that in
+14:07 
+
+14:07 essence if you try out entrepreneurship
+14:09 
+
+14:09 on the side or as even your primary if
+14:12 
+
+14:12 you want to try a startup you end up
+14:13 
+
+14:13 like learning the I think that's kind of
+14:16 
+
+14:16 the only way out for those who are not
+14:18 
+
+14:18 able to get jobs. I think the job market
+14:20 
+
+14:20 has has changed a bit. Interviews are
+14:23 
+
+14:23 getting a little bit different now. I
+14:25 
+
+14:25 think also because as interviewer we can
+14:28 
+
+14:28 also detect like okay people are
+14:30 
+
+14:30 actually referencing something else. So
+14:32 
+
+14:32 we change our questions you know we give
+14:33 
+
+14:33 a different question each time. We
+14:35 
+
+14:35 questions also catered to how well you
+14:38 
+
+14:38 have troubleshooted your previous
+14:39 
+
+14:39 projects maybe you know those kind of
+14:41 
+
+14:41 questions. So that so we have also have
+14:43 
+
+14:43 to adapt to find the the better
+14:46 
+
+14:46 developers out there and then uh we
+14:49 
+
+14:49 should encourage the usage of AI tools
+14:51 
+
+14:51 because it does increase productivity
+14:53 
+
+14:53 but also monitor and you know make sure
+14:57 
+
+14:57 it's going in the right path and as a
+14:59 
+
+14:59 senior developer I also am using all
+15:01 
+
+15:01 these tools to make sure that even I am
+15:05 
+
+15:05 getting more productive and as I said
+15:08 
+
+15:08 the the AI2 is as good as the prompter
+15:10 
+
+15:10 if I am replacing
+15:12 
+
+15:12 maybe not a junior like an intern with
+15:14 
+
+15:14 this AI tool. I should be able to give
+15:17 
+
+15:17 correct instructions and ensure I am
+15:20 
+
+15:20 giving the right domain the context and
+15:23 
+
+15:23 everything to this tool to produce the
+15:25 
+
+15:25 work that I want. Yeah. And I just
+15:28 
+
+15:28 realized that mid-level to senior level
+15:31 
+
+15:31 developers and even like higher down
+15:32 
+
+15:32 when you go down the managerial track
+15:34 
+
+15:34 really stand to benefit from AI tools
+15:36 
+
+15:36 because there prior to like chat GPT and
+15:38 
+
+15:38 all these things there's always been a
+15:40 
+
+15:40 struggle of balancing how much of the
+15:42 
+
+15:42 people work and managerial work you do
+15:44 
+
+15:44 versus the coding work you do and they
+15:46 
+
+15:46 say like when you go down to managerial
+15:47 
+
+15:47 it's 20% code and then 80% like people
+15:50 
+
+15:50 management and people you know when you
+15:52 
+
+15:52 decide between these tracks you're
+15:53 
+
+15:53 always debating within yourself. I want
+15:55 
+
+15:55 to I still want to code but I also want
+15:56 
+
+15:56 to go up like the management ranks. But
+15:59 
+
+15:59 with like AI tools now you that it might
+16:02 
+
+16:02 not be a 20 80% anymore. You're able to
+16:04 
+
+16:04 complete more uh uh coding tasks with
+16:07 
+
+16:07 the help of AI while at the same time
+16:09 
+
+16:09 dedicate the uh time that you otherwise
+16:12 
+
+16:12 would have spent like I don't know
+16:13 
+
+16:13 debugging or figuring out syntax on the
+16:15 
+
+16:15 people management. So maybe it might
+16:17 
+
+16:17 level that out to a 50/50
+16:20 
+
+16:20 if you use it properly. If you use it
+16:22 
+
+16:22 properly. Yeah. Yeah. That's a skill.
+16:24 
+
+16:24 Yeah. Yeah. It's a it's a skill in
+16:26 
+
+16:26 itself. You learn it properly. Exactly.
+16:28 
+
+16:28 Something that you have to train and
+16:29 
+
+16:29 find your own rabbit holes.
+16:33 
+
+16:33 [Music]

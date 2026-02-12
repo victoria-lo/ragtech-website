@@ -1,0 +1,2026 @@
+00:00 in today's episode on re Tech about
+00:03 
+
+00:03 Python and open source community so how
+00:05 
+
+00:05 do we explain open source to a non- teie
+00:07 
+
+00:07 it basically means uh people write
+00:09 
+
+00:09 software code and they put it for free
+00:12 
+
+00:12 on the internet so everyone can actually
+00:14 
+
+00:14 see every single line of code right now
+00:16 
+
+00:16 people will say but isn't that dangerous
+00:19 
+
+00:19 like if everyone can see the codes uh
+00:22 
+
+00:22 isn't there like hackers are going to
+00:24 
+
+00:24 exploit that but actually it's it's the
+00:26 
+
+00:26 opposite everybody wants everything for
+00:28 
+
+00:28 free right so open source is free yeah
+00:30 
+
+00:30 and then there there's this meme I'm
+00:32 
+
+00:32 sure you have seen this uh where like
+00:36 
+
+00:36 the whole internet stack like all these
+00:37 
+
+00:37 blocks oh gosh and then there's this
+00:39 
+
+00:39 tiny block and then like the whole
+00:41 
+
+00:41 internet rests on the shoulders of this
+00:43 
+
+00:43 one guy somewhere in Texas in Al writing
+00:47 
+
+00:47 code for the SSH library or whatever
+00:50 
+
+00:50 right and what if that guy dies and I
+00:52 
+
+00:52 have a feeling that's a little bit of a
+00:53 
+
+00:53 problem with Singapore being a very
+00:56 
+
+00:56 expensive and competitive place people
+00:59 
+
+00:59 just don't have time to
+01:02 
+
+01:02 do other stuff outside of work just
+01:05 
+
+01:05 everybody is already working super super
+01:07 
+
+01:07 hard super long hours and I feel many
+01:10 
+
+01:10 companies probably don't see going to
+01:13 
+
+01:13 Tech meet meetups as part of the
+01:16 
+
+01:16 [Music]
+01:18 
+
+01:18 work hello everybody we are R Tech uh
+01:22 
+
+01:22 this is the place where you hear us uh
+01:23 
+
+01:23 go about about bites and benter today we
+01:26 
+
+01:26 have myself Natasha I'm a software
+01:29 
+
+01:29 engineer and I'm Salon software engineer
+01:32 
+
+01:32 and today we have our guest speaker
+01:34 
+
+01:34 Martin and Martin is would you like to
+01:37 
+
+01:37 uh introduce yourself a retired software
+01:40 
+
+01:40 engineer yes a retired software engineer
+01:42 
+
+01:42 recently retired a very recently retired
+01:45 
+
+01:45 software engineer and today's episode
+01:47 
+
+01:47 will be about his uh engineering journey
+01:51 
+
+01:51 and his contributions to the python
+01:54 
+
+01:54 Community uh and yeah let's let's Dive
+01:56 
+
+01:56 Right In yeah first of all uh we wanted
+01:59 
+
+01:59 to start off with like a soft
+02:01 
+
+02:01 introduction of yourself how you would
+02:03 
+
+02:03 introduce yourself to uh uh both techies
+02:05 
+
+02:05 and non- techies alike so how would you
+02:07 
+
+02:07 introduce yourself
+02:09 
+
+02:09 Martin um right now especially since
+02:13 
+
+02:13 you're recently retired yes um how would
+02:16 
+
+02:16 I introduce myself so normally when I
+02:18 
+
+02:18 when I speak at conferences or so I
+02:20 
+
+02:20 would say that I'm the CTO I was the CTO
+02:24 
+
+02:24 of the artling it's a local startup that
+02:27 
+
+02:27 uh deals with Contemporary Art um so
+02:31 
+
+02:31 um at the S side of doing that I was
+02:34 
+
+02:34 also the organizer of the Python User
+02:36 
+
+02:36 Group the monthly Meetup so uh when you
+02:39 
+
+02:39 go to meal.com and you look for the Pyon
+02:40 
+
+02:40 User Group um then you will find our
+02:43 
+
+02:43 group over 6,000 members I think and um
+02:47 
+
+02:47 yeah during Co it's fell asleep for
+02:49 
+
+02:49 quite a while but recently this year we
+02:52 
+
+02:52 have uh we have managed to do a few more
+02:54 
+
+02:54 meetups again and I have also been
+02:57 
+
+02:57 organizing the Pyon conference in
+02:59 
+
+02:59 Singapore
+03:00 
+
+03:00 six years in a row but once again thanks
+03:03 
+
+03:03 to co that fell asleep so hopefully next
+03:06 
+
+03:06 year we can organize a Pon and sing aort
+03:08 
+
+03:08 again um yeah so for for techies that's
+03:12 
+
+03:12 what I do I I build websites with Pyon
+03:15 
+
+03:15 and jeno and react on the front end M
+03:18 
+
+03:18 and um yeah in my spare time I
+03:22 
+
+03:22 organize Pyon conferences and Pyon
+03:24 
+
+03:24 meetups and now that I have a daughter
+03:28 
+
+03:28 um I will am bark on a journey to do
+03:31 
+
+03:31 homeschooling so that will be my new
+03:33 
+
+03:33 full-time job so to speak and uh I'm
+03:35 
+
+03:35 quite scared about that you're quite
+03:37 
+
+03:37 scared about it that's wonderful
+03:39 
+
+03:39 honestly I think it's really hard to
+03:40 
+
+03:40 encapsulate your entire Journey as an
+03:43 
+
+03:43 engineer but I think like what uh stood
+03:45 
+
+03:45 out to me first when I uh knew that you
+03:47 
+
+03:47 were coming uh to be a guest on our uh
+03:49 
+
+03:49 podcast was uh your involvement in the
+03:52 
+
+03:52 python Community um because like with
+03:54 
+
+03:54 Salone and I are in a uh kind of uh
+03:56 
+
+03:56 sister Tech Community called women devs
+03:59 
+
+03:59 SG uh and and uh definitely you know we
+04:02 
+
+04:02 relate to a lot of the experiences that
+04:03 
+
+04:03 you've had but you've had way more
+04:04 
+
+04:04 experience than both of us but uh I
+04:07 
+
+04:07 wanted to speak more about python as a
+04:10 
+
+04:10 language because for techies and non-
+04:12 
+
+04:12 teis alike I think most people would
+04:14 
+
+04:14 have heard of this language especially
+04:16 
+
+04:16 with the uh birth of uh Ai and ml in
+04:19 
+
+04:19 today's uh time and age that uh it's
+04:21 
+
+04:21 kind of difficult to get away not
+04:22 
+
+04:22 knowing what this language is and I
+04:24 
+
+04:24 think most schools and universities
+04:26 
+
+04:26 actually teach it now it tends to be a
+04:28 
+
+04:28 very entrylevel uh language as well but
+04:31 
+
+04:31 uh what a lot of people don't know is
+04:33 
+
+04:33 the open-source nature of uh python as a
+04:36 
+
+04:36 language that makes it a little bit
+04:38 
+
+04:38 different from other commonly used
+04:40 
+
+04:40 languages in the tech world so I wanted
+04:42 
+
+04:42 to uh pick your brain about what you
+04:45 
+
+04:45 feel about uh open source how you would
+04:47 
+
+04:47 describe open source to somebody who
+04:49 
+
+04:49 hasn't uh uh known it at all and how it
+04:52 
+
+04:52 fits in the world of python okay um I
+04:55 
+
+04:55 can't even believe that anyone hasn't
+04:57 
+
+04:57 heard about open source right if you if
+04:59 
+
+04:59 you hang out with leaks all your life
+05:01 
+
+05:01 your professional life obviously
+05:03 
+
+05:03 everybody knows about open source right
+05:05 
+
+05:05 um okay so so how do we explain open
+05:07 
+
+05:07 source to a non techy it basically means
+05:10 
+
+05:10 uh people write software code and they
+05:12 
+
+05:12 put it for free on the internet so
+05:15 
+
+05:15 everyone can actually see every single
+05:16 
+
+05:16 line of code right so on the other side
+05:19 
+
+05:19 we would have closed Source you buy
+05:21 
+
+05:21 something uh some piece of software from
+05:23 
+
+05:23 a company and you just have an
+05:25 
+
+05:25 executable file you can double click the
+05:26 
+
+05:26 file and run it but you can't see inside
+05:28 
+
+05:28 the file so you don't know what act what
+05:30 
+
+05:30 code is behind that file so that will be
+05:32 
+
+05:32 closed source and open source you can
+05:34 
+
+05:34 see everything so now people will say
+05:37 
+
+05:37 but isn't that dangerous like if
+05:39 
+
+05:39 everyone can see the codes uh isn't
+05:42 
+
+05:42 there like hackers are going to exploit
+05:43 
+
+05:43 that but actually it's it's the opposite
+05:46 
+
+05:46 the closed source code is the dangerous
+05:48 
+
+05:48 one because if there's a bug in the
+05:49 
+
+05:49 close closed source code you will never
+05:51 
+
+05:51 find out until it's too late but with
+05:53 
+
+05:53 the open source code if you are using
+05:55 
+
+05:55 some kind of piece of software that is
+05:58 
+
+05:58 uh has has reached some kind of Main
+05:60 
+
+05:60 stream adoption there will be hundreds
+06:02 
+
+06:02 of thousands of pairs of eyes looking at
+06:04 
+
+06:04 it and looking for problems with that
+06:06 
+
+06:06 right and um so that actually and I feel
+06:10 
+
+06:10 back 20 years ago when I when I joined
+06:13 
+
+06:13 the
+06:14 
+
+06:14 workforce I was working at Bay AG for
+06:16 
+
+06:16 the finance department they were
+06:17 
+
+06:17 actually they were pretty damn
+06:19 
+
+06:19 Progressive already but they were using
+06:20 
+
+06:20 C closed Source Microsoft and so
+06:24 
+
+06:24 whenever I wanted to do something
+06:25 
+
+06:25 Innovative and I wanted to do it with
+06:27 
+
+06:27 python they wouldn't allow me right
+06:29 
+
+06:29 because the large corporation will
+06:31 
+
+06:31 always be like oh no no it's too risky
+06:34 
+
+06:34 we going to get hacked I feel now it's
+06:36 
+
+06:36 actually the opposite now um governments
+06:39 
+
+06:39 corporations are embracing open source
+06:41 
+
+06:41 because they they know that it's um
+06:43 
+
+06:43 actually safer than closed
+06:45 
+
+06:45 source and also um if anything is wrong
+06:48 
+
+06:48 if anything goes wrong so back in my
+06:50 
+
+06:50 days at Bea with C if anything doesn't
+06:53 
+
+06:53 work I'm done I can't do anything right
+06:56 
+
+06:56 I would have to file a ticket with the
+06:57 
+
+06:57 company that we bought the software from
+06:59 
+
+06:59 and hopefully
+07:00 
+
+07:00 a skilled individual is going to reply
+07:03 
+
+07:03 me not with with the python I can just
+07:06 
+
+07:06 step into the code step into the code
+07:08 
+
+07:08 and then I end up in the code that I
+07:10 
+
+07:10 haven't written myself but that's part
+07:11 
+
+07:11 of the framework that I'm using and then
+07:13 
+
+07:13 I see why it crashes and then I can
+07:15 
+
+07:15 understand what's wrong and I can either
+07:18 
+
+07:18 immediately fix the original bug by
+07:20 
+
+07:20 submitting a patch but of course that
+07:21 
+
+07:21 will usually take a lot of time before
+07:23 
+
+07:23 it really uh is then downloadable for
+07:25 
+
+07:25 everybody or I can just fix it for
+07:27 
+
+07:27 myself on my own local version with
+07:29 
+
+07:29 within my project and at least I can
+07:31 
+
+07:31 move on right and yeah so it it
+07:34 
+
+07:34 supercharges your productivity because
+07:36 
+
+07:36 whenever you get stuck it's not the end
+07:37 
+
+07:37 of the day you can trace down the error
+07:40 
+
+07:40 all the way to the bottom and then you
+07:41 
+
+07:41 know what's wrong and then either you
+07:43 
+
+07:43 fix it or you you build a work around
+07:46 
+
+07:46 and you just know okay my software has
+07:48 
+
+07:48 some kind of buck but I know why and
+07:50 
+
+07:50 when it happens so then my own code
+07:52 
+
+07:52 somehow has to work around that and I
+07:54 
+
+07:54 can still at least move forward yeah
+07:57 
+
+07:57 yeah there's no back and forth between
+07:58 
+
+07:58 like the the person asking you so what
+08:00 
+
+08:00 exactly what's your OS what's your this
+08:02 
+
+08:02 what's that you know like the in and out
+08:05 
+
+08:05 so that's the benefit there and
+08:07 
+
+08:07 obviously like with the idea of Open
+08:09 
+
+08:09 Source uh it comes very closely with the
+08:11 
+
+08:11 idea of community correct because you
+08:13 
+
+08:13 know it's a language built by the
+08:14 
+
+08:14 community uh for free yeah so uh I think
+08:17 
+
+08:17 that would be a huge reason as to why
+08:19 
+
+08:19 you're so heavily involved in the python
+08:20 
+
+08:20 Community specifically here in Singapore
+08:22 
+
+08:22 for now uh could you talk more about
+08:24 
+
+08:24 your involvement in that area that also
+08:26 
+
+08:26 has two sides of the coin right when you
+08:29 
+
+08:29 first get into the open Source community
+08:30 
+
+08:30 and when I came to Singapore I was free
+08:34 
+
+08:34 to do whatever I want right I needed to
+08:36 
+
+08:36 find my footing here somehow so I
+08:38 
+
+08:38 started uh a meetup group for
+08:40 
+
+08:40 entrepreneurs just so that people get to
+08:42 
+
+08:42 know me and I get some customers from my
+08:44 
+
+08:44 own web agency and um and then I joined
+08:47 
+
+08:47 the first P conference here in Singapore
+08:49 
+
+08:49 and I saw this open source spirit all
+08:51 
+
+08:51 these people just freely sharing their
+08:54 
+
+08:54 knowledge and and you know showing what
+08:56 
+
+08:56 libraries they have built and and how
+08:57 
+
+08:57 you can use them all for free and then
+08:60 
+
+08:60 you get to see those people as well you
+09:01 
+
+09:01 get you get to have a beer with them and
+09:03 
+
+09:03 it's it's incredible like some of these
+09:05 
+
+09:05 people are extremely well-known
+09:07 
+
+09:07 Engineers from the US who fly in for the
+09:09 
+
+09:09 conference right and suddenly they are
+09:11 
+
+09:11 so tangible you can shake their hands
+09:13 
+
+09:13 can talk to them and you just share all
+09:15 
+
+09:15 the knowledge with you freely right um
+09:18 
+
+09:18 and so this sense of community is
+09:20 
+
+09:20 incredibly motivating for for you then
+09:23 
+
+09:23 to think okay maybe I should also write
+09:25 
+
+09:25 a little library and then who knows
+09:27 
+
+09:27 maybe on GitHub somebody will start it
+09:29 
+
+09:29 will start using it and that's what I
+09:31 
+
+09:31 did right and in my company um we use
+09:33 
+
+09:33 Jango as the web framework and Jango has
+09:36 
+
+09:36 this thing called reusable apps so you
+09:38 
+
+09:38 can write your code in such a way that
+09:40 
+
+09:40 it's generic so that anyone can plug in
+09:42 
+
+09:42 that app into their uh project and then
+09:45 
+
+09:45 also use that so instead of building a
+09:47 
+
+09:47 calendar um software just for ourselves
+09:50 
+
+09:50 we build it as a reusable app our
+09:53 
+
+09:53 clients to pay us to do that of course
+09:55 
+
+09:55 but then the next client who also needs
+09:56 
+
+09:56 a calendar then we don't need to code
+09:58 
+
+09:58 anything we just plug that into that
+09:59 
+
+09:59 project as well right and then it turns
+10:02 
+
+10:02 like after a while we got relatively
+10:05 
+
+10:05 well known worldwide that this agency
+10:07 
+
+10:07 does all these Jango packages and so
+10:09 
+
+10:09 then other people that I don't even know
+10:11 
+
+10:11 where they are and who they are they
+10:13 
+
+10:13 started looking into our code as well
+10:16 
+
+10:16 and I mean most of the time they make
+10:18 
+
+10:18 requests they want something from you
+10:20 
+
+10:20 they hope that you build it for them
+10:21 
+
+10:21 right but then we are just like oh we
+10:23 
+
+10:23 always reply if you want to have it you
+10:25 
+
+10:25 can submit a patch and we will merge it
+10:27 
+
+10:27 right so and sometimes they do so then
+10:29 
+
+10:29 our our packages actually got better and
+10:31 
+
+10:31 we didn't even have to quote anything
+10:33 
+
+10:33 other people were were committing work
+10:35 
+
+10:35 for us so to speak right um so that's
+10:38 
+
+10:38 incredibly motivating but there's the
+10:40 
+
+10:40 flip side everybody wants everything for
+10:42 
+
+10:42 free right so open source is free and
+10:45 
+
+10:45 then there there's this meme I'm sure
+10:47 
+
+10:47 you have seen this uh where like the
+10:50 
+
+10:50 whole internet stacked like all these
+10:52 
+
+10:52 blocks and then there's this tiny block
+10:54 
+
+10:54 and then like the whole internet rests
+10:56 
+
+10:56 on the shoulders of this one guy
+10:58 
+
+10:58 somewhere in Texas
+11:01 
+
+11:01 writing code for the SSH library or
+11:03 
+
+11:03 whatever right and what if that guy dies
+11:06 
+
+11:06 and nobody takes over that library then
+11:07 
+
+11:07 the whole internet will yes we will put
+11:09 
+
+11:09 that Meme on like a video it's a really
+11:11 
+
+11:11 funny one and um I felt that burnout
+11:14 
+
+11:14 myself right so at some point we didn't
+11:16 
+
+11:16 do that much work with those Jango
+11:18 
+
+11:18 libraries anymore but all these requests
+11:21 
+
+11:21 the pull requests and issues were still
+11:23 
+
+11:23 coming in right and then I was already
+11:25 
+
+11:25 working on artling where I was doing
+11:27 
+
+11:27 Less open source and and still had all
+11:30 
+
+11:30 this Legacy sitting there in my GitHub
+11:32 
+
+11:32 account I have like I don't know like 80
+11:34 
+
+11:34 80 repositories or something um and at
+11:38 
+
+11:38 some point you have to just say no and
+11:41 
+
+11:41 and you will just say I'm no longer
+11:43 
+
+11:43 maintaining this why I have actually
+11:45 
+
+11:45 when whenever anyone wants something
+11:47 
+
+11:47 from one of my old um repositories I I
+11:50 
+
+11:50 offer to them that they become
+11:51 
+
+11:51 maintainer and then I just move it over
+11:53 
+
+11:53 to them yeah and that works as well most
+11:55 
+
+11:55 of the time people are happy to take it
+11:56 
+
+11:56 over um but yeah so um it's cool that
+11:60 
+
+11:60 it's motivating but it can also burn you
+12:02 
+
+12:02 out so you have to balance it like
+12:03 
+
+12:03 everything in life yeah this is a really
+12:06 
+
+12:06 interesting perspective to maintaining
+12:08 
+
+12:08 open source that I think people don't
+12:09 
+
+12:09 see this um I mean it's not so much of a
+12:11 
+
+12:11 bad side it's just a realistic side of
+12:13 
+
+12:13 maintaining uh open source libraries
+12:15 
+
+12:15 projects and stuff like that also for uh
+12:17 
+
+12:17 the audience members who don't really
+12:19 
+
+12:19 know the process behind open source when
+12:21 
+
+12:21 we talk about patches when we talk about
+12:23 
+
+12:23 merges uh basically when a uh open-
+12:26 
+
+12:26 source project is basically
+12:28 
+
+12:28 contributable by anybody in Community
+12:30 
+
+12:30 you usually would need a maintainer sort
+12:32 
+
+12:32 of like a moderator of a Reddit Forum
+12:35 
+
+12:35 kind of person uh who usually is the
+12:37 
+
+12:37 owner of like owner or founder of like
+12:40 
+
+12:40 that project when requests to change uh
+12:43 
+
+12:43 the project come in you will have to
+12:45 
+
+12:45 have somebody to review it and check
+12:47 
+
+12:47 that it works well with the rest of the
+12:48 
+
+12:48 code and then merge it in but what
+12:50 
+
+12:50 Martin is saying is that this can be
+12:52 
+
+12:52 quite texting over time especially you
+12:54 
+
+12:54 know you also have a separate group of
+12:56 
+
+12:56 people who uh are only raising issues
+12:59 
+
+12:59 and are putting in quod to actually
+13:01 
+
+13:01 change it so when he talks about that
+13:03 
+
+13:03 Legacy that backlog of issues you
+13:05 
+
+13:05 basically have this project with like 80
+13:07 
+
+13:07 over and sometimes 100 even a thousand
+13:09 
+
+13:09 like hey change this change that and
+13:11 
+
+13:11 he's like what do I do I have to like
+13:13 
+
+13:13 review everything so I yeah now that you
+13:17 
+
+13:17 uh mention it it is really uh difficult
+13:20 
+
+13:20 to kind of uh maintain that but I like
+13:22 
+
+13:22 the idea of like getting somebody else
+13:24 
+
+13:24 to be a maintainer I think it takes a
+13:26 
+
+13:26 lot of like uh your yourself and putting
+13:29 
+
+13:29 your I have to say OS aside to give up
+13:32 
+
+13:32 that project to somebody else knowing
+13:33 
+
+13:33 that you're burning out and there's more
+13:35 
+
+13:35 spaces that you can contribute to yeah
+13:37 
+
+13:37 and that's really admirable uh by itself
+13:41 
+
+13:41 when when we bring it back to Pyon a
+13:42 
+
+13:42 little bit what you say this maintainer
+13:44 
+
+13:44 or moderator in the Pyon Community this
+13:46 
+
+13:46 this was g f rosum the guy who invented
+13:48 
+
+13:48 pison right and uh this the bdfl right
+13:51 
+
+13:51 the benan dictator for life right so
+13:54 
+
+13:54 like that's like actually open source is
+13:56 
+
+13:56 also like
+13:57 
+
+13:57 decentralized random people in world
+13:60 
+
+13:60 doing stuff but also very centralized
+14:02 
+
+14:02 one single person usually has the commit
+14:04 
+
+14:04 R to the repository who can then merge
+14:07 
+
+14:07 all these contributions right so yeah so
+14:11 
+
+14:11 that's like this Duality right many many
+14:14 
+
+14:14 people but still one person has to be
+14:16 
+
+14:16 the the the the final moderator or like
+14:19 
+
+14:19 Linux linos tows is notorious for uh for
+14:23 
+
+14:23 hurting people's feelings when they
+14:24 
+
+14:24 submit code and then he says this is
+14:26 
+
+14:26  I will never accept this code but I
+14:30 
+
+14:30 mean Linux is good right yes that's why
+14:32 
+
+14:32 it's good you have like that one guy
+14:34 
+
+14:34 who's just like gatekeeping maybe
+14:36 
+
+14:36 another aspect that we should point out
+14:38 
+
+14:38 about open source is um The Learning
+14:40 
+
+14:40 aspect right by having all this code
+14:42 
+
+14:42 open source um I can learn from any
+14:46 
+
+14:46 repository right I want to build
+14:48 
+
+14:48 something there is something that's
+14:50 
+
+14:50 already similar to what I want to do I
+14:52 
+
+14:52 just look at the code I see how how they
+14:54 
+
+14:54 have done it and by that you pick up
+14:57 
+
+14:57 programming patterns right um that
+14:60 
+
+14:60 that's um very very valuable so yes
+15:03 
+
+15:03 definitely I mean when I came to
+15:05 
+
+15:05 Singapore and started my own company
+15:07 
+
+15:07 there was no guru that I can ask in my
+15:10 
+
+15:10 in my company before there was that Guru
+15:13 
+
+15:13 that knew everything about everything
+15:15 
+
+15:15 and whenever I got stuck I would ask him
+15:17 
+
+15:17 right and by the way that guy had a
+15:21 
+
+15:21 private chat with Gan Russell so I kind
+15:24 
+
+15:24 of learned Pyon from somebody who
+15:27 
+
+15:27 learned Pyon from the source
+15:30 
+
+15:30 so that's that's the reason why he knew
+15:32 
+
+15:32 everything about everything
+15:34 
+
+15:34 right when I ask a very difficult
+15:37 
+
+15:37 question then he would be like oh let me
+15:38 
+
+15:38 just ask youo there different time zones
+15:40 
+
+15:40 it would take a while but it's still
+15:42 
+
+15:42 amaz yeah I guess I was very lucky to be
+15:45 
+
+15:45 at the right time at the right Point
+15:48 
+
+15:48 like in a totally unknown tiny company
+15:50 
+
+15:50 in Germany where this dude somehow is a
+15:53 
+
+15:53 friend of G so crazy um but yeah um The
+15:56 
+
+15:56 Learning aspect is incredible right so I
+15:58 
+
+15:58 came to sing up don't have my Guru
+15:60 
+
+15:60 anymore but so when I get stuck you
+16:02 
+
+16:02 first panic right oh my God I will never
+16:05 
+
+16:05 be able to fix this how am I my my
+16:07 
+
+16:07 customer is um expecting me to to ship
+16:11 
+
+16:11 this software but seem as a seemingly
+16:14 
+
+16:14 impossible uh problem that I can't solve
+16:17 
+
+16:17 well first of all you should go to sleep
+16:18 
+
+16:18 the next morning usually all these
+16:19 
+
+16:19 problems are gone right yeah but if the
+16:21 
+
+16:21 next morning is still difficult then you
+16:23 
+
+16:23 can go around and look at other open
+16:25 
+
+16:25 source projects and see how other people
+16:26 
+
+16:26 have solved the same problem yeah yeah
+16:28 
+
+16:28 definitely I think a learning aspect is
+16:29 
+
+16:29 important I really love what you said
+16:31 
+
+16:31 about gurus and you know you were lucky
+16:33 
+
+16:33 at that point of time that you happen to
+16:35 
+
+16:35 be right space right time and space to
+16:37 
+
+16:37 meet them but I think especially with
+16:38 
+
+16:38 all of us you know being in Tech
+16:40 
+
+16:40 communities and we're really trying to
+16:41 
+
+16:41 find these gurus and put them in one
+16:43 
+
+16:43 place through conferences and stuff like
+16:44 
+
+16:44 that I think Salone can talk more about
+16:45 
+
+16:45 this especially as a co-director of
+16:47 
+
+16:47 women devs both of you can relate to how
+16:49 
+
+16:49 difficult it is to find speakers am I
+16:51 
+
+16:51 right like so I'm sure you can relate to
+16:54 
+
+16:54 that and the difficulty of that but uh
+16:56 
+
+16:56 being able to put these people in the
+16:58 
+
+16:58 same place I I think that's the magic of
+17:01 
+
+17:01 tech communities like uh the python user
+17:03 
+
+17:03 group like our women dev's SG we put
+17:06 
+
+17:06 this gurus together so everybody can
+17:07 
+
+17:07 learn from them uh so you don't have to
+17:09 
+
+17:09 be a right time and space um as we had
+17:12 
+
+17:12 to do like I guess that's the point of
+17:14 
+
+17:14 conferences right yeah yeah yeah and
+17:16 
+
+17:16 that's why would you still be like
+17:17 
+
+17:17 actively involved in Pyon then like now
+17:20 
+
+17:20 that you're re well I can well my
+17:24 
+
+17:24 daughter is 3 months old now right I
+17:26 
+
+17:26 didn't have a single second for myself
+17:28 
+
+17:28 so I don't
+17:30 
+
+17:30 know how I could possibly organize
+17:32 
+
+17:32 another Pyon um knowing how how hard
+17:35 
+
+17:35 that is as well right that's not easy to
+17:37 
+
+17:37 do that and especially in Singapore it's
+17:41 
+
+17:41 quite difficult to find good venues
+17:43 
+
+17:43 there's always a lot of money involved
+17:44 
+
+17:44 and when there's money involved and
+17:46 
+
+17:46 there is expectations involved and so on
+17:48 
+
+17:48 and um luckily the Pyon Community is
+17:51 
+
+17:51 very laidback and very grass rots so um
+17:55 
+
+17:55 you can just you know go to a school get
+17:57 
+
+17:57 like some school rooms and people will
+17:59 
+
+17:59 be and have a have a good time at the
+18:01 
+
+18:01 conference but over the years we have
+18:03 
+
+18:03 raised the bar a little bit for p
+18:04 
+
+18:04 conference so um I guess if we wanted to
+18:07 
+
+18:07 do another one it has to be better than
+18:09 
+
+18:09 the previous one right and so then you
+18:11 
+
+18:11 have to find um um sponsors right you
+18:15 
+
+18:15 have to go to corporates and and do
+18:17 
+
+18:17 sponsorships and so on just so that you
+18:19 
+
+18:19 can get a good venue and yeah it's it's
+18:22 
+
+18:22 going to be tough um I will obviously
+18:23 
+
+18:23 focus on my on my daughter um so my main
+18:27 
+
+18:27 goal in the Pyon Community right now is
+18:29 
+
+18:29 to find somebody to replace me or or you
+18:31 
+
+18:31 know like so at least I can delegate a
+18:33 
+
+18:33 little bit the problem with the pon user
+18:35 
+
+18:35 group is it's a huge Community 6,000
+18:38 
+
+18:38 people everybody loves to come to the
+18:39 
+
+18:39 meetups get free pizza come to the
+18:42 
+
+18:42 conference but nobody wants to do
+18:44 
+
+18:44 anything right it's so difficult to find
+18:47 
+
+18:47 we've been for years at the AGM so um
+18:50 
+
+18:50 the Pyon user group is actually a
+18:52 
+
+18:52 registered Society in Singapore and we
+18:54 
+
+18:54 have to do an AGM every year which we
+18:56 
+
+18:56 often miss as well but every year we
+18:58 
+
+18:58 like okay next year we will focus on
+19:00 
+
+19:00 finding replacements for us and grooming
+19:02 
+
+19:02 a new generation of of volunteers for
+19:05 
+
+19:05 the for the society but it never happens
+19:08 
+
+19:08 every year like 10 people are like yeah
+19:10 
+
+19:10 I want to volunteer we we put them in
+19:12 
+
+19:12 our slack and then they never say
+19:14 
+
+19:14 anything and then they just all
+19:16 
+
+19:16 disappear and then it's just us again
+19:18 
+
+19:18 right so oh it's so hard it's so hard to
+19:20 
+
+19:20 find uh we can relate to that cuz we
+19:22 
+
+19:22 also have like basically I I was also in
+19:26 
+
+19:26 awe a little of you that you are
+19:28 
+
+19:28 attacking your yourself but because
+19:30 
+
+19:30 you're passionate about python open
+19:33 
+
+19:33 source you would put in this effort to
+19:35 
+
+19:35 like bring this out to everyone else let
+19:37 
+
+19:37 you know form a community find speakers
+19:40 
+
+19:40 find venues host these conferences these
+19:43 
+
+19:43 events and that's what we are doing as
+19:45 
+
+19:45 well uh and it there's so much effort
+19:49 
+
+19:49 that goes through there and yeah it's
+19:51 
+
+19:51 just it's just difficult and the problem
+19:54 
+
+19:54 is the longer you do this the better
+19:58 
+
+19:58 your network is and the EAS is for me
+20:01 
+
+20:01 for me organizing a meet up is easy
+20:04 
+
+20:04 because I know 10 people with great
+20:05 
+
+20:05 venues and they know me and they just
+20:07 
+
+20:07 invite me I know all the speakers they I
+20:09 
+
+20:09 know everybody's program in Singapore
+20:11 
+
+20:11 probably right and anyone else probably
+20:14 
+
+20:14 is afraid of the workload and I would
+20:16 
+
+20:16 have to admit yeah if you start from
+20:19 
+
+20:19 scratch it's a little bit of work it's
+20:21 
+
+20:21 for me I can say it's easy but it's
+20:23 
+
+20:23 actually not that easy but of course I
+20:26 
+
+20:26 mean every time we ask people to come
+20:28 
+
+20:28 and help us I will still be there in the
+20:30 
+
+20:30 background right and still provide all
+20:32 
+
+20:32 the the networking and information
+20:34 
+
+20:34 correct yeah you your network still goes
+20:36 
+
+20:36 on to the next I have a feeling that's a
+20:38 
+
+20:38 little bit of a problem with Singapore
+20:41 
+
+20:41 being a very expensive and competitive
+20:43 
+
+20:43 place people just don't have time to
+20:47 
+
+20:47 do other stuff outside of work exactly
+20:50 
+
+20:50 just everybody is already working super
+20:53 
+
+20:53 super hard super long hours especially
+20:56 
+
+20:56 now with this like Tech layoffs
+20:59 
+
+20:59 happening I think each engineer has to
+21:01 
+
+21:01 work extra hard to prove themselves in
+21:04 
+
+21:04 their workplace and you know never know
+21:06 
+
+21:06 what's going to happen yeah and and I
+21:08 
+
+21:08 feel many companies probably don't see
+21:11 
+
+21:11 going to Tech meet meetups as part of
+21:13 
+
+21:13 the work like it should be no problem
+21:16 
+
+21:16 that an employee says at 5:00 p.m. by I
+21:19 
+
+21:19 will go to the Meetup there should be
+21:21 
+
+21:21 nobody raising an eyebrow right because
+21:23 
+
+21:23 that still work and actually that
+21:25 
+
+21:25 employee will hang out then from 7 to
+21:27 
+
+21:27 10: at the meet up that's actually a
+21:30 
+
+21:30 long work day for that person right but
+21:33 
+
+21:33 I I think many young Engineers are
+21:35 
+
+21:35 probably afraid to be the one who who
+21:37 
+
+21:37 exits the office first right and so then
+21:40 
+
+21:40 they they don't have time to come to the
+21:41 
+
+21:41 meet up by 7 by and then we have to push
+21:44 
+
+21:44 the meetups later and later which also
+21:46 
+
+21:46 makes it hard for people with family now
+21:48 
+
+21:48 I can't go and and host a meet up from 8
+21:50 
+
+21:50 to 10: because my daughter has supposed
+21:53 
+
+21:53 to sleep at eight and I have to help my
+21:54 
+
+21:54 wife right
+21:56 
+
+21:56 so and now I understand never had
+21:59 
+
+21:59 children of course before and so and
+22:01 
+
+22:01 most of the crowd probably also didn't
+22:03 
+
+22:03 have children I I assume and now that I
+22:06 
+
+22:06 have I feel like wow we need to create a
+22:08 
+
+22:08 completely different culture in this
+22:09 
+
+22:09 country if we want to keep these
+22:10 
+
+22:10 communities alive yes exactly I mean
+22:13 
+
+22:13 it's not just for the sake of keeping
+22:15 
+
+22:15 the communities alive this is a really
+22:17 
+
+22:17 important part as we said we bring gurus
+22:19 
+
+22:19 together people learn especially how
+22:21 
+
+22:21 with how fast-paced our uh industry is
+22:24 
+
+22:24 you have to keep learning you have to
+22:25 
+
+22:25 keep meeting people um so that you can
+22:28 
+
+22:28 continue ly uh grow your SEC and learn
+22:31 
+
+22:31 from others and you're right in that a
+22:34 
+
+22:34 lot of companies and organizations don't
+22:36 
+
+22:36 yet understand that it's part of work
+22:38 
+
+22:38 yeah yeah I really like the aspect and I
+22:40 
+
+22:40 think I want to start talking about this
+22:41 
+
+22:41 more too that it's not a bonus thing
+22:44 
+
+22:44 when you leave for work and join this
+22:46 
+
+22:46 meet up and that it's part of work like
+22:48 
+
+22:48 I say it's now you're extending your
+22:49 
+
+22:49 hours to 10 p.m. yeah and uh actually I
+22:52 
+
+22:52 get asked this a lot because of like I
+22:54 
+
+22:54 don't know if you guys have had it but
+22:57 
+
+22:57 uh people have asked me if I'm monetized
+22:59 
+
+22:59 for the things that we're doing you know
+23:00 
+
+23:00 organizing the meetups or speaking in
+23:02 
+
+23:02 panels and conferences but the fact is
+23:04 
+
+23:04 that even this podcast even this podcast
+23:07 
+
+23:07 never go to yeah it's because we're so
+23:10 
+
+23:10 perhaps it's a culture of Open Source
+23:11 
+
+23:11 perhaps it's us being a tech industry
+23:13 
+
+23:13 and knowing it's just survival for us to
+23:16 
+
+23:16 have to like share and learn constantly
+23:19 
+
+23:19 that these things come so naturally for
+23:20 
+
+23:20 us we're not even like begging for a
+23:22 
+
+23:22 single sent here we want to connect with
+23:24 
+
+23:24 people and learn so we're here also just
+23:26 
+
+23:26 telling everybody like go to be yes go
+23:29 
+
+23:29 to meetups because these are things that
+23:31 
+
+23:31 are creative without like a single oh
+23:35 
+
+23:35 there are meetups that have monetization
+23:37 
+
+23:37 aspects but mostly it's to keep the
+23:38 
+
+23:38 meetups alive actually more than
+23:40 
+
+23:40 anything else these are free events
+23:42 
+
+23:42 because we understand the value of
+23:43 
+
+23:43 learning in our communities we
+23:45 
+
+23:45 understand the uh value of the open
+23:47 
+
+23:47 source Community culture um and yeah
+23:51 
+
+23:51 please come and companies organizations
+23:53 
+
+23:53 even if you're a non- techie yourself uh
+23:55 
+
+23:55 we hope you understand this aspect that
+23:57 
+
+23:57 is part of our work and it is very hard
+23:60 
+
+23:60 work as you can see from what we're
+24:02 
+
+24:02 saying here uh we have the co-director
+24:04 
+
+24:04 of women devs here and we have like a
+24:07 
+
+24:07 Pioneer in like the uh Singapore Pyon
+24:09 
+
+24:09 User Group Community here as well it's
+24:11 
+
+24:11 very hard to upkeep this these groups
+24:13 
+
+24:13 but we thank you for the work uh that
+24:15 
+
+24:15 you're doing uh and we're really happy
+24:18 
+
+24:18 to still be uh contributing as community
+24:20 
+
+24:20 and I'm sure even though at this point
+24:22 
+
+24:22 you retire as a that as he said you'll
+24:24 
+
+24:24 always be the Emir advisor at the back
+24:27 
+
+24:27 end thank you for watching part one of
+24:29 
+
+24:29 our chat with Martin where we explored
+24:32 
+
+24:32 his take on open source as well as his
+24:33 
+
+24:33 contributions to the Tech Community as
+24:35 
+
+24:35 an executive member of the Python User
+24:37 
+
+24:37 Group in Singapore in the next couple
+24:39 
+
+24:39 parts we'll be picking more of Martin's
+24:41 
+
+24:41 brain specifically on his tips on
+24:44 
+
+24:44 investing both as a techie and in
+24:46 
+
+24:46 general with a focus on bitcoin and in
+24:48 
+
+24:48 another episode we'll be talking more
+24:50 
+
+24:50 about Martin's new experience as a dad
+24:53 
+
+24:53 from the lens of a retired software
+24:55 
+
+24:55 engineer as always this was rack Tech
+24:58 
+
+24:58 where we explore the realities of Live
+24:60 
+
+25:00 And Tech through btes and banter don't
+25:03 
+
+25:03 forget to like subscribe and comment on
+25:05 
+
+25:05 YouTube Spotify Apple podcasts and
+25:08 
+
+25:08 Amazon music follow us on Instagram
+25:10 
+
+25:10 LinkedIn and Tik Tok as well as catch up
+25:12 
+
+25:12 on our blog where we summarize our
+25:14 
+
+25:14 episodes and write about other Tech
+25:16 
+
+25:16 topics we're also embarking on a journey
+25:18 
+
+25:18 to create a website for our Tech show
+25:21 
+
+25:21 and have been documenting the process
+25:22 
+
+25:22 along the way including in-depth
+25:24 
+
+25:24 walkthroughs showcasing the text text we
+25:26 
+
+25:26 use so be sure to check that out as well
+25:28 
+
+25:28 all links will be included in the
+25:30 
+
+25:30 description below so see you in the next
+25:32 
+
+25:32 episode

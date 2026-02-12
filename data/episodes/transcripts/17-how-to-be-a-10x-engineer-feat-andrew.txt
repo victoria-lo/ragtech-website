@@ -1,0 +1,1864 @@
+00:00 hello everyone welcome to re Tech I'm
+00:03 
+
+00:03 Salon a software developer I'm Victoria
+00:06 
+
+00:06 Solutions engineer and today's episode
+00:08 
+
+00:08 is going to be on how to be a 10x
+00:10 
+
+00:10 software engineer and with that our
+00:12 
+
+00:12 guest speaker for today is Andrew a
+00:14 
+
+00:14 senior software engineer Andrew hi
+00:17 
+
+00:17 everyone I'm Andrew I'm a senior
+00:19 
+
+00:19 software engineer at a fintech company
+00:22 
+
+00:22 and uh with that today we would like to
+00:26 
+
+00:26 Dive Right In and you know how AI has
+00:28 
+
+00:28 been such a uh good
+00:31 
+
+00:31 significant part of most software
+00:32 
+
+00:32 developers life already like with
+00:34 
+
+00:34 co-pilot do you think in like the next 5
+00:37 
+
+00:37 to 10 years will there even be like
+00:39 
+
+00:39 software developing jobs I think there
+00:43 
+
+00:43 will still be like 5 to 10 years is
+00:45 
+
+00:45 quite a a short time period right and
+00:48 
+
+00:48 there still need to be developers
+00:50 
+
+00:50 developing those softwares obviously
+00:52 
+
+00:52 it's in a more specific field like AI or
+00:55 
+
+00:55 like LM or like whatever is trending
+00:58 
+
+00:58 right now these tools are not I feel
+00:59 
+
+00:59 like these two are still quite in their
+01:01 
+
+01:01 early infancy stages and I don't think
+01:05 
+
+01:05 we are probably at a stage whereby we
+01:07 
+
+01:07 can fully commit to them completely let
+01:10 
+
+01:10 replacing whatever we Cote right it's
+01:12 
+
+01:12 it's it's not something that at least
+01:14 
+
+01:14 for me personally I I don't think I can
+01:16 
+
+01:16 SK like my 100% and just take take
+01:19 
+
+01:19 whatever that's produced from there and
+01:20 
+
+01:20 just like com it and deploy it there
+01:23 
+
+01:23 still needs to be some like eyeballing
+01:25 
+
+01:25 or even like refactoring it's not
+01:27 
+
+01:27 something that you can just take and r
+01:29 
+
+01:29 fit into specific use cases you still
+01:30 
+
+01:30 have to to take a look at what's your
+01:32 
+
+01:32 use case and the way it's being
+01:34 
+
+01:34 implemented and how does it fit into the
+01:36 
+
+01:36 the design of the system yeah yeah I
+01:39 
+
+01:39 think I definitely agree with that cuz
+01:41 
+
+01:41 uh even though AI is something that's
+01:43 
+
+01:43 continuously improving and Rising there
+01:46 
+
+01:46 still needs to be human intervention
+01:48 
+
+01:48 right like there still needs to be a
+01:50 
+
+01:50 human behind to
+01:51 
+
+01:51 Monitor and all that yeah so definitely
+01:54 
+
+01:54 agree with that uh I was curious about
+01:56 
+
+01:56 salon's take on on this yeah actually
+01:60 
+
+01:60 similar I don't think I do think that
+02:03 
+
+02:03 software Engineers would be lower in
+02:05 
+
+02:05 demand but they'll still be there a year
+02:08 
+
+02:08 ago we had like an influx of software
+02:10 
+
+02:10 engines I don't think we need that
+02:11 
+
+02:11 anymore like we don't need this High
+02:13 
+
+02:13 Supply anymore most of the time I think
+02:15 
+
+02:15 what's going to Happ I how I Envision it
+02:17 
+
+02:17 would be like PMS product managers would
+02:18 
+
+02:18 just be prompting uh the the AI that
+02:22 
+
+02:22 build me a website that can sell this
+02:25 
+
+02:25 product with a shopping cart so it will
+02:27 
+
+02:27 be able to do that but then the problem
+02:29 
+
+02:29 comes in when you want customize a like
+02:31 
+
+02:31 but then I also wanted to do this and
+02:33 
+
+02:33 that then I don't think it'll be it will
+02:36 
+
+02:36 be able to do customizations as such on
+02:39 
+
+02:39 top of existing code and things like
+02:41 
+
+02:41 that so for that you will still need one
+02:44 
+
+02:44 or two software developers on the team
+02:46 
+
+02:46 who will help to no this nuances here
+02:48 
+
+02:48 and there and maintain uh do some custom
+02:52 
+
+02:52 stuff but so but I do and I don't see
+02:55 
+
+02:55 that not as many software developers
+02:58 
+
+02:58 required yeah and to that I can also add
+03:00 
+
+03:00 on is because they will probably
+03:02 
+
+03:02 revolutionize the way software
+03:04 
+
+03:04 engineering is taught it'll probably be
+03:06 
+
+03:06 more solutions focused like
+03:09 
+
+03:09 understanding how to solve problems
+03:11 
+
+03:11 rather than like focusing on you know
+03:13 
+
+03:13 writing the code
+03:14 
+
+03:14 accurately because now we have all these
+03:16 
+
+03:16 AI tools to help us write the code so
+03:19 
+
+03:19 now people have to think beyond that
+03:21 
+
+03:21 beyond the code and focus more on how to
+03:23 
+
+03:23 solve problems how to engineer Solutions
+03:26 
+
+03:26 yeah and I think it will now help for
+03:28 
+
+03:28 software engers to be more
+03:30 
+
+03:30 expressive about their thoughts so that
+03:34 
+
+03:34 you can prompt yeah so like that's why
+03:37 
+
+03:37 prompt engineering is also a new skill
+03:39 
+
+03:39 that everyone is trying to do yeah so
+03:42 
+
+03:42 with that I would like to segue into a
+03:43 
+
+03:43 similar topic let's say I am a fresh
+03:45 
+
+03:45 grad you know just out of computer
+03:47 
+
+03:47 science you know I'm a computer science
+03:48 
+
+03:48 major or I'm like in first year just got
+03:51 
+
+03:51 in what kind of advice do you have for
+03:53 
+
+03:53 these newcomers like in the tech
+03:55 
+
+03:55 industry to prepare to become aspiring
+03:58 
+
+03:58 software Engineers with the of AI I
+04:01 
+
+04:01 think first thing is have an open
+04:04 
+
+04:04 mind and just don't be too quick to
+04:09 
+
+04:09 dismiss the fact that you may may not be
+04:12 
+
+04:12 interested in a or you think that
+04:14 
+
+04:14 it's not relevant or it's a gim or magic
+04:17 
+
+04:17 thing right I think just be openminded
+04:19 
+
+04:19 about it because you never know you
+04:21 
+
+04:21 might be interested in a specific subset
+04:25 
+
+04:25 of it because I mean AI is quite a buzz
+04:27 
+
+04:27 well it's quite a broad term there's so
+04:29 
+
+04:29 many different different components of
+04:31 
+
+04:31 it so just keep an open mind and talk to
+04:34 
+
+04:34 your peers talk to your seniors in
+04:37 
+
+04:37 University or even attend those career
+04:40 
+
+04:40 Affairs whereby they have uh talks or
+04:44 
+
+04:44 even like Fireside panels with like uh
+04:47 
+
+04:47 existing employees of those companies
+04:49 
+
+04:49 then you can get a sense of like what
+04:51 
+
+04:51 are the challenges in those in the
+04:54 
+
+04:54 industry right now because I think more
+04:55 
+
+04:55 often than not like in University it's
+04:58 
+
+04:58 you're pretty much in a like Docker
+05:00 
+
+05:00 containers it's like everything is
+05:02 
+
+05:02 self-contained everything is working out
+05:05 
+
+05:05 perfectly for you because there's a
+05:06 
+
+05:06 curriculum and stuff but like the real
+05:09 
+
+05:09 experience is kind of out there like
+05:11 
+
+05:11 doing your internships and when you
+05:13 
+
+05:13 actually get to work so looking into
+05:15 
+
+05:15 those seeking out those opportunities uh
+05:17 
+
+05:17 is would be good for aspiring software
+05:20 
+
+05:20 engineer and another thing is like not
+05:22 
+
+05:22 related to AI but like try to not keep
+05:27 
+
+05:27 yourself constrained to the curriculum
+05:29 
+
+05:29 and school because that is something
+05:32 
+
+05:32 that uh professors or like uh teaching
+05:37 
+
+05:37 assistants they came out with that
+05:38 
+
+05:38 because that's they felt that that is
+05:40 
+
+05:40 the easiest way for you to pick up that
+05:42 
+
+05:42 specific lecture but actually that you
+05:45 
+
+05:45 can just like feel free to Google right
+05:46 
+
+05:46 I mean like nowadays go is I mean not
+05:49 
+
+05:49 now but it's always free so you can just
+05:51 
+
+05:51 go go there and like and like I me
+05:53 
+
+05:53 there's nothing wrong with like going to
+05:55 
+
+05:55 I think there there like a stigma of
+05:56 
+
+05:56 like people thinking that oh you can
+05:59 
+
+05:59 like copy code from stack Overflow but I
+06:02 
+
+06:02 think it's it's okay as long as you have
+06:04 
+
+06:04 learned something from it it's not okay
+06:05 
+
+06:05 if you just copy and paste it and then
+06:08 
+
+06:08 submit your your assignment right yeah
+06:10 
+
+06:10 so I think this keep on discovering as
+06:12 
+
+06:12 you uh progress through your uni because
+06:15 
+
+06:15 I I don't think at least for me I I
+06:18 
+
+06:18 wasn't really sure what what feel I'm
+06:20 
+
+06:20 interested in uh after I graduated and
+06:23 
+
+06:23 in fact think most of my peers actually
+06:25 
+
+06:25 didn't end up being software Engineers
+06:27 
+
+06:27 cuz they realize through the C of your
+06:31 
+
+06:31 study in school they didn't like they
+06:33 
+
+06:33 didn't like coding
+06:34 
+
+06:34 yeah different different fields like
+06:38 
+
+06:38 data science there's uiux there's uh
+06:41 
+
+06:41 being a product
+06:43 
+
+06:43 manager AI you know like there's so many
+06:46 
+
+06:46 different fields so yeah you have to you
+06:48 
+
+06:48 have to be able to understand which one
+06:50 
+
+06:50 are you leaning towards I think the
+06:52 
+
+06:52 important thing is that it's okay to not
+06:55 
+
+06:55 know what you like but it's good to
+06:60 
+
+06:60 continue to know what you don't like for
+07:03 
+
+07:03 me I did a second major in analytics oh
+07:06 
+
+07:06 and I I would say absolutely hated it
+07:09 
+
+07:09 but I knew that it was not my cup of tea
+07:11 
+
+07:11 because it wasn't as like satisfying to
+07:15 
+
+07:15 see cuz everything was like more numbers
+07:18 
+
+07:18 in the background that's very insightful
+07:20 
+
+07:20 because I think a lot of people when
+07:22 
+
+07:22 they just come into University they
+07:24 
+
+07:24 think they know exactly what they want
+07:26 
+
+07:26 and then maybe after a few courses later
+07:30 
+
+07:30 they realize it's not their cup of tea
+07:32 
+
+07:32 and that's okay yeah um but since you
+07:34 
+
+07:34 are a senior software engineer in your
+07:37 
+
+07:37 experience so far what do you think are
+07:39 
+
+07:39 the essential skills that you need in
+07:41 
+
+07:41 order to succeed in a software engineer
+07:42 
+
+07:42 role for me personally the first thing
+07:45 
+
+07:45 is definitely to be
+07:49 
+
+07:49 proactive about the way you do things so
+07:52 
+
+07:52 when I say proactive it's like don't
+07:54 
+
+07:54 just like do like tickets after tickets
+07:57 
+
+07:57 like J tickets after like task after Tas
+07:60 
+
+07:60 like blindly like try to understand like
+08:04 
+
+08:04 why are we doing this uh certain
+08:06 
+
+08:06 features and like how can it be changed
+08:09 
+
+08:09 like why why are we even prioritizing
+08:11 
+
+08:11 this try to kind of
+08:13 
+
+08:13 challenge uh challenge your own like
+08:16 
+
+08:16 thinking and like think how could we
+08:19 
+
+08:19 have done it differently at least for me
+08:23 
+
+08:23 I'm looking at the fintech which is a
+08:25 
+
+08:25 product company priority is always to
+08:27 
+
+08:27 kind of ship out features right and then
+08:30 
+
+08:30 like you you never have the time to
+08:32 
+
+08:32 really think about what is the most
+08:34 
+
+08:34 scalable way and most ideal way to kind
+08:37 
+
+08:37 of cod out feature so you always go with
+08:39 
+
+08:39 like the most hacky and like the easiest
+08:43 
+
+08:43 way the least time that you need to to
+08:45 
+
+08:45 ship a feature second important skill I
+08:47 
+
+08:47 think is that your your communication
+08:51 
+
+08:51 skills have to be
+08:53 
+
+08:53 constantly improved and not just succumb
+08:56 
+
+08:56 to the fact that uh succumb to the
+08:58 
+
+08:58 common generalization that software
+09:00 
+
+09:00 Engineers are like introverts and and
+09:03 
+
+09:03 they can code but then their
+09:04 
+
+09:04 presentation skill skills are lousy and
+09:06 
+
+09:06 like they can't communicate with other
+09:08 
+
+09:08 teams they just receive the requirements
+09:10 
+
+09:10 they code it out and then they never
+09:12 
+
+09:12 interact with any other team but that's
+09:14 
+
+09:14 that's obviously not true right because
+09:17 
+
+09:17 at I mean today's world you have to work
+09:20 
+
+09:20 with other teams be non-technical teams
+09:23 
+
+09:23 like operations like product managers
+09:25 
+
+09:25 there is that cross team collaboration
+09:27 
+
+09:27 and if your communication skills is not
+09:30 
+
+09:30 good then like people won't be a to
+09:33 
+
+09:33 understand what you're where you're
+09:34 
+
+09:34 coming from especially if there's a
+09:37 
+
+09:37 clash of ideas right you need to kind of
+09:39 
+
+09:39 put your idea forth in a in a suing
+09:43 
+
+09:43 manner but that being said um I don't
+09:47 
+
+09:47 think everyone at least for me my
+09:49 
+
+09:49 personally as well I don't think that
+09:50 
+
+09:50 everyone starts off with like speaking
+09:53 
+
+09:53 the best and like communicating best so
+09:55 
+
+09:55 it's it's a constant Improvement that
+09:57 
+
+09:57 you have to kind of evaluate make seek
+10:00 
+
+10:00 out opportunities that uh will allow you
+10:03 
+
+10:03 to kind of improve the way you
+10:05 
+
+10:05 communicate which is one of the reasons
+10:06 
+
+10:06 why I decided to to be in this podcast
+10:09 
+
+10:09 as well because it's something I've
+10:10 
+
+10:10 never done before and like I think it's
+10:12 
+
+10:12 quite different to have like like
+10:14 
+
+10:14 cameras witing at you verus
+10:17 
+
+10:17 like cameras what you talking about no
+10:21 
+
+10:21 one here it's just three of us talking
+10:23 
+
+10:23 but yeah so it's a
+10:25 
+
+10:25 interesting type of communication style
+10:28 
+
+10:28 that you have to adjust to as well so
+10:31 
+
+10:31 and the last thing is be more conscious
+10:33 
+
+10:33 of the things that you like to do at
+10:36 
+
+10:36 work and the things that you don't like
+10:38 
+
+10:38 to because I think everyone has that
+10:41 
+
+10:41 like list especially when you are done
+10:44 
+
+10:44 with a certain task and then you you
+10:46 
+
+10:46 move on to the next task right and then
+10:48 
+
+10:48 like you realize next task is something
+10:50 
+
+10:50 that you kind of dread because you have
+10:52 
+
+10:52 done it before and it's a bit more
+10:54 
+
+10:54 manual like it's not as you don't have
+10:57 
+
+10:57 much learning from it I think you just
+10:59 
+
+10:59 need to be more conscious of it and for
+11:02 
+
+11:02 the stuff that you like to do uh do more
+11:04 
+
+11:04 of it it's
+11:07 
+
+11:07 like less likely that you go down the
+11:10 
+
+11:10 road of burning out eventually cuz imag
+11:12 
+
+11:12 you keep doing things that you don't
+11:13 
+
+11:13 like it's just like you keep eventually
+11:15 
+
+11:15 you dread waking up opening the laptop
+11:18 
+
+11:18 to do those stuff I really like a lot of
+11:19 
+
+11:19 the points that you mentioned especially
+11:21 
+
+11:21 the part when you mentioned um do stuff
+11:23 
+
+11:23 more that you like and try to do less of
+11:26 
+
+11:26 that you don't like so at least for me I
+11:29 
+
+11:29 relate to that because I usually keep
+11:30 
+
+11:30 like an energy portfolio where like one
+11:33 
+
+11:33 is stuff that energizes me one is stuff
+11:35 
+
+11:35 that drains me so I try to do like let's
+11:38 
+
+11:38 say I did one hour of stuff that drains
+11:40 
+
+11:40 me I have to immediately counter that
+11:43 
+
+11:43 with something that I like so it's like
+11:45 
+
+11:45 you can alternate and then you can find
+11:47 
+
+11:47 out what is the golden ratio also for
+11:49 
+
+11:49 the stuff that you like to do and the
+11:51 
+
+11:51 stuff you don't really like to do so
+11:52 
+
+11:52 that way your energy portfolio is like
+11:55 
+
+11:55 balanced then throughout the day you
+11:56 
+
+11:56 don't feel so drained yeah that that's
+11:59 
+
+11:59 just something I personally do at work
+12:03 
+
+12:03 um that's really interesting really
+12:06 
+
+12:06 first time I heard the term energy
+12:09 
+
+12:09 portfol it's called Energy Management I
+12:11 
+
+12:11 actually read a book on that I forgot
+12:14 
+
+12:14 the title but it's no longer about time
+12:16 
+
+12:16 management because you can manage the
+12:18 
+
+12:18 time however you want it's so easy to
+12:20 
+
+12:20 block your calendars but let's say every
+12:22 
+
+12:22 single thing that you block in your
+12:23 
+
+12:23 calendar is all energy draining
+12:26 
+
+12:26 activities what is the point of time
+12:28 
+
+12:28 management you can be as efficient as
+12:29 
+
+12:29 you want but you won't be happy and then
+12:32 
+
+12:32 long term you'll be burnt out so that's
+12:34 
+
+12:34 why these days uh at least for me
+12:37 
+
+12:37 personally I focus more on Energy
+12:38 
+
+12:38 Management rather than time management
+12:40 
+
+12:40 cuz that way you're using your own time
+12:44 
+
+12:44 naturally more effectively and your own
+12:46 
+
+12:46 mental energy and everything yeah yeah
+12:49 
+
+12:49 I'm like getting like be very
+12:50 
+
+12:50 intentional like even from what you are
+12:52 
+
+12:52 suggesting intentional in what what task
+12:55 
+
+12:55 you're doing what uh things you're
+12:57 
+
+12:57 learning and everything yeah I think
+12:59 
+
+12:59 definitely will take time like
+13:00 
+
+13:00 especially if you just coming into new
+13:02 
+
+13:02 company or like if you're fresh gr
+13:04 
+
+13:04 you're still like figuring things out
+13:06 
+
+13:06 but that's okay so just let yourself
+13:07 
+
+13:07 take time to figure it out and then make
+13:10 
+
+13:10 a list I think many people they like to
+13:13 
+
+13:13 keep a lot of things in their head and
+13:14 
+
+13:14 then they don't write it down but by
+13:16 
+
+13:16 writing it down you become more aware in
+13:18 
+
+13:18 a way right like these are the things I
+13:20 
+
+13:20 like these are the things I don't like
+13:22 
+
+13:22 as much and then they will help you keep
+13:24 
+
+13:24 track over your the course of your
+13:26 
+
+13:26 career at least yeah and it could be
+13:28 
+
+13:28 different from it could be writing it or
+13:30 
+
+13:30 present present about things about like
+13:33 
+
+13:33 things you have learned at your company
+13:35 
+
+13:35 or at Community talks and things like
+13:37 
+
+13:37 that yeah definitely yeah I actually
+13:39 
+
+13:39 wanted to uh dive into like actually how
+13:41 
+
+13:41 did you become a software
+13:44 
+
+13:44 developer right where you always it was
+13:46 
+
+13:46 it in your mind that I'm going to be
+13:48 
+
+13:48 your soft yeah def definitely not
+13:51 
+
+13:51 something that I had in mind when I was
+13:54 
+
+13:54 kind of like progressing through
+13:57 
+
+13:57 Singapore's education because I think
+13:60 
+
+13:60 uh Singapore education is
+14:02 
+
+14:02 quite um rigid in the sense that
+14:05 
+
+14:05 everyone starts off with the same kind
+14:07 
+
+14:07 of mindset just get through Primary
+14:09 
+
+14:09 School secondary school and I think the
+14:11 
+
+14:11 first decision point is probably after
+14:13 
+
+14:13 all levels when you have to choose
+14:14 
+
+14:14 between junior college and uh poly right
+14:19 
+
+14:19 and then at a point in time I OB
+14:22 
+
+14:22 obviously didn't know what I wanted to
+14:23 
+
+14:23 do so that kind of eliminates Paulie
+14:26 
+
+14:26 because like I I literally don't know I
+14:29 
+
+14:29 I felt that it was a risk if I just
+14:31 
+
+14:31 randomly chose one m so it's when to JC
+14:34 
+
+14:34 and even when JC is just kind of every
+14:36 
+
+14:36 has the same mindset sketchu two years
+14:38 
+
+14:38 of JC I I feel like doesn't really
+14:40 
+
+14:40 matter which subjects you chose at a
+14:42 
+
+14:42 point in time it's just cuz I mean if
+14:45 
+
+14:45 you ask me I don't remember any of those
+14:47 
+
+14:47 or it's not really relevant to what I'm
+14:49 
+
+14:49 doing um and I think it's only at the
+14:52 
+
+14:52 point of entering University like right
+14:56 
+
+14:56 after my Army I kind of gave serious
+14:59 
+
+14:59 taught to it and I was looking through
+15:02 
+
+15:02 like all the degrees that were offered
+15:04 
+
+15:04 in by the various universities and I
+15:07 
+
+15:07 just thought that Computing or like
+15:09 
+
+15:09 software back then I wouldn't I didn't
+15:12 
+
+15:12 really even grasp the term software
+15:15 
+
+15:15 engineering I just thought that all it's
+15:17 
+
+15:17 Computer Engineering in n and it's like
+15:19 
+
+15:19 information systems and SMU and end up
+15:22 
+
+15:22 choosing Information Systems I think it
+15:24 
+
+15:24 was once I started writing like my first
+15:27 
+
+15:27 B lines of code and it just kind of like
+15:31 
+
+15:31 sparked something in me because I just
+15:35 
+
+15:35 felt that it's something that I can do
+15:39 
+
+15:39 independently can produce like I mean
+15:42 
+
+15:42 back then was just like like printing
+15:43 
+
+15:43 some statements like putting like a
+15:45 
+
+15:45 Christmas tree like in the in the
+15:48 
+
+15:48 command promt right I just I just
+15:50 
+
+15:50 thought it was uh kind of magical going
+15:53 
+
+15:53 to say hello world I'm
+15:55 
+
+15:55 like okay like his first a christmase
+15:58 
+
+15:58 exciting yes is not a Christmas some
+16:01 
+
+16:01 pattern of sort that you obviously
+16:04 
+
+16:04 wouldn't just hard like use like a four
+16:07 
+
+16:07 Loop or like like just print it out I
+16:09 
+
+16:09 just thought exx yeah with the yeah I
+16:13 
+
+16:13 just thought it was like it was like
+16:15 
+
+16:15 really magical to me that that that can
+16:18 
+
+16:18 be done by someone that have like no
+16:22 
+
+16:22 experience I mean prior to joining uh
+16:24 
+
+16:24 University M so I think that kind of
+16:26 
+
+16:26 spouted something of in me and then I
+16:30 
+
+16:30 eventually graduated to be honest I was
+16:32 
+
+16:32 still at a loss of like what industry
+16:35 
+
+16:35 should I join cuz it's like I think
+16:38 
+
+16:38 University can only prepare you like
+16:40 
+
+16:40 school can only prepare you so much to a
+16:42 
+
+16:42 certain extent like you still have to
+16:44 
+
+16:44 make the decision by your service you
+16:45 
+
+16:45 had to be informed so I ended up joining
+16:49 
+
+16:49 a consulting company but yeah long story
+16:53 
+
+16:53 short I think it's through like my first
+16:56 
+
+16:56 job and like internships that I kind of
+16:58 
+
+16:58 like realized I like it I like software
+17:01 
+
+17:01 enging more and more if I would stayed
+17:03 
+
+17:03 there for long I would progress more
+17:06 
+
+17:06 towards being a consultant so it's more
+17:08 
+
+17:08 like people facing which I didn't want
+17:12 
+
+17:12 cuz I knew I still wanted a code that's
+17:14 
+
+17:14 why I decided to join uh Product Company
+17:18 
+
+17:18 which I felt kind of Embraces like
+17:21 
+
+17:21 software engering more yeah that's
+17:24 
+
+17:24 really nice it's like basically you
+17:25 
+
+17:25 found what you like and then you
+17:27 
+
+17:27 immediately know that
+17:30 
+
+17:30 it's not for you you really like coding
+17:33 
+
+17:33 it just have that spark right so just
+17:36 
+
+17:36 knowing that from the beginning I think
+17:37 
+
+17:37 that's very good I I would say maybe not
+17:40 
+
+17:40 a lot of people might Discover it from
+17:42 
+
+17:42 their first job they might think oh it's
+17:43 
+
+17:43 already so stable and I already like
+17:46 
+
+17:46 know in the ins and outs of my first job
+17:48 
+
+17:48 then they'll just stay there uh they get
+17:49 
+
+17:49 comfortable fast sometimes yeah so it's
+17:52 
+
+17:52 good that you can identify that and you
+17:54 
+
+17:54 know focus on what you really love I
+17:56 
+
+17:56 think it's always has been Andrew's
+17:58 
+
+17:58 philosophy is like you know focus on
+18:00 
+
+18:00 what you like to do and then find it
+18:03 
+
+18:03 find it first and then focus on and then
+18:05 
+
+18:05 even within the job like see what you
+18:07 
+
+18:07 like in software development yeah so
+18:09 
+
+18:09 it's just narrowing what you like like
+18:11 
+
+18:11 like you know and that makes a happier
+18:13 
+
+18:13 life is that
+18:15 
+
+18:15 your it could be uh yeah but now I
+18:19 
+
+18:19 mention I think like kind of fun
+18:21 
+
+18:21 funneling down to what you really want
+18:24 
+
+18:24 to do cuz I think I mean don't want to
+18:26 
+
+18:26 sound cliche but like life is only you
+18:29 
+
+18:29 have this amount of years to live in
+18:31 
+
+18:31 your life and
+18:32 
+
+18:32 obviously career is just one part of it
+18:35 
+
+18:35 and I also wanted to ask uh actually
+18:38 
+
+18:38 what are what is a what is your take on
+18:40 
+
+18:40 like mentoring like colleagues at work
+18:43 
+
+18:43 as a senior software engineer do you
+18:45 
+
+18:45 intentionally do that and how do you
+18:49 
+
+18:49 approach uh you know helping someone
+18:51 
+
+18:51 else along uh in your career I want say
+18:54 
+
+18:54 it's intentional it just happens along
+18:56 
+
+18:56 the way as you kind of progress or as
+18:59 
+
+18:59 you get more senior obviously there will
+19:01 
+
+19:01 be new joiners joining your team there
+19:03 
+
+19:03 might be people coming off University
+19:06 
+
+19:06 that really have not much course to zero
+19:09 
+
+19:09 experience in whatever domain they
+19:12 
+
+19:12 you're working on so I think it happens
+19:14 
+
+19:14 naturally because that being said it
+19:18 
+
+19:18 it's kind of like a natural progression
+19:21 
+
+19:21 that I mean if you are more senior then
+19:23 
+
+19:23 kind of make sense that you have
+19:24 
+
+19:24 allocated or you allocate some of your
+19:27 
+
+19:27 time to help people that more Junior
+19:30 
+
+19:30 maybe building rep of your team as well
+19:33 
+
+19:33 so yeah in terms of yeah in terms of
+19:35 
+
+19:35 mentoring I think there's there's
+19:39 
+
+19:39 no there's no right or wrong way of
+19:41 
+
+19:41 doing it you just do however that comes
+19:44 
+
+19:44 to your mind that you think it's
+19:45 
+
+19:45 appropriate I think it it kind of as
+19:48 
+
+19:48 long as it makes sense to you uh I would
+19:50 
+
+19:50 say just just do it
+19:52 
+
+19:52 and I think the important thing is to
+19:54 
+
+19:54 get feedback from the person you're
+19:55 
+
+19:55 mentoring and not just kind of vomit
+19:58 
+
+19:58 everything out on that person so I think
+20:01 
+
+20:01 it still has to be a
+20:02 
+
+20:02 two-way communication between you and
+20:05 
+
+20:05 the person they trying to Mentor the
+20:07 
+
+20:07 thing that I personally struggle with
+20:10 
+
+20:10 sometimes as well just to be completely
+20:11 
+
+20:11 honest is where you draw the line
+20:13 
+
+20:13 between like being too overly helpful
+20:16 
+
+20:16 like when I say that in the extreme case
+20:18 
+
+20:18 would be like basic like spoon feeding
+20:20 
+
+20:20 like the the solution like the direction
+20:23 
+
+20:23 you go to versus letting them discover
+20:27 
+
+20:27 the solution on their own doing some
+20:29 
+
+20:29 self-discovery I think that that line is
+20:31 
+
+20:31 quite hard to draw sometimes because as
+20:33 
+
+20:33 much as possible you like for that
+20:37 
+
+20:37 engineer that Junior engineer to
+20:39 
+
+20:39 complete the task in a timely way
+20:43 
+
+20:43 knowing that if you don't help them to
+20:45 
+
+20:45 like 80% of the way then maybe they
+20:47 
+
+20:47 might overrun the time I think as much
+20:50 
+
+20:50 as possible I would say not to
+20:53 
+
+20:53 completely spon feed them like at least
+20:54 
+
+20:54 give them maybe like 30% or like 40% of
+20:58 
+
+20:58 the the solution to I mean the intended
+21:01 
+
+21:01 solution to kind of think for themselves
+21:04 
+
+21:04 and even even stuff like where do you
+21:06 
+
+21:06 find um certain resources I mean sure
+21:09 
+
+21:09 you can pass with them but there's a lot
+21:11 
+
+21:11 of things that you can actually
+21:12 
+
+21:12 self-discover by yourself and through
+21:13 
+
+21:13 that self-discovery you kind
+21:15 
+
+21:15 of kind of think to yourself like what
+21:19 
+
+21:19 are all these uh concept and maybe you
+21:22 
+
+21:22 can Google yourself I think that's
+21:23 
+
+21:23 that's also a good form of like
+21:25 
+
+21:25 self-discovery and self- learning and it
+21:27 
+
+21:27 kind of benefits them better versus like
+21:30 
+
+21:30 you teaching them but that being said I
+21:33 
+
+21:33 think everyone has their own learning
+21:35 
+
+21:35 style some like to be Mentor in that way
+21:39 
+
+21:39 or sound like just like to be pointed in
+21:41 
+
+21:41 the right direction and then schol stop
+21:42 
+
+21:42 and then I'll just check back with you
+21:44 
+
+21:44 like maybe two weeks later I actually
+21:46 
+
+21:46 really like uh the way you think about
+21:48 
+
+21:48 mentorship is and that you're aware that
+21:51 
+
+21:51 people have different ways of taking in
+21:54 
+
+21:54 information learning so you're aware of
+21:56 
+
+21:56 it so you try to cater to that and also
+21:59 
+
+21:59 that you appreciate that teaching is the
+22:02 
+
+22:02 best way to learn so imparting knowledge
+22:05 
+
+22:05 yeah I always say that imparting
+22:07 
+
+22:07 knowledge will also make you learn and
+22:09 
+
+22:09 also help the other person out uh uh
+22:13 
+
+22:13 just want like just curious in your
+22:15 
+
+22:15 journey did you have a me a mentor or
+22:18 
+
+22:18 like a role model or someone that you
+22:20 
+
+22:20 were looking up to or someone that was
+22:22 
+
+22:22 actually mentoring you even I definitely
+22:26 
+
+22:26 had one but I think was more at my my
+22:28 
+
+22:28 first job he was someone that I looked
+22:31 
+
+22:31 up to
+22:33 
+
+22:33 because of the perception that IE of him
+22:38 
+
+22:38 like he would always be able to lead
+22:40 
+
+22:40 certain projects in a really smart way
+22:43 
+
+22:43 and like a really efficient way level
+22:45 
+
+22:45 headedness is something that I felt that
+22:48 
+
+22:48 I aspired to have and also the way he
+22:52 
+
+22:52 was really helpful to other uh like in
+22:55 
+
+22:55 general everyone that was in the project
+22:58 
+
+22:58 so he did really like specifically have
+23:00 
+
+23:00 any form of bias or like specifically
+23:02 
+
+23:02 help specific people and so years later
+23:06 
+
+23:06 do you think you're closer to that goal
+23:08 
+
+23:08 or I think I am closer but not it's hard
+23:13 
+
+23:13 to put a percentage on it still still
+23:15 
+
+23:15 work in progress definitely yeah I've
+23:17 
+
+23:17 actually I've worked with Andrew before
+23:19 
+
+23:19 and I I do see some similarities in your
+23:22 
+
+23:22 role model and yourself actually like I
+23:25 
+
+23:25 can understand uh what what so you find
+23:28 
+
+23:28 those characterist like familiar
+23:30 
+
+23:30 familiar like I'm like oh that's where
+23:31 
+
+23:31 he's coming from that's that's how he's
+23:33 
+
+23:33 like that and based on salon's feedback
+23:36 
+
+23:36 looks like you're on your way you're on
+23:38 
+
+23:38 your way your be very proud and I guess
+23:42 
+
+23:42 that's that would be a wrap on our
+23:44 
+
+23:44 episode on how to be a 10x engineer we
+23:46 
+
+23:46 learned so many things like uh you know
+23:49 
+
+23:49 being proactive communication is
+23:52 
+
+23:52 required as as an engineer and of course
+23:55 
+
+23:55 you know having like figuring out what
+23:57 
+
+23:57 do you like to be be happier with your
+23:60 
+
+23:60 workplace and in life in general and of
+24:03 
+
+24:03 course having a role model does help
+24:05 
+
+24:05 being mentored having a mentor uh things
+24:08 
+
+24:08 like that just being aware and aware of
+24:11 
+
+24:11 like learning styles and things like
+24:12 
+
+24:12 that also I like to point out like you
+24:14 
+
+24:14 know how in most social media being 10x
+24:17 
+
+24:17 engineer is always about like the heart
+24:19 
+
+24:19 skills like practice those problems or
+24:21 
+
+24:21 like being good at those keyboard
+24:22 
+
+24:22 shortcuts I really like how throughout
+24:25 
+
+24:25 this whole episode when he was sharing
+24:27 
+
+24:27 his experience and advice we he focused
+24:30 
+
+24:30 a lot on the soft skills right and I
+24:32 
+
+24:32 think that is worth way more than just
+24:34 
+
+24:34 practicing hard skills we're not saying
+24:36 
+
+24:36 like hard skills is nothing but even if
+24:38 
+
+24:38 you had those hard skills down you still
+24:41 
+
+24:41 cannot forget all these things that
+24:42 
+
+24:42 Andrew mentioned so I think
+24:44 
+
+24:44 fundamentally being a 10x engineer is
+24:47 
+
+24:47 also about excelling at communication
+24:50 
+
+24:50 you know understanding people and just
+24:53 
+
+24:53 being curious about yourself and about
+24:55 
+
+24:55 others in general So yeah thank you so
+24:58 
+
+24:58 much Andrew I think it was a very
+24:59 
+
+24:59 insightful episode and we thank you for
+25:02 
+
+25:02 your time to come thank you so much yeah
+25:06 
+
+25:06 so with that please follow us subbe
+25:08 
+
+25:08 subscribe to us on all of our social
+25:11 
+
+25:11 channels and turn on the notifications
+25:14 
+
+25:14 yes yes so with that it has been rack
+25:17 
+
+25:17 tag thank you so much for watching see
+25:18 
+
+25:18 you next episode bye-bye bye

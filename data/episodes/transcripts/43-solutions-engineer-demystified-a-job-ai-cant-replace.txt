@@ -1,0 +1,1903 @@
+00:00 I can honestly say that my job is very
+00:03 
+
+00:03 difficult for AI to do like my
+00:05 
+
+00:05 day-to-day job. How do you function in
+00:06 
+
+00:06 that ecosystem? Take our team maybe
+00:09 
+
+00:09 through a product manager or just
+00:12 
+
+00:12 directly with us. They might lie us with
+00:13 
+
+00:13 us to come up with a solution. How can
+00:16 
+
+00:16 we design the solution better? [music]
+00:24 
+
+00:24 Hello everybody. Welcome to Rectag. This
+00:26 
+
+00:26 is the place where real life people talk
+00:27 
+
+00:27 about real life in tech. Today we're
+00:29 
+
+00:29 going to be doing uh another episode
+00:31 
+
+00:31 from our series AI isn't taking our job.
+00:33 
+
+00:33 Insert role here. And today's role is
+00:35 
+
+00:35 going to be solutions engineer. Before
+00:37 
+
+00:37 that, let's introduce ourselves. My name
+00:39 
+
+00:39 is Natasha. I'm your co-host. I'm also a
+00:41 
+
+00:41 software engineer. I'm Salon, software
+00:43 
+
+00:43 developer. And I'm Victoria, solutions
+00:45 
+
+00:45 engineer. And Victoria is also our guest
+00:48 
+
+00:48 for today. Um so yeah, I guess it's kind
+00:51 
+
+00:51 of awkward introducing her because we
+00:53 
+
+00:53 like we know her so well, but uh well,
+00:55 
+
+00:55 Victoria is a solutions engineer. uh and
+00:58 
+
+00:58 she's uh done that for various across
+01:00 
+
+01:00 industries and across different types of
+01:02 
+
+01:02 companies as well from large companies
+01:04 
+
+01:04 and uh now currently in a form of
+01:06 
+
+01:06 startup as well. Um so we will have here
+01:09 
+
+01:09 her here today to tell us more about
+01:11 
+
+01:11 what solutions engineering is. So a lot
+01:13 
+
+01:13 of people have asked me this question
+01:15 
+
+01:15 because solutions engineer is not a
+01:17 
+
+01:17 title you often come across especially
+01:19 
+
+01:19 if you're like a super technical person.
+01:21 
+
+01:21 Brief description of solutions engineers
+01:23 
+
+01:23 we're a client-f facing software
+01:25 
+
+01:25 engineer. That's the best way I can say
+01:27 
+
+01:27 it like in a very TLDDR kind of way. In
+01:29 
+
+01:29 a more deeper kind of way, solutions
+01:31 
+
+01:31 engineers are pretty much engineers who
+01:33 
+
+01:33 wear different hats. So, communicating
+01:36 
+
+01:36 and bridging that communication among
+01:38 
+
+01:38 various teams like product, external
+01:40 
+
+01:40 facing stakeholders, internal
+01:42 
+
+01:42 stakeholders as well. So, we essentially
+01:45 
+
+01:45 help with building the tools,
+01:47 
+
+01:47 frameworks, anything that is needed in
+01:50 
+
+01:50 order to fulfill like a solving a
+01:52 
+
+01:52 problem. So we are both builders,
+01:55 
+
+01:55 communicators as well as project
+01:57 
+
+01:57 managers. So you mentioned that you work
+01:59 
+
+01:59 kind of like across a lot of teams. So
+02:01 
+
+02:01 we have a stack of like uh role cards
+02:04 
+
+02:04 here. Can take a look at the roles here
+02:06 
+
+02:06 and just kind of briefly tell us how do
+02:08 
+
+02:08 you work with these roles or if there
+02:09 
+
+02:09 are roles not in this stack as well like
+02:12 
+
+02:12 how how do you function in that
+02:13 
+
+02:13 ecosystem?
+02:14 
+
+02:14 >> Okay. Um so let's say this is me
+02:17 
+
+02:17 solutions engineer and then there's the
+02:19 
+
+02:19 product team. So there's the software
+02:21 
+
+02:21 engineer, a typical like someone in the
+02:23 
+
+02:23 product team. So let's say there is the
+02:26 
+
+02:26 dashboard analytics tool, you know,
+02:28 
+
+02:28 there is a lot of um user feedback
+02:31 
+
+02:31 around it. Maybe things have to be
+02:33 
+
+02:33 improved, things are like not working as
+02:36 
+
+02:36 uh intended. They might uh instead
+02:39 
+
+02:39 because they have other projects that
+02:40 
+
+02:40 they have to focus on, right? They
+02:42 
+
+02:42 might, you know, contact our team maybe
+02:45 
+
+02:45 through a product manager or just
+02:47 
+
+02:47 directly with us. they might li us with
+02:49 
+
+02:49 us to come up with a solution. How can
+02:52 
+
+02:52 we design the solution better in order
+02:54 
+
+02:54 to either automate things, workflows,
+02:57 
+
+02:57 dev ops, things that they need in order
+02:59 
+
+02:59 to get their daily work working. So this
+03:02 
+
+03:02 would be internal facing cuz you know
+03:04 
+
+03:04 this software engineer and then the
+03:06 
+
+03:06 external facing one is the one that I
+03:08 
+
+03:08 often do the most. Pretend this is
+03:10 
+
+03:10 client is and then pretend this is
+03:12 
+
+03:12 sales. Pretend this is I will add those
+03:14 
+
+03:14 rows. Yeah. So when with the client this
+03:16 
+
+03:16 is what we do. um we will have products
+03:19 
+
+03:19 that we sell to the clients for
+03:21 
+
+03:21 integration purposes. So I'm in
+03:23 
+
+03:23 payments. So usually our clients are you
+03:26 
+
+03:26 know big to small businesses who wants
+03:28 
+
+03:28 to integrate a payment solution and
+03:30 
+
+03:30 there's many different types of payment
+03:32 
+
+03:32 solution. Probably on the consumer side
+03:34 
+
+03:34 you only know like things like payments
+03:35 
+
+03:35 app like that but actually there's a lot
+03:38 
+
+03:38 of like most of you probably know cuz
+03:40 
+
+03:40 you're in payments as well. There's a
+03:41 
+
+03:41 lot other products that we talk about.
+03:42 
+
+03:42 So this is when we do requirements
+03:44 
+
+03:44 gathering. So I will go talk to the
+03:46 
+
+03:46 client and this is all in a technical
+03:48 
+
+03:48 sense because I'm the solutions
+03:49 
+
+03:49 engineer. The sales will focus on the
+03:51 
+
+03:51 pricing and negotiating the price. I
+03:53 
+
+03:53 will focus on technical capabilities. So
+03:56 
+
+03:56 how many people are in their team? What
+03:57 
+
+03:57 is their current architecture? What
+03:59 
+
+03:59 current APIs they're using? uh all the
+04:01 
+
+04:01 databases and all things that would
+04:04 
+
+04:04 require them from me to also communicate
+04:07 
+
+04:07 what our product does because I need to
+04:10 
+
+04:10 tell them whether or not our product is
+04:12 
+
+04:12 a fit for their company and there's been
+04:15 
+
+04:15 a lot of times where like the company
+04:17 
+
+04:17 say I want a custom solution obviously
+04:20 
+
+04:20 right they don't want like oh out of the
+04:22 
+
+04:22 box some do because it's really simple
+04:24 
+
+04:24 and fast but some is like give me a
+04:26 
+
+04:26 custom solution because our tax stack
+04:28 
+
+04:28 doesn't fit yours and there's a lot of
+04:30 
+
+04:30 other complications, compliance, risk
+04:33 
+
+04:33 for things that they want to include
+04:35 
+
+04:35 that is not a 100% match with our
+04:38 
+
+04:38 product. So that's when we have to build
+04:40 
+
+04:40 custom solutions, we will have meetings
+04:42 
+
+04:42 with the external client and our team
+04:44 
+
+04:44 and then we'll also um build that
+04:47 
+
+04:47 solution with them. So first we would
+04:49 
+
+04:49 probably after the requirements of the
+04:51 
+
+04:51 gathering it will be pre-integration. So
+04:53 
+
+04:53 it'll be building demos uh building um
+04:56 
+
+04:56 certain mocks mockups for them to so
+04:58 
+
+04:58 that they understand these are the
+05:01 
+
+05:01 capabilities that we are proposing. We
+05:03 
+
+05:03 do something called a sddd solution
+05:06 
+
+05:06 design document. So the solution design
+05:08 
+
+05:08 document is essentially these are some
+05:10 
+
+05:10 of the options that we have. We also do
+05:11 
+
+05:11 costbenefit analysis to make sure that
+05:13 
+
+05:13 you know it's within their budget. It's
+05:15 
+
+05:15 within their timeline and their
+05:16 
+
+05:16 requirements. That's part of requirement
+05:18 
+
+05:18 gathering. So everything will be in the
+05:19 
+
+05:19 SDDD. we'll send it back to the client
+05:21 
+
+05:21 and they will usually have meetings
+05:23 
+
+05:23 again and again and again. So again this
+05:26 
+
+05:26 is a lot of uh communication but from a
+05:28 
+
+05:28 technical perspective architecture
+05:30 
+
+05:30 system design. Oh, that's interesting
+05:32 
+
+05:32 actually cuz as a software developer, I
+05:34 
+
+05:34 feel like a lot of things that you said
+05:36 
+
+05:36 are also things that I would do as a
+05:38 
+
+05:38 software developer. Solutions engineer
+05:40 
+
+05:40 has to be a lot more skilled in
+05:42 
+
+05:42 communication cuz you have to now
+05:44 
+
+05:44 simplify all these technical jargon that
+05:47 
+
+05:47 that's in your company that you are u
+05:50 
+
+05:50 representing in a way that non- tech
+05:52 
+
+05:52 clients will understand and also still
+05:55 
+
+05:55 able to work with their system. So you
+05:57 
+
+05:57 have to talk to not only the non- tech
+05:59 
+
+05:59 people at this client also there are
+06:01 
+
+06:01 developers at this client to make sure
+06:03 
+
+06:03 okay this works and for you this this is
+06:05 
+
+06:05 how it is in lay momentum which not all
+06:09 
+
+06:09 software developers are skilled enough
+06:11 
+
+06:11 to do exactly and I think for me
+06:14 
+
+06:14 personally it was an advantage for me
+06:16 
+
+06:16 because I came from a nontech background
+06:18 
+
+06:18 so I know exactly what they're confused
+06:20 
+
+06:20 about because I was confused I was back
+06:22 
+
+06:22 then also nontech so I don't understand
+06:25 
+
+06:25 so being able to teach someone from zero
+06:28 
+
+06:28 like I need to teach them what API means
+06:30 
+
+06:30 sometimes what the docs mean some
+06:33 
+
+06:33 sometimes you know and all these little
+06:35 
+
+06:35 things that usually would cause you know
+06:38 
+
+06:38 see if if I'm not the bridge right
+06:40 
+
+06:40 >> it will cause rest to a software
+06:42 
+
+06:42 engineer
+06:42 
+
+06:42 >> oh for sure software so once I lias with
+06:46 
+
+06:46 the client and we already like decided
+06:48 
+
+06:48 on pre-integration things it will be
+06:51 
+
+06:51 integration time so that is when every
+06:53 
+
+06:53 day it's like project management like I
+06:55 
+
+06:55 said every day with follow up with the
+06:57 
+
+06:57 client making sure that their
+06:58 
+
+06:58 integration is running smoothly and this
+07:01 
+
+07:01 is when sometimes our external clients
+07:03 
+
+07:03 would feed back to us right there's a
+07:05 
+
+07:05 problem with the SDK there's a problem
+07:07 
+
+07:07 with the API I don't like the way this
+07:09 
+
+07:09 is done or like I need a more custom
+07:12 
+
+07:12 solution for this to implement this
+07:13 
+
+07:13 software we can li us with the product
+07:15 
+
+07:15 team as well this is when we also lift
+07:18 
+
+07:18 with either through a product manager or
+07:19 
+
+07:19 without
+07:20 
+
+07:20 >> I was just going to ask that cuz your
+07:22 
+
+07:22 role is a little bit like a product
+07:23 
+
+07:23 manager like a technical
+07:25 
+
+07:25 >> if I'm pretty okay like cuz see my my
+07:28 
+
+07:28 company right now is kind of small we
+07:30 
+
+07:30 don't really have a dedicated product
+07:32 
+
+07:32 manager so I'm kind of a pseudo product
+07:34 
+
+07:34 manager then I would be giving the user
+07:36 
+
+07:36 feedback to the software engineer and
+07:38 
+
+07:38 say hey there's like an issue here or
+07:41 
+
+07:41 there's a bug or they want it as graphql
+07:45 
+
+07:45 engineers that no but I'm nicer to tech
+07:48 
+
+07:48 people and also I'll update the sales
+07:49 
+
+07:49 like hey how's the project I want my
+07:51 
+
+07:51 money and I'm like okay yes it's
+07:54 
+
+07:54 >> yeah I'm going to hit my KPI Nice. Yeah.
+07:56 
+
+07:56 And I'm saying it's going well. Don't
+07:57 
+
+07:57 worry. So, so I will also lift with
+07:60 
+
+07:60 sales for that. And then there's also
+08:01 
+
+08:01 risk and compliance. If you're in
+08:03 
+
+08:03 payments, right? Pretend this is risk
+08:04 
+
+08:04 and compliance. So, yeah. Again, it's
+08:06 
+
+08:06 like I talk to everyone. Basically, I
+08:08 
+
+08:08 talk to everyone every day. So, that is
+08:10 
+
+08:10 a solutions engineer communication has
+08:14 
+
+08:14 to be really good and you be able to
+08:15 
+
+08:15 talk to sizing, right? So many different
+08:17 
+
+08:17 roles.
+08:17 
+
+08:17 >> Yeah. Exactly. I know, right? So in a
+08:19 
+
+08:19 way it's like switching gears all the
+08:21 
+
+08:21 time from non- tech to tech to risk
+08:24 
+
+08:24 compliance to all across the board
+08:26 
+
+08:26 essentially. So it's a lot of switching
+08:28 
+
+08:28 gears. I would say when I first get into
+08:30 
+
+08:30 this it was quite overwhelming to switch
+08:32 
+
+08:32 so many gears, right? But over time I
+08:35 
+
+08:35 got used to it and I like how diverse
+08:36 
+
+08:36 the role is. So every day is not that
+08:38 
+
+08:38 boring.
+08:39 
+
+08:39 >> Well, you said that you're good at
+08:40 
+
+08:40 communication and you work with everyone
+08:42 
+
+08:42 and you also do live demo. So today we
+08:44 
+
+08:44 will put the live demo skills to test
+08:46 
+
+08:46 test. Okay. a new deck of cards. So the
+08:49 
+
+08:49 first deck of cards is our idea cards.
+08:52 
+
+08:52 This is a set of app ideas. So treat
+08:54 
+
+08:54 them as like client requests, I guess,
+08:56 
+
+08:56 like, hey, come build this new feature,
+08:58 
+
+08:58 this new app for me. So choose one that
+09:00 
+
+09:00 you know something that you're confident
+09:02 
+
+09:02 in, something that sounds familiar or
+09:04 
+
+09:04 something that you find interesting.
+09:06 
+
+09:06 >> Okay. So I remember in the last episode,
+09:08 
+
+09:08 Slowly did payments already. That's why
+09:11 
+
+09:11 I decided, you know what? Let's try a
+09:13 
+
+09:13 new challenge. I'm going to go with Brew
+09:15 
+
+09:15 Buddy. T's favorite app.
+09:17 
+
+09:17 >> No, no, he's just always on it.
+09:20 
+
+09:20 >> It's not. It's not. Don't. What is Brew
+09:22 
+
+09:22 Buddy?
+09:22 
+
+09:22 >> Yes. Okay. Yes. Brew Buddy is
+09:24 
+
+09:24 essentially matching coffee lovers based
+09:27 
+
+09:27 on taste and vibe. Like speed dating for
+09:29 
+
+09:29 your morning brew.
+09:32 
+
+09:32 Okay. Perfect. So, we've got our app.
+09:34 
+
+09:34 So, now you have to approach this. Okay.
+09:37 
+
+09:37 Try not to approach this like a solution
+09:39 
+
+09:39 a software engineer but really try to
+09:41 
+
+09:41 see how you can elucidate your role as a
+09:44 
+
+09:44 solutions engineer um through selecting
+09:47 
+
+09:47 and designing this uh system design. So
+09:50 
+
+09:50 this set of cards contains like elements
+09:53 
+
+09:53 in in a system. So uh yeah take it away.
+09:56 
+
+09:56 >> Sure. So let's say I'm a company that
+09:59 
+
+09:59 wants to integrate products of uh Brew
+10:01 
+
+10:01 Buddy with within other like websites or
+10:04 
+
+10:04 with other small businesses. Let's say
+10:07 
+
+10:07 this business just for the sake of team
+10:08 
+
+10:08 building, team bonding, they want a
+10:10 
+
+10:10 system like this within their company,
+10:12 
+
+10:12 right? So first step is requirements
+10:15 
+
+10:15 gathering, right? So I ask like okay,
+10:17 
+
+10:17 what's the current system that you have
+10:19 
+
+10:19 in place? Is it an app? Is it um
+10:22 
+
+10:22 website? Is it a internal tool
+10:24 
+
+10:24 dashboard? Like what kind of how do you
+10:27 
+
+10:27 want to integrate
+10:29 
+
+10:29 into your company's internal team
+10:31 
+
+10:31 bonding system? everything they have
+10:33 
+
+10:33 like architecture wise so API gateway uh
+10:36 
+
+10:36 database you know
+10:38 
+
+10:38 >> so it's like as if they had this deck of
+10:40 
+
+10:40 cards and they're telling you I have
+10:41 
+
+10:41 this I have this I have this now
+10:43 
+
+10:43 >> yeah and then you know u even servers
+10:46 
+
+10:46 sometimes cuz we want to know like you
+10:48 
+
+10:48 know what they are using you know cloud
+10:50 
+
+10:50 hosting essentially everything like
+10:52 
+
+10:52 dashboard you know let's say employee
+10:56 
+
+10:56 profiles are also important to secure so
+10:58 
+
+10:58 >> oh yeah I want other people to know yeah
+11:01 
+
+11:01 >> important Okay. [laughter] But anyway,
+11:05 
+
+11:05 uh so yeah, I'll just go with this for
+11:07 
+
+11:07 now. Um just to keep it minimal because
+11:09 
+
+11:09 usually the client is also non tech. We
+11:12 
+
+11:12 don't want to overwhelm them. So this is
+11:14 
+
+11:14 some of the things that I will look for
+11:16 
+
+11:16 essentially like their overarch
+11:17 
+
+11:17 architecture just so that I can get an
+11:19 
+
+11:19 idea how we can integrate brewy into
+11:22 
+
+11:22 their system. So after the requirements
+11:24 
+
+11:24 gathering it will be pre-integration. So
+11:26 
+
+11:26 again we'll come up with a solution
+11:28 
+
+11:28 design document. So how we are answering
+11:31 
+
+11:31 questions like how we want to integrate
+11:33 
+
+11:33 basically like in a macro point of view
+11:35 
+
+11:35 and then we'll also dive deep into like
+11:37 
+
+11:37 what is the frequency of you're going to
+11:39 
+
+11:39 use this system like let's say team
+11:40 
+
+11:40 bonding is like across every team versus
+11:43 
+
+11:43 like oh we only want to try this with
+11:45 
+
+11:45 one team first uh a challenge that I
+11:47 
+
+11:47 remember when I was first starting as a
+11:49 
+
+11:49 social engineer like I don't know what
+11:51 
+
+11:51 question to ask cuz sometimes you don't
+11:53 
+
+11:53 know what you don't know and then you're
+11:55 
+
+11:55 like oh I didn't think of that I didn't
+11:57 
+
+11:57 think I should ask like do you want it
+11:59 
+
+11:59 across all teams or you just want to
+12:01 
+
+12:01 beta test one team. I I didn't think
+12:02 
+
+12:02 about it and then sometimes the merchant
+12:04 
+
+12:04 I call them merchant can decline. So so
+12:06 
+
+12:06 sometimes the merchant themselves don't
+12:08 
+
+12:08 also know so only up till like during
+12:10 
+
+12:10 the integration phase late into the
+12:13 
+
+12:13 integration phase they say wait is this
+12:15 
+
+12:15 AI going to be integrated for
+12:17 
+
+12:17 everything? Oh, that becomes a change
+12:19 
+
+12:19 request then you're like
+12:20 
+
+12:20 >> and then that would happen right so this
+12:23 
+
+12:23 is something not covered in system
+12:25 
+
+12:25 design but it's something that that's
+12:27 
+
+12:27 why communication is very important as a
+12:29 
+
+12:29 solicious engineer you have to basically
+12:32 
+
+12:32 flip every stone you know leave no stone
+12:34 
+
+12:34 unturned ask many questions as possible
+12:37 
+
+12:37 sometimes you ask a very stupid
+12:39 
+
+12:39 questions like oh okay um there's no
+12:42 
+
+12:42 such thing as stupid question
+12:44 
+
+12:44 >> uh I was waiting for a stupid for
+12:45 
+
+12:45 example stupid question do we need to
+12:47 
+
+12:47 include names for this uh internal Brew
+12:50 
+
+12:50 Buddy app because we know each other.
+12:52 
+
+12:52 What?
+12:53 
+
+12:53 >> Ah, okay. Yeah. Do you want to identify
+12:55 
+
+12:55 based on employee ID or employee name?
+12:57 
+
+12:57 >> She just translated that stupid question
+12:59 
+
+12:59 to technical.
+12:60 
+
+12:60 >> Yeah. So, so sometimes Okay. So,
+13:02 
+
+13:02 sometimes the other way around.
+13:03 
+
+13:03 Sometimes it's not me that ask stupid
+13:05 
+
+13:05 questions. Merchant might ask stupid
+13:06 
+
+13:06 question and then I quickly identify,
+13:09 
+
+13:09 oh, this is what they mean cuz sometimes
+13:11 
+
+13:11 they don't they're not sure what does it
+13:13 
+
+13:13 mean in terms of technical perspective.
+13:16 
+
+13:16 Like just now when you ask right you
+13:18 
+
+13:18 pretending to be a merchant I'll answer
+13:19 
+
+13:19 it in a technical point of view so I
+13:22 
+
+13:22 translate also come up with like
+13:24 
+
+13:24 analogies sometimes you know so um for
+13:28 
+
+13:28 example one client right uh in terms of
+13:30 
+
+13:30 data they they want the digital
+13:32 
+
+13:32 transformation product that would easily
+13:35 
+
+13:35 clean all their data and then they asked
+13:37 
+
+13:37 me like okay I actually can you explain
+13:39 
+
+13:39 to me because I don't know what's the
+13:41 
+
+13:41 importance of data cleaning cuz they're
+13:43 
+
+13:43 nam right and they they just got into
+13:45 
+
+13:45 this call with no prior context. So I
+13:48 
+
+13:48 told them like imagine you have a house
+13:50 
+
+13:50 right don't your house need daily
+13:52 
+
+13:52 cleaning right your house need daily
+13:55 
+
+13:55 cleaning but if it's too much for you we
+13:58 
+
+13:58 can also do weekly cleaning right but
+14:01 
+
+14:01 more or less your house definitely needs
+14:03 
+
+14:03 cleaning you cannot just wait until
+14:04 
+
+14:04 things get messy then you clean your
+14:05 
+
+14:05 house so that is an analogy I use so uh
+14:09 
+
+14:09 essentially solutions engineer do this I
+14:10 
+
+14:10 really always come up with analogies
+14:13 
+
+14:13 interesting interesting I actually want
+14:15 
+
+14:15 to understand how do you use AI in all
+14:18 
+
+14:18 of this uh like all these things that
+14:21 
+
+14:21 you have just explained in communication
+14:23 
+
+14:23 talking to people using these tools and
+14:26 
+
+14:26 we do have a deck of cards for for you
+14:29 
+
+14:29 to look at where and how do you use AI.
+14:32 
+
+14:32 Ooh, yeah. These are tool cards. So,
+14:34 
+
+14:34 they also include nonI tools, but like
+14:37 
+
+14:37 yeah, you can whatever.
+14:37 
+
+14:37 >> Okay. So, um I think the first one that
+14:40 
+
+14:40 pops out to me is Tableau.
+14:42 
+
+14:42 >> Pablau.
+14:43 
+
+14:43 >> Tableau. Pronounced the same way
+14:44 
+
+14:44 actually, but yeah, Tableau is because
+14:47 
+
+14:47 see after we integrate, right, there's
+14:49 
+
+14:49 the go live period and then there's the
+14:52 
+
+14:52 monitoring phase. So, that's when we
+14:54 
+
+14:54 also have to be troubleshooters
+14:56 
+
+14:56 >> that that's when a lot of monitoring
+14:58 
+
+14:58 happens and we need to look at data,
+14:59 
+
+14:59 right? So, I use this tool a lot. So
+15:02 
+
+15:02 this is where I also create dashboards
+15:04 
+
+15:04 and analytics right so I can see oh
+15:05 
+
+15:05 after go live does the conversion rate
+15:08 
+
+15:08 increase
+15:09 
+
+15:09 >> I need to prove to them that hey our
+15:11 
+
+15:11 product is helping you this is evidence
+15:13 
+
+15:13 you know so this is what I use and they
+15:16 
+
+15:16 have AI features in it
+15:18 
+
+15:18 >> which is like I give them a prompt right
+15:20 
+
+15:20 I say like uh given this huge chunk of
+15:23 
+
+15:23 data right summarize like key insights
+15:26 
+
+15:26 you know and make me a simple graph
+15:29 
+
+15:29 right either or or query give me uh SQL
+15:32 
+
+15:32 query for this you know that I can use
+15:34 
+
+15:34 to easily make graphic dashboards so
+15:37 
+
+15:37 this is something I use and this is
+15:38 
+
+15:38 something that AI has been helpful in
+15:40 
+
+15:40 automating especially when you have a
+15:42 
+
+15:42 portfolio of customers right
+15:44 
+
+15:44 >> you don't want to create custom
+15:45 
+
+15:45 dashboard for each and every takes so
+15:47 
+
+15:47 much time
+15:48 
+
+15:48 >> so AI oh okay I would say co-pilot is
+15:52 
+
+15:52 common so for my company we have
+15:54 
+
+15:54 co-pilot premium uh we use this for
+15:57 
+
+15:57 again coding PR reviews so one of my Job
+16:01 
+
+16:01 scope is okay again we review features
+16:04 
+
+16:04 right cuz we give them user feedback and
+16:06 
+
+16:06 then sometimes they ask us okay can you
+16:08 
+
+16:08 review if this feature is as you
+16:09 
+
+16:09 intended as you requested so then I'll
+16:11 
+
+16:11 review PRs right very good you can
+16:14 
+
+16:14 review PRs oh but that's interesting
+16:16 
+
+16:16 like as a solutions engineer why would
+16:19 
+
+16:19 you review PRs is that other software
+16:21 
+
+16:21 developers job
+16:23 
+
+16:23 >> so in a way because my team is a startup
+16:26 
+
+16:26 so I wear different hat in previous uh
+16:29 
+
+16:29 company I'm only solutions engineer then
+16:32 
+
+16:32 I don't review PR
+16:33 
+
+16:33 >> but cuz I'm a startup so I have I had
+16:36 
+
+16:36 >> but I could imagine uh why this would be
+16:37 
+
+16:37 useful because the solutions engineer
+16:39 
+
+16:39 has the closest access to the direct uh
+16:42 
+
+16:42 uh uh expected behavior like she
+16:44 
+
+16:44 actually knows what the client wants and
+16:46 
+
+16:46 she was the one who wrote the STD
+16:47 
+
+16:47 anyways so in this case her reviewing
+16:50 
+
+16:50 the PR her testing the feature out and
+16:51 
+
+16:51 then seeing does the actual behavior
+16:54 
+
+16:54 match the expected behavior actually
+16:55 
+
+16:55 makes sense I'm a huge advocate of like
+16:57 
+
+16:57 even non-functional people reviewing PRs
+16:59 
+
+16:59 and I actually meet a a functional PM
+17:03 
+
+17:03 try his hand out at running uh the local
+17:07 
+
+17:07 dev environment and then comment on the
+17:09 
+
+17:09 PR itself and I found that very useful I
+17:12 
+
+17:12 can see like why it's even more relevant
+17:14 
+
+17:14 for solutions engineer
+17:15 
+
+17:15 >> I I would think like maybe just staging
+17:17 
+
+17:17 environment or the UAT environment
+17:19 
+
+17:19 testing would be something you would cuz
+17:22 
+
+17:22 you're just looking at whether the
+17:24 
+
+17:24 feature is as I expected and you should
+17:26 
+
+17:26 just looking at the end of it not into
+17:28 
+
+17:28 the details of
+17:30 
+
+17:30 That makes sense too. I I get that.
+17:32 
+
+17:32 Yeah. But um but you can review the code
+17:35 
+
+17:35 then it might not because
+17:36 
+
+17:36 >> you have the knowledge.
+17:38 
+
+17:38 >> It should not be my main daytoday kind
+17:40 
+
+17:40 of job. It's more like my side mission.
+17:42 
+
+17:42 >> Yeah.
+17:42 
+
+17:42 >> I see. And anyway like she then she can
+17:44 
+
+17:44 catch like the changes early not when it
+17:47 
+
+17:47 really went to staging a UAT. Then she's
+17:49 
+
+17:49 like okay yeah not well you probably
+17:51 
+
+17:51 aren't like focusing on the code reviews
+17:53 
+
+17:53 that much. That's why you're using
+17:54 
+
+17:54 co-pilot right? So co-pilot, you do the
+17:57 
+
+17:57 code review, but maybe I'll just come in
+17:59 
+
+17:59 more as like I'm seeing if it matches
+18:02 
+
+18:02 the behavior I asked.
+18:03 
+
+18:03 >> Yeah. So it offloads the code review for
+18:06 
+
+18:06 you in definitely it automates a lot of
+18:08 
+
+18:08 the mundane task for me and it just
+18:11 
+
+18:11 catches things that you know if I'm in a
+18:13 
+
+18:13 rush I might not catch. So
+18:15 
+
+18:15 >> it is very good. It's very good in the
+18:19 
+
+18:19 Yeah, I think that's the main tool for
+18:20 
+
+18:20 now.
+18:21 
+
+18:21 >> That's definitely the main two.
+18:24 
+
+18:24 Asia using reason for your demos like
+18:25 
+
+18:25 since you are going to spin them and
+18:27 
+
+18:27 then yeah so some of my merchants are
+18:29 
+
+18:29 not English speakaking and I have oh
+18:32 
+
+18:32 yeah oh that makes sense oh makes sense
+18:34 
+
+18:34 and I have problem with non-English
+18:37 
+
+18:37 because my English is my best language
+18:39 
+
+18:39 so sometimes demos speak a thousand
+18:42 
+
+18:42 words so I just make demos and if I want
+18:46 
+
+18:46 to spin out a demo quickly I usually
+18:48 
+
+18:48 have a go-to playground that I can just
+18:50 
+
+18:50 you know showcase all the features in
+18:52 
+
+18:52 one playground
+18:52 
+
+18:52 But sometimes the merchant who is
+18:54 
+
+18:54 nontechnical is like I don't understand
+18:57 
+
+18:57 this is not what what our website looks
+18:58 
+
+18:58 like. So I'm like okay I have to make
+19:02 
+
+19:02 them be able to visualize what the
+19:04 
+
+19:04 feature looks like on their website. So
+19:06 
+
+19:06 I just take their website and I say and
+19:08 
+
+19:08 I v code I say duplicate me the website
+19:12 
+
+19:12 and add the feature in.
+19:14 
+
+19:14 >> Yeah.
+19:14 
+
+19:14 >> Yeah. So they see an interactive demo.
+19:17 
+
+19:17 So um previously it was just like static
+19:20 
+
+19:20 mockup. So people would use like you
+19:22 
+
+19:22 know design tools Canva or Photoshop to
+19:24 
+
+19:24 like mix static mockups but then they'll
+19:27 
+
+19:27 be asking things like what is the user
+19:29 
+
+19:29 flow like I want to see end to end like
+19:31 
+
+19:31 what buttons to click and all that and
+19:33 
+
+19:33 pictures can only show so much but if I
+19:36 
+
+19:36 use um demo then I can really show the
+19:39 
+
+19:39 interactivity of it all. So that's why I
+19:41 
+
+19:41 would say VIP code is a really good use
+19:44 
+
+19:44 of AI to quickly spin up these demos,
+19:47 
+
+19:47 right? And it's not like I have to make
+19:48 
+
+19:48 a full stack website of their like a
+19:50 
+
+19:50 duplicate of their website. I don't have
+19:51 
+
+19:51 to make a full
+19:52 
+
+19:52 >> dummy all dummy data to next screen.
+19:55 
+
+19:55 >> Yeah. Think of it like in vision, you
+19:57 
+
+19:57 know, it's like those mockup.
+19:58 
+
+19:58 >> Can I ask like why don't you just use
+20:00 
+
+20:00 like a prototyping tool like
+20:03 
+
+20:03 >> because like I am a cuz I am a bike
+20:06 
+
+20:06 coder.
+20:07 
+
+20:07 >> Oh, it's easier for you, right? This one
+20:08 
+
+20:08 has a learning curve for you since
+20:10 
+
+20:10 you're not Okay. Okay.
+20:11 
+
+20:11 >> You just have to drag and drop things. I
+20:13 
+
+20:13 mean, I don't know if they already have
+20:15 
+
+20:15 involved, but drag and drop.
+20:17 
+
+20:17 >> No, that's true. That's a good question
+20:18 
+
+20:18 though. But but yeah, I I'm really used
+20:20 
+
+20:20 to um I'm a bite code. Yeah, that's
+20:22 
+
+20:22 mostly it.
+20:22 
+
+20:22 >> So So even for your use case, you are
+20:24 
+
+20:24 saying AI is like a teammate, right?
+20:27 
+
+20:27 It's it's your you're using its help to
+20:30 
+
+20:30 get things done faster, get to the end
+20:32 
+
+20:32 result faster, explain things faster.
+20:35 
+
+20:35 >> It's like a productivity tool, I would
+20:37 
+
+20:37 say. So at the end of it, do you feel
+20:39 
+
+20:39 like uh AI is going to take your job or
+20:43 
+
+20:43 is it just an aid? So I can honestly say
+20:47 
+
+20:47 that my job is very difficult for AI to
+20:50 
+
+20:50 do like my day-to-day job is involves so
+20:52 
+
+20:52 many liarsing that one AI unless they
+20:56 
+
+20:56 have like all these amounts of modeling
+20:59 
+
+20:59 knowledge agent.
+21:00 
+
+21:00 >> That's true. If everybody had digital
+21:02 
+
+21:02 twins of themselves and then you just
+21:03 
+
+21:03 like connect the agents to it
+21:06 
+
+21:06 >> and and the and but at the end of the
+21:08 
+
+21:08 day merchants want to talk to real
+21:09 
+
+21:09 people. You you cannot put an AI their
+21:12 
+
+21:12 external facing and say hey
+21:15 
+
+21:15 >> it's me Vickbot tell me your problem.
+21:18 
+
+21:18 >> The client is the agent too.
+21:21 
+
+21:21 >> I think that's like way far in the
+21:23 
+
+21:23 future. Maybe if everybody had an agent.
+21:25 
+
+21:25 >> Yeah. But I think we are currently in
+21:27 
+
+21:27 the era where people trust people more
+21:30 
+
+21:30 and sometimes you know just having my
+21:32 
+
+21:32 reaction like oh you have a long week
+21:35 
+
+21:35 with your kid or basically sometimes
+21:38 
+
+21:38 they like to start out with like
+21:39 
+
+21:39 building rapper.
+21:41 
+
+21:41 >> You cannot build rapper with a bot,
+21:44 
+
+21:44 right? I they will not ask you how's
+21:46 
+
+21:46 your weekend. They might but it's fake.
+21:49 
+
+21:49 It'll be like where they store that
+21:51 
+
+21:51 memory of the weekend too. Not in the
+21:55 
+
+21:55 brain in somewhere else, right? So yeah,
+21:57 
+
+21:57 like people will trust people
+21:59 
+
+21:59 eventually. So um I don't think like my
+22:02 
+
+22:02 day-to-day job will be replaced. I would
+22:05 
+
+22:05 say like the most that is likely is like
+22:07 
+
+22:07 all these other parts. But again, these
+22:09 
+
+22:09 are just tools I access. So I'll be the
+22:11 
+
+22:11 one that use them. So it's not my
+22:14 
+
+22:14 day-to-day job.
+22:15 
+
+22:15 >> Yeah.
+22:16 
+
+22:16 >> Yeah. No, that that really makes sense.
+22:18 
+
+22:18 Emmy all the communications unless we
+22:20 
+
+22:20 were in this future world where
+22:22 
+
+22:22 everybody had a digital twin where
+22:24 
+
+22:24 everybody was represented by an agent
+22:26 
+
+22:26 and we can do like a multi- aent u it
+22:29 
+
+22:29 it's not going to happen probably you
+22:31 
+
+22:31 have merchants who like you said speak
+22:32 
+
+22:32 different languages come from different
+22:34 
+
+22:34 backgrounds mostly non-technical so the
+22:38 
+
+22:38 solutions engineer is really here to
+22:39 
+
+22:39 bridge that gap between tech and non
+22:42 
+
+22:42 tech and uh yeah really appreciate you
+22:44 
+
+22:44 explaining all of that and also like
+22:46 
+
+22:46 laying this all out visually for us So
+22:48 
+
+22:48 we understand. I think this was also
+22:49 
+
+22:49 enlightening for Salon and myself even
+22:51 
+
+22:51 though uh we're in the tech field. Um I
+22:54 
+
+22:54 really enjoyed uh this session. So yeah,
+22:57 
+
+22:57 as always uh this was Reag. Remember to
+22:60 
+
+22:60 follow all our socials as well as give a
+23:02 
+
+23:02 comment, like and turn on notifications
+23:03 
+
+23:03 for our channel so you can get uh more
+23:06 
+
+23:06 uh notifications on our future episode.
+23:10 
+
+23:10 So yes, as always, this was Rack Track.
+23:13 
+
+23:13 Bye.

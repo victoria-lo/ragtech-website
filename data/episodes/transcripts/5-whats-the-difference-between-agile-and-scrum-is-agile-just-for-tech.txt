@@ -1,0 +1,2608 @@
+00:00 hi everyone we are re
+00:03 
+
+00:03 Tech welcome to another episode thanks
+00:05 
+
+00:05 so much for tuning in tuning in so let
+00:09 
+
+00:09 us first introduce ourselves so my name
+00:11 
+
+00:11 is Victoria I'm a Solutions engineer I'm
+00:13 
+
+00:13 Salon uh software developer you forgot
+00:16 
+
+00:16 and Natasha software engineer it's okay
+00:19 
+
+00:19 we'll put captions later and together we
+00:21 
+
+00:21 are and together we are re
+00:23 
+
+00:23 [Applause]
+00:24 
+
+00:24 [Music]
+00:26 
+
+00:26 te so this is the place for bites and
+00:29 
+
+00:29 bentor in today's episode I want to
+00:32 
+
+00:32 basically start the conversation with
+00:34 
+
+00:34 talking about scrum and you know Agile
+00:36 
+
+00:36 development I think these are Buzz words
+00:38 
+
+00:38 that's always been thrown around like in
+00:40 
+
+00:40 Tech in Tech Twitter like you know
+00:42 
+
+00:42 social media everyone maybe probably
+00:45 
+
+00:45 have this idea that scrum is like only
+00:48 
+
+00:48 tech people use it or something so
+00:50 
+
+00:50 today's episode we want to debunk some
+00:52 
+
+00:52 of it and we want to also maybe Define
+00:55 
+
+00:55 it in our own terms what is Scrum what
+00:57 
+
+00:57 is Agile development what what do all
+00:58 
+
+00:58 these words mean so maybe I start with
+01:01 
+
+01:01 Natasha so from your experience you know
+01:05 
+
+01:05 what how do you define scrum yeah so
+01:08 
+
+01:08 actually I want to start off by um
+01:09 
+
+01:09 explaining agile first um because I
+01:12 
+
+01:12 think in general these are buzzword yes
+01:14 
+
+01:14 but um all like if you hear scrum you
+01:18 
+
+01:18 hear Conan there are a lot of other
+01:20 
+
+01:20 methods even scrum bun but these are all
+01:22 
+
+01:22 Frameworks for practicing the mindset of
+01:24 
+
+01:24 agile um how I would describe this uh
+01:27 
+
+01:27 would kind of be like um agile is it's
+01:30 
+
+01:30 not so much of like a defined set of
+01:32 
+
+01:32 practices it's a mindset and a way of
+01:35 
+
+01:35 living I guess it's sort of like um if
+01:38 
+
+01:38 you know the word zen comes to mind we
+01:41 
+
+01:41 all know it's not like a prescribed way
+01:43 
+
+01:43 of like living it's a mindset and a
+01:46 
+
+01:46 lifestyle that you undertake to keep
+01:48 
+
+01:48 your mind at a calm state so that's kind
+01:50 
+
+01:50 of like the equivalent of agile but
+01:52 
+
+01:52 there are many ways of practicing Zen
+01:54 
+
+01:54 you could say I'm going to butcher this
+01:56 
+
+01:56 because I don't know like I don't know
+01:58 
+
+01:58 if the word zen but maybe um some of the
+02:00 
+
+02:00 practices you would do is you meditate
+02:02 
+
+02:02 some of the things that you want to
+02:04 
+
+02:04 teach yourself to do is um minimalism
+02:06 
+
+02:06 minimalism you know these are like
+02:08 
+
+02:08 practices to put yourself in that
+02:10 
+
+02:10 mindset of Zen again completely
+02:13 
+
+02:13 butchering this but that would be how I
+02:15 
+
+02:15 would describe the relation of aile
+02:18 
+
+02:18 versus um the other um buzz words that
+02:20 
+
+02:20 come about like scrum like uh kban so
+02:24 
+
+02:24 just to frame it in that context so now
+02:26 
+
+02:26 going back to like how I will actually
+02:28 
+
+02:28 Define agile so kind of like how how
+02:30 
+
+02:30 would you describe a mindset like Zen
+02:32 
+
+02:32 how would you describe um like the
+02:35 
+
+02:35 process of practicing Zen I think it's
+02:37 
+
+02:37 very like um difficult to just kind of
+02:40 
+
+02:40 be like oh yeah here's one 2 3 4 5 there
+02:43 
+
+02:43 is this thing called the agile Manifesto
+02:45 
+
+02:45 uh that's promulgated that has like
+02:47 
+
+02:47 different values of agile but I think
+02:49 
+
+02:49 one of the most important uh values um
+02:52 
+
+02:52 that you want to adopt uh in agile B uh
+02:55 
+
+02:55 working in a team oh so wait I should
+02:57 
+
+02:57 start out with Mar saying agile is a is
+02:59 
+
+02:59 a mindset said that you adopt when it
+03:01 
+
+03:01 comes to working in a team going back to
+03:03 
+
+03:03 your question is it just for like uh
+03:05 
+
+03:05 software engineering teams or product
+03:07 
+
+03:07 teams no it's not it's about how you um
+03:10 
+
+03:10 adopt a mindset when it comes to working
+03:13 
+
+03:13 in any team it could be a team of two
+03:16 
+
+03:16 people three people even 10 um but as
+03:19 
+
+03:19 much as possible you try to keep it lean
+03:21 
+
+03:21 um but that's kind of what agile is uh
+03:23 
+
+03:23 in terms of the values that um the agile
+03:27 
+
+03:27 uh Manifesto tends to prescribe I think
+03:29 
+
+03:29 the most important is honesty and
+03:31 
+
+03:31 openness um so it really tries to
+03:34 
+
+03:34 encourage that in a team you want to be
+03:37 
+
+03:37 uh honest and open about the process of
+03:39 
+
+03:39 whatever you're working on um I I do you
+03:43 
+
+03:43 correct me if I'm wrong I can't remember
+03:44 
+
+03:44 the manifestor off the top of my head
+03:46 
+
+03:46 but uh these I don't remember you don't
+03:48 
+
+03:48 remember yeah I see nobody like goes
+03:50 
+
+03:50 around you don't go around like
+03:52 
+
+03:52 remembering like these three uh set of
+03:55 
+
+03:55 defined criteria of how to practice it's
+03:57 
+
+03:57 just something that you adopt yeah so so
+04:00 
+
+04:00 um I think I'll just um focus on the
+04:03 
+
+04:03 honesty and openness part of it and then
+04:05 
+
+04:05 these practices um like scrum and kbon
+04:09 
+
+04:09 basically create a set of rituals and
+04:11 
+
+04:11 routines that help you um increase
+04:15 
+
+04:15 honesty and openness in a team which
+04:17 
+
+04:17 otherwise you might not be inclined to
+04:19 
+
+04:19 practice so for example um say uh in
+04:24 
+
+04:24 scrum uh in scrum there are these things
+04:26 
+
+04:26 called rituals I know it's beginning to
+04:28 
+
+04:28 sound a lot like a color I realiz yeah
+04:31 
+
+04:31 okay I realized in tech there are a lot
+04:32 
+
+04:32 of weird like culty sounding things but
+04:34 
+
+04:34 it's okay we will debunk them later um
+04:37 
+
+04:37 but say for uh scrum um a lot of it is
+04:41 
+
+04:41 about putting everything that your team
+04:43 
+
+04:43 is doing on a visual um platform that
+04:46 
+
+04:46 everybody can see um and you you might
+04:50 
+
+04:50 be using something like a what they call
+04:51 
+
+04:51 a cbam board you know which is this
+04:53 
+
+04:53 board with like three or more columns
+04:56 
+
+04:56 it's usually like um backlog in progress
+04:59 
+
+04:59 and too for for example um it could be
+05:02 
+
+05:02 any Board of any sort but what you're
+05:03 
+
+05:03 trying to achieve here is the agile uh
+05:06 
+
+05:06 value of like openness and honesty
+05:09 
+
+05:09 because you see if without a visual
+05:11 
+
+05:11 platform to see what your team is doing
+05:13 
+
+05:13 uh imagine three of us right now I have
+05:16 
+
+05:16 no clue like uh what you've done today
+05:19 
+
+05:19 and what you've done today before we all
+05:20 
+
+05:20 came here but if we were to like
+05:22 
+
+05:22 practice let's all put all our tasks on
+05:25 
+
+05:25 a board and we just try to achieve that
+05:28 
+
+05:28 kind of openness between all all three
+05:30 
+
+05:30 of us where we can see everything that
+05:31 
+
+05:31 we're doing that's uh what agile is like
+05:34 
+
+05:34 that ritual of putting everything on a
+05:36 
+
+05:36 board so um that's one of the artifacts
+05:40 
+
+05:40 like a visual platform to see everything
+05:41 
+
+05:41 that a team is doing uh scrum and Kuman
+05:45 
+
+05:45 also uh prescribe uh rituals like I
+05:47 
+
+05:47 think you've heard stand-ups y um I
+05:49 
+
+05:49 think we've all done a standup you've
+05:51 
+
+05:51 heard of like uh Retros you've heard of
+05:54 
+
+05:54 like Sprint plannings these are all
+05:56 
+
+05:56 individual events and sessions um and
+05:59 
+
+05:59 practice
+06:00 
+
+06:00 uh where you come together to try to um
+06:04 
+
+06:04 use that visual platform and communicate
+06:07 
+
+06:07 uh as much information as you can about
+06:09 
+
+06:09 what exactly um each of these tasks
+06:12 
+
+06:12 represent to you and you try to
+06:13 
+
+06:13 reorganize these tasks if it doesn't um
+06:17 
+
+06:17 if there's conflict so for example
+06:19 
+
+06:19 stand-ups are um everyday practices um
+06:23 
+
+06:23 it can be everyday it could be like once
+06:25 
+
+06:25 dep on the team dependent on the team
+06:27 
+
+06:27 right but the whole practice is that you
+06:29 
+
+06:29 want a
+06:30 
+
+06:30 uh frequent check in where everybody for
+06:33 
+
+06:33 15 minutes um kind of like sounds out
+06:36 
+
+06:36 what they're doing um with the eight of
+06:39 
+
+06:39 usually the visual platform like hey I'm
+06:40 
+
+06:40 doing this Tas and um usually go through
+06:43 
+
+06:43 the process of like this is what I've
+06:45 
+
+06:45 done these are my blockers so that part
+06:47 
+
+06:47 is like very important telling people
+06:49 
+
+06:49 like actually uh I'm blocked by um this
+06:51 
+
+06:51 other task that my member of my team uh
+06:53 
+
+06:53 has done like how do I uh can we talk
+06:56 
+
+06:56 after like this stand up to kind of
+06:57 
+
+06:57 Unblock that so stand up is kind of like
+06:60 
+
+06:60 that I realized like this is going to be
+07:01 
+
+07:01 like a really long conversation so I do
+07:04 
+
+07:04 want to pass the baon on to like Salone
+07:06 
+
+07:06 to explain the other practices like
+07:08 
+
+07:08 Sprint planning and retrospective it's
+07:10 
+
+07:10 going to be a very long like framing
+07:11 
+
+07:11 session because now I realize if I were
+07:13 
+
+07:13 to put it in a Layman's perspective it
+07:16 
+
+07:16 it all would sound kind of odd so yeah
+07:18 
+
+07:18 do uh help me out like uh in terms of
+07:20 
+
+07:20 explaining the other rituals that you
+07:22 
+
+07:22 practice um actually like don't mind I
+07:26 
+
+07:26 might take a turn of events now uh so so
+07:30 
+
+07:30 yes uh agile very nice to explain like
+07:33 
+
+07:33 the it's it's a philosophy and then the
+07:36 
+
+07:36 scrum is a way of practicing that and
+07:39 
+
+07:39 Canan and there are these rituals inside
+07:42 
+
+07:42 it uh like we can talk about all of
+07:45 
+
+07:45 these together like there are a lot of
+07:46 
+
+07:46 things there are different variations of
+07:48 
+
+07:48 each of these things but maybe I can put
+07:50 
+
+07:50 out my perspective out uh so you said
+07:54 
+
+07:54 that agile is about honesty openness uh
+07:58 
+
+07:58 that's one way of looking at it also
+07:60 
+
+07:60 disclaimer we are not experts in any of
+08:02 
+
+08:02 these this is just from our experience
+08:04 
+
+08:04 working in in our
+08:06 
+
+08:06 organizations uh and like how we
+08:08 
+
+08:08 practiced it so that there might be
+08:10 
+
+08:10 other definitions other ways of doing
+08:12 
+
+08:12 things so how I see it is uh I actually
+08:16 
+
+08:16 entered the tech industry at a time
+08:19 
+
+08:19 where the companies I was working for
+08:22 
+
+08:22 were kind of trans transitioning into
+08:25 
+
+08:25 agile or like uh they were halfway there
+08:27 
+
+08:27 or something like that so I still know
+08:30 
+
+08:30 what is the the not agile way of working
+08:34 
+
+08:34 which which was called waterfall model
+08:37 
+
+08:37 so I think if I like bring it from that
+08:38 
+
+08:38 perspective it might bring some more
+08:41 
+
+08:41 insight that's maybe you can tell us
+08:44 
+
+08:44 like waterfall versus
+08:46 
+
+08:46 edel you know so very very simply simply
+08:48 
+
+08:48 put so I uh I I only know about a tech
+08:52 
+
+08:52 way of working so yes this can be
+08:54 
+
+08:54 applied in other Industries as well but
+08:56 
+
+08:56 I will bring the tech sure perspective
+08:59 
+
+08:59 uh so waterfall very simply put in a
+09:01 
+
+09:01 software team uh the waterfall way of
+09:04 
+
+09:04 working was uh first you a team sits
+09:08 
+
+09:08 down they design the UI for example then
+09:12 
+
+09:12 they start building then they start
+09:15 
+
+09:15 testing so it's a a step by step then
+09:19 
+
+09:19 after they start testing it then they
+09:21 
+
+09:21 will push it out release it then there
+09:23 
+
+09:23 will be Buck coming in so then you'll go
+09:26 
+
+09:26 back to the starting you design you
+09:28 
+
+09:28 implemented test it and then you release
+09:31 
+
+09:31 it out so you can imagine this happening
+09:34 
+
+09:34 step by step nothing would be in
+09:36 
+
+09:36 parallel you have to wait for the
+09:38 
+
+09:38 previous step to finish for the next
+09:40 
+
+09:40 step to begin and what then happens is
+09:42 
+
+09:42 it takes a super long time for your
+09:45 
+
+09:45 software to come out right to fix bugs
+09:47 
+
+09:47 for example so then they came up with
+09:50 
+
+09:50 this agile way of working where be a bit
+09:53 
+
+09:53 more flexible uh and the the main thing
+09:56 
+
+09:56 the main difference between the two was
+09:58 
+
+09:58 that uh uh it should
+10:01 
+
+10:01 be so instead of having this way of
+10:04 
+
+10:04 working in a software team it would be
+10:06 
+
+10:06 uh so the reason why you're working in
+10:08 
+
+10:08 this waterall model and in this manner
+10:10 
+
+10:10 is because you have one
+10:12 
+
+10:12 service everyone works on that same
+10:14 
+
+10:14 service so it makes sense that only
+10:16 
+
+10:16 after I implement it I pass it to you
+10:19 
+
+10:19 you test it you can test while I'm
+10:21 
+
+10:21 building it right right but a jel
+10:24 
+
+10:24 brought about a lot of more ways of
+10:26 
+
+10:26 thinking in that have microservices
+10:28 
+
+10:28 multiple teams are working on on
+10:30 
+
+10:30 different things once you have done the
+10:33 
+
+10:33 UI even if you're halfway done give it
+10:36 
+
+10:36 out to the to the beta uh beta con
+10:39 
+
+10:39 customers uh like Photoshop copies or
+10:42 
+
+10:42 like mock uis see if it even works out
+10:47 
+
+10:47 before you start building it and while
+10:50 
+
+10:50 this is happening uh you can take the
+10:52 
+
+10:52 first part start building that while
+10:54 
+
+10:54 they're making the next part of it and
+10:57 
+
+10:57 keep validating keep uh testing while
+10:60 
+
+10:60 it's being done so that's how I see it
+11:03 
+
+11:03 like so that's the agile way of working
+11:06 
+
+11:06 more I don't know how to like say like
+11:09 
+
+11:09 it's not step by step it's more
+11:11 
+
+11:11 incoherent like everything's happening
+11:13 
+
+11:13 getting feedback constant feedback
+11:15 
+
+11:15 constant uh continuous delivery that's
+11:18 
+
+11:18 where those delivery we can definitely
+11:20 
+
+11:20 have a SE separate uh session in terms
+11:22 
+
+11:22 of like C CD continuation so yeah that's
+11:25 
+
+11:25 where all these these thumbs came up
+11:27 
+
+11:27 exactly they all came from like a
+11:29 
+
+11:29 actually thank you for taking a step
+11:31 
+
+11:31 back and I realized it's really hard to
+11:33 
+
+11:33 explain likeo if it's kind of like you
+11:36 
+
+11:36 asking me like um uh how why is your
+11:40 
+
+11:40 personality like that yeah it's it's a
+11:42 
+
+11:42 very complex thing and you can come from
+11:44 
+
+11:44 different angles and it's a very big
+11:46 
+
+11:46 thing as well like for example the
+11:47 
+
+11:47 openers uh honest feedback stuff that is
+11:51 
+
+11:51 also part of a yeah because without it
+11:53 
+
+11:53 you can't that's how that's how you can
+11:56 
+
+11:56 do this continuous delivery that's how
+11:58 
+
+11:58 you can be efficient
+11:60 
+
+11:60 so the whole philosophy is how to be
+12:03 
+
+12:03 efficiently delivering items in a very
+12:07 
+
+12:07 systematic Manner and that's like so so
+12:11 
+
+12:11 we will work in Sprints we would have
+12:13 
+
+12:13 retrospective after every Sprint to see
+12:16 
+
+12:16 where can we improve and how can we get
+12:19 
+
+12:19 how can we work better as a team so
+12:21 
+
+12:21 everything's very team oriented and
+12:23 
+
+12:23 everyone's very focused on you know we
+12:25 
+
+12:25 want the best of the product and I I
+12:28 
+
+12:28 guess that's why the other
+12:30 
+
+12:30 roles come in you know product managers
+12:32 
+
+12:32 designers testers and there's also scrum
+12:36 
+
+12:36 Master oh can we maybe talk about you
+12:40 
+
+12:40 know what the scram Master does it
+12:42 
+
+12:42 sounds really like you know the cult
+12:44 
+
+12:44 Master honestly the word scrum can we
+12:46 
+
+12:46 talk about how ugly this term is who
+12:49 
+
+12:49 created a word scrum I don't think it
+12:50 
+
+12:50 stands for anything scrub scrum like
+12:52 
+
+12:52 scrubbing scrum of the earth I don't
+12:54 
+
+12:54 know okay but there is a legitimate job
+12:57 
+
+12:57 title called the scrum master yeah and a
+13:01 
+
+13:01 like quick fact I actually did I don't
+13:04 
+
+13:04 know if it's the truth now but at some
+13:06 
+
+13:06 point like a couple of years ago scrum
+13:09 
+
+13:09 master was the highest earning role in
+13:12 
+
+13:12 Tech what that's insane even more than a
+13:15 
+
+13:15 software developer even more than a
+13:16 
+
+13:16 product manager it's the highest paid
+13:19 
+
+13:19 then can you expl what a daytoday scrum
+13:22 
+
+13:22 Master job look like the scrum Master's
+13:24 
+
+13:24 job is actually unrelated to like
+13:27 
+
+13:27 anything technical if you think about it
+13:28 
+
+13:28 you could put him in any team and his
+13:30 
+
+13:30 whole job is to uh prescribe this set of
+13:33 
+
+13:33 rituals and make sure that the team like
+13:35 
+
+13:35 follows it he's basically the one that
+13:38 
+
+13:38 um lives and briefs the culture and
+13:40 
+
+13:40 tries to like spread it to people and
+13:42 
+
+13:42 make sure that the context of scrum how
+13:44 
+
+13:44 can it be applied to this specific team
+13:47 
+
+13:47 uh I've seen like uh organizations like
+13:49 
+
+13:49 high there are scrum Masters that
+13:50 
+
+13:50 prescrib to like each team but there are
+13:53 
+
+13:53 also like organizational like uh scrum
+13:56 
+
+13:56 uh Team like Masters within like a uh
+13:59 
+
+13:59 very much floating team that tries to
+14:01 
+
+14:01 make sure that culture is cerent across
+14:03 
+
+14:03 the organization but another like scrum
+14:05 
+
+14:05 Masters basically prescribe like the
+14:08 
+
+14:08 methodology of scrum you also have like
+14:10 
+
+14:10 in uh kban uh agile coaches so same
+14:13 
+
+14:13 thing but for agile coaches then they're
+14:15 
+
+14:15 trying to like spread the culture of
+14:17 
+
+14:17 kban so a lot of these terms but yeah
+14:19 
+
+14:19 it's surprising to me that they I mean a
+14:22 
+
+14:22 few years ago I don't know if it's the
+14:23 
+
+14:23 case now cuz I don't see much scrum
+14:26 
+
+14:26 masters job post coming up I don't know
+14:29 
+
+14:29 I I it's just my what I think so but at
+14:32 
+
+14:32 that point I did know that it is the
+14:34 
+
+14:34 highest paid job and so what does scrum
+14:36 
+
+14:36 Master does is basically because it is a
+14:39 
+
+14:39 way of uh living right so the scrum
+14:42 
+
+14:42 master has to inculcate the the change
+14:46 
+
+14:46 like people will still be stuck like 10
+14:49 
+
+14:49 for example I'm working for 10 years
+14:50 
+
+14:50 doing waterfall model it it's very hard
+14:53 
+
+14:53 to change me and my way of thinking
+14:55 
+
+14:55 right so this person comes in and he
+14:57 
+
+14:57 will try to change the way the whole
+14:59 
+
+14:59 team Works in um like there'll be some
+15:02 
+
+15:02 practices we'll do to to you know first
+15:05 
+
+15:05 step second step up to get into the
+15:08 
+
+15:08 agile way of
+15:10 
+
+15:10 working so like forcing two people to
+15:12 
+
+15:12 sit together and talk about feedback how
+15:15 
+
+15:15 to give feedback things like that and
+15:17 
+
+15:17 like retrospective how does it work and
+15:19 
+
+15:19 like making the team think like having a
+15:22 
+
+15:22 blameless culture also you know like oh
+15:25 
+
+15:25 she was slow that's why we couldn't meet
+15:26 
+
+15:26 the deadline but then they would ask
+15:29 
+
+15:29 questions like but why do you think she
+15:32 
+
+15:32 was doing it that manner so then it's
+15:34 
+
+15:34 like uh I was actually blocked for for 2
+15:37 
+
+15:37 days then why didn't you raise it that's
+15:40 
+
+15:40 when standup comes in then I think we
+15:41 
+
+15:41 need a stand up where everyone every day
+15:44 
+
+15:44 will raise their blockers I love it in a
+15:46 
+
+15:46 safe environment you know like so it's a
+15:49 
+
+15:49 it's a if you think about it and you
+15:50 
+
+15:50 read up all of these stories it's
+15:52 
+
+15:52 actually a very very nice way of working
+15:55 
+
+15:55 together you it's like also cultivating
+15:57 
+
+15:57 empathy among the
+15:60 
+
+15:60 that's very good I like the
+16:01 
+
+16:01 blamelessness and I like how it does
+16:04 
+
+16:04 have that aspect to it but I mean it
+16:06 
+
+16:06 could be just my experience with my team
+16:08 
+
+16:08 that I worked with uh so but at the same
+16:11 
+
+16:11 time it's not something that you can
+16:12 
+
+16:12 just read about it it's something that
+16:14 
+
+16:14 you have to practice and then you
+16:16 
+
+16:16 realize what it is you realize it to a
+16:17 
+
+16:17 point that you don't even use the words
+16:19 
+
+16:19 agile and scrum anymore and come on
+16:20 
+
+16:20 anymore like it will naturally become
+16:22 
+
+16:22 automatic right and that's when the
+16:24 
+
+16:24 scrum Master would leave the team when
+16:25 
+
+16:25 the team is ready to work by itself it's
+16:29 
+
+16:29 it's a dis it has to be a dispensable
+16:31 
+
+16:31 role that's the most important part um
+16:34 
+
+16:34 and actually I I also want to take a
+16:36 
+
+16:36 step back acknowledging that we're both
+16:38 
+
+16:38 like um very deep in this process
+16:40 
+
+16:40 because we practice it but for Victoria
+16:42 
+
+16:42 yourself like you're a Solutions
+16:43 
+
+16:43 engineer and um you don't necessarily
+16:46 
+
+16:46 like practice what's your perspective
+16:48 
+
+16:48 want to put in that thing because I know
+16:51 
+
+16:51 that we mentioned how you know the
+16:52 
+
+16:52 openness the honesty cultivating empathy
+16:55 
+
+16:55 all these points are really good at you
+16:57 
+
+16:57 know we can apply it to any team teams
+16:59 
+
+16:59 regardless whether they're Tech or not
+17:01 
+
+17:01 so my team is very Tech but the nature
+17:03 
+
+17:03 of our job is not
+17:06 
+
+17:06 collaborative actually because we will
+17:09 
+
+17:09 each have our own clients and we each
+17:12 
+
+17:12 have our own problems to solve to create
+17:15 
+
+17:15 solutions for so the only collaboration
+17:18 
+
+17:18 we would do is sharing knowledge to each
+17:20 
+
+17:20 other like I share a lot of
+17:22 
+
+17:22 documentation and solution design and
+17:24 
+
+17:24 you know like T tips and things that I
+17:26 
+
+17:26 learn about the product like newer
+17:27 
+
+17:27 products I tested for my team so all
+17:30 
+
+17:30 these testing and like collaboration is
+17:33 
+
+17:33 the type of collaboration we do but in
+17:36 
+
+17:36 terms of you know getting to a goal or
+17:39 
+
+17:39 objective together our team is just
+17:42 
+
+17:42 working in silos like to be honest
+17:44 
+
+17:44 that's the nature of our job is to have
+17:46 
+
+17:46 our you know deal with our own clients
+17:48 
+
+17:48 dayto day and yeah there's not like an
+17:51 
+
+17:51 objective together that we pursue so
+17:54 
+
+17:54 that's why it want I want to kind of go
+17:56 
+
+17:56 back and ask you guys like we talk about
+17:58 
+
+17:58 like the benefits of agile and scrum
+18:01 
+
+18:01 like this philosophy to like efficiently
+18:03 
+
+18:03 you know continuously have that feedback
+18:06 
+
+18:06 but what do you think might be some of
+18:08 
+
+18:08 the drawbacks of adopting scrum an agile
+18:11 
+
+18:11 mindset that's such a good question yeah
+18:13 
+
+18:13 I actually know one like I was already
+18:15 
+
+18:15 smiling when you said that cuz I thought
+18:17 
+
+18:17 like a few examples in my mind so I mean
+18:20 
+
+18:20 like cuz it's a way of working right not
+18:23 
+
+18:23 everyone would be okay with changing
+18:24 
+
+18:24 firstly not everyone would be okay with
+18:27 
+
+18:27 uh the new way of working cuz uh one
+18:31 
+
+18:31 thing that I always hear is too many
+18:35 
+
+18:35 meetings yeah observe that yeah cuz it
+18:38 
+
+18:38 does happen there will be 30 minute
+18:40 
+
+18:40 standups it might if you're not very
+18:42 
+
+18:42 concise in your standup uh what you're
+18:44 
+
+18:44 saying it might drag on to like 40
+18:46 
+
+18:46 minutes and no one says anything you we
+18:48 
+
+18:48 all TCH people will there be like a team
+18:50 
+
+18:50 lead who can like mitigate that by yeah
+18:52 
+
+18:52 so it it is good to appoint someone like
+18:55 
+
+18:55 it is your duty to stop us like again
+18:60 
+
+18:60 scrum Master yeah so we actually do that
+19:02 
+
+19:02 in our team like we would have one of us
+19:04 
+
+19:04 appointed as the scrum Master of the
+19:06 
+
+19:06 week for example so that person has to
+19:08 
+
+19:08 just keep note of time agenda so that we
+19:10 
+
+19:10 don't go out of context and cuz cuz we
+19:13 
+
+19:13 for example you're meeting for stand up
+19:14 
+
+19:14 in the morning and then in the evening
+19:17 
+
+19:17 uh in the afternoon there's Sprint
+19:18 
+
+19:18 planning for the next 2 weeks and then
+19:21 
+
+19:21 at the end there's retrospective for the
+19:23 
+
+19:23 week before yeah that is like two and a
+19:25 
+
+19:25 half hours of your day wow so
+19:29 
+
+19:29 there can be too many it it can be
+19:31 
+
+19:31 pointless sometimes if you don't if
+19:33 
+
+19:33 you're not mindful of like wait this
+19:35 
+
+19:35 could just be uh email like if you're
+19:37 
+
+19:37 just telling us something without not
+19:39 
+
+19:39 having a discussion it could just be a
+19:41 
+
+19:41 email then do you advise people like
+19:43 
+
+19:43 before the meetings to prepare exactly
+19:45 
+
+19:45 their talking points instead you know
+19:46 
+
+19:46 going so then this confence comes up in
+19:48 
+
+19:48 our retrospective where actually guys
+19:50 
+
+19:50 have too many guys and girls we had too
+19:54 
+
+19:54 many meetings in this uh week so maybe
+19:57 
+
+19:57 we can uh you know
+19:59 
+
+19:59 cut it shorter or like just have written
+20:01 
+
+20:01 standups some days or things like that
+20:04 
+
+20:04 so it's always continuously improving
+20:07 
+
+20:07 continuously delivering so curious part
+20:11 
+
+20:11 yeah I'm curious of Natasha's
+20:12 
+
+20:12 perspective on like what could be the
+20:14 
+
+20:14 drawbacks cuz I think yeah of adopting
+20:17 
+
+20:17 the agile mindset I definely agree with
+20:19 
+
+20:19 like the too much meetings and that's
+20:21 
+
+20:21 why I think the role of a scrum master
+20:23 
+
+20:23 of some some some sort the person that
+20:25 
+
+20:25 upholds that culture is important
+20:27 
+
+20:27 because I think it's important to note
+20:28 
+
+20:28 it it's not a defined set of rules it is
+20:30 
+
+20:30 a mindset that you have to tailor to the
+20:32 
+
+20:32 current context of the team so you
+20:34 
+
+20:34 definitely need somebody to have that
+20:36 
+
+20:36 objective perspective he's not involved
+20:38 
+
+20:38 so much so in the product and trying to
+20:41 
+
+20:41 his goal is not the product his goal is
+20:43 
+
+20:43 trying to get a team to work most
+20:45 
+
+20:45 efficiently to product which is sort of
+20:46 
+
+20:46 like Inception within like itself but
+20:49 
+
+20:49 because he can objectively see like okay
+20:51 
+
+20:51 I see that people are getting disengage
+20:53 
+
+20:53 I see people are not really benefiting
+20:54 
+
+20:54 I'm getting feedback um so he's applying
+20:57 
+
+20:57 this iterative process
+20:60 
+
+20:60 at the same time he's encouraging an
+21:01 
+
+21:01 iterative process in terms of like the
+21:03 
+
+21:03 software development he's also applying
+21:05 
+
+21:05 the same iterative process in terms of
+21:07 
+
+21:07 like the culture that he's trying to
+21:08 
+
+21:08 inculcate so he will be the one who
+21:10 
+
+21:10 takes a step back and like manages I
+21:12 
+
+21:12 think this is why the scr Master at that
+21:13 
+
+21:13 point was the highest paid position
+21:15 
+
+21:15 probably it's actually yeah like um
+21:18 
+
+21:18 there are a lot of like people um who go
+21:22 
+
+21:22 through like the scrum certification and
+21:23 
+
+21:23 stuff like that and they think it's a
+21:25 
+
+21:25 prescribed set of processes these people
+21:27 
+
+21:27 go into team and they don't make any
+21:29 
+
+21:29 changes to the team but the really good
+21:31 
+
+21:31 scrum Masters can really make a break
+21:34 
+
+21:34 like a product and I think that's why at
+21:36 
+
+21:36 that point it was so um like high paying
+21:38 
+
+21:38 but I think at this current point it's
+21:40 
+
+21:40 kind of like saturated a lot of people
+21:42 
+
+21:42 are capitalizing that scrum Master
+21:45 
+
+21:45 certifications Like official
+21:47 
+
+21:47 certifications ceri scrum Master yeah
+21:49 
+
+21:49 you can't understand what it means to be
+21:52 
+
+21:52 agile in a two-day boot camp like I
+21:55 
+
+21:55 honestly I've never taken like a scrum
+21:56 
+
+21:56 certificate but have I gone into teams
+21:58 
+
+21:58 and change cultures I can touch my heart
+21:60 
+
+21:60 and sit that I have um it's I think
+22:03 
+
+22:03 right now uh people are capitalizing on
+22:06 
+
+22:06 the best with the agile and scrum is and
+22:08 
+
+22:08 making these courses and it's diluting
+22:11 
+
+22:11 and saturating that market and people
+22:13 
+
+22:13 are starting to not understand that
+22:14 
+
+22:14 importance anymore and I think this
+22:16 
+
+22:16 needs to change I think I want to also
+22:18 
+
+22:18 like um take this is the drawback of
+22:20 
+
+22:20 scrum actually that I want to talk about
+22:21 
+
+22:21 in AEL that right now people treat it as
+22:24 
+
+22:24 a buzzword they no longer treat it as a
+22:27 
+
+22:27 culture and a way of working in a team
+22:29 
+
+22:29 it's a way to like increase your value
+22:31 
+
+22:31 worth in the
+22:33 
+
+22:33 market um and I think that's the main
+22:35 
+
+22:35 drawback you now you I I cringe when
+22:38 
+
+22:38 people say agile I cringe when people
+22:39 
+
+22:39 say scrum because if you truly truly
+22:41 
+
+22:41 practice it you don't even need to use
+22:42 
+
+22:42 the word and I kind of want to take a
+22:44 
+
+22:44 step back into uh I was actually
+22:46 
+
+22:46 reflecting on um you kind of brought it
+22:48 
+
+22:48 up is it really like something in a tech
+22:50 
+
+22:50 industry or not and actually it's not
+22:52 
+
+22:52 it's a way of working that not only
+22:54 
+
+22:54 applies to teens but actually
+22:57 
+
+22:57 individuals as well um I was reflecting
+22:59 
+
+22:59 on how like I've kind of lived and
+23:01 
+
+23:01 breathed this culture so much even in my
+23:03 
+
+23:03 day-to-day work that I can't actually
+23:05 
+
+23:05 see like myself going back to the
+23:07 
+
+23:07 waterfall method anymore the way that we
+23:09 
+
+23:09 were even in this podcast look at how
+23:11 
+
+23:11 we've kind of like just been like okay
+23:13 
+
+23:13 we have this idea no idea how we're
+23:15 
+
+23:15 going to do it let's just go into it
+23:17 
+
+23:17 maintain the openness and communication
+23:19 
+
+23:19 within us um and Institute feedback work
+23:23 
+
+23:23 yeah have a lot feedback work on it
+23:25 
+
+23:25 that's why we keep getting our viewers
+23:26 
+
+23:26 to like can you comment and feedback
+23:27 
+
+23:27 because we you you truly are agile when
+23:29 
+
+23:29 you truly are looking forward to
+23:33 
+
+23:33 criticism that was a breakthrough for me
+23:35 
+
+23:35 where I realized I was not afraid of
+23:37 
+
+23:37 criticism anymore I was looking for it
+23:39 
+
+23:39 that is how you live and brief like atro
+23:42 
+
+23:42 because you want to like continuously
+23:44 
+
+23:44 improve on like see how this podcast
+23:45 
+
+23:45 Works um so and even uh as a now
+23:49 
+
+23:49 whenever I embark on a process uh I
+23:52 
+
+23:52 always know that it's iterative there is
+23:53 
+
+23:53 no point of perfection you know I don't
+23:55 
+
+23:55 even know what the ideal state is but I
+23:57 
+
+23:57 know what the goal is like for this
+23:58 
+
+23:58 podcast I know our goal is to like um be
+24:01 
+
+24:01 able to deliver high quality Tech
+24:02 
+
+24:02 content in like the least techy way
+24:05 
+
+24:05 possible we didn't know how we were
+24:06 
+
+24:06 going to um do it but I feel we've come
+24:09 
+
+24:09 to like a state where we kind of know
+24:10 
+
+24:10 what it is but we're still in that
+24:12 
+
+24:12 process we're always iterating basically
+24:15 
+
+24:15 where I'm already living and breathing
+24:16 
+
+24:16 Edo know exactly no exactly yeah
+24:19 
+
+24:19 Victoria tell me about your process like
+24:21 
+
+24:21 how did you feel about working in this
+24:23 
+
+24:23 team like for us it might be sort of
+24:24 
+
+24:24 like natural but for for you how did you
+24:27 
+
+24:27 feel a difference so actually I I got
+24:29 
+
+24:29 exposed to it outside my job so just a
+24:32 
+
+24:32 bit through hackathons you know with my
+24:34 
+
+24:34 friends and also I have a sister who's a
+24:37 
+
+24:37 software engineer she'll often just tell
+24:39 
+
+24:39 me all about her standups and all that
+24:41 
+
+24:41 so I I get the gist uh but I never live
+24:44 
+
+24:44 and breathe it
+24:46 
+
+24:46 until so it's really good to learn from
+24:49 
+
+24:49 you guys and learn how to do things I
+24:50 
+
+24:50 think it's really like the most
+24:52 
+
+24:52 efficient way to always constantly get
+24:54 
+
+24:54 feedback and like you mentioned not be
+24:55 
+
+24:55 afraid of criticism I think when someone
+24:58 
+
+24:58 no one Praises too much right like
+25:00 
+
+25:00 nothing but compliments you end up
+25:02 
+
+25:02 feeling that it's no longer like it's
+25:05 
+
+25:05 not as valuable you know you want to
+25:07 
+
+25:07 find
+25:08 
+
+25:08 constructive criticism in between those
+25:10 
+
+25:10 compliments so that you can grow from
+25:13 
+
+25:13 there so like what you mentioned not be
+25:14 
+
+25:14 afraid of that I think that's also the
+25:16 
+
+25:16 mindset that we can all adopt and I'm
+25:18 
+
+25:18 glad we have adopted for this podcast
+25:21 
+
+25:21 and I don't know if there's any time
+25:23 
+
+25:23 left but I have like one very
+25:26 
+
+25:26 interesting random question so since you
+25:27 
+
+25:27 both are
+25:28 
+
+25:28 technically SC Masters without the title
+25:32 
+
+25:32 I can't okay I'll just technically you
+25:35 
+
+25:35 guys have lived and Bre I
+25:39 
+
+25:39 experience that way of living so um do
+25:42 
+
+25:42 you agree that do you think it's for
+25:44 
+
+25:44 everyone for any kind of team because
+25:46 
+
+25:46 like I mentioned in my team it's kind of
+25:48 
+
+25:48 like the nature of our job itself it's
+25:50 
+
+25:50 hard because we don't have like the same
+25:53 
+
+25:53 goal is there a way that we can somehow
+25:55 
+
+25:55 integrate that to even teams who have
+25:57 
+
+25:57 different different objectives but like
+25:60 
+
+25:60 technically they are the same role that
+26:02 
+
+26:02 kind like yeah I'm not sure maybe any of
+26:05 
+
+26:05 you have a comment that if I were to
+26:07 
+
+26:07 bring you guys to my organization right
+26:10 
+
+26:10 now as a SC Master somebody practicing
+26:13 
+
+26:13 as someone who wants to adopt this
+26:15 
+
+26:15 practice uh how would that look
+26:18 
+
+26:18 like uh do you want me to comment on it
+26:21 
+
+26:21 sure like after top of my head I
+26:23 
+
+26:23 actually would say no it's not for
+26:24 
+
+26:24 everyone and this is a hard lesson that
+26:26 
+
+26:26 I've learned um I think we talked about
+26:29 
+
+26:29 this in a previous episode about how
+26:30 
+
+26:30 like I'm I've always been in a state of
+26:32 
+
+26:32 zero to one products like I'm always
+26:34 
+
+26:34 starting things I think ago is
+26:36 
+
+26:36 definitely the way to go to start new
+26:39 
+
+26:39 things um where you're still in the
+26:41 
+
+26:41 process of experimenting and prototyping
+26:43 
+
+26:43 new processes and that's why you need
+26:45 
+
+26:45 that iterative um uh like element of it
+26:48 
+
+26:48 but I I feel like in existing
+26:51 
+
+26:51 organizations and already like very
+26:53 
+
+26:53 large Enterprises and I could be wrong
+26:55 
+
+26:55 because both of you have worked in
+26:56 
+
+26:56 larger organizations but I do see a
+26:59 
+
+26:59 pattern where trying to superimpose like
+27:02 
+
+27:02 agile just doesn't work in that context
+27:05 
+
+27:05 because you're in this context and
+27:07 
+
+27:07 business function where your main goal
+27:09 
+
+27:09 is no longer experimentation you already
+27:11 
+
+27:11 have like a process that's tried and
+27:13 
+
+27:13 tested you have a product that uh is
+27:17 
+
+27:17 high States because people recognize a
+27:19 
+
+27:19 product for that standard and quality
+27:21 
+
+27:21 that it is you have a set of processes
+27:23 
+
+27:23 uh that you know definitely work so try
+27:26 
+
+27:26 trying to impost agile in that context
+27:29 
+
+27:29 um it just creates a lot of friction in
+27:31 
+
+27:31 a team there is a reason why I I do
+27:34 
+
+27:34 think things um have a natural form of
+27:36 
+
+27:36 Divergence and convergence agile is that
+27:38 
+
+27:38 Divergence where you're trying different
+27:40 
+
+27:40 things out trying to experiment with
+27:41 
+
+27:41 what works but when things start working
+27:43 
+
+27:43 you you see things start conversing like
+27:45 
+
+27:45 for example for this podcast we realized
+27:47 
+
+27:47 that um meeting at this certain Cadence
+27:49 
+
+27:49 work we're going to stick to it this is
+27:51 
+
+27:51 no longer something we're going to
+27:52 
+
+27:52 experiment with because we want to
+27:53 
+
+27:53 release bandwith to experiment in other
+27:55 
+
+27:55 areas and and this is the same thing for
+27:58 
+
+27:58 for for um teams that have skill I feel
+28:01 
+
+28:01 they've come to a process where okay and
+28:03 
+
+28:03 we've done the experimentation we know
+28:05 
+
+28:05 this works now we need to switch our
+28:07 
+
+28:07 mindset to start defining cleanly our
+28:10 
+
+28:10 silos and I think that's why you see
+28:12 
+
+28:12 yourself in a silo because um you go
+28:15 
+
+28:15 from a process where everybody's cross
+28:16 
+
+28:16 functional and lean but once you realize
+28:19 
+
+28:19 what you have to do you start like
+28:21 
+
+28:21 having more specialized and defined um
+28:24 
+
+28:24 roles and that naturally leads to uh
+28:26 
+
+28:26 silos like in your case um uh not that I
+28:30 
+
+28:30 know exactly like what you do in your
+28:31 
+
+28:31 work but um your your process have led
+28:35 
+
+28:35 you to U focus on one client at a time
+28:38 
+
+28:38 each of you and the other solution
+28:40 
+
+28:40 Engineers have like a a body of clients
+28:43 
+
+28:43 that you are more specialized in and
+28:46 
+
+28:46 naturally those silos would be created
+28:48 
+
+28:48 but doesn't mean that it's a binary
+28:50 
+
+28:50 either you do Agile you do waterful it
+28:52 
+
+28:52 also doesn't mean that you still have to
+28:54 
+
+28:54 inculcate the culture of honesty of
+28:56 
+
+28:56 transparency but different ways rituals
+28:59 
+
+28:59 and forms um and this will turn out in
+29:02 
+
+29:02 um very different uh ways in big
+29:05 
+
+29:05 Enterprises and across these different
+29:07 
+
+29:07 Industries as well so that's my
+29:08 
+
+29:08 perspective on it I I don't think that
+29:10 
+
+29:10 AO should be superimposed on anyone like
+29:12 
+
+29:12 certain parts of the values yes but it
+29:14 
+
+29:14 depends on like the context but for
+29:17 
+
+29:17 Salone uh I actually think it I mean I I
+29:21 
+
+29:21 feel to say it but I actually think it
+29:23 
+
+29:23 can be applied in any situation of
+29:26 
+
+29:26 course I Haven have not seen all
+29:27 
+
+29:27 situations the but I think it can be
+29:30 
+
+29:30 applied to your situation I see it as if
+29:33 
+
+29:33 as like so I was in one organization
+29:35 
+
+29:35 where we had this thing called large
+29:37 
+
+29:37 scale scrum o so uh it's a thing by
+29:41 
+
+29:41 itself so we had a separate organization
+29:43 
+
+29:43 come in to inculcate that values in us
+29:46 
+
+29:46 we were doing aile as well but uh not
+29:49 
+
+29:49 this large scale scrum so imagine having
+29:52 
+
+29:52 multiple teams so six to seven teams
+29:54 
+
+29:54 they have their own product so together
+29:57 
+
+29:57 as a team we will do large SC we will do
+29:59 
+
+29:59 scrum so we'll come together for Sprint
+30:01 
+
+30:01 planning all seven teams and we will
+30:04 
+
+30:04 cross teams so that we know what each of
+30:06 
+
+30:06 the other team is doing what are they
+30:08 
+
+30:08 working on we'll provide our own
+30:10 
+
+30:10 perspective to the estimations to The
+30:13 
+
+30:13 Grooming and at first there was a lot of
+30:16 
+
+30:16 friction a lot of like why are we
+30:17 
+
+30:17 wasting time learning about this other
+30:19 
+
+30:19 product why are we doing this why are we
+30:21 
+
+30:21 doing that but then we realized we
+30:23 
+
+30:23 started learning from each other like oh
+30:25 
+
+30:25 actually that team is doing doing the
+30:27 
+
+30:27 same thing in a certain way we could
+30:29 
+
+30:29 just reuse their components or something
+30:31 
+
+30:31 then we realize wait a lot of us are
+30:32 
+
+30:32 doing almost the same things in
+30:34 
+
+30:34 different ways we repeating code basic
+30:37 
+
+30:37 repeating Services we started
+30:39 
+
+30:39 collaborating a lot more and also we
+30:42 
+
+30:42 eventually what started happening was we
+30:44 
+
+30:44 had shared knowledge of the products so
+30:48 
+
+30:48 no one person or one team was crucial
+30:52 
+
+30:52 for anything so they the whole team
+30:54 
+
+30:54 could be gone for a
+30:56 
+
+30:56 vacation the product still runs yes
+30:58 
+
+30:58 because of dispensability so then I
+31:01 
+
+31:01 think that applies to your situation
+31:03 
+
+31:03 where you have one person a has Cent a
+31:06 
+
+31:06 person Cent B and many others but if you
+31:09 
+
+31:09 shared all your knowledge your your
+31:11 
+
+31:11 knowledge base your the products you
+31:13 
+
+31:13 have built the demos you have done uh
+31:16 
+
+31:16 maybe you can reuse bits of each other
+31:19 
+
+31:19 you can cover for each other even better
+31:21 
+
+31:21 no one would be so stressed out that
+31:24 
+
+31:24 well I can't go for a leave in the next
+31:26 
+
+31:26 3 months because this is crucial yeah
+31:29 
+
+31:29 your colleague can just take over for
+31:30 
+
+31:30 for you for that time period or they can
+31:32 
+
+31:32 answer questions of the clients because
+31:35 
+
+31:35 I know what's happening I I love that I
+31:37 
+
+31:37 love that I I really do because I think
+31:40 
+
+31:40 that we have done some kind of I guess
+31:43 
+
+31:43 we didn't realize it oursel but some
+31:45 
+
+31:45 kind of scrum CU we do often share our
+31:48 
+
+31:48 product knowledge as well as the demos
+31:50 
+
+31:50 we tested each other demos and also
+31:51 
+
+31:51 tested new products and sharing that
+31:54 
+
+31:54 like things that we find out from you
+31:56 
+
+31:56 know testing so we have we have done a
+31:58 
+
+31:58 lot of those and that's why I do find it
+31:60 
+
+31:60 easy kind of to cover when someone's on
+32:02 
+
+32:02 leave so when any of my team members is
+32:05 
+
+32:05 on leave and they just give me a brief
+32:07 
+
+32:07 overview what this client needs what is
+32:09 
+
+32:09 the solution that we're recommending I
+32:11 
+
+32:11 immediately okay I know what to do like
+32:13 
+
+32:13 if she brought me to the meeting I would
+32:15 
+
+32:15 be like yeah I can I can explain it the
+32:18 
+
+32:18 same way she probably does yeah so I
+32:20 
+
+32:20 think that openness in communication and
+32:23 
+
+32:23 constant iterating is what um is what is
+32:27 
+
+32:27 all I think I just gained an EP I just
+32:30 
+
+32:30 got you have been doing it like I have
+32:32 
+
+32:32 been but it's just it's kind of like
+32:35 
+
+32:35 discreet yeah it's like not as obvious
+32:37 
+
+32:37 as like product teams right who share
+32:39 
+
+32:39 the same objectives it's because my team
+32:41 
+
+32:41 each of us have different incentives and
+32:43 
+
+32:43 that's why it might not be as obvious
+32:46 
+
+32:46 wow I think this is a very enlightening
+32:49 
+
+32:49 episode I don't know about you guys but
+32:50 
+
+32:50 for me it's yeah it's actually a huge
+32:53 
+
+32:53 topic yeah it's actually we can go on
+32:55 
+
+32:55 forever and it's actually like such a
+32:57 
+
+32:57 huge umbrella that there's even like
+32:59 
+
+32:59 branches of it we can like how we
+33:00 
+
+33:00 mention the death Ops cicd right that is
+33:03 
+
+33:03 also part of it future episode yeah I
+33:07 
+
+33:07 would actually like to hear from like
+33:08 
+
+33:08 our audience if you can like comment in
+33:11 
+
+33:11 on our YouTube or like somewhere I would
+33:12 
+
+33:12 like to hear more perspectives like I
+33:14 
+
+33:14 actually didn't didn't talk about a with
+33:16 
+
+33:16 anyone before and like I heard her
+33:18 
+
+33:18 perspective like oh actually I didn't
+33:20 
+
+33:20 realize that a lot of things were
+33:22 
+
+33:22 happening while we're doing this that's
+33:24 
+
+33:24 nice like more yeah in terms of like
+33:27 
+
+33:27 after the viewers like view this episode
+33:29 
+
+33:29 what are the questions that's popping up
+33:31 
+
+33:31 your so we can take this into another
+33:32 
+
+33:32 episode because I realize because we all
+33:34 
+
+33:34 practice it some way somehow it's very
+33:36 
+
+33:36 hard to see from like an outsider's
+33:37 
+
+33:37 perspective so we really want that and
+33:40 
+
+33:40 we want those questions yeah and this is
+33:41 
+
+33:41 also part of gaining that feedback and
+33:43 
+
+33:43 you know developing ourselves so yeah so
+33:46 
+
+33:46 thank you so much uh to everyone for
+33:49 
+
+33:49 this episode please remember to comment
+33:52 
+
+33:52 like subscribe turn on
+33:54 
+
+33:54 notifications and follow us on our
+33:58 
+
+33:58 socials did I say it all yeah so this
+34:01 
+
+34:01 has been rag tag and thank you so much
+34:03 
+
+34:03 for tuning in to this episode So yeah
+34:06 
+
+34:06 thank you bye oh I'm Sur episode Done
