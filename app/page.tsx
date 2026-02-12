@@ -50,7 +50,7 @@ export default function Home() {
             <div className="relative group">
               <div className="relative">
                 <Image
-                  src="/assets/natasha.PNG"
+                  src="/assets/profilePics/natasha.PNG"
                   alt="Natasha"
                   width={200}
                   height={200}
@@ -81,7 +81,7 @@ export default function Home() {
             <div className="relative group">
               <div className="relative">
                 <Image
-                  src="/assets/saloni.PNG"
+                  src="/assets/profilePics/saloni.PNG"
                   alt="Saloni"
                   width={250}
                   height={250}
@@ -112,7 +112,7 @@ export default function Home() {
             <div className="relative group">
               <div className="relative">
                 <Image
-                  src="/assets/victoria.PNG"
+                  src="/assets/profilePics/victoria.PNG"
                   alt="Victoria"
                   width={250}
                   height={250}
