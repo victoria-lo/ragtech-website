@@ -1,0 +1,2131 @@
+00:00 Hello everybody. Welcome to Rack Tech.
+00:02 
+
+00:02 This is the podcast where we talk about
+00:04 
+
+00:04 real life in tech with real techies in
+00:06 
+
+00:06 tech. My name is Natasha. I'm a software
+00:08 
+
+00:08 engineer. Salony software developer. I'm
+00:11 
+
+00:11 Victoria solutions engineer.
+00:13 
+
+00:13 >> And today's episode uh will be all about
+00:16 
+
+00:16 the rising trend of non-technical
+00:18 
+
+00:18 founders founding startups and finding
+00:20 
+
+00:20 it quite difficult to find CTOs for
+00:23 
+
+00:23 their startups. And uh we came across
+00:25 
+
+00:25 this topic because uh we were quite
+00:27 
+
+00:27 recently at a startup pitch night. I
+00:29 
+
+00:29 think that was last week. uh three of us
+00:32 
+
+00:32 went and there were about 10 different
+00:34 
+
+00:34 startups who pitched uh their startup to
+00:37 
+
+00:37 uh a panel of um investors and we
+00:40 
+
+00:40 noticed that first a lot of them were AI
+00:42 
+
+00:42 startups uh and two a lot of the people
+00:45 
+
+00:45 pitching were non-technical and um these
+00:49 
+
+00:49 non-technical founders um when we would
+00:52 
+
+00:52 uh talk to them some of them would reach
+00:54 
+
+00:54 out to us uh not from this specific
+00:56 
+
+00:56 pitch night but we've all been
+00:57 
+
+00:57 individually uh kind of um uh people
+00:60 
+
+01:00 have come to us asking us if we would
+01:02 
+
+01:02 like to be their CTO for their uh
+01:05 
+
+01:05 startups or if we know anyone. So in
+01:08 
+
+01:08 light of this trend uh we wanted to talk
+01:10 
+
+01:10 about this uh landscape and uh firstly
+01:15 
+
+01:15 starting off with um the trend of uh
+01:18 
+
+01:18 startups increasingly becoming AI
+01:20 
+
+01:20 centered maybe we can start with that.
+01:22 
+
+01:22 Uh I think this trend kind of comes
+01:24 
+
+01:24 about because AI has made it so
+01:26 
+
+01:26 accessible for people to um create
+01:28 
+
+01:28 startups. Uh with AI nontechnical
+01:31 
+
+01:31 founders don't need coding knowledge.
+01:32 
+
+01:32 They can use a lot of uh vibe coding
+01:34 
+
+01:34 apps. I've been hearing a lot about
+01:36 
+
+01:36 lovable base 44 um and a lot of other
+01:40 
+
+01:40 tools. Yeah. Yeah. So they're able to
+01:42 
+
+01:42 create those prototypes. I think out of
+01:44 
+
+01:44 the 10 startups there was one that
+01:46 
+
+01:46 already had a prototype going on. Um but
+01:49 
+
+01:49 with those prototypes they uh later on
+01:51 
+
+01:51 realized like wait I still need to uh
+01:54 
+
+01:54 push this out into production uh if I
+01:56 
+
+01:56 want to get investors to notice me
+01:58 
+
+01:58 >> and like scale it further.
+01:59 
+
+01:59 >> Right. Right. Exactly. They came to you
+02:01 
+
+02:01 uh looking for uh advice and contacts
+02:04 
+
+02:04 and connections. What was the background
+02:06 
+
+02:06 of their context?
+02:09 
+
+02:09 So uh this I mean there have been a few
+02:13 
+
+02:13 uh like one example would be someone
+02:15 
+
+02:15 whose CTO left somehow uh other
+02:18 
+
+02:18 opportunities or something. So then uh
+02:21 
+
+02:21 they do have a running app already live
+02:23 
+
+02:23 with a couple users or maybe 10 users
+02:27 
+
+02:27 but now to bring it further you would
+02:29 
+
+02:29 need people to fix bugs implement new
+02:31 
+
+02:31 features. So then how do I do it as a
+02:33 
+
+02:33 non- techy founder? I I need my
+02:35 
+
+02:35 technical counterpart to come in and fix
+02:37 
+
+02:37 these things cuz I ne cuz I mean as a
+02:40 
+
+02:40 non-technical founder I wouldn't know
+02:43 
+
+02:43 what are these error locks coming
+02:44 
+
+02:44 through my email what are these uh uh
+02:47 
+
+02:47 crashes or why is my site down even so
+02:51 
+
+02:51 she was uh looking for a technical
+02:53 
+
+02:53 founder basically or a technical a CTO
+02:56 
+
+02:56 basically to help her manage everything
+02:58 
+
+02:58 tech
+02:59 
+
+02:59 >> right right and uh do you know her first
+03:00 
+
+03:00 iteration was done with uh did she
+03:03 
+
+03:03 mention like a no code platform or
+03:06 
+
+03:06 >> No, but I'm sure it was a proper code
+03:10 
+
+03:10 cuz it's a mobile app.
+03:11 
+
+03:11 >> Mhm.
+03:12 
+
+03:12 >> Uh cuz I don't think mobile apps can't
+03:14 
+
+03:14 be like wipe coded that I don't know.
+03:17 
+
+03:17 >> They can be you know as long as
+03:19 
+
+03:19 >> I think they can be. I've seen I've seen
+03:21 
+
+03:21 >> Yeah. Yeah. But probably less common. I
+03:23 
+
+03:23 think a lot of vibe coded apps are web
+03:25 
+
+03:25 applications. Yeah. She definitely has
+03:27 
+
+03:27 it tough going for her it being a mobile
+03:30 
+
+03:30 ccentric uh application cuz it's harder
+03:32 
+
+03:32 to find
+03:33 
+
+03:33 >> uh developers and much less CTO's um who
+03:37 
+
+03:37 uh are uh fluent in mobile stacks and
+03:41 
+
+03:41 want to be
+03:41 
+
+03:41 >> and and this person also not only have
+03:43 
+
+03:43 to be technically uh knowledgeable but
+03:46 
+
+03:46 also have a product mindset because a
+03:49 
+
+03:49 lot of the features and bug fixes
+03:53 
+
+03:53 there's there's always this product
+03:55 
+
+03:55 thinking that's required to be able to
+03:57 
+
+03:57 fix it correctly also. So not just any
+04:00 
+
+04:00 tech person but a person who's also
+04:03 
+
+04:03 invested in that idea of the app
+04:07 
+
+04:07 >> that person should be the CTO.
+04:09 
+
+04:09 >> Yeah, exactly. I think the difficult
+04:10 
+
+04:10 part of these uh founders I mean it's
+04:13 
+
+04:13 probably easy to find a techie quote
+04:15 
+
+04:15 unquote easy like you just go to find
+04:17 
+
+04:17 somebody who has a background but what
+04:19 
+
+04:19 you need in a CTO is not only they're
+04:23 
+
+04:23 they can't just be junior level in tech
+04:25 
+
+04:25 you know that's one they they need to be
+04:26 
+
+04:26 of a mid to senior level two you're
+04:28 
+
+04:28 mentioning they need product thinking
+04:30 
+
+04:30 which honestly as software engineers
+04:32 
+
+04:32 we're not trained in that that's just
+04:34 
+
+04:34 something that you have to learn on the
+04:36 
+
+04:36 side you have to trial and error you you
+04:38 
+
+04:38 have to be lucky enough to
+04:39 
+
+04:39 done those side projects that allowed
+04:41 
+
+04:41 you to think about like uh what how do I
+04:44 
+
+04:44 find a problem? What are the minimum
+04:46 
+
+04:46 viable features? Um what is uh something
+04:49 
+
+04:49 I need to do to validate the problem.
+04:51 
+
+04:51 These are not things we do as software
+04:53 
+
+04:53 engineers. Software engineers we sit
+04:54 
+
+04:54 there and we wait for features to appear
+04:56 
+
+04:56 in a ticket and then we just wait and
+04:58 
+
+04:58 like okay this is what I have to do.
+04:60 
+
+04:60 Cool code ship not my problem anymore
+05:03 
+
+05:03 >> and then after that tell me what to do
+05:04 
+
+05:04 next and I'll do it.
+05:05 
+
+05:05 >> Exactly. Yeah. So you you need to find
+05:08 
+
+05:08 somebody with product thinking and I
+05:10 
+
+05:10 think the uh last part is somebody who
+05:12 
+
+05:12 has a certain not just product thinking
+05:15 
+
+05:15 but the ability to pitch
+05:17 
+
+05:17 >> cuz at the pitch night what we saw was
+05:20 
+
+05:20 also I mean
+05:22 
+
+05:22 >> to be able to explain tech in a to a
+05:24 
+
+05:24 lame person
+05:26 
+
+05:26 >> that's a skill.
+05:27 
+
+05:27 >> Yeah. like even just explaining why are
+05:29 
+
+05:29 we using uh
+05:33 
+
+05:33 like claude code or why are we using uh
+05:36 
+
+05:36 why aren't we using our own model and
+05:38 
+
+05:38 why are we using another existing model
+05:40 
+
+05:40 >> yeah yeah yeah
+05:41 
+
+05:41 >> why can you explain that to in in a lay
+05:44 
+
+05:44 momentum
+05:44 
+
+05:44 >> correct and and I think the increasing
+05:46 
+
+05:46 challenge is also uh investors are
+05:48 
+
+05:48 getting more tech he savvy like the
+05:50 
+
+05:50 other day we went to this pitch night
+05:52 
+
+05:52 one of the investors on the panel was
+05:54 
+
+05:54 asking very technical questions
+05:56 
+
+05:56 >> so I think this catches a lot of
+05:58 
+
+05:58 nontechnical founders offguard because
+05:60 
+
+05:60 they're like, I've never heard of these
+06:01 
+
+06:01 tech terms before. And I think it's
+06:03 
+
+06:03 because investors are getting wary. They
+06:06 
+
+06:06 know like, okay, like back then when um
+06:08 
+
+06:08 uh the tech boom was still ongoing, a
+06:11 
+
+06:11 lot of founders could uh still uh kind
+06:15 
+
+06:15 of bamboozle investors who didn't know
+06:17 
+
+06:17 better. But now investors have learned
+06:19 
+
+06:19 that um it can't just be a facade,
+06:22 
+
+06:22 right? Your team needs to be technical.
+06:23 
+
+06:23 Your product needs to be technically
+06:25 
+
+06:25 sound. So I think they're getting more
+06:27 
+
+06:27 technical people on board
+06:28 
+
+06:28 >> especially if they market their product
+06:30 
+
+06:30 as a technical solution. Correct. All
+06:33 
+
+06:33 the more the founders should expect
+06:36 
+
+06:36 technical questions right but we see
+06:39 
+
+06:39 that in reality a lot of nontechnical
+06:41 
+
+06:41 founders they see the technical part as
+06:43 
+
+06:43 a black box and they expect maybe their
+06:46 
+
+06:46 technical counterpart to step in but we
+06:49 
+
+06:49 see that a lot of technical people were
+06:51 
+
+06:51 not actually present that night. It was
+06:54 
+
+06:54 mostly the people who are, you know,
+06:57 
+
+06:57 probably in sales or marketing, the one
+06:59 
+
+06:59 that's in charge of pitching basically.
+07:01 
+
+07:01 That's correct.
+07:02 
+
+07:02 >> And then they are stumped when they are
+07:05 
+
+07:05 faced with a technical question because
+07:07 
+
+07:07 it's not something they've faced before
+07:10 
+
+07:10 and it's not something that's in their
+07:11 
+
+07:11 field of expertise. You can say that.
+07:14 
+
+07:14 >> Yeah. Exactly. And I think the funny
+07:16 
+
+07:16 part is in the past you could get away
+07:18 
+
+07:18 with like, oh, I'm not the technical
+07:19 
+
+07:19 person. But now you can't cuz you're
+07:22 
+
+07:22 going out there and you're pitching like
+07:24 
+
+07:24 this is an AI tech startup and then when
+07:27 
+
+07:27 people ask you questions you can't be
+07:29 
+
+07:29 like well I'm not the technical person
+07:31 
+
+07:31 I'm just business because your entire
+07:33 
+
+07:33 workflow has to be technical and uh for
+07:36 
+
+07:36 a lot of them their uh their products
+07:38 
+
+07:38 were also like developer products you
+07:40 
+
+07:40 know it's not just like a
+07:41 
+
+07:41 customercentricing product so I I think
+07:43 
+
+07:43 the the ask for a CTO is much higher
+07:46 
+
+07:46 than it was before I think a few years
+07:48 
+
+07:48 ago when I when I was still active in
+07:50 
+
+07:50 the startup scene, um the a lot of CTO's
+07:54 
+
+07:54 were uh college grads and that was still
+07:56 
+
+07:56 okay. They could kind of learn from on
+07:58 
+
+07:58 the on the go and stuff like that. But
+08:01 
+
+08:01 now that demand is much higher. Um and
+08:04 
+
+08:04 just now when we were researching on
+08:06 
+
+08:06 this this problem of uh uh non-technical
+08:09 
+
+08:09 founders trying to find CTOs and finding
+08:11 
+
+08:11 it difficult, they mentioned that this
+08:13 
+
+08:13 was a red ocean problem. You've
+08:15 
+
+08:15 encountered that term before. So what is
+08:16 
+
+08:16 red ocean?
+08:17 
+
+08:17 >> Yeah. So red ocean is red ocean, blue
+08:19 
+
+08:19 ocean is a business terminology.
+08:22 
+
+08:22 Basically red ocean, you can think of it
+08:24 
+
+08:24 an ocean that's like stained with so
+08:25 
+
+08:25 much blood because they're describing a
+08:28 
+
+08:28 very saturated market. You know, there's
+08:30 
+
+08:30 competitors everywhere and one by one
+08:33 
+
+08:33 every year you'll see people in the same
+08:35 
+
+08:35 market, you know, going
+08:38 
+
+08:38 bankrupt or like losing out to other
+08:40 
+
+08:40 competitors. Basically, it's a very
+08:43 
+
+08:43 shark shark kind of world. Oh, that's
+08:45 
+
+08:45 why Red Ocean like Jaws the movie
+08:48 
+
+08:48 >> basically. So that's why red ocean is
+08:49 
+
+08:49 describing a market where it's so
+08:51 
+
+08:51 saturated where the solution is always
+08:53 
+
+08:53 the same solution and how different
+08:56 
+
+08:56 businesses basically compete is maybe
+08:59 
+
+08:59 price maybe small product
+09:01 
+
+09:01 differentiation but that is it but the
+09:03 
+
+09:03 solution is technically exactly the
+09:05 
+
+09:05 same. Whereas the blue ocean which is
+09:08 
+
+09:08 the other side is an
+09:10 
+
+09:10 >> untapped untapped potential untapped
+09:13 
+
+09:13 solutions. It's where the innovation
+09:15 
+
+09:15 happens. And so at least in business we
+09:18 
+
+09:18 always talk about having a blue ocean
+09:20 
+
+09:20 strategy which means you know finding
+09:22 
+
+09:22 the areas where there's there sweet spot
+09:24 
+
+09:24 that's untapped. And of course the
+09:26 
+
+09:26 theory is once someone found the blue
+09:29 
+
+09:29 ocean it will eventually also turn into
+09:31 
+
+09:31 a red ocean because everyone will jump
+09:32 
+
+09:32 in. But that will take time. So that's
+09:34 
+
+09:34 also the first mover advantage.
+09:37 
+
+09:37 >> Yeah. So I guess in describing the the
+09:40 
+
+09:40 search for a CTO for a non-technical
+09:42 
+
+09:42 founder as red ocean, it's basically
+09:44 
+
+09:44 describing right finding a CTO is uh a
+09:48 
+
+09:48 very saturated uh market and I guess
+09:51 
+
+09:51 like taking in the perspective of people
+09:54 
+
+09:54 who are very active in the tech
+09:55 
+
+09:55 community. We know a lot of uh techies.
+09:58 
+
+09:58 Um there are also reasons as to why even
+10:01 
+
+10:01 if you're a software engineer you have
+10:03 
+
+10:03 some sort of product mindset you might
+10:05 
+
+10:05 not want to be a CTO
+10:07 
+
+10:07 >> because uh
+10:08 
+
+10:08 >> it's a huge responsibility actually you
+10:10 
+
+10:10 have to you're not just a CTO in a
+10:12 
+
+10:12 startup you're not just a CTO you will
+10:14 
+
+10:14 have to wear multiple hats
+10:15 
+
+10:15 >> there's no defined role scope for you so
+10:19 
+
+10:19 yeah in that way basically
+10:21 
+
+10:21 >> and that's why I also think like the red
+10:22 
+
+10:22 ocean talking about how CTO's are almost
+10:25 
+
+10:25 equivalent to you know that red solution
+10:28 
+
+10:28 strategy is because there's so many
+10:30 
+
+10:30 technical people out there. So
+10:32 
+
+10:32 technically so it's hard to
+10:33 
+
+10:33 differentiate who is suitable CTO
+10:36 
+
+10:36 essentially that's why it's a red ocean
+10:38 
+
+10:38 because like every company is fighting
+10:40 
+
+10:40 to like take in like the most
+10:43 
+
+10:43 technically expert people
+10:45 
+
+10:45 >> but that does not essentially mean that
+10:47 
+
+10:47 that is the
+10:49 
+
+10:49 >> the best the most suitable for their
+10:51 
+
+10:51 product their solution their use case.
+10:53 
+
+10:53 >> Yeah.
+10:54 
+
+10:54 >> Yeah. And then it it's also a big ask
+10:56 
+
+10:56 for uh people who have stable tech jobs
+10:58 
+
+10:58 to give up their careers and for what a
+11:00 
+
+11:00 CTO is asking for now that the demand
+11:04 
+
+11:04 for competence is higher. Usually these
+11:06 
+
+11:06 people are senior engineers or mid and
+11:09 
+
+11:09 your job is already quite cushy. You
+11:11 
+
+11:11 need that stability especially against
+11:13 
+
+11:13 like a a landscape of layoffs and
+11:16 
+
+11:16 retrenchments. Like why in this
+11:18 
+
+11:18 landscape would you as a senior engineer
+11:21 
+
+11:21 want to give up a what six figure uh
+11:23 
+
+11:23 monthly uh income for no guarantee no
+11:27 
+
+11:27 promises especially in such a saturated
+11:29 
+
+11:29 market where every other company is now
+11:32 
+
+11:32 tech
+11:33 
+
+11:33 >> it's it's such a big ass to ask people
+11:35 
+
+11:35 to give that up but I think like in
+11:38 
+
+11:38 light of this I've also been seeing uh
+11:40 
+
+11:40 in some places fractional CTO's being uh
+11:44 
+
+11:44 more common uh this is something new to
+11:47 
+
+11:47 me, but uh when I took a look at it,
+11:48 
+
+11:48 it's basically you pay uh where a
+11:51 
+
+11:51 company uh uh hires somebody as a CTO
+11:54 
+
+11:54 almost like a part-time basis and a uh
+11:57 
+
+11:57 fractional CTO can be advising multiple
+12:01 
+
+12:01 uh startups uh at once all the way from
+12:04 
+
+12:04 seed stage to uh BCD uh series BCD. So
+12:08 
+
+12:08 um I guess this is also uh now a common
+12:12 
+
+12:12 thing because of that saturated market.
+12:14 
+
+12:14 Actually may I ask about fractional CTOs
+12:16 
+
+12:16 because maybe I don't know it in detail
+12:18 
+
+12:18 is like do will they take responsibility
+12:21 
+
+12:21 let's say if something goes wrong in the
+12:23 
+
+12:23 technical direction honestly I think
+12:25 
+
+12:25 they're closer to like a
+12:28 
+
+12:28 >> consultant
+12:29 
+
+12:29 >> consultant or like a a you know those
+12:32 
+
+12:32 lawyers uh that are like the bench
+12:36 
+
+12:36 lawyer uh like you call them only when
+12:38 
+
+12:38 something happens but what what is
+12:40 
+
+12:40 retainer the lawyers that are on
+12:42 
+
+12:42 retainer so uh basically ally it's only
+12:44 
+
+12:44 like the lawyer doesn't sit in an office
+12:47 
+
+12:47 at the company but only when something
+12:49 
+
+12:49 happens they ask a lawyer for advice so
+12:51 
+
+12:51 a lawyer on retainer a fractional CTO is
+12:54 
+
+12:54 kind of like that you're like that
+12:55 
+
+12:55 technical advisor that I only call upon
+12:57 
+
+12:57 you when I need you so for example for
+12:59 
+
+12:59 seedstage uh startups they will call
+13:02 
+
+13:02 upon this fractional CTO to ask for
+13:05 
+
+13:05 technical strategy which developers do I
+13:07 
+
+13:07 hire like what tech stack do I need to
+13:08 
+
+13:08 set out that first groundwork but once
+13:11 
+
+13:11 that is set out I don't know what the
+13:12 
+
+13:12 period of time is if that's kind of
+13:14 
+
+13:14 arbitrary, but once that's set up, you
+13:16 
+
+13:16 already have the developers in and that
+13:18 
+
+13:18 initial uh uh stack already established,
+13:21 
+
+13:21 they're like, "Okay, bye-bye." Until
+13:23 
+
+13:23 like maybe the next round, and they're
+13:26 
+
+13:26 like, "We might need to refactor the
+13:27 
+
+13:27 codebase. We want to add another
+13:29 
+
+13:29 feature. What should we do?" So, that's
+13:31 
+
+13:31 kind of like how fractional CTO's serve.
+13:34 
+
+13:34 But I I I don't personally know a
+13:36 
+
+13:36 fractional CTO, but rather I've been
+13:38 
+
+13:38 seeing uh platforms that offer the
+13:41 
+
+13:41 service of finding a suitable fractional
+13:43 
+
+13:43 CTO. Yeah, it's probably like uh maybe
+13:47 
+
+13:47 temporary CTO as well. Like while you're
+13:50 
+
+13:50 actually finding someone who's really
+13:52 
+
+13:52 invested in the idea, get someone to
+13:55 
+
+13:55 solve the immediate problems or get get
+13:57 
+
+13:57 stuff going meanwhile.
+13:59 
+
+13:59 >> Yeah. Yeah. And I don't know if they're
+14:00 
+
+14:00 paid by equity or just like an income
+14:04 
+
+14:04 basis almost like a contract, you know.
+14:07 
+
+14:07 >> Yeah. So, at the same time, I'm thinking
+14:08 
+
+14:08 when you do that startup pitch, right,
+14:10 
+
+14:10 the team slide is so important. Who
+14:13 
+
+14:13 because the investors need to know who's
+14:14 
+
+14:14 on your team, do you put the fractional
+14:16 
+
+14:16 CTO there or do you put you do you put
+14:19 
+
+14:19 literally a fraction of his face? Like I
+14:21 
+
+14:21 don't know how it works. I
+14:23 
+
+14:23 >> I guess you you you will put the person
+14:25 
+
+14:25 there if the person's well known in the
+14:26 
+
+14:26 tech community.
+14:28 
+
+14:28 >> Right. Right. Yeah. Or or for some of
+14:30 
+
+14:30 them I see that they have an advisor
+14:32 
+
+14:32 board.
+14:32 
+
+14:32 >> So maybe they just sit on the advisor
+14:35 
+
+14:35 board
+14:35 
+
+14:35 >> or or you could just be honest with we
+14:38 
+
+14:38 are we have a fractional CTO. We don't
+14:40 
+
+14:40 have a full one.
+14:41 
+
+14:41 >> Right. Right. Then maybe you might have
+14:42 
+
+14:42 to front some questions from the
+14:44 
+
+14:44 investors. Right. Yeah. I don't know.
+14:46 
+
+14:46 But honestly with the there's been quite
+14:49 
+
+14:49 a number of people who have been coming
+14:51 
+
+14:51 to us. Uh maybe it's because of this
+14:53 
+
+14:53 podcast that we're more visible on
+14:55 
+
+14:55 social media asking us for advice,
+14:57 
+
+14:57 asking us if we want to maybe serve as
+15:00 
+
+15:00 CTO. I I also think it might also be
+15:03 
+
+15:03 because of that need to be able to make
+15:06 
+
+15:06 tech simplify tech concepts
+15:09 
+
+15:09 >> because of AI. It is so huge, such a big
+15:12 
+
+15:12 black box. Like people still don't know
+15:14 
+
+15:14 what is AI, what is generative AI, what
+15:17 
+
+15:17 are models, what is rag. We still use
+15:20 
+
+15:20 the word rag everywhere, but nobody
+15:22 
+
+15:22 knows what that is. So, it's very easy
+15:24 
+
+15:24 to confuse anyone or like just scare
+15:26 
+
+15:26 people with like let's just replace all
+15:28 
+
+15:28 your operation stuff with this solution
+15:31 
+
+15:31 and like yes, that sounds great. Let's
+15:33 
+
+15:33 take it up. And what that actually means
+15:34 
+
+15:34 is a bunch of small little agents are
+15:37 
+
+15:37 have control over all your data like
+15:39 
+
+15:39 agents.
+15:40 
+
+15:40 >> Agents AI agents
+15:43 
+
+15:43 >> I I mean it's also Asians I guess cuz a
+15:46 
+
+15:46 lot of tech is
+15:48 
+
+15:48 >> that's already happening.
+15:49 
+
+15:49 >> Yeah. But
+15:50 
+
+15:50 >> AI agents
+15:51 
+
+15:51 >> yes AI agents not AI Asians. Yeah. But
+15:54 
+
+15:54 at the same time like I I think the
+15:57 
+
+15:57 scary part is a lot of nontechnical
+15:59 
+
+15:59 founders might think they don't need a
+16:01 
+
+16:01 CTO at all. They truly believe that just
+16:05 
+
+16:05 vibe coding, no code tools is enough to
+16:08 
+
+16:08 start a tech startup. I think that's the
+16:10 
+
+16:10 part that people should be worried
+16:12 
+
+16:12 about.
+16:12 
+
+16:12 >> Oh yeah, I know what's a API. I know
+16:13 
+
+16:13 what's a database is a server. Yes,
+16:15 
+
+16:15 everything. There are tools to get these
+16:18 
+
+16:18 things. Voila. I'm a tech.
+16:21 
+
+16:21 >> They know what servers and they they
+16:23 
+
+16:23 they truly believe that the uh no code
+16:25 
+
+16:25 platform will handle all of this for
+16:27 
+
+16:27 them. you know when when asked questions
+16:29 
+
+16:29 like what's going to happen when you
+16:30 
+
+16:30 scale to uh users beyond this region
+16:33 
+
+16:33 right then for us it's intuitive like oh
+16:36 
+
+16:36 data availability and all these things
+16:38 
+
+16:38 we need to start provisioning for that
+16:40 
+
+16:40 but this is not intuitive to the layman
+16:42 
+
+16:42 because they've never encountered it
+16:44 
+
+16:44 before and I don't think that these uh
+16:47 
+
+16:47 no code platforms like help that uh with
+16:50 
+
+16:50 that kind of deployment because after
+16:52 
+
+16:52 all a lot of them are just rappers right
+16:54 
+
+16:54 just wrapping over an existing AI model
+16:57 
+
+16:57 and um they aren't uh equipped to create
+17:02 
+
+17:02 apps that scale you know and I think one
+17:05 
+
+17:05 one of the worst parts is that a lot of
+17:08 
+
+17:08 these non- techy founders who have never
+17:10 
+
+17:10 even worked in a tech company before so
+17:13 
+
+17:13 they don't know things like uh testing
+17:16 
+
+17:16 like unit testing integration testing
+17:18 
+
+17:18 the the end toend testing
+17:20 
+
+17:20 >> that you just asking it to okay now
+17:23 
+
+17:23 change this with to add this feature can
+17:25 
+
+17:25 break other parts of your
+17:27 
+
+17:27 like there has to be proper
+17:28 
+
+17:28 infrastructure in place and proper
+17:30 
+
+17:30 systems in place to ensure things that
+17:32 
+
+17:32 are already built have not changed or
+17:34 
+
+17:34 things that should change are also
+17:36 
+
+17:36 changing as a side effect of this
+17:38 
+
+17:38 >> and you know that's why there are proper
+17:41 
+
+17:41 we have been look we have been working
+17:42 
+
+17:42 in tech companies there have been
+17:44 
+
+17:44 systems agile scrum sprints
+17:47 
+
+17:47 retrospectives all of these uh small
+17:49 
+
+17:49 small rituals and steps are there for a
+17:52 
+
+17:52 reason and if you just remove this and
+17:54 
+
+17:54 just go straight forward with your
+17:56 
+
+17:56 solution like yeah just let's just tell
+17:58 
+
+17:58 it to do this and it does it
+17:60 
+
+17:60 >> you just visually you're not seeing the
+18:02 
+
+18:02 whole picture
+18:04 
+
+18:04 >> that's why it's called engineering you
+18:05 
+
+18:05 know it's more than all about the
+18:08 
+
+18:08 architecture also you know like building
+18:10 
+
+18:10 things it's like when you build a bridge
+18:12 
+
+18:12 right you don't like okay I'm going to
+18:13 
+
+18:13 change a small part of the bridge and
+18:15 
+
+18:15 you're going to ignore the rest you not
+18:17 
+
+18:17 considering the whole physics of it how
+18:18 
+
+18:18 it'll like break or anything
+18:20 
+
+18:20 >> so people see software as something like
+18:23 
+
+18:23 I think for non-coders they see it as
+18:25 
+
+18:25 like, oh, as long as the app looks like
+18:28 
+
+18:28 it works, they they don't understand the
+18:30 
+
+18:30 back end, right? Cuz they they are not,
+18:32 
+
+18:32 you know, properly educated or trained
+18:33 
+
+18:33 in this. So, they don't see it as
+18:36 
+
+18:36 engineering. They see it as coding,
+18:37 
+
+18:37 right? A lot of my um non-technical
+18:40 
+
+18:40 friends just say, "Oh, you're coder."
+18:42 
+
+18:42 Like, they don't say an engineer because
+18:44 
+
+18:44 to them maybe it's like too technical or
+18:46 
+
+18:46 something. It's just an unfamiliar term
+18:48 
+
+18:48 they use day-to-day. So coder is
+18:50 
+
+18:50 something they see and it really shows
+18:52 
+
+18:52 in how they um see VIP coding as you
+18:55 
+
+18:55 know it's like I'm building an app from
+18:57 
+
+18:57 zero to one and it works I can use it
+19:02 
+
+19:02 what about the secrets what about things
+19:04 
+
+19:04 >> right oh my gosh
+19:05 
+
+19:05 >> they they don't think about this it's
+19:07 
+
+19:07 because they don't know
+19:08 
+
+19:08 >> yeah yeah exactly I mean a good analogy
+19:10 
+
+19:10 is basically 3D printing versus uh
+19:13 
+
+19:13 manufactured products right with you
+19:15 
+
+19:15 sure you can 3D print a product for your
+19:17 
+
+19:17 specific use case, but when it comes to
+19:20 
+
+19:20 having to make sure that it fits
+19:22 
+
+19:22 everybody else's use cases, I don't
+19:25 
+
+19:25 think a 3D 3D printed product uh is is
+19:29 
+
+19:29 uh able to cater to all of that. It
+19:30 
+
+19:30 requires intensive um user discovery.
+19:34 
+
+19:34 That's one understanding that like uh
+19:37 
+
+19:37 maybe your product is going to be used
+19:38 
+
+19:38 by kids, not just adults. And kids are
+19:40 
+
+19:40 rougher with the material that you might
+19:42 
+
+19:42 have to reconsider what material you use
+19:45 
+
+19:45 to build it in. You might also have to
+19:47 
+
+19:47 consider like oh uh sure 3D printing you
+19:50 
+
+19:50 can use just I don't know non-food grade
+19:53 
+
+19:53 plastic but the use if uh the use case
+19:57 
+
+19:57 of using it in a an environment which
+19:59 
+
+19:59 requires food handling requires you to
+20:02 
+
+20:02 have food safe um plastic or something
+20:04 
+
+20:04 like those but those things will only
+20:06 
+
+20:06 come out if you know you're somebody
+20:09 
+
+20:09 trained in um that uh uh production
+20:13 
+
+20:13 process right if you're just a 3D 3D
+20:16 
+
+20:16 printer, it doesn't cut it. And I think
+20:18 
+
+20:18 the same needs to be understood of
+20:20 
+
+20:20 software. I think the problem with
+20:21 
+
+20:21 software is it's so intangible. So um
+20:25 
+
+20:25 and and it there's just so much jargon
+20:28 
+
+20:28 inside that people aren't familiar with
+20:31 
+
+20:31 it um that you can label yourself as a
+20:35 
+
+20:35 developer, but when in fact you are just
+20:38 
+
+20:38 using a noode solution. And you know,
+20:41 
+
+20:41 yeah, when when nontechnical founders,
+20:43 
+
+20:43 they're looking for developers, they
+20:44 
+
+20:44 might not know it. They might have
+20:45 
+
+20:45 accidentally contracted a no code
+20:47 
+
+20:47 developer without realizing and you know
+20:52 
+
+20:52 I think the crux of this is still uh
+20:56 
+
+20:56 literacy around the area more education
+20:60 
+
+20:60 about what actually goes on in tech
+21:02 
+
+21:02 software engineering since it's so
+21:04 
+
+21:04 pervasive in our lives but at the same
+21:06 
+
+21:06 time it is still so I don't know such an
+21:09 
+
+21:09 exclusive community. Yeah. And it's
+21:11 
+
+21:11 almost like if you're not in tech, it's
+21:14 
+
+21:14 just so intimidating.
+21:16 
+
+21:16 You'll be like, I I don't know all these
+21:18 
+
+21:18 jarens and I don't know all these terms.
+21:21 
+
+21:21 I I just want to see a working product
+21:23 
+
+21:23 that I can pitch to people and you know
+21:26 
+
+21:26 prototype. So asking them to like, oh,
+21:29 
+
+21:29 but you have to be educated on like
+21:31 
+
+21:31 certain things and at least know like
+21:33 
+
+21:33 what to secure and all that. They
+21:36 
+
+21:36 they'll find it overwhelming almost. it
+21:38 
+
+21:38 it's like they they will rather just get
+21:40 
+
+21:40 a CTO come in
+21:42 
+
+21:42 >> you know um like at least for me me
+21:45 
+
+21:45 talking to different nontechnical people
+21:47 
+
+21:47 right
+21:48 
+
+21:48 >> um there's only a few that is like oh
+21:50 
+
+21:50 teach me
+21:51 
+
+21:51 >> right right
+21:52 
+
+21:52 >> the rest would be like ah
+21:54 
+
+21:54 >> just handle it for me
+21:56 
+
+21:56 >> yeah no but I'm on the business side no
+21:58 
+
+21:58 but I have to do marketing
+21:59 
+
+21:59 >> they in a way I also understand from
+22:01 
+
+22:01 their point of view because they're
+22:02 
+
+22:02 they're confident in what they're good
+22:04 
+
+22:04 at and they think oh because you're the
+22:06 
+
+22:06 expert right I I can rely on you like
+22:09 
+
+22:09 there's no need for me to educate myself
+22:11 
+
+22:11 on this.
+22:12 
+
+22:12 >> So, so I get their point of view but at
+22:14 
+
+22:14 the same time in order for like let's
+22:17 
+
+22:17 say if they become a nontechnical
+22:18 
+
+22:18 founder right having this knowledge is
+22:21 
+
+22:21 still better than not and at least
+22:23 
+
+22:23 knowing a little bit is so that you can
+22:26 
+
+22:26 also better communicate to your CTO
+22:28 
+
+22:28 that's also good then you have shared
+22:29 
+
+22:29 vision and you can be on the same page.
+22:31 
+
+22:31 >> Exactly. I I think it's very different
+22:33 
+
+22:33 like for us like let's say here we are
+22:35 
+
+22:35 three techies trying to learn the world
+22:37 
+
+22:37 of marketing and content creation
+22:39 
+
+22:39 through doing this podcast. We've been
+22:41 
+
+22:41 doing it for two years and we're still
+22:42 
+
+22:42 learning so much. It's a it's a very
+22:44 
+
+22:44 steep learning curve but uh the same can
+22:47 
+
+22:47 be said like the same advice can be
+22:48 
+
+22:48 given to non-technical founders right to
+22:50 
+
+22:50 really treat learning tech as part of
+22:53 
+
+22:53 the process of being founders. It is a
+22:54 
+
+22:54 hat that you can wear too. But you have
+22:57 
+
+22:57 to have the uh um patience and humility
+23:01 
+
+23:01 to step down to ground zero to admit
+23:03 
+
+23:03 that you don't know anything and start
+23:05 
+
+23:05 learning code from scr scratch. I I I
+23:07 
+
+23:07 see so many nontechnical founders who
+23:09 
+
+23:09 just don't even want to take that first
+23:10 
+
+23:10 step. One intimidating but there are
+23:12 
+
+23:12 also two like you mentioned they don't
+23:15 
+
+23:15 think it's their responsibility but it
+23:17 
+
+23:17 is your responsibility right now if
+23:18 
+
+23:18 you're starting a tech startup. Even if
+23:20 
+
+23:20 you have a CTO, you should still be
+23:22 
+
+23:22 learning the ins and outs of what it
+23:24 
+
+23:24 takes to to uh develop a tech startup
+23:27 
+
+23:27 and understand what code means for you.
+23:30 
+
+23:30 Yeah. And um for the non-technical
+23:33 
+
+23:33 friends out there, if you have questions
+23:36 
+
+23:36 like please just reach out to anybody
+23:38 
+
+23:38 you know who has even like a a bit of
+23:41 
+
+23:41 their foot in into the technical world.
+23:43 
+
+23:43 You could you could email us, you could
+23:44 
+
+23:44 reach out to us on LinkedIn. Honestly,
+23:46 
+
+23:46 in the tech community, everybody is very
+23:48 
+
+23:48 friendly and willing to learn because in
+23:50 
+
+23:50 the tech community, we're constantly
+23:52 
+
+23:52 humbled by what we don't know. We're so
+23:54 
+
+23:54 used to starting from scratch where we
+23:57 
+
+23:57 don't know anything because tech just
+23:59 
+
+23:59 moves so fast and that's why we have so
+24:01 
+
+24:01 many uh tech communities. I mean, we're
+24:03 
+
+24:03 all in women devs SG. That's where we
+24:04 
+
+24:04 started out uh trying to learn from
+24:06 
+
+24:06 others. We constantly need to learn and
+24:08 
+
+24:08 I want to encourage our non- techie
+24:10 
+
+24:10 folks to come up try to get exposed try
+24:13 
+
+24:13 to take that first step together uh to
+24:15 
+
+24:15 to learn how to code just as we are
+24:18 
+
+24:18 right now as three techies trying to
+24:20 
+
+24:20 learn the world of content creation
+24:22 
+
+24:22 marketing doing business now right now
+24:24 
+
+24:24 we're actually learning how to do
+24:25 
+
+24:25 business um I mean yeah we have like a
+24:28 
+
+24:28 card game called techie taboo um and
+24:31 
+
+24:31 sure it was easy it was easy coding the
+24:34 
+
+24:34 code base we created an app to create uh
+24:36 
+
+24:36 uh cards. That was the easy part. Well,
+24:38 
+
+24:38 we we all did and that's how how we do
+24:40 
+
+24:40 it. But now we have to learn how to
+24:42 
+
+24:42 market it to people. Going to all these
+24:45 
+
+24:45 like different um tech community meets
+24:48 
+
+24:48 and stuff and going up to people.
+24:49 
+
+24:49 >> At least for Natasha, I'm not worried.
+24:50 
+
+24:50 Like
+24:52 
+
+24:52 >> so natural say that it's because I only
+24:54 
+
+24:54 work if I get thrown in the situation,
+24:56 
+
+24:56 but honestly, I rather eat fries at the
+24:58 
+
+24:58 side. It's very unnatural to do that.
+25:00 
+
+25:00 But you know like we're we're still
+25:02 
+
+25:02 learning uh we're learning the founder
+25:04 
+
+25:04 journey. You know we also have like a
+25:06 
+
+25:06 research initiative called future net
+25:08 
+
+25:08 going on where we're starting to look
+25:10 
+
+25:10 into the digital landscape of uh kids of
+25:13 
+
+25:13 adolescents and parents. And now we have
+25:16 
+
+25:16 to go out and do user interviews, right?
+25:18 
+
+25:18 We're software engineers. We don't do
+25:19 
+
+25:19 user interviews but now we have to. So
+25:21 
+
+25:21 we've been talking to parents. We've
+25:23 
+
+25:23 been talking to uh uh psychiatrists.
+25:26 
+
+25:26 >> We have been learning to interview cuz
+25:27 
+
+25:27 that is a skill in itself. like asking
+25:30 
+
+25:30 the right questions to get what you
+25:32 
+
+25:32 actually want out. So it has really been
+25:34 
+
+25:34 a whole journey and we have been humbled
+25:37 
+
+25:37 by so humbled. Yeah. So yeah, basically
+25:41 
+
+25:41 what we're encouraging is that
+25:42 
+
+25:42 non-technical founders trying to look
+25:44 
+
+25:44 for CTO's uh we know the search is very
+25:47 
+
+25:47 difficult and uh the reasons that we've
+25:49 
+
+25:49 stated in this video, it's a red ocean
+25:51 
+
+25:51 out there. Uh also it's very hard to get
+25:53 
+
+25:53 somebody who has the same uh product
+25:56 
+
+25:56 thinking mindset plus the same vision as
+25:57 
+
+25:57 you do. Um but the first step that you
+25:60 
+
+25:60 could take is just to start learning
+26:02 
+
+26:02 what a technical uh founder would do
+26:05 
+
+26:05 just in the same way that we're
+26:07 
+
+26:07 learning. Uh
+26:08 
+
+26:08 >> nontech found no. Yeah. We're very
+26:10 
+
+26:10 inspired by all these stories. Honestly,
+26:11 
+
+26:11 the only reason we've kept moving
+26:13 
+
+26:13 forward is seeing like hey our uh
+26:15 
+
+26:15 friends who are founders, they're
+26:16 
+
+26:16 non-technical and yet they still do it.
+26:19 
+
+26:19 How come we can't?
+26:20 
+
+26:20 >> Yeah.
+26:20 
+
+26:20 >> Yeah. So we hope that you're uh you get
+26:23 
+
+26:23 more insight out of this episode. Uh we
+26:26 
+
+26:26 hope that uh you'll also reach out to
+26:28 
+
+26:28 us. Um even if we're not able to
+26:30 
+
+26:30 directly help you, we'll be able to
+26:31 
+
+26:31 connect you to somebody who does. And uh
+26:34 
+
+26:34 as always uh this was Red Tech and we
+26:36 
+
+26:36 hope you found this episode helpful. Bye
+26:40 
+
+26:40 bye.

@@ -1,0 +1,1369 @@
+00:00 I've had a lot of experiences with
+00:02 
+
+00:02 people who were managers but weren't
+00:04 
+
+00:04 self-aware that they were bad managers.
+00:06 
+
+00:06 >> I don't think how I'm gonna how I'm
+00:08 
+
+00:08 going to give like okay we have this
+00:09 
+
+00:09 pool of money we now have to give this
+00:11 
+
+00:11 much increments to this these people.
+00:13 
+
+00:13 >> I don't know how to do that.
+00:14 
+
+00:14 >> It's very hard to determine who's a good
+00:18 
+
+00:18 manager or not. It it's very hard from
+00:19 
+
+00:19 like HR perspective as well.
+00:25 
+
+00:25 >> Hello there. Welcome to Reag, the place
+00:27 
+
+00:27 for bites and mentor. I'm Natasha. I'm a
+00:29 
+
+00:29 software engineer.
+00:30 
+
+00:30 >> Salony software developer and I'm
+00:32 
+
+00:32 Victoria solutions engineer.
+00:33 
+
+00:33 >> And today's topic will be about the two
+00:36 
+
+00:36 routes in software engineering. One the
+00:38 
+
+00:38 managerial route and two the individual
+00:40 
+
+00:40 contributor route. So for starters we're
+00:42 
+
+00:42 going to explain what these two routes
+00:44 
+
+00:44 are. So typically as a software engineer
+00:47 
+
+00:47 I don't know if other like vocations
+00:49 
+
+00:49 actually have this but in terms of
+00:51 
+
+00:51 career progression you have two routes.
+00:53 
+
+00:53 one, you progress on to become a manager
+00:55 
+
+00:55 where you lead teams and lead people and
+00:57 
+
+00:57 then you become uh uh like bigger and
+01:00 
+
+01:00 bigger managers as you go along or two
+01:03 
+
+01:03 uh there's the individual contributor
+01:04 
+
+01:04 route where uh you become a greater uh
+01:08 
+
+01:08 expert at what uh you're doing in that
+01:10 
+
+01:10 specific field. I really wanted to
+01:12 
+
+01:12 explore like for all of us here if you
+01:16 
+
+01:16 had a choice which usually we do have a
+01:18 
+
+01:18 choice right your engineering manager
+01:19 
+
+01:19 will come down and ask you like hey um
+01:21 
+
+01:21 in terms of promotion like which route
+01:23 
+
+01:23 would you want to do like for uh all of
+01:26 
+
+01:26 us here what our uh preferences are. So
+01:29 
+
+01:29 maybe we can start with Victoria because
+01:31 
+
+01:31 I know you used to be in a larger
+01:33 
+
+01:33 organization and now you're in a
+01:35 
+
+01:35 startup. So how has that change kind of
+01:38 
+
+01:38 shifted your thoughts about what route
+01:40 
+
+01:40 you would preferably go into?
+01:42 
+
+01:42 >> Uh yeah I think for me naturally I think
+01:46 
+
+01:46 I excel well like just executing stuff
+01:49 
+
+01:49 and doing stuff. So initially I thought
+01:52 
+
+01:52 I would you know always choose the IC
+01:54 
+
+01:54 role and just keep beingcoming a subject
+01:57 
+
+01:57 matter expert and I like to keep going
+01:59 
+
+01:59 up that way. Uh but because now I've
+02:02 
+
+02:02 transitioned into this startup, I kind
+02:04 
+
+02:04 of have to put on different hats and
+02:06 
+
+02:06 naturally I have to step up and become
+02:09 
+
+02:09 the lead of my team and that would
+02:11 
+
+02:11 involve some people like managing kind
+02:14 
+
+02:14 of skills
+02:15 
+
+02:15 >> and I wouldn't say I you know I don't
+02:18 
+
+02:18 want to do it but it's more like it
+02:20 
+
+02:20 would be out of my comfort zone and I
+02:22 
+
+02:22 really have to consciously learn the
+02:24 
+
+02:24 skills and like read books on it and
+02:27 
+
+02:27 like try to build the skill to like
+02:29 
+
+02:29 actually learn how to lead a team and
+02:31 
+
+02:31 learn how to motivate people. Um, it's
+02:35 
+
+02:35 because this is something that no one
+02:37 
+
+02:37 will teach us how to do. Like when you
+02:39 
+
+02:39 step up into this people manager role,
+02:40 
+
+02:40 you kind of have to kind of learn it on
+02:43 
+
+02:43 your own.
+02:43 
+
+02:43 >> That's true. Nobody teaches you how to
+02:44 
+
+02:44 be a good manager.
+02:46 
+
+02:46 >> Exactly. And the only way you can learn
+02:48 
+
+02:48 how is essentially from your managers,
+02:51 
+
+02:51 right? Like kind of right like they can
+02:53 
+
+02:53 be your role models, but um I don't have
+02:55 
+
+02:55 that many exposures uh to different
+02:58 
+
+02:58 types of managers. So when I came into
+03:00 
+
+03:00 this role um yeah I don't have much
+03:02 
+
+03:02 resource to work with other than books
+03:05 
+
+03:05 and podcast
+03:07 
+
+03:07 >> and yeah basically external resources
+03:09 
+
+03:09 right
+03:10 
+
+03:10 >> and I discover a lot about myself during
+03:12 
+
+03:12 this process especially like
+03:14 
+
+03:14 transitioning into these leadership
+03:16 
+
+03:16 roles is that yeah like no one is born
+03:18 
+
+03:18 as a people manager like no one starts
+03:20 
+
+03:20 out like immediately natural at it but
+03:22 
+
+03:22 if you really put in the time and effort
+03:25 
+
+03:25 to learning and building these skills it
+03:27 
+
+03:27 is more than possible that anyone can do
+03:29 
+
+03:29 it and but of course I'm not saying like
+03:31 
+
+03:31 >> I'm great at it. I'm still learning as I
+03:33 
+
+03:33 go but I think having that open mind is
+03:37 
+
+03:37 good because I initially really like
+03:39 
+
+03:39 thought I'm just going one path. Right.
+03:41 
+
+03:41 >> Yeah.
+03:42 
+
+03:42 >> Yeah. That's interesting because like I
+03:44 
+
+03:44 uh I've really been dwelling a lot about
+03:46 
+
+03:46 this thing called the peers principle
+03:47 
+
+03:47 which is that people basically get
+03:49 
+
+03:49 promoted to their highest highest level
+03:52 
+
+03:52 of incompetence. Basically, it's saying
+03:54 
+
+03:54 that a person promotes all the way up.
+03:57 
+
+03:57 And you're promoted usually based on how
+03:59 
+
+03:59 you do in your current job, but somehow
+04:02 
+
+04:02 your expertise in your current job
+04:04 
+
+04:04 shouldn't dictate how well you manage
+04:05 
+
+04:05 people. But still, most promotional
+04:08 
+
+04:08 routes only offer you managerial routes.
+04:10 
+
+04:10 So, you're good at your current job,
+04:11 
+
+04:11 then you get promoted to the next role,
+04:13 
+
+04:13 and now you're managing people, and you
+04:15 
+
+04:15 stop promoting basically at the stage
+04:17 
+
+04:17 where you stop being good at your job.
+04:18 
+
+04:18 So basically the Peter's principle talks
+04:21 
+
+04:21 about how all the man most of the
+04:23 
+
+04:23 managers you see who are kind of uh
+04:25 
+
+04:25 stagnant in their current role have
+04:27 
+
+04:27 promoted to their highest level of
+04:29 
+
+04:29 incompetence and it's really brought
+04:31 
+
+04:31 about the view uh that I have which is
+04:34 
+
+04:34 that some people are just not meant to
+04:36 
+
+04:36 be managers. they should be individual
+04:38 
+
+04:38 contributors because they were so good
+04:40 
+
+04:40 at a job. But somehow because the
+04:41 
+
+04:41 organization only allows them to promote
+04:44 
+
+04:44 to become uh managers and then manager
+04:46 
+
+04:46 above a manager. They aren't able to
+04:48 
+
+04:48 excel as well as they should and they
+04:50 
+
+04:50 stop bringing the value that they used
+04:51 
+
+04:51 to bring as an individual contributor in
+04:53 
+
+04:53 their previous role. But now what you're
+04:55 
+
+04:55 saying is that you feel nobody's born to
+04:57 
+
+04:57 be a good manager. You can evolve to
+04:59 
+
+04:59 become one if you're conscious uh about
+05:02 
+
+05:02 uh where your strengths and weaknesses
+05:04 
+
+05:04 are. If you go out there, you're
+05:05 
+
+05:05 actually very very resourceful where you
+05:08 
+
+05:08 noted that you lack exposure to a lot of
+05:10 
+
+05:10 managers. So, you went on to read uh
+05:13 
+
+05:13 books, went on to watch podcasts, and I
+05:15 
+
+05:15 really don't think a lot of people do
+05:17 
+
+05:17 this. I feel like a lot I I've had a lot
+05:20 
+
+05:20 of experiences of people who were
+05:21 
+
+05:21 managers but weren't self-aware that
+05:23 
+
+05:23 they were bad managers. So, they don't
+05:26 
+
+05:26 really go that extra mile uh that you
+05:28 
+
+05:28 did to look out for resources. Yeah,
+05:31 
+
+05:31 that's why I think like uh what you
+05:33 
+
+05:33 mentioned about the Peter's principle, I
+05:35 
+
+05:35 think that makes a lot of sense. Like
+05:36 
+
+05:36 some people um like I said, no, no one
+05:38 
+
+05:38 is born to be a good manager, but there
+05:40 
+
+05:40 are people who have naturally good uh
+05:43 
+
+05:43 qualities
+05:45 
+
+05:45 >> that makes a good manager like there
+05:47 
+
+05:47 there's naturally people who are good at
+05:49 
+
+05:49 with people, you know, like who who is
+05:52 
+
+05:52 who is able to motivate people like
+05:53 
+
+05:53 easily without external help or
+05:55 
+
+05:55 resources, right? Right. I would say
+05:57 
+
+05:57 those people they would have a natural
+05:59 
+
+05:59 tendency to get into the root of
+06:03 
+
+06:03 becoming a people manager. Uh whereas
+06:06 
+
+06:06 for me I'm I'm kind of in the um it's
+06:09 
+
+06:09 not like I I willingly go into it but
+06:11 
+
+06:11 I'm kind of like I have to.
+06:14 
+
+06:14 >> And so I would say for my type of people
+06:17 
+
+06:17 that would be seeking help and really
+06:19 
+
+06:19 trying to self-improve. And you
+06:20 
+
+06:20 mentioned maybe not a lot of people are
+06:22 
+
+06:22 self-aware. Um,
+06:24 
+
+06:24 >> that's why I think it's important to
+06:25 
+
+06:25 also reflect. It's like when you're
+06:27 
+
+06:27 already at the people manager role,
+06:30 
+
+06:30 maybe you don't get feedback as often.
+06:33 
+
+06:33 >> That's true. Yeah. The higher up you
+06:34 
+
+06:34 are, the fewer people there are above
+06:36 
+
+06:36 you, right?
+06:37 
+
+06:37 >> Yes. And not a lot of people have a lot
+06:39 
+
+06:39 of visibility like people above you
+06:41 
+
+06:41 don't have a lot of visibility on what
+06:43 
+
+06:43 you're doing dayto-day. So, they cannot
+06:45 
+
+06:45 give comments on how are you as a
+06:46 
+
+06:46 manager,
+06:47 
+
+06:47 >> right? M
+06:48 
+
+06:48 >> and and the employees can give that
+06:52 
+
+06:52 feedback to them why like they would be
+06:54 
+
+06:54 quite afraid to do so and maybe they try
+06:57 
+
+06:57 to be politically you know correct
+06:59 
+
+06:59 >> that makes it difficult for you to gain
+07:02 
+
+07:02 that self-awareness so I also get from
+07:04 
+
+07:04 that perspective but overall for me at
+07:07 
+
+07:07 least I tend to see myself more
+07:09 
+
+07:09 objectively I try to and I can see that
+07:13 
+
+07:13 you know this is something I need to
+07:14 
+
+07:14 work on
+07:15 
+
+07:15 >> and that's why I am actively working on
+07:17 
+
+07:17 it
+07:18 
+
+07:18 >> and I know that I I like to see so for
+07:21 
+
+07:21 me even though I'm like a team lead I do
+07:23 
+
+07:23 not treat myself as one you know put
+07:25 
+
+07:25 myself in a position of
+07:26 
+
+07:26 >> that's still okay
+07:27 
+
+07:27 >> yeah I will talk to my juniors the same
+07:30 
+
+07:30 way that I talk to if I were an IC
+07:32 
+
+07:32 basically I'll ask them for their
+07:34 
+
+07:34 opinions I'll ask them yeah like I want
+07:36 
+
+07:36 them to get involved and I see them as
+07:38 
+
+07:38 someone equal that someone I can learn
+07:40 
+
+07:40 from because I always believe um we're
+07:42 
+
+07:42 all eternal teachers and students we
+07:45 
+
+07:45 always learn from each other It doesn't
+07:47 
+
+07:47 matter like these are just titles and
+07:49 
+
+07:49 these are just you know job scopes like
+07:51 
+
+07:51 that what we're supposed to be doing but
+07:53 
+
+07:53 everyone can contribute that's what I
+07:55 
+
+07:55 believe in so I will always you know get
+07:58 
+
+07:58 them involved ask them for their
+07:59 
+
+07:59 opinions and I value their opinions as
+08:01 
+
+08:01 well.
+08:01 
+
+08:01 >> Yeah.
+08:01 
+
+08:01 >> Yeah. So I think that's my approach
+08:04 
+
+08:04 >> to being a manager.
+08:05 
+
+08:05 >> Yeah. Yeah. I'm not saying I'm good at
+08:07 
+
+08:07 it but still learning. Still learning
+08:09 
+
+08:09 and it takes time for
+08:11 
+
+08:11 >> Yeah. Yeah, I think it's interesting
+08:12 
+
+08:12 because like for you, you've always seen
+08:14 
+
+08:14 yourself to be like the IC route,
+08:17 
+
+08:17 individual contributor all the way, but
+08:18 
+
+08:18 then you're put in an in an organization
+08:20 
+
+08:20 because by virtue it's small, you have
+08:23 
+
+08:23 no choice but to become a manager, but
+08:25 
+
+08:25 you stepped into the role, right? And
+08:26 
+
+08:26 then you started growing through there.
+08:28 
+
+08:28 Well, whereas for salon like uh if you
+08:31 
+
+08:31 had like a choice, a preference like
+08:33 
+
+08:33 which route would you choose? So I was
+08:35 
+
+08:35 also like like uh Victoria where I
+08:38 
+
+08:38 thought I'll always be icy also because
+08:40 
+
+08:40 I think as we discussed I wanted to be
+08:43 
+
+08:43 technical all the time. I didn't want to
+08:45 
+
+08:45 lose the technical coding skills because
+08:48 
+
+08:48 >> that's the impression you get of
+08:50 
+
+08:50 managers.
+08:52 
+
+08:52 >> Uh but there are actually there are some
+08:54 
+
+08:54 companies who allow who prefer the
+08:57 
+
+08:57 manager to also be half IC half manager.
+08:59 
+
+08:59 So you will pick on lesser projects but
+09:01 
+
+09:01 you are still hands-on coding
+09:03 
+
+09:03 >> and you're still part of like two other
+09:05 
+
+09:05 teams trying to uh working on things but
+09:08 
+
+09:08 also you have to do your managerial
+09:10 
+
+09:10 duties which is
+09:13 
+
+09:13 >> and I will be like a good people person
+09:16 
+
+09:16 I will be I can be but the problem the
+09:19 
+
+09:19 the problem that I see is that managers
+09:23 
+
+09:23 get have to do this thing u like you
+09:25 
+
+09:25 know look at people's
+09:27 
+
+09:27 pros and cons you know What do you call
+09:29 
+
+09:29 that?
+09:30 
+
+09:30 >> Strength.
+09:31 
+
+09:31 >> Strengths and weaknesses and then give
+09:34 
+
+09:34 them a promotion or not give them. I
+09:35 
+
+09:35 think I'll be really bad with that.
+09:37 
+
+09:37 >> Yeah. So,
+09:38 
+
+09:38 >> so because I I don't know. I have not
+09:41 
+
+09:41 been in in that position before. But I
+09:43 
+
+09:43 like to lead. I like to be a leader.
+09:45 
+
+09:45 Like I like to look at high level
+09:47 
+
+09:47 picture and like you know resolve issues
+09:49 
+
+09:49 within a team or uh see like a blocker
+09:52 
+
+09:52 from high above and like that in the
+09:54 
+
+09:54 future that might be a problem. So let's
+09:55 
+
+09:55 fix it now. like I like I like doing
+09:57 
+
+09:57 those those kind of things. But then
+09:59 
+
+09:59 when it comes to
+10:01 
+
+10:01 >> these rankings and KPIs and like I don't
+10:04 
+
+10:04 think how I'm going to how I'm going to
+10:05 
+
+10:05 give like okay we have this pool of
+10:06 
+
+10:06 money we now have to give this much
+10:08 
+
+10:08 increments to these these people.
+10:10 
+
+10:10 >> That part is stressful. Yeah, that part
+10:12 
+
+10:12 is stressful and I'm glad you brought
+10:14 
+
+10:14 that uh up because that actually is sort
+10:17 
+
+10:17 of uh the the one of the largest roles
+10:19 
+
+10:19 of managers in most organizations to to
+10:22 
+
+10:22 manage people. It's not just about like
+10:24 
+
+10:24 that one-on-one uh honing mentoring.
+10:27 
+
+10:27 It's also about fulfilling the company's
+10:29 
+
+10:29 needs which is managing these people as
+10:31 
+
+10:31 HR instruments actually if you think
+10:33 
+
+10:33 about it and it it turns something that
+10:35 
+
+10:35 sounds so human like people management
+10:38 
+
+10:38 into something so
+10:39 
+
+10:39 >> like like objective. It's just like okay
+10:42 
+
+10:42 you're ranking you you did five projects
+10:44 
+
+10:44 this year versus you did four. So this
+10:46 
+
+10:46 person is 23rd and this person is 24th
+10:48 
+
+10:48 and that's going to determine their
+10:50 
+
+10:50 bonus.
+10:51 
+
+10:51 >> Yeah. which is crazy to me.
+10:53 
+
+10:53 >> Exactly.
+10:54 
+
+10:54 >> Yeah. It's very unnatural to do that
+10:56 
+
+10:56 also. Which is why I I in in when I
+10:59 
+
+10:59 think about it, I hesitate because I
+11:01 
+
+11:01 don't like this part of that role, but I
+11:03 
+
+11:03 understand it's very much uh necessary.
+11:07 
+
+11:07 >> I I actually don't mind like I
+11:08 
+
+11:08 understand there are there are like
+11:10 
+
+11:10 certain transparent uh structures and
+11:13 
+
+11:13 checklist or whatever they that
+11:15 
+
+11:15 companies have, but my problem is at the
+11:18 
+
+11:18 end of it, it's very subjective. It's
+11:20 
+
+11:20 the manager who makes the decision and
+11:22 
+
+11:22 if it was some other manager you would
+11:24 
+
+11:24 make a different decision. So I don't
+11:26 
+
+11:26 like it that it's very manager
+11:27 
+
+11:27 dependence is like I am the master.
+11:31 
+
+11:31 >> I don't like that that it's subjective.
+11:34 
+
+11:34 >> Yeah.
+11:34 
+
+11:34 >> If it was if it could be a bit more
+11:36 
+
+11:36 objective maybe that's better.
+11:39 
+
+11:39 >> That's true.
+11:40 
+
+11:40 >> Like like everyone here would agree that
+11:42 
+
+11:42 this is it. It's obvious. Everyone like
+11:44 
+
+11:44 there's no arguing or you know
+11:47 
+
+11:47 >> Yeah. Yeah. I think that part and also
+11:50 
+
+11:50 just having been the person who's been
+11:52 
+
+11:52 under managers who who did that job and
+11:55 
+
+11:55 it's and because it's all subjective uh
+11:57 
+
+11:57 within them you know where favoritism
+11:60 
+
+11:60 actually plays right this is where
+12:01 
+
+12:01 company politics you know really comes
+12:03 
+
+12:03 into play here and it's down to that
+12:05 
+
+12:05 manager and who they like uh which will
+12:08 
+
+12:08 determine the ranking more so than like
+12:11 
+
+12:11 uh um something objective you know that
+12:13 
+
+12:13 oh I actually did this they actually did
+12:15 
+
+12:15 that and I think that's the scary part
+12:17 
+
+12:17 about being a manager, it's that you
+12:19 
+
+12:19 know you're you're singlehandedly uh
+12:22 
+
+12:22 responsible for uh the future well at
+12:26 
+
+12:26 least the work rellated future of these
+12:28 
+
+12:28 people under you. Um and it's really
+12:31 
+
+12:31 down to whether you're a good manager,
+12:32 
+
+12:32 bad manager, it's going to determine the
+12:34 
+
+12:34 lives of the people under you. Um which
+12:36 
+
+12:36 is why I still think it's very important
+12:38 
+
+12:38 to be able to have roots you can choose
+12:41 
+
+12:41 from. uh if you're you know that you're
+12:44 
+
+12:44 somebody who's uh better at the IC role
+12:46 
+
+12:46 the individual contributor role then a
+12:48 
+
+12:48 company should give you opportunities to
+12:50 
+
+12:50 promote down that line and not force you
+12:51 
+
+12:51 to become a manager where you're going
+12:53 
+
+12:53 to do a bad job and affect people down
+12:55 
+
+12:55 the line and where there are people who
+12:58 
+
+12:58 you know are okay evolving to become
+12:60 
+
+13:00 managers there should be resources
+13:02 
+
+13:02 available for uh them to uh uh retrain
+13:06 
+
+13:06 you know like the podcasts and the books
+13:08 
+
+13:08 that you talked about and also mentors
+13:09 
+
+13:09 to look up uh towards too Um so I I feel
+13:13 
+
+13:13 like rather than it being like there uh
+13:15 
+
+13:15 existing two uh tracks for you to choose
+13:17 
+
+13:17 from, companies have to be cognizant of
+13:20 
+
+13:20 the fact that firstly not everyone can
+13:23 
+
+13:23 be a good manager. Um there needs to be
+13:26 
+
+13:26 resources and training materials needed.
+13:29 
+
+13:29 Two there are also people who just don't
+13:30 
+
+13:30 want to be managers who are happy to be
+13:32 
+
+13:32 IC. I feel like and this this it depends
+13:34 
+
+13:34 on the the career season that you're in.
+13:36 
+
+13:36 there will be like a season where you're
+13:38 
+
+13:38 more inclined to be an individual
+13:40 
+
+13:40 contributor but you see yourself like
+13:42 
+
+13:42 maybe when I hit my 35s you know I would
+13:45 
+
+13:45 want to try out a managerial route but
+13:46 
+
+13:46 this this is the time where I just want
+13:48 
+
+13:48 to be a really good expert there should
+13:50 
+
+13:50 be flexibility in that uh the HR
+13:53 
+
+13:53 structure of the company so yeah perhaps
+13:55 
+
+13:55 even like what you say now you know you
+13:57 
+
+13:57 also mentioned that you used to think
+13:58 
+
+13:58 that you would go down the IC route and
+14:00 
+
+14:00 then now having experienced certain
+14:02 
+
+14:02 things in your life you're like oh I
+14:03 
+
+14:03 want to try the manager route yeah and
+14:05 
+
+14:05 companies should have like flexibility
+14:07 
+
+14:07 to offer that. At the end of the day,
+14:09 
+
+14:09 >> it would also be nice if companies can
+14:11 
+
+14:11 have a fair evaluation system on like
+14:14 
+
+14:14 their managers because again, it's very
+14:17 
+
+14:17 hard to determine who's a good manager
+14:19 
+
+14:19 or not. It it's very hard from like HR
+14:22 
+
+14:22 perspective as well, especially
+14:23 
+
+14:23 especially if it's a huge company. How
+14:25 
+
+14:25 can you tell this manager is doing what
+14:27 
+
+14:27 they're supposed to do and doing it
+14:29 
+
+14:29 well?
+14:29 
+
+14:29 >> Yeah.
+14:30 
+
+14:30 >> Right. like maybe an anonymous surveys
+14:32 
+
+14:32 and all that can help but
+14:35 
+
+14:35 >> there's a there's a li limit to that you
+14:37 
+
+14:37 know. Yes.
+14:38 
+
+14:38 >> Yeah. Because of politics and many
+14:40 
+
+14:40 reasons. So if there's a more fair
+14:42 
+
+14:42 system in place then we can identify who
+14:45 
+
+14:45 is likely to be a better manager like
+14:47 
+
+14:47 some kind of AI to predict that
+14:50 
+
+14:50 >> you know based on personality traits I
+14:51 
+
+14:51 don't know but
+14:54 
+
+14:54 >> we have an episode on MBTI just saying
+14:55 
+
+14:55 but yes
+14:56 
+
+14:56 >> there's many ways to evaluate um someone
+14:60 
+
+14:60 who's likely to be a good manager or not
+15:02 
+
+15:02 and then we can also sit them down talk
+15:04 
+
+15:04 are you interested like basically career
+15:06 
+
+15:06 progression has to be something taken
+15:08 
+
+15:08 seriously
+15:09 
+
+15:09 >> and not just something like oh you want
+15:10 
+
+15:10 a promotion, here you go. You know, just
+15:13 
+
+15:13 just take it. If not, no. All right.
+15:15 
+
+15:15 Like we cannot force them down that
+15:16 
+
+15:16 path, you know, if they're
+15:17 
+
+15:17 >> Or sometimes it's also like, oh, there's
+15:19 
+
+15:19 a vacancy, let's get the next highest
+15:21 
+
+15:21 person to just
+15:22 
+
+15:22 >> That's often that's often what happens.
+15:25 
+
+15:25 Yeah, that's the big one. Yeah, that's
+15:27 
+
+15:27 why.
+15:27 
+
+15:27 >> And I feel like that's just lazy HR, you
+15:29 
+
+15:29 know? That's just a a chess piece kind,
+15:32 
+
+15:32 oh, okay, vacant, I just put them here.
+15:34 
+
+15:34 And that's a lot of how HR usually works
+15:37 
+
+15:37 because it's so easy to do that versus
+15:39 
+
+15:39 really do the hard thinking uh into like
+15:42 
+
+15:42 I I value my managers, I value my people
+15:44 
+
+15:44 and I know like me putting certain
+15:46 
+
+15:46 people in certain roles is going to
+15:48 
+
+15:48 affect like the company dynamics. So how
+15:50 
+
+15:50 best can I provide good training? How
+15:53 
+
+15:53 best can I provide a very dynamic uh
+15:56 
+
+15:56 career progression uh paths uh to help
+15:58 
+
+15:58 my people? And it takes like a really
+16:00 
+
+16:00 good company to do that. But yeah, this
+16:02 
+
+16:02 was a good discussion on our preferences
+16:04 
+
+16:04 between uh IC versus managerial routes.
+16:07 
+
+16:07 Uh as always, this was Rack Tag. Thank
+16:09 
+
+16:09 you for watching. Bye.
+16:11 
+
+16:11 [Music]

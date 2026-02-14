@@ -1,0 +1,2080 @@
+00:01 [Music]
+00:05 
+
+00:05 supped to tell her on the phone how to
+00:07 
+
+00:07 write code I'm like uh you know function
+00:11 
+
+00:11 fibon bracket bracket open bra oh my go
+00:15 
+
+00:15 go to an event and find out who are the
+00:17 
+
+00:17 good people out there who may not be
+00:19 
+
+00:19 obviously on LinkedIn as well so wanted
+00:21 
+
+00:21 to know from your perspective does that
+00:24 
+
+00:24 uh actually make a person stand out that
+00:26 
+
+00:26 this person does side projects related
+00:28 
+
+00:28 to their work outside work or do you
+00:31 
+
+00:31 think that's not really necessary they
+00:33 
+
+00:33 should also have a life
+00:36 
+
+00:36 maybe hello everyone welcome to R Tech
+00:39 
+
+00:39 I'm Salon a software developer I'm
+00:41 
+
+00:41 Natasha also a software developer and
+00:43 
+
+00:43 today we have Joanna a recruiter and
+00:46 
+
+00:46 today's episode is going to be all about
+00:48 
+
+00:48 recruitment hi I'm Joanna I'm a talent
+00:51 
+
+00:51 acquisition manager so perhaps a start
+00:54 
+
+00:54 off Joanna would you like to tell us
+00:55 
+
+00:55 about what a talent acquisition manager
+00:58 
+
+00:58 is and what your role is y so maybe can
+01:00 
+
+01:00 start off so basically I am working for
+01:03 
+
+01:03 a venture capital firm and I have been a
+01:06 
+
+01:06 talent acquisition manager for the last
+01:09 
+
+01:09 three years and before that I was doing
+01:10 
+
+01:10 recruitment for about close 5 years so
+01:13 
+
+01:13 in total about eight years so what a
+01:15 
+
+01:15 talent acquisition manager does is not
+01:18 
+
+01:18 just on recruiting can be a lot more
+01:20 
+
+01:20 than recruiting so first of course you
+01:23 
+
+01:23 know when you want to do recruitment you
+01:24 
+
+01:24 need to do sourcing so you need to find
+01:27 
+
+01:27 good candidates for the role and also
+01:29 
+
+01:29 secondly you will actually need to do a
+01:31 
+
+01:31 lot of the backend work so it's not just
+01:33 
+
+01:33 the frontend work where you do all the
+01:36 
+
+01:36 calling of the candidates finding the
+01:37 
+
+01:37 right candidate but you actually need to
+01:39 
+
+01:39 transpose them into informations where
+01:42 
+
+01:42 you can actually present them to your um
+01:45 
+
+01:45 your hiring managers as well as for your
+01:48 
+
+01:48 managers as well to understand what the
+01:50 
+
+01:50 recruitment process look like right so
+01:52 
+
+01:52 just to clarify the hiring manager and
+01:53 
+
+01:53 the talent acquisition specialist is
+01:56 
+
+01:56 different yes it is actually different
+01:58 
+
+01:58 so a lot of time people people have
+02:01 
+
+02:01 mistakenly you know used both this words
+02:05 
+
+02:05 um yeah correct because a lot of time
+02:08 
+
+02:08 they think that recruiters are basically
+02:10 
+
+02:10 doing recruiting only the word it's
+02:13 
+
+02:13 basically recruitment right but actually
+02:16 
+
+02:16 as a talent acquisition what it means if
+02:18 
+
+02:18 you break down it's Talent acquire right
+02:21 
+
+02:21 so meaning you need to acquire good
+02:23 
+
+02:23 talent but in order to do that you need
+02:25 
+
+02:25 to actually look at all different
+02:28 
+
+02:28 segment of it so not just on finding
+02:31 
+
+02:31 candidates where as an external agency
+02:34 
+
+02:34 you just look for good candidates
+02:36 
+
+02:36 whereas for internal roles you actually
+02:38 
+
+02:38 do a lot more towards you know finding
+02:41 
+
+02:41 candidates making sure that they feed
+02:43 
+
+02:43 the cultural feed and also understanding
+02:46 
+
+02:46 what the requirements are as a firm and
+02:50 
+
+02:50 the business needs so it's a lot more
+02:52 
+
+02:52 than hiring and also just looking at you
+02:55 
+
+02:55 know doing interviews and stuff like
+02:57 
+
+02:57 that so if you're talking about
+02:59 
+
+02:59 acquisition would you say that you will
+03:01 
+
+03:01 be the first bar like that first round
+03:03 
+
+03:03 where people send in like their CVS and
+03:05 
+
+03:05 stuff like that you're the one who like
+03:07 
+
+03:07 filters that yes correct so I do all the
+03:10 
+
+03:10 futuring of the candidate so I do Global
+03:13 
+
+03:13 recruiting actually so my role here it's
+03:17 
+
+03:17 um not just you know looking at
+03:18 
+
+03:18 candidates that apply from the website
+03:21 
+
+03:21 so typically or recruitments right if
+03:24 
+
+03:24 you were to have a new role you will
+03:25 
+
+03:25 actually advertise it externally but we
+03:28 
+
+03:28 don't actually only post stood there but
+03:30 
+
+03:30 we actually do a lot of Outreach to
+03:33 
+
+03:33 candidates so a lot of co- reaching out
+03:35 
+
+03:35 of candidates doing a lot of um say you
+03:39 
+
+03:39 know like um finding out you know if
+03:42 
+
+03:42 there's any events related to this role
+03:45 
+
+03:45 yeah how can you actually look into that
+03:47 
+
+03:47 go to an event and find out who are the
+03:49 
+
+03:49 good people out there who may not be
+03:52 
+
+03:52 obviously on LinkedIn as well so you
+03:54 
+
+03:54 actually have to do that as well so the
+03:56 
+
+03:56 role is quite varied but I think the
+03:59 
+
+03:59 good thing about um what we do here is
+04:02 
+
+04:02 basically finding the best candidate as
+04:04 
+
+04:04 well best talent that feeds into the uh
+04:08 
+
+04:08 the the company's culture as well so
+04:10 
+
+04:10 that's that's something that I do a lot
+04:12 
+
+04:12 as well right right because in your role
+04:14 
+
+04:14 you're not just doing internal
+04:16 
+
+04:16 recruitment you're also recruiting for
+04:17 
+
+04:17 the portfolio companies under your
+04:20 
+
+04:20 larger company so that's why it's more
+04:22 
+
+04:22 of like you also have to match correct
+04:24 
+
+04:24 the company values to the candidate so
+04:26 
+
+04:26 when it comes to like really looking at
+04:28 
+
+04:28 a candidate we're not just like looking
+04:30 
+
+04:30 at pure credentials right yes yeah
+04:32 
+
+04:32 you're looking at things like alignment
+04:34 
+
+04:34 to company values which I've always
+04:36 
+
+04:36 found is kind of like kind of vague if
+04:39 
+
+04:39 you think about it and how how do you do
+04:41 
+
+04:41 that because first you need to
+04:42 
+
+04:42 understand the company values then
+04:45 
+
+04:45 second you have to somehow be able to
+04:48 
+
+04:48 identify these values at the first cut
+04:51 
+
+04:51 at the second cut like how how do you do
+04:52 
+
+04:52 this like such a vague and complex term
+04:56 
+
+04:56 so for me I think what's important is
+04:60 
+
+04:60 for the first C you actually need to I
+05:02 
+
+05:02 mean before that even that process can
+05:05 
+
+05:05 happen you need to actually sit down
+05:07 
+
+05:07 with the hiring manages to actually
+05:09 
+
+05:09 understand what this role looks like
+05:10 
+
+05:10 first right because ultimately there are
+05:13 
+
+05:13 two ways as well to do it it doesn't
+05:15 
+
+05:15 mean that all recruiters have to see
+05:17 
+
+05:17 into all first round interviews um not
+05:20 
+
+05:20 necessary there are times where there
+05:22 
+
+05:22 are hiring uh managers let Recruitment
+05:24 
+
+05:24 and there are times that we do it as a
+05:26 
+
+05:26 recruiter Le uh interviews so meaning
+05:29 
+
+05:29 that if we doing recruiter interviews
+05:31 
+
+05:31 means that we are the first person that
+05:33 
+
+05:33 they do uh meet uh as an initial round
+05:36 
+
+05:36 to actually test out and understand uh
+05:39 
+
+05:39 basically what the requirements are for
+05:41 
+
+05:41 this role and all the way up to say you
+05:44 
+
+05:44 know some technical questions as well
+05:46 
+
+05:46 we're not technical I have to say but we
+05:48 
+
+05:48 do actually um implement or rather get a
+05:52 
+
+05:52 g of what the JG are for the specific
+05:55 
+
+05:55 role and we actually in integrate or in
+05:59 
+
+05:59 um improvise that into our interview
+06:01 
+
+06:01 questions as well so every role is
+06:03 
+
+06:03 different yeah so if let's say I were to
+06:06 
+
+06:06 do um the first round I would typically
+06:09 
+
+06:09 try to figure out what this role looks
+06:11 
+
+06:11 like first with the hire manager and
+06:13 
+
+06:13 break it down into two parts and
+06:16 
+
+06:16 understand what is required as a
+06:18 
+
+06:18 recruiter to uh engage with these
+06:20 
+
+06:20 candidates about before I move them to
+06:23 
+
+06:23 the next round so that's basically what
+06:25 
+
+06:25 I do here yeah yeah that's interesting
+06:28 
+
+06:28 because you brought up the term J and
+06:30 
+
+06:30 having to understand the role with the
+06:32 
+
+06:32 hiring managers first and I think
+06:35 
+
+06:35 because like selon and I you know were
+06:37 
+
+06:37 software engineers and obviously there's
+06:39 
+
+06:39 a lot of jogging yeah I mean like a
+06:42 
+
+06:42 Salone would have more experience at
+06:43 
+
+06:43 recruiting than I would so I actually
+06:46 
+
+06:46 remember this one time uh I spoke to a
+06:49 
+
+06:49 recruiter a tech recruiter I mean tech
+06:52 
+
+06:52 recruiter asent she was recruiting me as
+06:54 
+
+06:54 a software developer so tech recruiter
+06:56 
+
+06:56 but uh so she had no technical knowledge
+06:58 
+
+06:58 but she actually did ask me technical
+07:00 
+
+07:00 question at the end of the first round
+07:03 
+
+07:03 of interview which was just a HR phone
+07:05 
+
+07:05 call so she did ask me actually uh how
+07:08 
+
+07:08 would you implement the
+07:09 
+
+07:09 Fibonacci uh oh she asked that yeah the
+07:12 
+
+07:12 the
+07:13 
+
+07:13 Fibonacci program and she asked me on
+07:16 
+
+07:16 the phone so I'm actually supposed to
+07:18 
+
+07:18 tell her on the phone how to write code
+07:21 
+
+07:21 I'm like uh you know function fibon
+07:25 
+
+07:25 bracket bracket open braces oh my go I'm
+07:28 
+
+07:28 like is that the level cuz I didn't know
+07:30 
+
+07:30 what how how do I do this with you who
+07:32 
+
+07:32 doesn't understand what I'm saying it's
+07:34 
+
+07:34 true so and I don't know what is she
+07:36 
+
+07:36 writing what I'm saying or it was a bit
+07:38 
+
+07:38 weird but it was like five to six lines
+07:41 
+
+07:41 of code that I told her I told her the
+07:44 
+
+07:44 oh she even asked me is it recursive or
+07:46 
+
+07:46 is it not she she knew that much so then
+07:49 
+
+07:49 at the end of it I didn't ask her sorry
+07:51 
+
+07:51 that was new to me like uh saying out
+07:54 
+
+07:54 code on the phone did you understand it
+07:57 
+
+07:57 or she's like no I just have to relay
+07:60 
+
+07:60 this information back to the hiring
+08:01 
+
+08:01 manager so I got what I wanted she
+08:04 
+
+08:04 didn't ask me the recursive non like she
+08:06 
+
+08:06 she knew some jargons I don't know if
+08:08 
+
+08:08 she knew what it meant but she noted
+08:10 
+
+08:10 down things it was it was new to me but
+08:13 
+
+08:13 I think I was like in awe of it because
+08:17 
+
+08:17 that actually makes sense because she
+08:19 
+
+08:19 did say that uh it's been it's because a
+08:22 
+
+08:22 lot of people applied to us and a lot of
+08:24 
+
+08:24 them I realized at the second round at
+08:26 
+
+08:26 the coding round that they don't know
+08:27 
+
+08:27 how to code then you're wasting the
+08:30 
+
+08:30 the interviewer's time correct so
+08:32 
+
+08:32 therefore she did the first level of
+08:34 
+
+08:34 filtering by asking this question and if
+08:38 
+
+08:38 you knew how to c you would be able to
+08:39 
+
+08:39 answer something exactly so then I was
+08:41 
+
+08:41 like wow okay so someone actually like
+08:44 
+
+08:44 told her to like ask this question to
+08:46 
+
+08:46 filter out people so I understand what
+08:48 
+
+08:48 you mean by you understand like the
+08:51 
+
+08:51 criteria and then try to filter as much
+08:54 
+
+08:54 as possible at your level yes but I I'm
+08:57 
+
+08:57 guessing as a general uh gen General
+09:00 
+
+09:00 recruiter you would know about so many
+09:02 
+
+09:02 different roles in your firm right so
+09:04 
+
+09:04 not just Tech you would also have uh
+09:07 
+
+09:07 product
+09:08 
+
+09:08 management uh uxui designer yeah
+09:11 
+
+09:11 there'll be different kinds of filtering
+09:13 
+
+09:13 for each of the different departments I
+09:15 
+
+09:15 would say so would you have to like
+09:18 
+
+09:18 learn yeah yeah actually you do side by
+09:21 
+
+09:21 side maybe yes that's a very good
+09:24 
+
+09:24 question actually so because I'm a
+09:26 
+
+09:26 generalist in where I am right now so I
+09:29 
+
+09:29 typically do all kinds of roles I could
+09:31 
+
+09:31 do anything from a business development
+09:34 
+
+09:34 role to a sales role to an operations
+09:37 
+
+09:37 role a legal role could be anything
+09:40 
+
+09:40 right but if you're talking about uiux
+09:42 
+
+09:42 and previously I was looking for a full
+09:46 
+
+09:46 stack developer that's actually very
+09:47 
+
+09:47 different as well right so if you want
+09:49 
+
+09:49 to look at recruiting right like what
+09:51 
+
+09:51 youve just mentioned earlier it's
+09:53 
+
+09:53 actually very similar to my experience
+09:55 
+
+09:55 because I am not a technical person I
+09:58 
+
+09:58 was not brought up in that environment
+10:00 
+
+10:00 um but of course I did expose myself
+10:03 
+
+10:03 into that space which is why I had some
+10:05 
+
+10:05 experience understanding it but before I
+10:08 
+
+10:08 can get into that I also want to maybe
+10:09 
+
+10:09 break down as well on two parts I think
+10:12 
+
+10:12 when you mentioned earlier right about
+10:13 
+
+10:13 your experience speaking to a recruiter
+10:16 
+
+10:16 that's something that I need to do as
+10:17 
+
+10:17 well so of course I would say that when
+10:20 
+
+10:20 it comes to technical recruiting or
+10:22 
+
+10:22 rather your product management or your
+10:25 
+
+10:25 UI uh designers you typically get a ton
+10:28 
+
+10:28 of candidates H whereas for a technical
+10:32 
+
+10:32 role a very very technical role where
+10:34 
+
+10:34 you talk about full step developers your
+10:36 
+
+10:36 software Engineers I don't see that
+10:39 
+
+10:39 demand in that space yeah so if you look
+10:43 
+
+10:43 into two parts right actually UI ux and
+10:45 
+
+10:45 product management roles are more um
+10:49 
+
+10:49 simplified you don't actually have to go
+10:50 
+
+10:50 into all the Jons the technical front of
+10:54 
+
+10:54 it like what do you build you don't
+10:56 
+
+10:56 actually need to go into that space But
+10:58 
+
+10:58 you do actually need to understand what
+11:01 
+
+11:01 are some of the projects that you have
+11:03 
+
+11:03 covered you have done whereas on the
+11:05 
+
+11:05 part where you're looking at software
+11:06 
+
+11:06 engineers and all that you basically
+11:08 
+
+11:08 have to ask questions like that whereas
+11:10 
+
+11:10 we don't understand right but what I do
+11:12 
+
+11:12 is before I do this uh call with a
+11:15 
+
+11:15 candidate I do the intake of the hiring
+11:17 
+
+11:17 managers I say show me how do you do
+11:20 
+
+11:20 this and what do you do with that so
+11:22 
+
+11:22 that's how I actually gain insight into
+11:25 
+
+11:25 how this role would look like and when
+11:27 
+
+11:27 candidate ask me how is is going to
+11:30 
+
+11:30 translate into their career trajectory
+11:33 
+
+11:33 that's something that I would actually
+11:34 
+
+11:34 speak about as well so it's quite
+11:36 
+
+11:36 interesting that um when as a recruiter
+11:39 
+
+11:39 that doesn't have technical experience
+11:42 
+
+11:42 we don't actually just sit on it and say
+11:44 
+
+11:44 Hey you know let's just figure out
+11:45 
+
+11:45 ourself but we actually do ask a lot of
+11:48 
+
+11:48 this questions to the H managers and say
+11:51 
+
+11:51 look let me understand help me
+11:54 
+
+11:54 understand in a way actually how do I
+11:56 
+
+11:56 actually speak to this candidates and
+11:59 
+
+11:59 understand what this project looks like
+12:01 
+
+12:01 what is the end goal of it and what's
+12:03 
+
+12:03 the objective of this yeah so the
+12:06 
+
+12:06 recruiting exercise is pretty lengthy so
+12:10 
+
+12:10 if you were to look at I mean going back
+12:11 
+
+12:11 to you know like recruiting in technical
+12:14 
+
+12:14 roles I typically don't see a lot of
+12:18 
+
+12:18 candidates applying so typically we have
+12:21 
+
+12:21 like less than 100 applicants that comes
+12:23 
+
+12:23 in to our system but what we do is we do
+12:26 
+
+12:26 a lot of Outreach because it's so
+12:28 
+
+12:28 specialized into technical experience
+12:31 
+
+12:31 skill set we do work with the hiring
+12:33 
+
+12:33 managers to figure out what is required
+12:35 
+
+12:35 for the role then we'll actually reach
+12:37 
+
+12:37 out to them and speak to them about that
+12:40 
+
+12:40 so that will take a lot of our time off
+12:42 
+
+12:42 you know from interviewing candidates to
+12:45 
+
+12:45 the part where they move on to the
+12:47 
+
+12:47 coding exercise so the coding exercise
+12:49 
+
+12:49 is all curated and created based on what
+12:52 
+
+12:52 the role requirements are so it's very
+12:55 
+
+12:55 different from what you may have
+12:57 
+
+12:57 experienced in your corporate role or
+12:59 
+
+12:59 even in you know your your other roles
+13:02 
+
+13:02 right so I think that's something that
+13:04 
+
+13:04 we do typically see that um it's a good
+13:08 
+
+13:08 challenge to understand that they are
+13:10 
+
+13:10 right feed so we spend like hours you
+13:13 
+
+13:13 know creating this projects um this case
+13:16 
+
+13:16 use cases as well that would make sense
+13:19 
+
+13:19 for candidates and then translate that
+13:21 
+
+13:21 into a proper coding you know exercise
+13:24 
+
+13:24 to see if they are the right feet yeah
+13:26 
+
+13:26 so that's actually a lot of work and
+13:28 
+
+13:28 sometimes when you do
+13:31 
+
+13:31 interview hundreds of candidates
+13:34 
+
+13:34 ultimately sometimes they're not the
+13:36 
+
+13:36 right fet it's really going back to you
+13:39 
+
+13:39 know where you started off right and
+13:41 
+
+13:41 trying to understand this whole cycle
+13:43 
+
+13:43 again right so yeah I just find it very
+13:45 
+
+13:45 interesting because the whole Insight
+13:47 
+
+13:47 that you have to interview the hiring
+13:49 
+
+13:49 manager first like as a recruiter before
+13:53 
+
+13:53 interviewing the candidates like this is
+13:55 
+
+13:55 completely foreign to me but it actually
+13:56 
+
+13:56 makes a lot of sense if you think about
+13:58 
+
+13:58 it you know the fact that had asked him
+13:60 
+
+13:60 like specifically in this role like what
+14:03 
+
+14:03 what certain jargon that I should
+14:05 
+
+14:05 understand could you explain it to me
+14:07 
+
+14:07 and then you design like the perhaps
+14:09 
+
+14:09 some sort of simplified case study that
+14:10 
+
+14:10 you could ask the candidate that's kind
+14:13 
+
+14:13 a lot of work on you because like I
+14:15 
+
+14:15 couldn't imagine like say like the
+14:16 
+
+14:16 example that Salone brought up the uh
+14:18 
+
+14:18 Fibonacci exercise yeah I I will be I I
+14:23 
+
+14:23 would feel a bit stunted if I had to
+14:25 
+
+14:25 verbally ask that question also and then
+14:27 
+
+14:27 have to feel a bit lost when the
+14:29 
+
+14:29 candidate is like going through pseudo
+14:31 
+
+14:31 quote line by line and I I can can I
+14:36 
+
+14:36 imagine like that kind of experience for
+14:38 
+
+14:38 you like constantly having to learn new
+14:39 
+
+14:39 things especially now um in Tech you get
+14:42 
+
+14:42 more and more Diversified roles now with
+14:44 
+
+14:44 like the AI busz obviously you have you
+14:47 
+
+14:47 know you have to know the difference
+14:48 
+
+14:48 between a data scientist and a data
+14:50 
+
+14:50 engineer now you have what's the
+14:53 
+
+14:53 difference between a prompt engineer
+14:54 
+
+14:54 versus like an AI engineer there's so
+14:56 
+
+14:56 many things you know and even we
+14:59 
+
+14:59 struggle to understand that so how has
+15:01 
+
+15:01 that process been for you knowing that
+15:04 
+
+15:04 like you know even something as simple
+15:05 
+
+15:05 as like like simple to us only because
+15:07 
+
+15:07 we're in a field full SE developer
+15:09 
+
+15:09 versus front end and back end honestly
+15:11 
+
+15:11 like uh we get these questions a lot but
+15:13 
+
+15:13 I still struggle to explain it to people
+15:16 
+
+15:16 so how do you like try as a recruiter
+15:19 
+
+15:19 try to level up yourself um with like
+15:22 
+
+15:22 the changes in the tech industry to try
+15:24 
+
+15:24 to understand this that that's something
+15:27 
+
+15:27 that I thought through a lot I I think
+15:29 
+
+15:29 even before this um conversation right I
+15:32 
+
+15:32 did think about it as well when we do
+15:34 
+
+15:34 recruit people of that of experience
+15:37 
+
+15:37 actually to be fair we don't know
+15:40 
+
+15:40 exactly what this role look like because
+15:42 
+
+15:42 if we're talking about AI Engineers
+15:44 
+
+15:44 versus a fullstack developer they are
+15:46 
+
+15:46 very different as well right the skill
+15:48 
+
+15:48 sets are different you look at someone
+15:50 
+
+15:50 that may have perhaps data science
+15:52 
+
+15:52 experience and there are some that
+15:54 
+
+15:54 doesn't have data science as well so I
+15:56 
+
+15:56 would say that uh we do break it down
+15:59 
+
+15:59 we're look at exactly what the scope of
+16:01 
+
+16:01 R looks like first and we actually
+16:04 
+
+16:04 understand what are the skill sets or
+16:06 
+
+16:06 whether the technical skill sets are
+16:08 
+
+16:08 required for this rule before we get
+16:10 
+
+16:10 into it but similarly now because we
+16:12 
+
+16:12 have chat GPT as one key tool that we
+16:16 
+
+16:16 use on a daily basis if you look at that
+16:19 
+
+16:19 um sometimes we don't need someone that
+16:21 
+
+16:21 has all the experience but what this
+16:23 
+
+16:23 person needs is a very good soft skill
+16:26 
+
+16:26 that actually understands what the
+16:28 
+
+16:28 business requirements are and actually
+16:31 
+
+16:31 understands how they as a individual
+16:34 
+
+16:34 able to build a similar app or similar
+16:38 
+
+16:38 tool that could be you know useful for
+16:40 
+
+16:40 the business so for instance I think for
+16:44 
+
+16:44 all cases um I think a lot of the
+16:47 
+
+16:47 companies that I know as well some of
+16:48 
+
+16:48 the companies that we invested in as
+16:50 
+
+16:50 well um they do have uh struggles as
+16:53 
+
+16:53 well finding the right feat of
+16:55 
+
+16:55 candidates but what they need is someone
+16:57 
+
+16:57 that is intellect actually um you know I
+17:01 
+
+17:01 would say they are very stimulated in in
+17:04 
+
+17:04 their sense of understanding of what
+17:06 
+
+17:06 their role looks like and what this role
+17:08 
+
+17:08 may be and they actually need to
+17:11 
+
+17:11 translate that in a way where if they
+17:13 
+
+17:13 don't have that skill set they will go
+17:15 
+
+17:15 out there and actually look for
+17:17 
+
+17:17 resources to support them right so the
+17:19 
+
+17:19 resourcefulness is something that you're
+17:21 
+
+17:21 looking for so you're really looking
+17:22 
+
+17:22 more for like when I talk to this
+17:24 
+
+17:24 candidate I might not understand a lot
+17:26 
+
+17:26 of the technical stuff they're saying
+17:27 
+
+17:27 but their ability to even translate that
+17:30 
+
+17:30 to you to be able to pick up that you
+17:32 
+
+17:32 are a general recruiter how am I going
+17:34 
+
+17:34 to translate this into the business
+17:36 
+
+17:36 requirements you're asking for how am I
+17:38 
+
+17:38 going to like relay this I guess these
+17:40 
+
+17:40 are also things that we talk about a lot
+17:43 
+
+17:43 in our podcast as well realizing that
+17:46 
+
+17:46 being a software engineer is not just
+17:48 
+
+17:48 being able to code right it's really
+17:51 
+
+17:51 understanding understanding the product
+17:52 
+
+17:52 be able to articulate as well so I mean
+17:55 
+
+17:55 I'm very happy to hear that that's like
+17:57 
+
+17:57 a important part of is your company's
+18:00 
+
+18:00 recruitment yes cor it makes a lot of
+18:03 
+
+18:03 sense because like you I I am not
+18:05 
+
+18:05 venturing to understand every language
+18:08 
+
+18:08 in the world you know but I pride myself
+18:11 
+
+18:11 in being like an engineer who you know
+18:13 
+
+18:13 you can give me different syntaxes but
+18:15 
+
+18:15 at the end of the day I am very
+18:17 
+
+18:17 confident to be able to translate uh
+18:19 
+
+18:19 whatever the uh user needs in whatever
+18:22 
+
+18:22 syntax needed because I understand
+18:24 
+
+18:24 design patterns I understand like what
+18:26 
+
+18:26 companies large or small scale need and
+18:29 
+
+18:29 I guess being able to explain that to
+18:30 
+
+18:30 you in a Layman uh fashion that you can
+18:33 
+
+18:33 easily take away and translate it back
+18:35 
+
+18:35 to your hiring manager yeah it's it's
+18:37 
+
+18:37 very useful to you yeah correct this is
+18:40 
+
+18:40 really making me think of a lot because
+18:41 
+
+18:41 I think a lot of our friends in the tech
+18:44 
+
+18:44 industry do spend I would say they spend
+18:46 
+
+18:46 more time lead coding than actually
+18:48 
+
+18:48 practicing the soft skills which I know
+18:50 
+
+18:50 you talk a lot about but at the same
+18:52 
+
+18:52 time it's very hard to explain what
+18:54 
+
+18:54 these self skills are I think that's why
+18:56 
+
+18:56 you emphasize a lot in doing uh
+18:59 
+
+18:59 interviews like interview as much as you
+19:01 
+
+19:01 can because it's only through talking to
+19:02 
+
+19:02 like people like yourself and other uh
+19:04 
+
+19:04 different recruiters that you keep
+19:06 
+
+19:06 practicing the skill of like okay I need
+19:07 
+
+19:07 to keep explaining this and explaining
+19:09 
+
+19:09 that yeah correct so that's something
+19:12 
+
+19:12 that we do very often as well there are
+19:14 
+
+19:14 times that we could possibly be reaching
+19:17 
+
+19:17 out to candidates who are not actively
+19:20 
+
+19:20 looking for a new role so if you think
+19:22 
+
+19:22 about that right you sitting at that
+19:24 
+
+19:24 position where this person is not
+19:26 
+
+19:26 looking and reaching out they tend to be
+19:28 
+
+19:28 more t because you're not actually
+19:30 
+
+19:30 actively looking for a new role so you
+19:33 
+
+19:33 actually need to First figure out what
+19:35 
+
+19:35 the intention is and how we can actually
+19:38 
+
+19:38 guide them and give them tips and tricks
+19:40 
+
+19:40 so that they can actually move on in
+19:42 
+
+19:42 their recruitment process right so
+19:44 
+
+19:44 typically as a talent acquisition person
+19:48 
+
+19:48 we don't actually need to give them a
+19:50 
+
+19:50 lot of guiding tools as well but what we
+19:52 
+
+19:52 can do is we give them resource
+19:54 
+
+19:54 resources online to say hey you can do
+19:57 
+
+19:57 this read up on this but as as a
+19:59 
+
+19:59 recruiter you will actually need to go a
+20:02 
+
+20:02 extra M to actually break down what this
+20:05 
+
+20:05 Ro looks like and how you should
+20:07 
+
+20:07 actually communicate that during an
+20:09 
+
+20:09 interview not saying that you have to
+20:10 
+
+20:10 change the way you speak but rather be
+20:13 
+
+20:13 more in the way that it helps you to
+20:16 
+
+20:16 formalize how this role looks like and
+20:19 
+
+20:19 how you can actually contribute because
+20:21 
+
+20:21 you only have say a 20 minutes or 30
+20:24 
+
+20:24 minutes call with a the hiring manager
+20:26 
+
+20:26 so that 20 minutes you need to
+20:28 
+
+20:28 encapsulate every
+20:29 
+
+20:29 that you wants to share based on this
+20:32 
+
+20:32 role and actually understand if this is
+20:34 
+
+20:34 a right match for you as well and how do
+20:37 
+
+20:37 you actually provide that insight into
+20:39 
+
+20:39 how your role is sometimes like I
+20:42 
+
+20:42 mentioned we don't look at people that
+20:43 
+
+20:43 have the light to light of experience
+20:45 
+
+20:45 but what we look at is the soft skill
+20:47 
+
+20:47 how do you actually you know build um
+20:50 
+
+20:50 that experience or do you do that
+20:52 
+
+20:52 outside of your your day job as well
+20:54 
+
+20:54 right like do you build your own app do
+20:56 
+
+20:56 you do something um outside of your Norm
+20:59 
+
+20:59 so things like that we ask very good
+21:01 
+
+21:01 questions as well to stimulate them and
+21:04 
+
+21:04 allow them to uh to actually uh showcase
+21:07 
+
+21:07 that during the interview so that's
+21:08 
+
+21:08 something that I do notice that
+21:11 
+
+21:11 candidates that comes in more prepared
+21:14 
+
+21:14 in that aspect they do Ace to interview
+21:17 
+
+21:17 much better than the ones that are not
+21:19 
+
+21:19 oh it's very interesting I want to ask
+21:22 
+
+21:22 like uh we did talk about this in one of
+21:23 
+
+21:23 our other episodes where I was talking
+21:26 
+
+21:26 about how doing site projects are
+21:28 
+
+21:28 important I want to know from like your
+21:30 
+
+21:30 perspective like as as me as a software
+21:33 
+
+21:33 iite projects one one thing one of the
+21:37 
+
+21:37 reason I do it is to stand out from the
+21:39 
+
+21:39 others that I do not just code at work I
+21:42 
+
+21:42 also code 5 to nine after my 9 to5
+21:45 
+
+21:45 something like this and also of course
+21:47 
+
+21:47 I'm interested in building something
+21:48 
+
+21:48 that can help in my day-to- day but I
+21:50 
+
+21:50 wanted to know from your perspective
+21:52 
+
+21:52 does that uh actually make a person
+21:54 
+
+21:54 stand out that this person does side
+21:56 
+
+21:56 projects related to their work outside
+21:59 
+
+21:59 work or do you think that's not really
+22:01 
+
+22:01 necessary you should also have a life
+22:05 
+
+22:05 maybe well I think there's two sides of
+22:09 
+
+22:09 it right you can see that as one you are
+22:12 
+
+22:12 actually spending a lot of time trying
+22:14 
+
+22:14 to build your Skuse set or hold your
+22:16 
+
+22:16 skus as well right but there are another
+22:19 
+
+22:19 site where you're spending so much time
+22:21 
+
+22:21 you know where you're not focusing on
+22:23 
+
+22:23 your your maybe work life balance or
+22:26 
+
+22:26 you're not focusing on your own life
+22:28 
+
+22:28 right I think there's a good s for that
+22:31 
+
+22:31 if you do actually spend time doing your
+22:33 
+
+22:33 own projects you do actually gain the
+22:36 
+
+22:36 advantage when you go for interview
+22:38 
+
+22:38 because what I would say generally what
+22:41 
+
+22:41 hiring managers are looking for are
+22:43 
+
+22:43 people that are proactive they're not
+22:46 
+
+22:46 they're not just you know confined into
+22:48 
+
+22:48 what their daily tasks are but there are
+22:50 
+
+22:50 someone who is curious minded wants to
+22:53 
+
+22:53 venture out into something else wants to
+22:56 
+
+22:56 build that
+22:57 
+
+22:57 entrepreneurial um
+22:59 
+
+22:59 mindset in in their but that really
+23:01 
+
+23:01 depends on the company as well what I'm
+23:04 
+
+23:04 speaking about it's based on my
+23:06 
+
+23:06 experience and some of my companies that
+23:09 
+
+23:09 we invested in I guess cuz most of the
+23:12 
+
+23:12 companies under your belt are also
+23:13 
+
+23:13 startups at that stage so to look out
+23:16 
+
+23:16 for um traits like proactiveness
+23:19 
+
+23:19 resourcefulness is obviously like more
+23:22 
+
+23:22 um uh relatively more important for a
+23:24 
+
+23:24 startup because maybe the role requires
+23:26 
+
+23:26 them to be like more flexible less um
+23:29 
+
+23:29 like the dictative like role so it have
+23:32 
+
+23:32 to be very fluid if you were to be
+23:34 
+
+23:34 working in a startup whereas if you work
+23:37 
+
+23:37 in a huge corporate you know Society you
+23:41 
+
+23:41 probably would see that there's not a
+23:43 
+
+23:43 need where you need to be very
+23:45 
+
+23:45 specialized into multiple areas where I
+23:49 
+
+23:49 think a lot of times if you were to work
+23:51 
+
+23:51 for big corporate they tend to look at
+23:53 
+
+23:53 very Silo experiences and they tend to
+23:57 
+
+23:57 hire people like that because they like
+23:59 
+
+23:59 part of that whereas for a startup they
+24:02 
+
+24:02 want someone that is comfortable to
+24:04 
+
+24:04 double into multiple tools and projects
+24:08 
+
+24:08 and and even though they don't have that
+24:10 
+
+24:10 technical skill they will want that
+24:13 
+
+24:13 person to actually build up their
+24:15 
+
+24:15 experience or their exposure into that
+24:17 
+
+24:17 space so not necessarily you need to
+24:20 
+
+24:20 have it but if you do site projects like
+24:23 
+
+24:23 that it actually do showcase that you're
+24:25 
+
+24:25 someone that is very versatile you're
+24:27 
+
+24:27 able to you know wear multiple heads oh
+24:31 
+
+24:31 that's actually interesting because we
+24:32 
+
+24:32 did like you know the conversation about
+24:34 
+
+24:34 startups versus like larger corporations
+24:37 
+
+24:37 like what's the difference we talk about
+24:39 
+
+24:39 what's the difference working in there
+24:40 
+
+24:40 but we've never talked about the
+24:42 
+
+24:42 difference from a recruiter's
+24:43 
+
+24:43 perspective when I recruit but I guess
+24:45 
+
+24:45 going down to like the value sets you're
+24:47 
+
+24:47 looking at it makes sense that in a
+24:49 
+
+24:49 startup you want somebody who um is more
+24:52 
+
+24:52 Diversified you know um it's more
+24:54 
+
+24:54 proactive in trying different things so
+24:57 
+
+24:57 when they talk about their side projects
+24:59 
+
+24:59 you're looking out for things like um
+25:01 
+
+25:01 you you've tried this out and that out
+25:03 
+
+25:03 different roles different stacks and
+25:05 
+
+25:05 stuff like that and that resourcefulness
+25:07 
+
+25:07 to like find different solutions would
+25:09 
+
+25:09 be important to like a startup but
+25:12 
+
+25:12 perhaps like not saying that site
+25:13 
+
+25:13 projects aren't important for recruiting
+25:15 
+
+25:15 for larger companies but in those type
+25:17 
+
+25:17 projects you might want to look at more
+25:19 
+
+25:19 like I use this type project to double
+25:21 
+
+25:21 in this specific skill set would you say
+25:23 
+
+25:23 that correct so you're you're trying to
+25:25 
+
+25:25 elucidate different things and it's not
+25:27 
+
+25:27 so much about the quantity the projects
+25:29 
+
+25:29 right correct about what did you take
+25:31 
+
+25:31 away from it corre imagine yeah and
+25:34 
+
+25:34 sometimes when we interview these
+25:36 
+
+25:36 candidates we actually dive even deeper
+25:39 
+
+25:39 into why they decided to start this site
+25:41 
+
+25:41 project so not necessarily about their
+25:44 
+
+25:44 day job sometimes it's all about like
+25:45 
+
+25:45 what they do outside of their work as
+25:47 
+
+25:47 well and figuring out why they do this
+25:50 
+
+25:50 and what is the whole idea about it like
+25:53 
+
+25:53 why do you um start something like that
+25:56 
+
+25:56 you know so a lot of times we kind of
+25:59 
+
+25:59 see another Anger from their perspective
+26:02 
+
+26:02 and we do see whether or not they are a
+26:04 
+
+26:04 potential candidate that could be a good
+26:07 
+
+26:07 fit to the company and as well as
+26:10 
+
+26:10 looking at whether or not if they are
+26:12 
+
+26:12 resilient enough to actually do multiple
+26:15 
+
+26:15 things or even to work with you know the
+26:18 
+
+26:18 senior stakeholders right within the
+26:20 
+
+26:20 firm right because not necessarily
+26:22 
+
+26:22 sometimes you need to build everything
+26:24 
+
+26:24 within a day or two but you actually do
+26:27 
+
+26:27 need to actually speak to to your
+26:29 
+
+26:29 stakeholders and actually convince them
+26:32 
+
+26:32 what this whole idea is so we do tend to
+26:35 
+
+26:35 look at multiple um angle and also
+26:39 
+
+26:39 looking at how this would actually
+26:41 
+
+26:41 translate that during uh the interview
+26:43 
+
+26:43 as well and we take all this information
+26:46 
+
+26:46 we furnish this to our hiring managers
+26:49 
+
+26:49 to give them a whole report about what
+26:51 
+
+26:51 this candidate could be uh could be
+26:54 
+
+26:54 their strengths and what are some of the
+26:57 
+
+26:57 probably not cons but more of what are
+26:59 
+
+26:59 self areas of development for them as
+27:01 
+
+27:01 well so we do actually also take this uh
+27:04 
+
+27:04 to candidates sometimes uh to actually
+27:07 
+
+27:07 show them like what are some areas that
+27:09 
+
+27:09 you might missed out during interview
+27:12 
+
+27:12 that could be yeah could be useful not
+27:14 
+
+27:14 necessarily all of them I because we do
+27:16 
+
+27:16 have like thousands of candidates if you
+27:19 
+
+27:19 were to look at the process right but we
+27:21 
+
+27:21 do try to be intentional if let's say we
+27:24 
+
+27:24 do have good feedbacks from the hiring
+27:26 
+
+27:26 managers we do want to share that with
+27:28 
+
+27:28 the candidates as well because I do
+27:30 
+
+27:30 understand that interviewing is very
+27:32 
+
+27:32 lengthy so we want to make sure that
+27:34 
+
+27:34 they get the best out of it and
+27:36 
+
+27:36 hopefully their next interview they will
+27:38 
+
+27:38 score really well and hopefully they get
+27:40 
+
+27:40 you know they get a good role as well
+27:42 
+
+27:42 for themselves yeah yeah
+27:52 
+
+27:52 [Music]

@@ -75,7 +75,7 @@ function UnsubscribeContent() {
           >
             <div className="flex justify-center mb-6">
               <Image
-                src="/assets/capybara-crying.png"
+                src="/assets/techybara/techybara-crying.png"
                 alt="Goodbye"
                 width={128}
                 height={175}

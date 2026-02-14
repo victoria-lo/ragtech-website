@@ -1,0 +1,24 @@
+{
+  "name": "ai-burnout-delegation-fatigue",
+  "videoId": "sG0N932FJ5k",
+  "slides": [
+    {
+      "topTimestamp": 1676,
+      "bottomTimestamp": 1678,
+      "topText": "There's something called delegation fatigue.",
+      "bottomText": "I don't know if delegation fatigue has been linked to LLMs yet..."
+    },
+    {
+      "topTimestamp": 1685,
+      "bottomTimestamp": 1688,
+      "topText": "But you see this a lot in managerial positions.",
+      "bottomText": "Some managers end up just doing the work themselves"
+    },
+    {
+      "topTimestamp": 1693,
+      "bottomTimestamp": 1697,
+      "topText": "because they're so tired of going through the process of breaking tasks down,",
+      "bottomText": "having to understand what this subordinate can do, what the strikes and misses are."
+    }
+  ]
+}

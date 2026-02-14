@@ -1,0 +1,2725 @@
+00:01 hello everyone welcome to re Tech the
+00:04 
+
+00:04 place where we bite and Bush made me say
+00:09 
+
+00:09 you you
+00:11 
+
+00:11 made oh my God it actually happened hi
+00:14 
+
+00:14 everybody Welcome to re tag the place
+00:16 
+
+00:16 where we share byes and Venture my name
+00:18 
+
+00:18 is Natasha I'm a software engineer I'm
+00:20 
+
+00:20 Salon software developer and I'm
+00:22 
+
+00:22 Victoria Solutions engineer and together
+00:24 
+
+00:24 we are re tag today's episode will be
+00:26 
+
+00:26 all about running a community um three
+00:28 
+
+00:28 of us are actually in a common Tech
+00:31 
+
+00:31 Community called women of code it's a
+00:32 
+
+00:32 global uh Community yep as you can see
+00:36 
+
+00:36 yeah and we're in the Singapore chapter
+00:38 
+
+00:38 of that Community um it has like it's
+00:40 
+
+00:40 over 147 countries all over the world
+00:43 
+
+00:43 but uh we are specifically in the
+00:44 
+
+00:44 Singapore chapter because we're in
+00:46 
+
+00:46 Singapore so uh this episode will be all
+00:49 
+
+00:49 about like what it means to be in a
+00:51 
+
+00:51 community um maybe our Journeys as to
+00:53 
+
+00:53 how we found this community in the first
+00:55 
+
+00:55 place especially as people uh in the uh
+00:58 
+
+00:58 Tech world and also uh how we run it
+01:01 
+
+01:01 because we're uh not only just like U
+01:03 
+
+01:03 participating in the activities we're
+01:05 
+
+01:05 part of like the organizing um crew as
+01:08 
+
+01:08 well so uh to start off maybe we should
+01:10 
+
+01:10 introduce our own roles in the community
+01:13 
+
+01:13 so um we're going to do a reintro again
+01:15 
+
+01:15 I guess uh I'm Natasha but uh I'm one of
+01:17 
+
+01:17 like the evangelists in women of code um
+01:20 
+
+01:20 we'll explain what an evangelist is
+01:22 
+
+01:22 later um but Salone yep I am sonone I
+01:26 
+
+01:26 will I'm the director at wom who code uh
+01:29 
+
+01:29 we have two directors so I'm the code
+01:30 
+
+01:30 director M and I'm Victoria I'm also
+01:32 
+
+01:32 evangelist in Womanhood Cod yeah so um
+01:36 
+
+01:36 basically um I think our community uh
+01:40 
+
+01:40 we're we're we're going to like use our
+01:41 
+
+01:41 community as an anecdote but uh this is
+01:44 
+
+01:44 not how all communities are run
+01:45 
+
+01:45 obviously U we'll be speaking from our
+01:47 
+
+01:47 experiences but we just want to like be
+01:49 
+
+01:49 able to introduce um our experiences
+01:51 
+
+01:51 with common understanding so for in the
+01:53 
+
+01:53 first place like a director you want to
+01:56 
+
+01:56 explain your role of a director really
+01:57 
+
+01:57 quickly yeah so as as the Director of
+01:59 
+
+01:59 women so as Natasha explained we are the
+02:02 
+
+02:02 Singapore chapter so uh my role as the
+02:05 
+
+02:05 Director would be to I I'll just ensure
+02:08 
+
+02:08 the Run of events where we try to one
+02:11 
+
+02:11 event per month it could be online or in
+02:14 
+
+02:14 person the main aim of this commun this
+02:16 
+
+02:16 Tech Community is to encourage more
+02:19 
+
+02:19 women to remain and Excel in Tech
+02:22 
+
+02:22 careers so we'll do uh sessions
+02:25 
+
+02:25 workshops around it we'll have uh
+02:28 
+
+02:28 different verticals within the community
+02:30 
+
+02:30 so like cyber security software
+02:32 
+
+02:32 development uh data science data science
+02:35 
+
+02:35 AI so there are different verticals
+02:37 
+
+02:37 there will be different events for each
+02:38 
+
+02:38 of these verticles I'll ensure that is
+02:41 
+
+02:41 an event we are abiding by the global uh
+02:44 
+
+02:44 rules policies that we have for women
+02:46 
+
+02:46 who code and uh any Partnerships or uh
+02:50 
+
+02:50 you can say that I'll be the face of the
+02:53 
+
+02:53 Singapore chapter so that's how we do it
+02:56 
+
+02:56 and evangelist evangelist Victoria so
+02:60 
+
+02:60 evangelist is basically like the person
+03:02 
+
+03:02 who kind of promotes events on social
+03:06 
+
+03:06 media about womenhood code uh for me I
+03:09 
+
+03:09 also see evangelist as someone who is
+03:11 
+
+03:11 actively participating when organizing
+03:14 
+
+03:14 the event so I'm doing both like
+03:17 
+
+03:17 organizing the event like handling
+03:19 
+
+03:19 Logistics as well if needed to and as
+03:22 
+
+03:22 well as social media marketing so in a
+03:24 
+
+03:24 way doing all those also I think
+03:26 
+
+03:26 evangelists also help out on the day of
+03:29 
+
+03:29 the event if they have time they'll go
+03:31 
+
+03:31 in and volunteer as well that's why we
+03:33 
+
+03:33 have the shirts well except for me there
+03:35 
+
+03:35 was a supply chain
+03:37 
+
+03:37 disruption she'll get her shirt soon we
+03:40 
+
+03:40 hope to see her in her shirt soon uh but
+03:42 
+
+03:42 yeah so that is kind of how I see an
+03:44 
+
+03:44 evangelist role is someone who can
+03:46 
+
+03:46 actually lead the marketing campaigns as
+03:49 
+
+03:49 well as like promote and showcase the
+03:52 
+
+03:52 voice of womenhood code within those
+03:54 
+
+03:54 social media platforms do you have
+03:56 
+
+03:56 another persp I mean real quickly I
+03:58 
+
+03:58 wanted to like say something funny did
+03:59 
+
+03:59 you realized the term evangelist while
+04:02 
+
+04:02 it's commonly used in like the tech
+04:04 
+
+04:04 industry as a whole it's a very strange
+04:05 
+
+04:05 term that's only used in Cults I had
+04:08 
+
+04:08 like a non- techie friend like when I
+04:10 
+
+04:10 was introducing myself and she was like
+04:12 
+
+04:12 are you in a cult and I was like what do
+04:13 
+
+04:13 you mean and I realized like yeah to
+04:15 
+
+04:15 evangelize you know to spre the word
+04:17 
+
+04:17 like I realized like why do we use such
+04:19 
+
+04:19 cultish names in a tech industry okay so
+04:21 
+
+04:21 you know uh I don't know where the term
+04:23 
+
+04:23 I I I it it has a similar connotation
+04:26 
+
+04:26 yes but um I don't know why it's in the
+04:28 
+
+04:28 tech industry it's a welled term it's
+04:30 
+
+04:30 not just for like women who code you
+04:32 
+
+04:32 will see that in actual job titles so um
+04:36 
+
+04:36 just putting it out there uh but for
+04:37 
+
+04:37 evangelist yeah basically what Victoria
+04:39 
+
+04:39 says we're just active like voices of
+04:42 
+
+04:42 like the community we represent you'll
+04:43 
+
+04:43 also see this role in the companies as
+04:45 
+
+04:45 well where they're trying to evangelize
+04:47 
+
+04:47 and spread the word on their own
+04:49 
+
+04:49 products uh so these people are like
+04:51 
+
+04:51 sort of the phas and the brand
+04:53 
+
+04:53 ambassadors of the company so that's
+04:54 
+
+04:54 just kind of like what our role is so um
+04:58 
+
+04:58 so like these Tech communities they
+04:59 
+
+04:59 actually just uh volunteer groups and
+05:02 
+
+05:02 these roles are not uh like fixed like a
+05:05 
+
+05:05 job role it is just a term we give to
+05:08 
+
+05:08 like different members of the of the
+05:11 
+
+05:11 group so that there is a duty to do but
+05:13 
+
+05:13 everyone can do everything yeah so we
+05:16 
+
+05:16 have uh General volunteers we have
+05:18 
+
+05:18 Avengers we have leads uh they have like
+05:21 
+
+05:21 specific there are like some ground
+05:23 
+
+05:23 rules ground roles Scopes to follow but
+05:27 
+
+05:27 everyone is allowed to and to do
+05:29 
+
+05:29 anything because it's a volunteer role
+05:32 
+
+05:32 uh even for me like no one's paid to do
+05:35 
+
+05:35 it so I wanted to ask like why did you
+05:38 
+
+05:38 join a Tech
+05:40 
+
+05:40 Community yeah I think for myself um I
+05:43 
+
+05:43 actually joined women Cod like I'm the
+05:45 
+
+05:45 most recent member I would say amongst
+05:47 
+
+05:47 three of us I joined like somewhere late
+05:48 
+
+05:48 last year um I had like how I got
+05:51 
+
+05:51 introduced to women of Co was actually
+05:52 
+
+05:52 through a panel that uh women Co was
+05:55 
+
+05:55 organizing and I was invited to be one
+05:57 
+
+05:57 of panelists by um uh one of our fellow
+05:59 
+
+05:59 um um women to quote leads at that point
+06:03 
+
+06:03 um and that was how I got introduced to
+06:06 
+
+06:06 the Tech Community uh to the idea of
+06:08 
+
+06:08 what a Tech Community was in the first
+06:10 
+
+06:10 place um I between the panel and
+06:13 
+
+06:13 actually joining um I actually put off
+06:15 
+
+06:15 really like joining joining because um I
+06:17 
+
+06:17 was afraid of the responsibility and I
+06:19 
+
+06:19 didn't know if I needed one at a point
+06:21 
+
+06:21 but I ended up joining at the point
+06:23 
+
+06:23 where I was at a very low point in my
+06:25 
+
+06:25 career I was very lost and um Beyond um
+06:30 
+
+06:30 you know working for my organization I
+06:32 
+
+06:32 started getting kind of like confused as
+06:34 
+
+06:34 to why I was in tech in the first place
+06:37 
+
+06:37 you know I felt like I didn't have um
+06:40 
+
+06:40 like um similar voices around me
+06:42 
+
+06:42 different experiences to learn from and
+06:44 
+
+06:44 I was in an organization that I was the
+06:47 
+
+06:47 only female software engineer um for
+06:51 
+
+06:51 like many years um and I realized like
+06:54 
+
+06:54 wow I la like having you know women
+06:56 
+
+06:56 friends around me who were talking about
+06:59 
+
+06:59 uh Tech and being Tech um and I just
+07:02 
+
+07:02 realized I felt very alone and um being
+07:05 
+
+07:05 in that one panel I realized like wait
+07:07 
+
+07:07 actually that was one of the first few
+07:08 
+
+07:08 times that I saw that one more more than
+07:10 
+
+07:10 one woman you know being in Tech in in
+07:13 
+
+07:13 like a an event so I decided to take the
+07:17 
+
+07:17 plch and join it um and I was right I
+07:20 
+
+07:20 did find a community of very diverse
+07:22 
+
+07:22 like uh women and men actually like
+07:25 
+
+07:25 obviously even though we're called women
+07:27 
+
+07:27 who quote I I don't I don't see a
+07:29 
+
+07:29 distinction per se like we are exclusive
+07:32 
+
+07:32 to women it's just more of like we want
+07:34 
+
+07:34 to uh provide that platform for people
+07:37 
+
+07:37 to see that they are they themselves are
+07:40 
+
+07:40 represented um to feel encouraged to
+07:42 
+
+07:42 reach out to join just like I did you
+07:44 
+
+07:44 know when I realized like wait everybody
+07:47 
+
+07:47 around me you know uh don't they don't
+07:49 
+
+07:49 look like me they have like experiences
+07:52 
+
+07:52 even though valuable to learn from are
+07:54 
+
+07:54 not the same as what I would and I need
+07:56 
+
+07:56 somebody to uh learn from that can share
+07:59 
+
+07:59 um similar problems um so that's kind of
+08:02 
+
+08:02 like how I ended up joining women of
+08:04 
+
+08:04 code um but yeah what about Victoria for
+08:07 
+
+08:07 yourself oh yeah I was just like smiling
+08:09 
+
+08:09 the whole time cuz I was admiring the
+08:11 
+
+08:11 your your journey and how you found
+08:13 
+
+08:13 woman code I think that's really nice
+08:15 
+
+08:15 and I I'm very glad that you found this
+08:17 
+
+08:17 community and we're super also glad that
+08:19 
+
+08:19 you know we can be a part of this cuz we
+08:21 
+
+08:21 met true woman who C right true so I
+08:23 
+
+08:23 just feeling sentimental oh that's true
+08:26 
+
+08:26 I just feel like yeah um but yeah for me
+08:29 
+
+08:29 um I actually got to know a woman who
+08:30 
+
+08:30 Cote from a friend so actually at the
+08:33 
+
+08:33 time I was quite active like online
+08:35 
+
+08:35 already in the Tech Community like
+08:37 
+
+08:37 online tech community so I was looking
+08:39 
+
+08:39 for something more offline some like I
+08:41 
+
+08:41 can meet people in real life cuz you
+08:43 
+
+08:43 know I've always been just existing
+08:45 
+
+08:45 online and people know about toline
+08:48 
+
+08:48 online avatar yeah like I'm just we're
+08:50 
+
+08:50 sounding like the metaverse now yeah
+08:52 
+
+08:52 like I'm just this 2D Avatar holding a
+08:54 
+
+08:54 cup of tea you know so I I I I liked it
+08:57 
+
+08:57 I enjoyed it but I feel like I need to
+08:59 
+
+08:59 talk to to people in real life you know
+09:01 
+
+09:01 I need to meet people in real life and I
+09:03 
+
+09:03 want to feel like my community like I
+09:05 
+
+09:05 contribute to my community like directly
+09:08 
+
+09:08 so that's why I was looking for a local
+09:09 
+
+09:09 community to join and then my friend
+09:12 
+
+09:12 invited me she was a lead at Womanhood
+09:14 
+
+09:14 code so she invited me to join she's
+09:16 
+
+09:16 like how about Womanhood code you know I
+09:17 
+
+09:17 think this role would be suitable for
+09:19 
+
+09:19 you so I joined without much um
+09:23 
+
+09:23 expectation yeah because I thought you
+09:24 
+
+09:24 know it's just like you know a small
+09:26 
+
+09:26 volunteer role that I can do but what
+09:29 
+
+09:29 taught me off guard is that every single
+09:32 
+
+09:32 person like we meet for the first time
+09:33 
+
+09:33 in like a group setting and every single
+09:35 
+
+09:35 person I meet is like so passionate
+09:37 
+
+09:37 about like contributing to the community
+09:40 
+
+09:40 and sharing that same values as me like
+09:41 
+
+09:41 being able to like just join and just
+09:43 
+
+09:43 take your time off from like any other
+09:46 
+
+09:46 things to volunteer for this to actually
+09:48 
+
+09:48 make Community impact building
+09:51 
+
+09:51 communities running community events
+09:54 
+
+09:54 like we all share that same passion and
+09:55 
+
+09:55 I'm like very surprised cuz it's so
+09:58 
+
+09:58 different from like in online where like
+09:60 
+
+09:60 I'm just talking and I'm sharing stuff
+10:01 
+
+10:01 and then people comment and I learn from
+10:04 
+
+10:04 other people online it's more like you
+10:06 
+
+10:06 are the Forefront of you know organizing
+10:09 
+
+10:09 communities so you are the one who are
+10:11 
+
+10:11 actually initiating community events
+10:14 
+
+10:14 like I just find that so refreshing in a
+10:17 
+
+10:17 way like I wanted to be a part of that
+10:20 
+
+10:20 and so uh I joined February last year
+10:23 
+
+10:23 and immediately I knew that this is for
+10:25 
+
+10:25 me and like this is something I want to
+10:26 
+
+10:26 do um in my spare time this is what I
+10:29 
+
+10:29 want to do to give back um everything
+10:31 
+
+10:31 that I've received from the tech
+10:32 
+
+10:32 community so that's kind of the reason
+10:34 
+
+10:34 why I joined and I'm always super
+10:35 
+
+10:35 inspired by all our members like if you
+10:38 
+
+10:38 just talk to them they always have their
+10:40 
+
+10:40 own reasons for joining as well but when
+10:42 
+
+10:42 I find out about all their Reasons I'm
+10:44 
+
+10:44 always super inspired by each and every
+10:46 
+
+10:46 one of them that I had to write a blog
+10:49 
+
+10:49 post about it so I remember in the first
+10:51 
+
+10:51 week I joined we're just talking like
+10:53 
+
+10:53 for dinner for pizza and then
+10:55 
+
+10:55 immediately I was like suggesting let us
+10:58 
+
+10:58 like start this blog and create stuff
+10:60 
+
+10:60 and like there's just so many things to
+11:02 
+
+11:02 talk about with them cuz we are all
+11:03 
+
+11:03 passionate and we all have that same
+11:05 
+
+11:05 fire that we want to do something for
+11:07 
+
+11:07 the community so it's so easy to like
+11:09 
+
+11:09 you know be with the same like-minded
+11:11 
+
+11:11 type of people that you know can share
+11:13 
+
+11:13 that values I think it's really amazing
+11:15 
+
+11:15 so far yeah we will do a Shameless plug
+11:18 
+
+11:18 where we uh link uh Victoria's blog post
+11:22 
+
+11:22 with this video when it's post oh my
+11:25 
+
+11:25 okay so we'll do that all right yeah
+11:27 
+
+11:27 yeah but what about you Sal you
+11:30 
+
+11:30 literally like you're what does how did
+11:31 
+
+11:31 you become a director like okay so so
+11:34 
+
+11:34 how I started it was so very similar
+11:36 
+
+11:36 basically uh when I graduated I I was
+11:40 
+
+11:40 like not the only woman but one of the
+11:42 
+
+11:42 two woman engineers in my in the team
+11:46 
+
+11:46 and I did feel like wait I I need to see
+11:49 
+
+11:49 a few more of my kind of people to see
+11:52 
+
+11:52 that this is a sustainable career and
+11:54 
+
+11:54 there are women engineers at the top or
+11:56 
+
+11:56 you know senior women Engineers or
+11:59 
+
+11:59 something so then I came about other
+12:01 
+
+12:01 Tech communities like uh girls in Tech
+12:04 
+
+12:04 actually so so there are like uh Tech
+12:07 
+
+12:07 communities which are for everyone those
+12:09 
+
+12:09 are there so like Junior Dev SG uh and a
+12:13 
+
+12:13 few others angular Dev meetups and stuff
+12:16 
+
+12:16 but every time I would go for those
+12:18 
+
+12:18 community events it would be 100 men
+12:21 
+
+12:21 with like one or two women and it would
+12:25 
+
+12:25 be super super awkward uh I did not like
+12:28 
+
+12:28 that at all and so that that's why I was
+12:31 
+
+12:31 drawn more towards girls in Tech kind of
+12:33 
+
+12:33 community so with girls in Tech it was
+12:36 
+
+12:36 at that point it was I would join them
+12:38 
+
+12:38 so it's always like a telegram or like a
+12:41 
+
+12:41 slack app we would go for events
+12:44 
+
+12:44 together so events in that case would be
+12:45 
+
+12:45 like go to schools like primary schools
+12:48 
+
+12:48 secondary schools talk to girls have
+12:50 
+
+12:50 like a coding Workshop or like you know
+12:52 
+
+12:52 those D drag and drop coding kind of
+12:54 
+
+12:54 sessions scratch so yeah like scratch so
+12:57 
+
+12:57 then I would go for those events and
+12:59 
+
+12:59 then that when I realized like it's
+13:01 
+
+13:01 actually quite nice to be like kind of
+13:02 
+
+13:02 inspiring these young girls uh that you
+13:05 
+
+13:05 know I'm I'm a soft a job or you can be
+13:07 
+
+13:07 one to kind of thing so then that's how
+13:10 
+
+13:10 I got more involved with the with the
+13:11 
+
+13:11 community there were so many other women
+13:13 
+
+13:13 who were much uh senior than me in that
+13:16 
+
+13:16 time so I I was like Amazed by them like
+13:19 
+
+13:19 wow they're doing so much for the
+13:20 
+
+13:20 community like I should look up to them
+13:22 
+
+13:22 so then that's how I got involved in the
+13:24 
+
+13:24 community so then it it started going
+13:26 
+
+13:26 from girls in Tech which was more for
+13:30 
+
+13:30 which at that point felt more for like
+13:31 
+
+13:31 the younger girls and then I moved to
+13:34 
+
+13:34 Tech ladies another Community which was
+13:36 
+
+13:36 more for entry level developers wow it's
+13:39 
+
+13:39 a whole coming of age it's just so
+13:42 
+
+13:42 happened for me that way that it it
+13:44 
+
+13:44 became like that so then in Tech ladies
+13:47 
+
+13:47 we had like mentorship programs boot
+13:49 
+
+13:49 camps I got to be like a boot camp coach
+13:51 
+
+13:51 uh so that was great as well and then uh
+13:54 
+
+13:54 finally like woman who code was always
+13:57 
+
+13:57 uh around and uh at point but I never
+13:60 
+
+13:60 like went to those events yet or like I
+14:03 
+
+14:03 would attend some events uh somehow I
+14:06 
+
+14:06 got to know the previous director uh we
+14:09 
+
+14:09 we talked and then I expressed interest
+14:12 
+
+14:12 cuz she was leaving she was finding the
+14:13 
+
+14:13 next successor so we talked and I was
+14:16 
+
+14:16 like you know I've been a part of tech
+14:18 
+
+14:18 communities for quite some time I have
+14:19 
+
+14:19 been like doing events and stuff I might
+14:23 
+
+14:23 uh give give it a try actually cuz I am
+14:26 
+
+14:26 passionate about this I always want to
+14:28 
+
+14:28 see like more women and genus in my team
+14:30 
+
+14:30 cuz I feel men and women they bring
+14:33 
+
+14:33 different Dynamics to a team and I
+14:36 
+
+14:36 usually feel a bit more comfortable
+14:37 
+
+14:37 knowing that there's another female
+14:39 
+
+14:39 software developer like maybe not in the
+14:41 
+
+14:41 same team but maybe even in another team
+14:43 
+
+14:43 I can see her around right cuz Believe
+14:45 
+
+14:45 It or Not There are
+14:47 
+
+14:47 some uh I don't know discrimination or
+14:50 
+
+14:50 like uh
+14:52 
+
+14:52 some underconfidence kind of thing that
+14:55 
+
+14:55 does happen around a lot more confident
+14:58 
+
+14:58 men for example so so I I was drawn
+15:01 
+
+15:01 towards I was always passionate about
+15:02 
+
+15:02 having more women in Tech so therefore
+15:05 
+
+15:05 like then I went I came became the
+15:07 
+
+15:07 director at women who Cod uh that's
+15:09 
+
+15:09 where I started loving it because I
+15:11 
+
+15:11 started realizing that my leadership
+15:13 
+
+15:13 qualities like or like what I can
+15:15 
+
+15:15 improve on to you know be a better
+15:18 
+
+15:18 leader and I love being a leader now
+15:22 
+
+15:22 like and and of course like the reason
+15:25 
+
+15:25 why I stayed in a in a community is also
+15:27 
+
+15:27 because uh it's a volunteer thing so
+15:30 
+
+15:30 only when I'm free that's when I'll be a
+15:32 
+
+15:32 part of a event part of a boot camp or a
+15:35 
+
+15:35 program so everyone there uh with their
+15:39 
+
+15:39 own uh volunteer time so they have time
+15:42 
+
+15:42 therefore they are there and there's no
+15:43 
+
+15:43 like obligation or anything you work at
+15:46 
+
+15:46 your own time just ensure that we are
+15:48 
+
+15:48 designing a program that's doable that's
+15:51 
+
+15:51 you know that they'll bring value to
+15:53 
+
+15:53 others uh and of course the networking I
+15:56 
+
+15:56 think that's the most plus point about
+15:59 
+
+15:59 being in a community I actually now have
+16:02 
+
+16:02 a lot more software developer
+16:04 
+
+16:04 friends uh and you know seniors Juniors
+16:08 
+
+16:08 we all help each other out we learn from
+16:10 
+
+16:10 each other we will refer each other uh
+16:13 
+
+16:13 Give opinions I I just love that there's
+16:16 
+
+16:16 a support group kind of around us yeah I
+16:20 
+
+16:20 like how I like that I like that how you
+16:22 
+
+16:22 mentioned about networking because I
+16:24 
+
+16:24 think this is just my personal like
+16:28 
+
+16:28 myself I'm introvert so like the word
+16:31 
+
+16:31 networking scares me a lot like me
+16:34 
+
+16:34 imagine me going to networking events
+16:36 
+
+16:36 I'll just be in the corner like oh my
+16:38 
+
+16:38 God who do I talk to I'm so I would be
+16:39 
+
+16:39 like that too actually yeah so if I
+16:42 
+
+16:42 could so it's but see you push yourself
+16:45 
+
+16:45 you by becoming director you share you
+16:48 
+
+16:48 actually learn from it as well not only
+16:49 
+
+16:49 are you giving back to the community but
+16:51 
+
+16:51 you also gain something back in return
+16:53 
+
+16:53 definitely yeah so that's what I love
+16:54 
+
+16:54 about joining a community cuz I too um
+16:57 
+
+16:57 when I go in my mindset was like I'm
+16:59 
+
+16:59 going to give back but I didn't expect
+17:01 
+
+17:01 all these gifts back right I love that
+17:04 
+
+17:04 yeah so that is a huge part that I think
+17:06 
+
+17:06 a lot of people don't realize as well
+17:08 
+
+17:08 they say why am I doing my time
+17:10 
+
+17:10 volunteering for this like what if I
+17:11 
+
+17:11 don't have time or like that you can
+17:13 
+
+17:13 always make the time if you want to like
+17:15 
+
+17:15 if you prioritize it you can make the
+17:17 
+
+17:17 time and then who knows you'll get
+17:19 
+
+17:19 something back so that is something that
+17:21 
+
+17:21 it really um is important to me when I
+17:24 
+
+17:24 was doing all these Community I realized
+17:26 
+
+17:26 that oh it's so unexpected but you know
+17:28 
+
+17:28 all these people that I randomly meet is
+17:30 
+
+17:30 like it becomes a a network right like I
+17:34 
+
+17:34 didn't expect it but it's a great thing
+17:36 
+
+17:36 that came out from it yeah so what about
+17:39 
+
+17:39 Natasha I'm curious like is there
+17:41 
+
+17:41 anything that you've gained from joining
+17:43 
+
+17:43 woman who so far yeah I I think like um
+17:46 
+
+17:46 there's been a big difference into how
+17:48 
+
+17:48 you know I saw myself as an engineer
+17:51 
+
+17:51 prior to joining and then after joining
+17:53 
+
+17:53 I think prior to joining I was um
+17:56 
+
+17:56 obsessed with you know being technically
+17:59 
+
+17:59 good and wanting to prove myself as
+18:02 
+
+18:02 having that technical um competence um
+18:06 
+
+18:06 to be equal to my PS or like you know
+18:09 
+
+18:09 constantly trying to focus on that but I
+18:11 
+
+18:11 think after joining a community I
+18:14 
+
+18:14 realized a value of like sharing my
+18:17 
+
+18:17 experience and not so much needing to
+18:19 
+
+18:19 like prove to people that I'm good but
+18:21 
+
+18:21 to realize that wait there are so many
+18:23 
+
+18:23 people out there who are like so amazing
+18:25 
+
+18:25 in what they do but you know I don't see
+18:27 
+
+18:27 anybody as you know high up low up we
+18:30 
+
+18:30 all have like different experiences it's
+18:32 
+
+18:32 so hard to compare our even though we we
+18:35 
+
+18:35 can all call us our software Engineers
+18:37 
+
+18:37 you know in a group but at the same time
+18:40 
+
+18:40 we it's so hard to compare our
+18:42 
+
+18:42 experiences and say say who is better
+18:43 
+
+18:43 than the other because it um it's
+18:46 
+
+18:46 different everybody has their own
+18:47 
+
+18:47 Journeys and I also realize everybody
+18:48 
+
+18:48 has their own insecurities as well
+18:50 
+
+18:50 that's something that I think um I
+18:52 
+
+18:52 didn't expect to connect with a lot of
+18:54 
+
+18:54 people about be it whether you're a
+18:56 
+
+18:56 woman or a man like I think especially
+18:59 
+
+18:59 in Tech it can feel very lonely it can
+19:01 
+
+19:01 feel like the focus is only on being
+19:04 
+
+19:04 technically competent and because of
+19:06 
+
+19:06 that you're constantly trying to be
+19:07 
+
+19:07 better and there's a lot of insecurities
+19:09 
+
+19:09 driving that but it's only when you join
+19:11 
+
+19:11 a community and you realize everybody is
+19:13 
+
+19:13 their own in their own Journeys that you
+19:15 
+
+19:15 realize that that part is not important
+19:19 
+
+19:19 to your identity as like a person as an
+19:21 
+
+19:21 engineer it's about being in this
+19:24 
+
+19:24 community that's always learning and
+19:25 
+
+19:25 growing together learning through
+19:27 
+
+19:27 different experiences and I think that
+19:29 
+
+19:29 was the biggest part for me like really
+19:32 
+
+19:32 changing The Narrative of like my
+19:33 
+
+19:33 identity as an engineer so um that
+19:36 
+
+19:36 that's one part uh and I think the
+19:38 
+
+19:38 second part is also realizing that I
+19:40 
+
+19:40 have more to give as uh Beyond just
+19:43 
+
+19:43 being an engineer um so really expanding
+19:45 
+
+19:45 my identity uh uh outside of that so
+19:48 
+
+19:48 funnily enough I know like when I joined
+19:50 
+
+19:50 a community and then after that you know
+19:52 
+
+19:52 I started participating in the events
+19:54 
+
+19:54 helping out with mcing um reaching out
+19:56 
+
+19:56 to people um I didn't expect people to
+19:59 
+
+19:59 in the community to come up to me and
+20:00 
+
+20:00 say like how how are you doing these
+20:02 
+
+20:02 things like how are you so good at like
+20:04 
+
+20:04 networking I quot and quote because I'm
+20:05 
+
+20:05 still uncomfortable with that term
+20:07 
+
+20:07 because it's just making friends and
+20:09 
+
+20:09 connecting with people but networking
+20:10 
+
+20:10 makes it sound very LinkedIn you know I
+20:12 
+
+20:12 know I joked about I joke about LinkedIn
+20:14 
+
+20:14 a lot but still I still feel
+20:15 
+
+20:15 uncomfortable with that but you know
+20:17 
+
+20:17 even like talking and uh uh uh mcing and
+20:20 
+
+20:20 stuff like that I never wanted to
+20:22 
+
+20:22 identify with those skills in fact like
+20:25 
+
+20:25 actually before uh I decided to become a
+20:27 
+
+20:27 software engineer I consider going to
+20:29 
+
+20:29 Communications and becoming like a
+20:30 
+
+20:30 television show host and news anchor
+20:32 
+
+20:32 that was like my supposed P you would be
+20:34 
+
+20:34 great at that no the thing is like what
+20:37 
+
+20:37 stopped it was I actually went through
+20:38 
+
+20:38 like a uh radio hosting competition when
+20:41 
+
+20:41 I was 16 and I actually got through all
+20:43 
+
+20:43 the way to the finals and they told me I
+20:44 
+
+20:44 had to drop my old levels so I was just
+20:46 
+
+20:46 like what no obviously my parents say no
+20:49 
+
+20:49 and I was just like okay end of that
+20:50 
+
+20:50 dream but you know because of that and I
+20:53 
+
+20:53 thought like this skill kind of like um
+20:56 
+
+20:56 was too contrasting to being an engineer
+20:59 
+
+20:59 it feels like two different things and I
+21:00 
+
+21:00 didn't want people to say oh she's just
+21:01 
+
+21:01 like that engineer who like talks well
+21:03 
+
+21:03 so I actually for like many years of my
+21:06 
+
+21:06 life I didn't want to be associated with
+21:08 
+
+21:08 hosting with anything cuz I wanted
+21:10 
+
+21:10 suppressed this side of I suppressed so
+21:12 
+
+21:12 people would come to me and ask me hey
+21:14 
+
+21:14 do you want to help my company uh like
+21:16 
+
+21:16 my own organization and I'll be like no
+21:18 
+
+21:18 find somebody else like that's I'm a
+21:20 
+
+21:20 sofware engineer I am not a host and
+21:23 
+
+21:23 it's funny that coming into this
+21:24 
+
+21:24 community I realized like that skill of
+21:27 
+
+21:27 mine is actually helping
+21:29 
+
+21:29 you know uh people in the community
+21:32 
+
+21:32 helping more engineers get to know more
+21:34 
+
+21:34 about like the Techo even doing this
+21:36 
+
+21:36 right now yeah so I've started to like
+21:39 
+
+21:39 see that I don't need to choose between
+21:41 
+
+21:41 these two binaries I can be an engineer
+21:44 
+
+21:44 and be really good as like somebody who
+21:46 
+
+21:46 shares my ideas too and combining these
+21:49 
+
+21:49 two it helps other Engineers as well so
+21:53 
+
+21:53 why not so and now that's like one of
+21:55 
+
+21:55 the qualities in an engineer to be able
+21:58 
+
+21:58 to talk verbalize your thoughts exactly
+22:01 
+
+22:01 yeah I actually think this is so
+22:02 
+
+22:02 important and as to why so many
+22:04 
+
+22:04 Engineers have insecurities is because
+22:05 
+
+22:05 not many uh people in our community are
+22:09 
+
+22:09 stepping out to share to share their
+22:11 
+
+22:11 insecurities their Journeys their
+22:13 
+
+22:13 problems so it makes people feel very
+22:15 
+
+22:15 lonely as if they only they're the only
+22:16 
+
+22:16 ones faced with this I I really Envision
+22:20 
+
+22:20 a Envision a world but like you know
+22:22 
+
+22:22 more um people in a te Community
+22:24 
+
+22:24 stepping out and being really honest and
+22:26 
+
+22:26 vulnerable with their experiences and
+22:28 
+
+22:28 feeling like they don't don't need to be
+22:29 
+
+22:29 ashamed of that so that they can share
+22:31 
+
+22:31 this experience out to the world and
+22:33 
+
+22:33 people like you and me can connect to it
+22:35 
+
+22:35 and know that we're not alone because I
+22:36 
+
+22:36 know what it feels like to be alone to
+22:38 
+
+22:38 to feel like I have zero representation
+22:40 
+
+22:40 and what I'm going through it's just me
+22:42 
+
+22:42 it's all me but actually you know then I
+22:46 
+
+22:46 find out through this community it's a
+22:48 
+
+22:48 common experience and we have a lot of
+22:49 
+
+22:49 things to learn from that so sorry when
+22:52 
+
+22:52 in a whole thank you for sharing that
+22:54 
+
+22:54 that that must be like it's a big thing
+22:57 
+
+22:57 to share uh such a thing like actually
+22:59 
+
+22:59 uh like why why do people even think of
+23:01 
+
+23:01 such thing is because people at work
+23:04 
+
+23:04 they will talk right they'll be like oh
+23:05 
+
+23:05 you're so good at talking you should be
+23:07 
+
+23:07 a business person or you should go to
+23:09 
+
+23:09 the business department I don't know why
+23:11 
+
+23:11 they say such things and then they bring
+23:13 
+
+23:13 about this false sense of like oh
+23:15 
+
+23:15 Engineers should just be quiet yeah and
+23:17 
+
+23:17 what create more problems after solving
+23:19 
+
+23:19 some
+23:20 
+
+23:20 problems
+23:22 
+
+23:22 true like I don't know why people like
+23:25 
+
+23:25 create such uh stereotypes of uh
+23:28 
+
+23:28 different r
+23:29 
+
+23:29 uh basically yeah so uh yeah I think
+23:35 
+
+23:35 exactly it's it's because the
+23:36 
+
+23:36 stereotypes are so heartset and it's so
+23:39 
+
+23:39 heartset also because people don't talk
+23:41 
+
+23:41 about like we're more than just the
+23:42 
+
+23:42 stereotypes there's so many different
+23:44 
+
+23:44 types of like people in check and I
+23:46 
+
+23:46 think that's also the reason we started
+23:47 
+
+23:47 this podcast is realizing that we're all
+23:49 
+
+23:49 so different but how come like so much
+23:51 
+
+23:51 of the portrayal is like one static
+23:53 
+
+23:53 stereotype you know static oh my gosh
+23:56 
+
+23:56 like but yeah that's another thing that
+23:58 
+
+23:58 I uh I like saw in a community that
+24:01 
+
+24:01 happens is that many women especially
+24:04 
+
+24:04 they are actually really knowledgeable
+24:06 
+
+24:06 really smart at their in their work and
+24:09 
+
+24:09 like expert in their fields but they
+24:11 
+
+24:11 would never accept that they are they
+24:12 
+
+24:12 will be like oh yeah I'm still
+24:13 
+
+24:13 intermediate I'm still average or things
+24:16 
+
+24:16 and whereas the same in a men
+24:18 
+
+24:18 counterpart they'll be like yeah I know
+24:20 
+
+24:20 everything even though it might be same
+24:22 
+
+24:22 or even below right so I realized
+24:25 
+
+24:25 sometimes you just need to push certain
+24:28 
+
+24:28 members in the community and be like you
+24:30 
+
+24:30 know what you you just accomplished like
+24:31 
+
+24:31 this small project why don't you speak
+24:34 
+
+24:34 about this at this online event or like
+24:36 
+
+24:36 in this inperson event together with
+24:38 
+
+24:38 other people so that you don't feel
+24:39 
+
+24:39 alone and then just like like that
+24:42 
+
+24:42 little push actually you'll see like the
+24:44 
+
+24:44 whole the person just converts into this
+24:47 
+
+24:47 really confident person and you realize
+24:49 
+
+24:49 wait she speaks so well yeah like she's
+24:52 
+
+24:52 such a good teacher we didn't we didn't
+24:54 
+
+24:54 even know that unless we had pushed each
+24:56 
+
+24:56 other to do certain things so I actually
+24:58 
+
+24:58 have a very good example of this so
+25:01 
+
+25:01 there's this girl she's at the time she
+25:03 
+
+25:03 haven't joined us officially I don't
+25:06 
+
+25:06 know if I should mention her name but
+25:07 
+
+25:07 for now I don't um and she's always been
+25:10 
+
+25:10 quite shy so I remember when I first
+25:12 
+
+25:12 meet her she only like want to meet one
+25:14 
+
+25:14 on one and all that right cuz she's only
+25:16 
+
+25:16 comfortable talking with one person at a
+25:18 
+
+25:18 time but she's super knowledgeable and
+25:20 
+
+25:20 she definitely want to share like you
+25:22 
+
+25:22 know her knowledge and all that and I so
+25:25 
+
+25:25 I I suggested to her you know you can
+25:27 
+
+25:27 you know start a workshop you know you
+25:29 
+
+25:29 should like just run your own workshop
+25:30 
+
+25:30 I'll help you out with all the details
+25:32 
+
+25:32 and all that and then bam we just did it
+25:35 
+
+25:35 right you probably know who she is now
+25:37 
+
+25:37 but that's how she like I never know
+25:39 
+
+25:39 she's such an amazing speaker like she's
+25:41 
+
+25:41 been like hiding it in the closet like
+25:43 
+
+25:43 that I want to do all this but then she
+25:45 
+
+25:45 just need a little bit of push and then
+25:47 
+
+25:47 taada and she Blossom and I was like so
+25:50 
+
+25:50 proud of her at the end of the workshop
+25:52 
+
+25:52 series that she did and like a lot of
+25:54 
+
+25:54 these things that I think people don't
+25:56 
+
+25:56 realize their full potential unless
+25:58 
+
+25:58 they're like a part that support group
+25:59 
+
+25:59 and having that support system actually
+26:02 
+
+26:02 really helps a lot so going back to like
+26:04 
+
+26:04 why we join communities and how
+26:06 
+
+26:06 communities help us is really so that we
+26:09 
+
+26:09 can like you mentioned you know overcome
+26:12 
+
+26:12 that loneliness that you know that
+26:14 
+
+26:14 illusion that we're all doing this alone
+26:16 
+
+26:16 that we're lone wolves and actually
+26:19 
+
+26:19 being part of like a huge community that
+26:21 
+
+26:21 can actually support each other and help
+26:23 
+
+26:23 us grow together I think that is one of
+26:25 
+
+26:25 the biggest value that I see we got from
+26:28 
+
+26:28 communities another thing is that at
+26:30 
+
+26:30 least for me personally like you
+26:32 
+
+26:32 mentioned about the Lone Wolf it always
+26:34 
+
+26:34 feels like we're working in silos I I
+26:37 
+
+26:37 had a hard time asking for help cuz I
+26:40 
+
+26:40 always feel like that makes me feel like
+26:42 
+
+26:42 I am not knowledable or like
+26:47 
+
+26:47 incompetent and like because of my past
+26:50 
+
+26:50 background of not having formal CS
+26:52 
+
+26:52 education that feeds into my impostor
+26:54 
+
+26:54 syndrome furthermore if I were to ask
+26:57 
+
+26:57 for help so I I used to never want to
+26:59 
+
+26:59 ask for help or even ask for favors like
+27:02 
+
+27:02 can someone help me out with this like
+27:04 
+
+27:04 you know if I don't have the time like
+27:05 
+
+27:05 I'll just try to do everything by myself
+27:08 
+
+27:08 even if it cuts into my my personal time
+27:11 
+
+27:11 so that that was the thing I struggle
+27:13 
+
+27:13 with but you know since we're all out
+27:15 
+
+27:15 here sharing our insecurities now yeah I
+27:19 
+
+27:19 I think through woman hook code I
+27:21 
+
+27:21 managed to overcome that because I see
+27:23 
+
+27:23 that like you mentioned we're all
+27:25 
+
+27:25 technically in one way or another have
+27:27 
+
+27:27 these insecurities and all we need is
+27:29 
+
+27:29 just that support group that support
+27:31 
+
+27:31 system to be able to let us realize that
+27:33 
+
+27:33 hey it's not such a big deal like this
+27:35 
+
+27:35 is something we can overcome and this is
+27:36 
+
+27:36 something that we can also work on to uh
+27:39 
+
+27:39 towards improving you know especially
+27:41 
+
+27:41 with many diverse people from diverse
+27:43 
+
+27:43 background it can definitely cover our
+27:45 
+
+27:45 weaknesses cuz definitely we're not
+27:47 
+
+27:47 perfect and I do admit I'm I'm lacking
+27:52 
+
+27:52 but uh but that's why by meeting people
+27:54 
+
+27:54 from all across you know Womanhood code
+27:57 
+
+27:57 I get to actually see how I can improve
+27:60 
+
+27:60 I learn from them learn from their
+28:01 
+
+28:01 perspectives and that's also a huge part
+28:04 
+
+28:04 of why communi I remember when you
+28:06 
+
+28:06 joined you you uh shared with us your
+28:08 
+
+28:08 blog and right after I read I was
+28:10 
+
+28:10 inspired and I actually wrote like two
+28:12 
+
+28:12 to three articles for the next few weeks
+28:15 
+
+28:15 and then I I I shared it with you like
+28:16 
+
+28:16 hey by the way I also wrote articles
+28:19 
+
+28:19 inspired by you and yeah it was I just
+28:22 
+
+28:22 loveed that our community basically like
+28:24 
+
+28:24 like-minded people with different
+28:26 
+
+28:26 backgrounds coming together and we share
+28:27 
+
+28:27 a lot of our experience experiences and
+28:29 
+
+28:29 it's good to have a community separate
+28:31 
+
+28:31 from your workplace as well because then
+28:33 
+
+28:33 you can actually like talk openly about
+28:37 
+
+28:37 the experiences or like the feelings
+28:38 
+
+28:38 you're facing in your workplace with the
+28:41 
+
+28:41 this other community that's away from
+28:43 
+
+28:43 your work I like and then you can get
+28:45 
+
+28:45 some advice you can see like a different
+28:47 
+
+28:47 perspective to things and be like oh
+28:49 
+
+28:49 yeah that happened to me last year as
+28:50 
+
+28:50 well this is something that I did that
+28:53 
+
+28:53 helped me so I really like like having
+28:55 
+
+28:55 that separate group of friends to
+28:59 
+
+28:59 sh that portion actually you brought up
+29:01 
+
+29:01 a very good point because again if we're
+29:03 
+
+29:03 only like usually our co-workers is the
+29:06 
+
+29:06 people we spend the most time with like
+29:07 
+
+29:07 because it's Monday to Friday 9 to 5: so
+29:10 
+
+29:10 we're always only engaging with them
+29:12 
+
+29:12 that can lead to a lot of burnt out for
+29:14 
+
+29:14 different reasons so having a separate
+29:17 
+
+29:17 Community like you mentioned so you have
+29:19 
+
+29:19 another group of people that you can
+29:21 
+
+29:21 talk to and that kind of understands you
+29:24 
+
+29:24 in a way it actually puts some distance
+29:27 
+
+29:27 so in a way you're not burnt out you
+29:29 
+
+29:29 know like you can wind down and you can
+29:31 
+
+29:31 see what what else is there out there
+29:34 
+
+29:34 yeah yeah I think it's about like I I
+29:35 
+
+29:35 like what you said about creating that
+29:37 
+
+29:37 distance because it's about like you
+29:39 
+
+29:39 know if all you're surrounded with it's
+29:41 
+
+29:41 like people from work your worldview
+29:43 
+
+29:43 becomes just containing work and all the
+29:45 
+
+29:45 struggles that you face in work are like
+29:47 
+
+29:47 maximized they just seem so huge but the
+29:50 
+
+29:50 moment you step out into a community
+29:51 
+
+29:51 where people have so many different
+29:53 
+
+29:53 worldviews and you realize oh wait my
+29:54 
+
+29:54 problem is just like this small problem
+29:57 
+
+29:57 amongst like this entire
+29:59 
+
+29:59 like um slew of like different problems
+30:01 
+
+30:01 people face and yeah that distance helps
+30:04 
+
+30:04 you like you know reduce that burnout
+30:06 
+
+30:06 because you realize it's not that like
+30:08 
+
+30:08 you know the world is much bigger than
+30:09 
+
+30:09 that that people have so many different
+30:11 
+
+30:11 experiences so I I really like that you
+30:13 
+
+30:13 brought that part out because that's
+30:14 
+
+30:14 that's what happened for me I was so
+30:16 
+
+30:16 trapped within my little tiny world
+30:19 
+
+30:19 within my organization and all the
+30:21 
+
+30:21 problems I was faced with felt Amplified
+30:24 
+
+30:24 you know right but the moment I step out
+30:25 
+
+30:25 and I get to know like oh actually the
+30:27 
+
+30:27 world is much biger than just my
+30:29 
+
+30:29 organization you know there's so much
+30:30 
+
+30:30 more to
+30:32 
+
+30:32 explore yeah it helped me like reduce
+30:34 
+
+30:34 all that burnout and did you know have a
+30:36 
+
+30:36 healthy distance between my workplace
+30:38 
+
+30:38 and myself so I think that you brought
+30:41 
+
+30:41 that part out I also want to chap into
+30:43 
+
+30:43 like what you said like previously also
+30:45 
+
+30:45 that you really enjoy being this enabler
+30:48 
+
+30:48 to other people I also feel like that's
+30:50 
+
+30:50 a big part about running a community and
+30:52 
+
+30:52 I feel like that's you uh that's your
+30:54 
+
+30:54 role as like a director too to enable
+30:56 
+
+30:56 like participants and volunteers like uh
+30:59 
+
+30:59 ourselves to like step out of our
+31:01 
+
+31:01 comfort zones try things that we've
+31:03 
+
+31:03 never done before like uh in your
+31:04 
+
+31:04 example like somebody who has never
+31:06 
+
+31:06 spoken on like a uh platform before and
+31:10 
+
+31:10 you realize wow you have so much hidden
+31:11 
+
+31:11 potential I think that's the the magic
+31:13 
+
+31:13 of like running a community as well yeah
+31:15 
+
+31:15 and think especially for you you've seen
+31:17 
+
+31:17 so many different people come through
+31:19 
+
+31:19 yeah and I feel like you're very
+31:20 
+
+31:20 deliberate in that in giving people that
+31:23 
+
+31:23 space yeah and I understand cuz I was
+31:26 
+
+31:26 that person I sometimes still become
+31:28 
+
+31:28 that person person where I need someone
+31:30 
+
+31:30 to push me a little bit so then I also
+31:32 
+
+31:32 have like my group of friends within my
+31:34 
+
+31:34 community where they know that okay I
+31:35 
+
+31:35 think SL needs a push so then like go
+31:38 
+
+31:38 ahead do it do it this is a deadline for
+31:40 
+
+31:40 you do it before before Fab or
+31:43 
+
+31:43 something that's how your first
+31:46 
+
+31:46 Deadlight so yeah that's nice yeah so I
+31:49 
+
+31:49 I think uh like if if you relate to like
+31:52 
+
+31:52 any one of us like our audience if you
+31:54 
+
+31:54 relate to any one of us or I we
+31:56 
+
+31:56 definitely feel being a part of
+31:58 
+
+31:58 Community being in Tech and then being a
+31:60 
+
+31:60 part of a Tech Community is definitely
+32:02 
+
+32:02 beneficial for us in various different
+32:05 
+
+32:05 ways and I would always recommend like
+32:09 
+
+32:09 any fresh graduate or like midc career
+32:12 
+
+32:12 uh Tech person to be in touch with a
+32:15 
+
+32:15 Comm with a Tech Community that
+32:16 
+
+32:16 resonates with you there are many
+32:18 
+
+32:18 different ones out there in every
+32:20 
+
+32:20 different City Country so do find them
+32:22 
+
+32:22 on meetup.com uh Eventbrite uh Facebook
+32:27 
+
+32:27 groups always around uh find them be a
+32:30 
+
+32:30 part of them that's where you will
+32:32 
+
+32:32 actually uh see a lot more like-minded
+32:35 
+
+32:35 people and see that you're not the only
+32:37 
+
+32:37 one in the world there are many many
+32:39 
+
+32:39 people out there facing the same issues
+32:41 
+
+32:41 as you growing Sim similarly like you so
+32:45 
+
+32:45 we definitely encourage and if you need
+32:47 
+
+32:47 recommendations like definitely like pop
+32:49 
+
+32:49 that comment and like wherever in our
+32:51 
+
+32:51 Channel we're happy to give
+32:52 
+
+32:52 recommendations because because of we're
+32:54 
+
+32:54 not just representing wom Co we're
+32:55 
+
+32:55 representing the Tech Community as a
+32:57 
+
+32:57 whole we have a lot of because of the
+32:58 
+
+32:58 community we know other communities as
+33:00 
+
+33:00 well and we will be very happy to help
+33:02 
+
+33:02 match you to like a suitable one based
+33:05 
+
+33:05 on your needs and obviously it's not
+33:06 
+
+33:06 just for people who are already in Tech
+33:09 
+
+33:09 or like already in school um related to
+33:11 
+
+33:11 Tech um it's also for people who are
+33:13 
+
+33:13 trying to explore the world for Tech we
+33:15 
+
+33:15 actually have like quite a few
+33:16 
+
+33:16 volunteers who um are not really like in
+33:20 
+
+33:20 Tech and having a tech job but they're
+33:22 
+
+33:22 you know they want to explore know what
+33:23 
+
+33:23 it's like and really hear from like true
+33:26 
+
+33:26 accounts of what it is like know where
+33:28 
+
+33:28 they fit and how they should start so
+33:31 
+
+33:31 definitely encourage that and obviously
+33:33 
+
+33:33 if you have recommendations as to you
+33:35 
+
+33:35 know Tech communities that you belong to
+33:36 
+
+33:36 or that you highly recommend pop that in
+33:38 
+
+33:38 the comments below and um yeah it's not
+33:41 
+
+33:41 just for us it's for everybody else
+33:43 
+
+33:43 that's watching this podcast or if
+33:45 
+
+33:45 you're currently running a community
+33:46 
+
+33:46 please share it cuz we're also so
+33:48 
+
+33:48 curious and we might we want to with you
+33:52 
+
+33:52 we might be open for collaboration so
+33:54 
+
+33:54 that is also something that we are open
+33:56 
+
+33:56 to definitely yeah yeah yeah so leave in
+33:59 
+
+33:59 the comments below if you're in a check
+34:00 
+
+34:00 Community put that name down uh we'll
+34:03 
+
+34:03 definitely reply that or if you're
+34:04 
+
+34:04 looking for a check Community put that
+34:06 
+
+34:06 question down below like what are you
+34:08 
+
+34:08 looking for so uh we'll be happy to help
+34:10 
+
+34:10 and as always like thank you for tuning
+34:12 
+
+34:12 in to Rack tag we hope you enjoyed this
+34:14 
+
+34:14 episode um and I really enjoyed it like
+34:17 
+
+34:17 opening up to both of you about like you
+34:19 
+
+34:19 know our insecurities and why we joined
+34:21 
+
+34:21 um as always this was a really good
+34:23 
+
+34:23 session so yeah as always remember to
+34:26 
+
+34:26 like follow subscri subscribe comment um
+34:30 
+
+34:30 notifications on social on our socials
+34:33 
+
+34:33 yeah and be sure to um like tune in to
+34:36 
+
+34:36 like the next episode that we have
+34:37 
+
+34:37 coming out we basically post every two
+34:39 
+
+34:39 weeks so yeah that was rech thank you
+34:41 
+
+34:41 everybody bye
+34:44 
+
+34:44 [Music]
+34:46 
+
+34:46 bye

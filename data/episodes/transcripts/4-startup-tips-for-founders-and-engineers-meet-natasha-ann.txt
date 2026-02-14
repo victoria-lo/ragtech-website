@@ -1,0 +1,3262 @@
+00:00 hello and welcome to rec
+00:03 
+
+00:03 Tech uh where we would be doing bites
+00:06 
+
+00:06 and bent on everything Tech
+00:12 
+
+00:12 related so let's start with
+00:15 
+
+00:15 introductions yeah I'm Natasha I'm a
+00:17 
+
+00:17 software engineer I'm Salone also a
+00:19 
+
+00:19 software engineer and I'm Victoria
+00:20 
+
+00:20 Solutions engineer yes and today's
+00:22 
+
+00:22 episode we will be getting to know
+00:25 
+
+00:25 Natasha
+00:26 
+
+00:26 better so Natasha yeah yes uh Natasha so
+00:31 
+
+00:31 Natasha is allrounder in our group she
+00:34 
+
+00:34 is the one who like has her involvement
+00:36 
+
+00:36 in many different projects uh many
+00:39 
+
+00:39 different organizations that she herself
+00:42 
+
+00:42 organized uh so before we get get into
+00:45 
+
+00:45 like how you how you do time management
+00:48 
+
+00:48 can you let's tell us about a couple of
+00:50 
+
+00:50 things that you're actively working on
+00:52 
+
+00:52 at the moment wow okay um so primarily
+00:56 
+
+00:56 I'm a software engineer and that's still
+00:57 
+
+00:57 my favorite way of introducing myself
+00:59 
+
+00:59 because I have been doing um I guess
+01:01 
+
+01:01 software engineering coding since like
+01:03 
+
+01:03 you know back in school but the last um
+01:07 
+
+01:07 two years since after University
+01:09 
+
+01:09 basically uh I've basically been like a
+01:11 
+
+01:11 founding software engineer but
+01:13 
+
+01:13 specializing in zero to1 products really
+01:15 
+
+01:15 founding products from scratch and all
+01:17 
+
+01:17 these products that are software related
+01:19 
+
+01:19 um so kind of doing that but also doing
+01:21 
+
+01:21 like a mix of um technical product
+01:23 
+
+01:23 manage management I also had to dabble
+01:26 
+
+01:26 uh quite a little bit in uxui design as
+01:28 
+
+01:28 well because I think that thing with
+01:29 
+
+01:29 like Z to one products by Nature you're
+01:32 
+
+01:32 kind of forced to be very cross
+01:34 
+
+01:34 functional and you're kind of forced to
+01:35 
+
+01:35 be very lean as well so I I would start
+01:38 
+
+01:38 out in very small teams and then scale
+01:39 
+
+01:39 it after so kind of because of that
+01:42 
+
+01:42 nature of work um I would describe
+01:45 
+
+01:45 myself as a cross functional software
+01:47 
+
+01:47 engineer um but in terms of like the
+01:50 
+
+01:50 other things that I'm doing so that's my
+01:51 
+
+01:51 9 to5 in terms of my like 5 to9 I'm a
+01:54 
+
+01:54 woman of Court like you guys that's how
+01:56 
+
+01:56 we met um so um one of the evangelists
+01:59 
+
+01:59 there
+02:00 
+
+02:00 um I also like oh there's also this
+02:03 
+
+02:03 podcast like that's the other thing that
+02:05 
+
+02:05 we're doing together um but on the side
+02:08 
+
+02:08 um I have a nonprofit that just got
+02:10 
+
+02:10 registered it's called mro meow it's a
+02:13 
+
+02:13 nonprofit for critical care uh kittens
+02:15 
+
+02:15 that um basically I've been a foster uh
+02:18 
+
+02:18 uh fosterer for like Critical Care
+02:20 
+
+02:20 kittens which are basically like kittens
+02:21 
+
+02:21 are 8 weeks and Below without their moms
+02:24 
+
+02:24 so they require like specialized All
+02:25 
+
+02:25 Around the Clock care I've been doing
+02:27 
+
+02:27 that for 5 years and then when I came
+02:28 
+
+02:28 back to Singapore um realized it was
+02:31 
+
+02:31 like quite a gap in terms of training
+02:33 
+
+02:33 new Critical Care fosterers there's
+02:34 
+
+02:34 basically like about one to two if
+02:36 
+
+02:36 you're lucky in one shelter Alone um
+02:38 
+
+02:38 there's also a lack of like resources
+02:41 
+
+02:41 for like neoc Critical Care Fosters
+02:43 
+
+02:43 things like heating pads cuz like
+02:44 
+
+02:44 kittens um they can't like regulate
+02:46 
+
+02:46 their own temperature specialize nipples
+02:48 
+
+02:48 to like bottle feed them um and also
+02:51 
+
+02:51 lastly because you know coming from like
+02:52 
+
+02:52 a software engineer experience I realize
+02:54 
+
+02:54 a lot of the processes of R manual so
+02:56 
+
+02:56 there's a lack of like an endtoend um
+02:58 
+
+02:58 rescue to adoption system and just
+03:02 
+
+03:02 what's the best way to do this uh it was
+03:03 
+
+03:03 one of like the Vets at SPCA was it the
+03:06 
+
+03:06 best thing that you can do right now is
+03:08 
+
+03:08 to start your own like uh nonprofit um
+03:12 
+
+03:12 and then kind of like help aggregate all
+03:14 
+
+03:14 these things that you want to do so
+03:16 
+
+03:16 that's also another thing I'm doing at
+03:17 
+
+03:17 the side um other things it's it's like
+03:21 
+
+03:21 kind of like all over the place um I'm
+03:24 
+
+03:24 in a lot of like different communities
+03:26 
+
+03:26 because I I learn best by like talking
+03:28 
+
+03:28 to people so um definely being in a Tech
+03:31 
+
+03:31 Community through women and code has
+03:32 
+
+03:32 been like amazing like being able to
+03:34 
+
+03:34 connect across um all different
+03:37 
+
+03:37 communities across the different
+03:38 
+
+03:38 verticals like you know there's software
+03:39 
+
+03:39 engineering and then there's like devops
+03:42 
+
+03:42 and then there's like even robotics yeah
+03:44 
+
+03:44 that's been like really amazing um but
+03:46 
+
+03:46 I'm also trying to understand more about
+03:48 
+
+03:48 like the startup space right now because
+03:50 
+
+03:50 I used to uh kind of uh have my own
+03:53 
+
+03:53 startup like kind of it was a
+03:55 
+
+03:55 culmination of my research um back in
+03:58 
+
+03:58 like undergraduate where I had the
+03:59 
+
+03:59 amazing opportunity to work with the
+04:01 
+
+04:01 founder of the internet on U my thesis
+04:04 
+
+04:04 which was to create a um an algorithm a
+04:07 
+
+04:07 prediction algorithm for Innovation
+04:09 
+
+04:09 tragic trees using um us uh patents and
+04:12 
+
+04:12 trademarks uh data and then after that
+04:16 
+
+04:16 there was a conversation about like
+04:17 
+
+04:17 maybe we could commercialize um that
+04:20 
+
+04:20 technology and see where it goes and
+04:22 
+
+04:22 then when I was uh doing my masters in
+04:25 
+
+04:25 Boston um kind of like um en wrote
+04:27 
+
+04:27 myself in a few incubators both in like
+04:30 
+
+04:30 uh Boston University and MIT and that's
+04:32 
+
+04:32 where I kind of like learned that um a
+04:36 
+
+04:36 product and a startup is not just about
+04:38 
+
+04:38 like the development itself I think
+04:40 
+
+04:40 literally like the one thing they told
+04:41 
+
+04:41 me to do was like stop all development
+04:43 
+
+04:43 work you need to find product Market fit
+04:45 
+
+04:45 you need to talk to people find your
+04:46 
+
+04:46 user group first because if you start
+04:48 
+
+04:48 with the solution first rather than a
+04:50 
+
+04:50 problem nobody's going to buy your
+04:51 
+
+04:51 product so yeah so that's also kind of
+04:54 
+
+04:54 like why I kind of want to re-enter that
+04:56 
+
+04:56 startup space now that I'm back in
+04:57 
+
+04:57 Singapore and I've been like quite
+04:59 
+
+04:59 active in that Community as well so I
+05:01 
+
+05:01 guess that would be one of the sides
+05:03 
+
+05:03 that I'm doing um yeah I also have like
+05:06 
+
+05:06 this app thing like going on aside but
+05:08 
+
+05:08 maybe I'll share that a little bit later
+05:10 
+
+05:10 when it's at the MVP stage but yes I
+05:13 
+
+05:13 think that's a glossery okay yeah cuz
+05:16 
+
+05:16 there's a lot to debunk here Sor debunk
+05:20 
+
+05:20 I mean sorry there's a lot to break down
+05:22 
+
+05:22 here because actually I was going to ask
+05:24 
+
+05:24 you about like the startup that you
+05:26 
+
+05:26 co-founded back in University which you
+05:28 
+
+05:28 already touched upon um um so going back
+05:31 
+
+05:31 to that I know when we first met you
+05:33 
+
+05:33 were a panelist for Womanhood code and
+05:36 
+
+05:36 oh yeah that's true and you were talking
+05:39 
+
+05:39 about the startup that you did is like
+05:43 
+
+05:43 starting up like and building products
+05:45 
+
+05:45 from scratch is that something that
+05:46 
+
+05:46 you've always seen yourself wanting to
+05:48 
+
+05:48 do or is it something that you know it
+05:50 
+
+05:50 just came upon you yeah that's such an
+05:52 
+
+05:52 interesting question but yeah I think
+05:54 
+
+05:54 because the way I started out coding was
+05:57 
+
+05:57 building my own products which honestly
+05:59 
+
+05:59 like that's kind of how we all started
+06:01 
+
+06:01 basically um I was already working
+06:02 
+
+06:02 before I went to college uh and when I
+06:05 
+
+06:05 was working the in the training phase of
+06:08 
+
+06:08 um the work environment I was in I
+06:10 
+
+06:10 noticed a gap in terms of training
+06:12 
+
+06:12 resources and um when I asked around
+06:15 
+
+06:15 about like expanding on that specific
+06:16 
+
+06:16 training resource um they said uh that
+06:20 
+
+06:20 like they couldn't do so within the
+06:21 
+
+06:21 organization so I think coding became
+06:24 
+
+06:24 one of like the Avenues I started
+06:26 
+
+06:26 exploring when I Googled uh was a way to
+06:28 
+
+06:28 code up my own training resource on my
+06:30 
+
+06:30 own personal device so that's kind of
+06:32 
+
+06:32 like how I entered it so I shed out
+06:34 
+
+06:34 creating my own like software um and
+06:36 
+
+06:36 then when I went to um College uh I
+06:39 
+
+06:39 think like the experience I had in
+06:41 
+
+06:41 University like again you're it's more
+06:43 
+
+06:43 of a self-starter kind of nature um
+06:45 
+
+06:45 where you're kind of building your own
+06:47 
+
+06:47 projects for like cores um you're also
+06:50 
+
+06:50 like I was in a student run club called
+06:52 
+
+06:52 like Lion which uh was basically a
+06:55 
+
+06:55 coding club for uh where we teach coding
+06:57 
+
+06:57 to amateurs so usually people uh who are
+06:59 
+
+06:59 are not necessarily in like the computer
+07:02 
+
+07:02 science department um and through that
+07:04 
+
+07:04 again a lot of like things where um you
+07:06 
+
+07:06 do it yourself you create your products
+07:08 
+
+07:08 on your own so I don't think that the um
+07:11 
+
+07:11 notion of like building my own zero to
+07:14 
+
+07:14 one product was necessarily what got me
+07:16 
+
+07:16 into the space because I think everybody
+07:18 
+
+07:18 has had that experience but I realized I
+07:20 
+
+07:20 did enjoy the process of
+07:22 
+
+07:22 ideation um and uh I think when I
+07:25 
+
+07:25 started on my own research thesis like
+07:28 
+
+07:28 you know research is also about like
+07:30 
+
+07:30 having your own idea your own hypothesis
+07:32 
+
+07:32 and then going through the process of
+07:34 
+
+07:34 like um creating these thesis to prove
+07:37 
+
+07:37 that yeah I guess I don't know that's
+07:40 
+
+07:40 kind of like I how I got into like
+07:43 
+
+07:43 starting my own products um I'm not that
+07:47 
+
+07:47 that's really a good question for me to
+07:49 
+
+07:49 reflect on though cuz uh I've never yet
+07:51 
+
+07:51 been in a Sit situation that I've been
+07:53 
+
+07:53 thrown into a product that's already
+07:55 
+
+07:55 been built um I I guess for both of you
+07:58 
+
+07:58 you guys came into companies and
+07:59 
+
+07:59 organizations where the product is
+08:01 
+
+08:01 really well established but I think for
+08:03 
+
+08:03 me I've just been thrown into a lot of
+08:05 
+
+08:05 situations where things were not built
+08:08 
+
+08:08 out yet I I was always uh brought in to
+08:10 
+
+08:10 fill like a a niche or a gap so I think
+08:13 
+
+08:13 it's just by virtue of like that
+08:15 
+
+08:15 experience not so much of like um that's
+08:19 
+
+08:19 something I Define Myself by but I do
+08:22 
+
+08:22 see like uh that's why my skill sets
+08:24 
+
+08:24 have kind of developed in that um but at
+08:26 
+
+08:26 the same time I think that's why my I
+08:29 
+
+08:29 still feel like I have a lot to learn um
+08:32 
+
+08:32 I know what it takes to build like a
+08:33 
+
+08:33 product from zero to one but I don't
+08:35 
+
+08:35 really know yet what it means to what in
+08:38 
+
+08:38 like an Enterprise setting with a skill
+08:40 
+
+08:40 product which you know you both have um
+08:43 
+
+08:43 so yeah in terms of trajectory of moving
+08:44 
+
+08:44 forward I do want to see through a
+08:46 
+
+08:46 product in that stage but I don't know
+08:49 
+
+08:49 how that's going to turn out but yeah
+08:51 
+
+08:51 just is there any products right now
+08:53 
+
+08:53 that you're currently building that's
+08:55 
+
+08:55 you know going to that phase soon or
+08:58 
+
+08:58 yeah no that's the thing cuz it's like I
+09:02 
+
+09:02 always see through products until like
+09:03 
+
+09:03 the one to two year mark and then by the
+09:06 
+
+09:06 time like uh just in my organization
+09:09 
+
+09:09 especially by the time I reach that Mark
+09:11 
+
+09:11 I'm rotated to another role because they
+09:14 
+
+09:14 have another need to start another
+09:15 
+
+09:15 product or S another like um uh outfit
+09:18 
+
+09:18 that requires software engineering um
+09:21 
+
+09:21 again it's by virtue of like the
+09:23 
+
+09:23 organizations I'm in um so no I haven't
+09:26 
+
+09:26 actually had that experience but I I
+09:28 
+
+09:28 don't know if would necessarily like
+09:30 
+
+09:30 enjoy it but I think if I don't try and
+09:32 
+
+09:32 explore it yeah then I wouldn't know but
+09:35 
+
+09:35 at this stage yeah no like from someone
+09:38 
+
+09:38 who has seen a product uh Gone live and
+09:42 
+
+09:42 like the we call it the maintenance bit
+09:44 
+
+09:44 of it cuz then it's just maintaining it
+09:46 
+
+09:46 yeah uh I personally do not like to be
+09:49 
+
+09:49 in that face that phase of a project so
+09:53 
+
+09:53 I want to be rotated out at that point
+09:56 
+
+09:56 so that's why it was like oh people
+09:58 
+
+09:58 actually want to go to that I mean for
+09:60 
+
+09:60 your learning purpose yes but M usually
+10:03 
+
+10:03 people do not want to unless like like I
+10:05 
+
+10:05 know some people who want to stay in
+10:06 
+
+10:06 that maintenance space because it's more
+10:10 
+
+10:10 comfortable cuz you know what issues
+10:12 
+
+10:12 will be coming in it's very routine yeah
+10:15 
+
+10:15 but for me and uh quite like people like
+10:18 
+
+10:18 me we would be more interested in Green
+10:20 
+
+10:20 Field projects so starting out a new
+10:23 
+
+10:23 thing so we always looking for green
+10:25 
+
+10:25 field or like to rotate out to somewhere
+10:27 
+
+10:27 else every few years yeah I don't think
+10:30 
+
+10:30 you're missing out on too much if you
+10:32 
+
+10:32 but it's good that you have seen at
+10:34 
+
+10:34 least two to 3 years of building out and
+10:37 
+
+10:37 like you know adding on features to it I
+10:38 
+
+10:38 think that's good enough yeah yeah of
+10:41 
+
+10:41 course uh scalability wise like how many
+10:43 
+
+10:43 people are using it that's that's
+10:45 
+
+10:45 something different that you show
+10:47 
+
+10:47 experience exactly I think that kind of
+10:49 
+
+10:49 scale I mean there was one project that
+10:51 
+
+10:51 actually went to that scale pretty
+10:53 
+
+10:53 rapidly um yeah without actually going
+10:55 
+
+10:55 into details of their project like that
+10:57 
+
+10:57 was an interesting experience cuz I had
+10:58 
+
+10:58 to like Implement so many many cous
+10:60 
+
+10:60 functions and the architecture of it was
+11:02 
+
+11:02 just insane uh that was a really good
+11:05 
+
+11:05 experience but it was very shortlived
+11:07 
+
+11:07 because it was sort of like a rapid
+11:08 
+
+11:08 response thing yeah but I think like
+11:11 
+
+11:11 thank you for validating that did I miss
+11:13 
+
+11:13 out too much I think you know um this
+11:15 
+
+11:15 you asked me this question before like I
+11:17 
+
+11:17 think what the first few times you met
+11:19 
+
+11:19 me were like not to offend you but you
+11:21 
+
+11:21 have you don't necessarily have a lot of
+11:23 
+
+11:23 years of experience but you talk like
+11:25 
+
+11:25 you've been through a lot and you know
+11:28 
+
+11:28 like certain things
+11:30 
+
+11:30 cuz uh the way you do explain things and
+11:33 
+
+11:33 the way you were even like just now when
+11:34 
+
+11:34 you were saying you could you can fill
+11:36 
+
+11:36 in gaps in certain startups how do you
+11:39 
+
+11:39 know how to fill in that Gap how do you
+11:40 
+
+11:40 know what a product manager does or like
+11:43 
+
+11:43 how a product even like what do senior
+11:46 
+
+11:46 software developers do you know cuz they
+11:48 
+
+11:48 have always been in startups
+11:51 
+
+11:51 sure so yeah I think it's just that like
+11:55 
+
+11:55 again going back to because I started
+11:58 
+
+11:58 all those products with my own own ideas
+11:59 
+
+11:59 and I have my own kind of like personal
+12:02 
+
+12:02 stake in it and I really wanted to
+12:04 
+
+12:04 succeed and um I I was just forced to be
+12:07 
+
+12:07 very cost functional um I definitely
+12:10 
+
+12:10 like learn a lot through like the people
+12:11 
+
+12:11 I work with um you know when I am in the
+12:14 
+
+12:14 design phase the early uh user Discovery
+12:17 
+
+12:17 phase like um I would have to learn from
+12:20 
+
+12:20 other uxui uh researchers and designers
+12:22 
+
+12:22 like what do you do on a day on day and
+12:24 
+
+12:24 I forced myself to not just like learn
+12:26 
+
+12:26 it but to really take down notes and
+12:28 
+
+12:28 implement it straight away so that's
+12:30 
+
+12:30 kind of like in that starting phase of
+12:31 
+
+12:31 the project the first three months is
+12:33 
+
+12:33 usually like just pure user Discovery
+12:35 
+
+12:35 yeah I really rapidly learn I I uh put
+12:37 
+
+12:37 myself to the task of like learning
+12:39 
+
+12:39 figma going through the difficult
+12:40 
+
+12:40 process of doing up my own uh uh mockups
+12:43 
+
+12:43 um and then like right after that then
+12:45 
+
+12:45 becomes the development phase again I'm
+12:47 
+
+12:47 not going at it alone I make sure I'm
+12:49 
+
+12:49 asking other people who are doing it
+12:51 
+
+12:51 already like what does it take to kind
+12:54 
+
+12:54 of like decide on a starting text de how
+12:56 
+
+12:56 does it affect the scalability of the
+12:58 
+
+12:58 product on the road uh especially when
+12:60 
+
+12:60 it comes to decisions to kind of change
+13:01 
+
+13:01 out your sack um so I think at every
+13:04 
+
+13:04 phase of like starting up a product it
+13:08 
+
+13:08 it's it's really like a really rapid way
+13:11 
+
+13:11 of looking at different business
+13:12 
+
+13:12 functions of a larger company you know I
+13:15 
+
+13:15 I'm just kind of forced to go through
+13:16 
+
+13:16 all those verticals all on my own
+13:18 
+
+13:18 because it's so lean um kind of forced
+13:20 
+
+13:20 to learn like uh devops like a very
+13:23 
+
+13:23 early stage because it's just like I
+13:24 
+
+13:24 have no devops engineer at that point to
+13:27 
+
+13:27 kind of fall back on so again like okay
+13:29 
+
+13:29 who do I ask who do I learn from and
+13:32 
+
+13:32 then right after asking implementing it
+13:34 
+
+13:34 yeah when it came to like actually
+13:36 
+
+13:36 having to uh design like the solution
+13:38 
+
+13:38 architecture I don't know anything about
+13:39 
+
+13:39 solution architecture when I first
+13:41 
+
+13:41 started out but who's the best person to
+13:42 
+
+13:42 ask ask uh watch him Implement learn you
+13:45 
+
+13:45 know kind of like the rapid extreme pair
+13:48 
+
+13:48 programming just because it's survival
+13:51 
+
+13:51 mode at that point um I think that's a
+13:53 
+
+13:53 lot of like the startup mentality I mean
+13:56 
+
+13:56 it's great that in a lot of this these
+13:58 
+
+13:58 scenarios I was within the large larger
+14:01 
+
+14:01 umbrella of an organization so it's not
+14:04 
+
+14:04 like I'm running out of money and then
+14:05 
+
+14:05 try and I I don't know I have no money
+14:07 
+
+14:07 to survive and being broke um but at the
+14:10 
+
+14:10 same time it's also because I'm starting
+14:12 
+
+14:12 up something so new uh and the other
+14:14 
+
+14:14 organizational business functions can
+14:16 
+
+14:16 technically survive without my product I
+14:18 
+
+14:18 have a lot more to prove so that's where
+14:20 
+
+14:20 the survival mindset really comes in and
+14:23 
+
+14:23 forces me to kind of learn and Implement
+14:25 
+
+14:25 these things at scill and at at speed um
+14:29 
+
+14:29 um so yeah I think like those things if
+14:32 
+
+14:32 I don't think about scalability at the
+14:34 
+
+14:34 start State and I were to like let this
+14:35 
+
+14:35 product just go on and I get removed
+14:37 
+
+14:37 from the product um because in the large
+14:40 
+
+14:40 organization they can rotate you then
+14:43 
+
+14:43 you know H how is the product going to
+14:44 
+
+14:44 survive Beyond me so I am forced to
+14:46 
+
+14:46 think about scalability at the start I
+14:48 
+
+14:48 am forced to apply like um uh software
+14:51 
+
+14:51 engineering best practices at the start
+14:52 
+
+14:52 but where do I learn this from I really
+14:54 
+
+14:54 back borrow steal and I talk to
+14:55 
+
+14:55 everybody I know and I think that's why
+14:57 
+
+14:57 I am so out out there in the community
+15:00 
+
+15:00 also it's because this is again like the
+15:02 
+
+15:02 best way for me to learn like whatever
+15:04 
+
+15:04 interactions I have with whatever person
+15:06 
+
+15:06 I make sure that I implement it right
+15:08 
+
+15:08 after uh as fast as possible so I don't
+15:11 
+
+15:11 like lose that knowledge so yeah what
+15:14 
+
+15:14 what what like what I'm getting out of
+15:15 
+
+15:15 this is that you're not afraid to ask
+15:17 
+
+15:17 questions firstly like you and you don't
+15:20 
+
+15:20 you're not afraid to uh I mean you have
+15:23 
+
+15:23 a good Network so you use your network
+15:25 
+
+15:25 well as well for example we did the
+15:29 
+
+15:29 audio setting for this with your friend
+15:31 
+
+15:31 John and you very quickly learned the
+15:33 
+
+15:33 tools and the tricks to implement it
+15:36 
+
+15:36 this time around and then we have Adam
+15:38 
+
+15:38 in the background in behind the scenes
+15:41 
+
+15:41 also a friend of Natasha's Natasha and I
+15:44 
+
+15:44 mean we as well we quickly very quickly
+15:46 
+
+15:46 learn like okay so these are the good
+15:49 
+
+15:49 angles right so it's it's very
+15:51 
+
+15:51 intentional and you're not afraid to
+15:53 
+
+15:53 give back either so if someone ever asks
+15:55 
+
+15:55 you for help you're always there for
+15:57 
+
+15:57 them it's really about giving back but I
+15:59 
+
+15:59 think I really like your point of like
+16:01 
+
+16:01 I'm just not afraid to ask I think um
+16:05 
+
+16:05 that is a quality that I feel has given
+16:08 
+
+16:08 me a lot of Leverage um I mean I
+16:10 
+
+16:10 definitely didn't start out with that um
+16:13 
+
+16:13 I think growing up in you know
+16:15 
+
+16:15 Singapore's education system um I was
+16:17 
+
+16:17 taught a lot about like um don't ask
+16:20 
+
+16:20 stupid questions as much as possible
+16:21 
+
+16:21 because you don't want to look stupid
+16:23 
+
+16:23 but I realized how much that was holding
+16:25 
+
+16:25 me back especially when I went overseas
+16:27 
+
+16:27 for my education um to the states that
+16:30 
+
+16:30 if I don't ask I really would not know
+16:32 
+
+16:32 because I am in the sea of like other
+16:35 
+
+16:35 university um like students who um yeah
+16:39 
+
+16:39 basically are so much more talented than
+16:41 
+
+16:41 I am I'm also thrown into like these big
+16:43 
+
+16:43 university lecture Halls like if I don't
+16:45 
+
+16:45 ask I really won't know I will fail the
+16:47 
+
+16:47 class um so yeah I think being thrown in
+16:50 
+
+16:50 those scenarios and learning and looking
+16:53 
+
+16:53 at like my um fellow classmates actively
+16:56 
+
+16:56 asking these questions the whole nature
+16:58 
+
+16:58 of there's no stupid question um was
+16:60 
+
+16:60 something that I really adopted and when
+17:02 
+
+17:02 I came back I definitely um really
+17:05 
+
+17:05 exercised that so the first one just ask
+17:08 
+
+17:08 if you don't know and also the ability
+17:10 
+
+17:10 to acknowledge when you don't know yeah
+17:12 
+
+17:12 I think that's also something that um
+17:15 
+
+17:15 has uh helped me a lot um when somebody
+17:18 
+
+17:18 says something I don't know I
+17:19 
+
+17:19 immediately ask like what is that yeah
+17:21 
+
+17:21 it's and you know there there is no
+17:23 
+
+17:23 shame in asking that in fact I learned
+17:25 
+
+17:25 that a lot of people want to share you
+17:27 
+
+17:27 know there's always that fear of like
+17:29 
+
+17:29 what if this person thinks I'm stupid
+17:31 
+
+17:31 but really that person uh more than
+17:33 
+
+17:33 anything is impressed that you're asking
+17:35 
+
+17:35 the question and really want to share
+17:37 
+
+17:37 about that subject but you know base he
+17:40 
+
+17:40 he's also extra he or she is
+17:41 
+
+17:41 extrapolating from his own experience
+17:43 
+
+17:43 and he knows his subject so he might not
+17:45 
+
+17:45 have thought that you might not know so
+17:48 
+
+17:48 how else is he going to explain that if
+17:50 
+
+17:50 you don't ask yeah sorry my voice oh
+17:54 
+
+17:54 know where you going guy crack voice
+17:55 
+
+17:55 crack um so actually adding on to that I
+17:59 
+
+17:59 also like Jordan Peterson's mindset of
+18:01 
+
+18:01 like if you ask stupid questions you
+18:03 
+
+18:03 only be stupid once so technically you
+18:05 
+
+18:05 will only ask one stupid question once
+18:07 
+
+18:07 but after that you learn so it's better
+18:10 
+
+18:10 to be stupid just once than continuously
+18:12 
+
+18:12 be stupid and never gain that knowledge
+18:15 
+
+18:15 so that's what he mentioned before and I
+18:16 
+
+18:16 really just like that mindset you know
+18:18 
+
+18:18 like it's okay to look stupid right
+18:20 
+
+18:20 because everyone does have like things
+18:22 
+
+18:22 that they don't know about and yeah um I
+18:25 
+
+18:25 also like what you said about you know
+18:27 
+
+18:27 how you you should just ask right and
+18:29 
+
+18:29 people will actually help you so even
+18:31 
+
+18:31 when we're like starting rag tag you
+18:33 
+
+18:33 know we're we're like asking a lot of
+18:35 
+
+18:35 people for help but we don't know how to
+18:37 
+
+18:37 set up we don't know how to do this like
+18:39 
+
+18:39 which platforms and all that and people
+18:41 
+
+18:41 just kindly like really take their time
+18:43 
+
+18:43 to like help us so I just find that
+18:46 
+
+18:46 really something that I learned
+18:47 
+
+18:47 definitely through you that it's okay to
+18:50 
+
+18:50 ask for help that's something that I
+18:52 
+
+18:52 personally just struggle with I guess
+18:54 
+
+18:54 cuz we tech industry growing up in Asia
+18:57 
+
+18:57 like there's just that culture like
+18:59 
+
+18:59 don't ask stupid questions but you know
+19:03 
+
+19:03 after being a part of a community and
+19:05 
+
+19:05 seeing how you know you learn so fast by
+19:07 
+
+19:07 asking questions it's like so much
+19:10 
+
+19:10 easier right to just seek for help like
+19:13 
+
+19:13 it's always good to seek help from
+19:15 
+
+19:15 someone who's wiser and like knows more
+19:17 
+
+19:17 about this topic than you exactly yeah
+19:20 
+
+19:20 and I think a big part of it is also
+19:22 
+
+19:22 making sure that the community around me
+19:23 
+
+19:23 adopts the same culture so I think
+19:26 
+
+19:26 suddenly I try to build those
+19:28 
+
+19:28 environments in every single org
+19:30 
+
+19:30 organization that I'm in I am always the
+19:32 
+
+19:32 first person to kind of like admit when
+19:35 
+
+19:35 I really don't know anything and that I
+19:37 
+
+19:37 need help like like say where um I don't
+19:40 
+
+19:40 know like women who code um when I
+19:43 
+
+19:43 didn't know anything about um what event
+19:47 
+
+19:47 uh what the event management process was
+19:49 
+
+19:49 you know what social media like
+19:51 
+
+19:51 management looked like like immediately
+19:52 
+
+19:52 I was like oh no I need help can
+19:54 
+
+19:54 somebody help me and I make sure to make
+19:55 
+
+19:55 that as public as possible like it's not
+19:57 
+
+19:57 just like oneon-one where I asked
+19:59 
+
+19:59 Victoria more experienced evangelist
+20:00 
+
+20:00 like how do I do this I make sure to ask
+20:03 
+
+20:03 in like the wider group and this is
+20:05 
+
+20:05 something that I practice for um the
+20:07 
+
+20:07 other uh software engineering teams or
+20:09 
+
+20:09 product teams that I'm in you know I
+20:11 
+
+20:11 make sure to publicly acknowledge that I
+20:14 
+
+20:14 don't know something because you see
+20:16 
+
+20:16 once you do it once or twice other
+20:18 
+
+20:18 people start following suit and they
+20:20 
+
+20:20 start realizing that you know this
+20:21 
+
+20:21 person like did that I can do that too
+20:23 
+
+20:23 on a public uh platform no less um so I
+20:27 
+
+20:27 think a lot about it and um that is
+20:29 
+
+20:29 something that I learned um in through
+20:32 
+
+20:32 through being in Tech actually uh not so
+20:34 
+
+20:34 much of like being in the US um I was
+20:37 
+
+20:37 very lucky that in the the first product
+20:39 
+
+20:39 that I did I was working with um a
+20:42 
+
+20:42 really wonderful uh Mentor uh who also
+20:45 
+
+20:45 did programming with me who also taught
+20:47 
+
+20:47 me everything I knew about like uh what
+20:50 
+
+20:50 it takes to work in a software
+20:51 
+
+20:51 engineering team he was basically the
+20:53 
+
+20:53 senior engineering uh engineer I was
+20:55 
+
+20:55 learning from and also like he's a CTO
+20:57 
+
+20:57 of his company for like 12 years right
+20:60 
+
+20:60 um but I was very humbl by how you know
+21:03 
+
+21:03 true through even like a peer review
+21:05 
+
+21:05 process um when I implemented like uh
+21:08 
+
+21:08 something different his first question
+21:11 
+
+21:11 would be like why did you do it this way
+21:13 
+
+21:13 obviously like coming from um somebody
+21:14 
+
+21:14 who was scared of rejection I took it as
+21:16 
+
+21:16 like oh no he's actually questioning
+21:18 
+
+21:18 like he's more experienced I must be
+21:20 
+
+21:20 wrong but you know when I um took the
+21:23 
+
+21:23 courage to answer it of oh I I thought
+21:24 
+
+21:24 it was like this I was reading this
+21:26 
+
+21:26 resource I thought this was a better uh
+21:28 
+
+21:28 option but you know if I'm wrong like
+21:30 
+
+21:30 please tell me he actually replied like
+21:32 
+
+21:32 oh I didn't know that actually yeah good
+21:36 
+
+21:36 implementation yeah so he started out
+21:38 
+
+21:38 with that that was like my first few
+21:39 
+
+21:39 weeks of working with him and he taught
+21:42 
+
+21:42 uh me the culture of like actively
+21:45 
+
+21:45 reviewing and criticizing um each
+21:48 
+
+21:48 other's work regardless of what like
+21:50 
+
+21:50 experience level you are so we had this
+21:53 
+
+21:53 really amazing process of being peer
+21:56 
+
+21:56 reviewed by him and then we whoop peer
+21:58 
+
+21:58 review our literal peer on the same
+22:00 
+
+22:00 level and he would review our reviews W
+22:04 
+
+22:04 to make sure that we um were giving
+22:07 
+
+22:07 actual like criticis he made sure we did
+22:09 
+
+22:09 line by line reviews and even as a
+22:11 
+
+22:11 12year CTO he was still doing line by
+22:14 
+
+22:14 line reviews it it was actually amazing
+22:17 
+
+22:17 so I feel I learned a lot about this
+22:19 
+
+22:19 culture through him you know I actively
+22:22 
+
+22:22 asked when I didn't know anything
+22:23 
+
+22:23 because he would actively ask he was
+22:25 
+
+22:25 just like um wait what version number is
+22:27 
+
+22:27 this I actually why didn't we migrate oh
+22:29 
+
+22:29 I didn't know about this and he would
+22:31 
+
+22:31 always like talk about that in a public
+22:33 
+
+22:33 group um I think the tendency to kind of
+22:35 
+
+22:35 PM someone and just be like hey actually
+22:38 
+
+22:38 why did you make uh this is can you
+22:39 
+
+22:39 teach me it's it's it's like High um but
+22:42 
+
+22:42 he also did that in like very public
+22:43 
+
+22:43 Avenues be it through our shared code
+22:45 
+
+22:45 repository or like our shared um like
+22:49 
+
+22:49 chat so yeah I think he's proliferated
+22:52 
+
+22:52 that in his company and in my team but I
+22:55 
+
+22:55 took that um also like Beyond just like
+22:57 
+
+22:57 coding as well but also in the wider
+22:59 
+
+22:59 industry and all the other things I'm
+23:01 
+
+23:01 doing yeah that's a very nice
+23:05 
+
+23:05 perspective yeah yeah yeah I really like
+23:08 
+
+23:08 how you mention like him as like someone
+23:10 
+
+23:10 that you know you look up to and you
+23:12 
+
+23:12 actually kind of like you know taking
+23:14 
+
+23:14 what he did and like kind of like spread
+23:16 
+
+23:16 that around like definitely your energy
+23:18 
+
+23:18 is so contagious like I remember first
+23:21 
+
+23:21 meeting you and then like you're part of
+23:23 
+
+23:23 Womanhood code like you're a panelist
+23:25 
+
+23:25 and all that like you really just know
+23:27 
+
+23:27 how to com Comm unicate well to people
+23:29 
+
+23:29 and just bring things to life like
+23:31 
+
+23:31 exactly and so this is like my personal
+23:35 
+
+23:35 out of curiosity for you is like since
+23:37 
+
+23:37 you have been founding teams you know
+23:39 
+
+23:39 for a while now like what is one thing
+23:41 
+
+23:41 that you are particularly like try to um
+23:45 
+
+23:45 make sure that you know how how do you
+23:47 
+
+23:47 make sure things run smoothly like in
+23:49 
+
+23:49 terms of like you know communication
+23:51 
+
+23:51 culture wise or like even like making
+23:54 
+
+23:54 sure the team works as a team because I
+23:56 
+
+23:56 know there's like definitely team
+23:58 
+
+23:58 culture that are like more
+23:59 
+
+23:59 individualistic a bit like you know less
+24:02 
+
+24:02 like collaborative so how do you like
+24:04 
+
+24:04 ensure there's that culture right right
+24:08 
+
+24:08 yeah I think I can come through in this
+24:10 
+
+24:10 in a um there's a technical perspective
+24:13 
+
+24:13 and the S more cultural perspective but
+24:16 
+
+24:16 in terms of like um the technical
+24:17 
+
+24:17 perspective is that every time I come um
+24:20 
+
+24:20 I carry on a mindset of like I need to
+24:22 
+
+24:22 make myself dispensable like definitely
+24:24 
+
+24:24 not now but just like that should be the
+24:26 
+
+24:26 end goal uh and I should expect that The
+24:28 
+
+24:28 Upfront investment of the effort will be
+24:30 
+
+24:30 all on me first so to put in my 200%
+24:33 
+
+24:33 when something starts uh and that 200%
+24:36 
+
+24:36 of that effort should be in creating
+24:38 
+
+24:38 structures and processes um but before
+24:40 
+
+24:40 creating those structures and processes
+24:42 
+
+24:42 it's also about understanding the
+24:44 
+
+24:44 existing one um you know identifying the
+24:48 
+
+24:48 current gaps uh and being very active in
+24:50 
+
+24:50 like talking to different people to
+24:52 
+
+24:52 understand what they do um to kind of
+24:54 
+
+24:54 discover that and then trying to see how
+24:56 
+
+24:56 everything pieces together in terms of
+24:58 
+
+24:58 of a structuring process that would
+24:59 
+
+24:59 benefit everybody as a whole and at no
+25:01 
+
+25:01 single point am I trying to make myself
+25:03 
+
+25:03 like the key Cornerstone I need to see
+25:06 
+
+25:06 um how a structure and process could
+25:09 
+
+25:09 like survive even when I leave um
+25:12 
+
+25:12 because you know um I I've seen this too
+25:14 
+
+25:14 much in like large um bureaucratic
+25:16 
+
+25:16 organizations that when somebody leaves
+25:18 
+
+25:18 a whole project just falls apart and I
+25:20 
+
+25:20 think that's really you know unfair but
+25:22 
+
+25:22 I also kind of like understand that
+25:24 
+
+25:24 certain HR systems do incentivize that
+25:27 
+
+25:27 you know like by making yourself
+25:29 
+
+25:29 indispensable you know um your bosses
+25:31 
+
+25:31 talk more highly of you because it's
+25:33 
+
+25:33 just like he's an indispensable member
+25:35 
+
+25:35 of the team but if somebody makes that
+25:36 
+
+25:36 comment I think that's not a compliment
+25:40 
+
+25:40 like this person has um maybe not by
+25:43 
+
+25:43 like any malicious nature but he's never
+25:46 
+
+25:46 thought about like how this can skill
+25:48 
+
+25:48 Beyond him Beyond himself and his team
+25:51 
+
+25:51 um also by he I don't I mean like he or
+25:53 
+
+25:53 she like they oh my gosh don't cancel
+25:56 
+
+25:56 me but um yeah so that's definitely the
+25:59 
+
+25:59 more technical part of things to really
+26:01 
+
+26:01 think about everything as a structure
+26:03 
+
+26:03 and a process like problems don't happen
+26:05 
+
+26:05 by chance problems don't happen by
+26:08 
+
+26:08 people but they happen um because of an
+26:11 
+
+26:11 overall systemic issue yeah because we
+26:14 
+
+26:14 live in a society but like yeah
+26:15 
+
+26:15 basically
+26:16 
+
+26:16 that the other part is the cultural part
+26:20 
+
+26:20 again like system structures and
+26:22 
+
+26:22 processes aren't anything if like the
+26:24 
+
+26:24 people aren't in it um I put a lot of
+26:27 
+
+26:27 emphasis on knowing people's people as
+26:31 
+
+26:31 like what their inclinations and
+26:33 
+
+26:33 motivations are as a person you don't
+26:35 
+
+26:35 come into like an organization and your
+26:36 
+
+26:36 pure goal is just to make money it's
+26:38 
+
+26:38 just to like be more famous and
+26:40 
+
+26:40 recognize you know um we all have
+26:42 
+
+26:42 intrinsic goals that allow us to be
+26:45 
+
+26:45 driven in everything that we do and if I
+26:48 
+
+26:48 can align your goals with the larger
+26:50 
+
+26:50 organizational uh goal by some way or
+26:52 
+
+26:52 another you know with a wholehearted way
+26:55 
+
+26:55 of trying to genuinely benefit your
+26:57 
+
+26:57 dream Journey which I know will benefit
+26:59 
+
+26:59 mine because I'm learning through you
+27:00 
+
+27:00 right um I think that's the best
+27:02 
+
+27:02 approach I take I make sure that every
+27:05 
+
+27:05 interaction I have um with people is
+27:08 
+
+27:08 genuine and authentic and I want to
+27:10 
+
+27:10 connect with them as a person not as
+27:12 
+
+27:12 like a LinkedIn connection you know I
+27:14 
+
+27:14 think that's something very important to
+27:15 
+
+27:15 me um and there is no um experience
+27:19 
+
+27:19 level that is too high or experience
+27:21 
+
+27:21 level that is too low everybody is just
+27:23 
+
+27:23 like a person to me you know um and I
+27:28 
+
+27:28 everybody has like value to that
+27:30 
+
+27:30 particular organization I mean have
+27:32 
+
+27:32 value to me in terms of learning so um
+27:35 
+
+27:35 that's also something that I hold true
+27:37 
+
+27:37 to and I hope like people in that team
+27:40 
+
+27:40 kind of carry on their culture that they
+27:43 
+
+27:43 see um the people around them as well
+27:48 
+
+27:48 people not in the system so I
+27:51 
+
+27:51 think yeah maybe these two perspectives
+27:52 
+
+27:52 are what like kind of like helps drive
+27:55 
+
+27:55 my passion that's super inspiring and I
+27:57 
+
+27:57 think we can all see it like you doing
+27:60 
+
+27:60 all this that you mentioned like
+28:02 
+
+28:02 literally for woman who Cod yeah when
+28:05 
+
+28:05 you joined like things just started
+28:08 
+
+28:08 moving yeah a lot more people started
+28:11 
+
+28:11 voicing as well probably because yeah
+28:14 
+
+28:14 participating because you wrote things
+28:16 
+
+28:16 on the public for so then they were like
+28:17 
+
+28:17 oh if she can write it I can also write
+28:19 
+
+28:19 oh I'm also looking for something to
+28:21 
+
+28:21 volunteer on like oh yeah even I don't
+28:23 
+
+28:23 understand this kind of things then that
+28:25 
+
+28:25 makes it so much more better to like act
+28:27 
+
+28:27 on things make things move ahead yeah
+28:30 
+
+28:30 yeah and I think I've said this before
+28:31 
+
+28:31 and I'm also grateful to find people who
+28:33 
+
+28:33 share the same mindset and you know like
+28:35 
+
+28:35 in women of C because I'm so new and you
+28:37 
+
+28:37 know my strategy to doing things is
+28:39 
+
+28:39 there there is no room for hesitation um
+28:41 
+
+28:41 you have to leverage and I make mistakes
+28:44 
+
+28:44 as I go that's my process but the best
+28:46 
+
+28:46 way that I learn is when people point
+28:48 
+
+28:48 out those mistakes um and I appreciate
+28:51 
+
+28:51 you a lot for doing that uh you know
+28:53 
+
+28:53 you're the director of women of code
+28:55 
+
+28:55 which is so impressive and I I was was
+28:58 
+
+28:58 honestly a little bit afraid to kind of
+28:60 
+
+28:60 like reach out and interact with you uh
+29:01 
+
+29:01 Victoria at the very early stages was
+29:03 
+
+29:03 like yeah you should like propose this
+29:05 
+
+29:05 it's aloney you should do that and I
+29:06 
+
+29:06 hadn't interacted with you um and I was
+29:09 
+
+29:09 just kind of afraid but when um I
+29:11 
+
+29:11 started uh talking to you I realized how
+29:13 
+
+29:13 humble and down to earth you were and
+29:15 
+
+29:15 especially at work you're so objective
+29:17 
+
+29:17 too like you would literally say like oh
+29:20 
+
+29:20 uh you posted this this is great but at
+29:22 
+
+29:22 the same time like this part is actually
+29:24 
+
+29:24 against like our community guidelines
+29:26 
+
+29:26 and stuff like that and I'll just be
+29:28 
+
+29:28 like yeah I'll take it down like
+29:29 
+
+29:29 immediately like and I take it down and
+29:31 
+
+29:31 that that's just it and you're just like
+29:33 
+
+29:33 thanks move ahead to the next thing uh
+29:35 
+
+29:35 next thing okay yeah maybe this you
+29:37 
+
+29:37 could I appreciate that so much because
+29:39 
+
+29:39 it allows me to immediately learn and
+29:41 
+
+29:41 correct and there isn't any sense of
+29:44 
+
+29:44 like hesitation where are you personally
+29:46 
+
+29:46 attacking me are you going to like bear
+29:47 
+
+29:47 grudges against me and not allow me to
+29:49 
+
+29:49 like move things forward yeah so I think
+29:53 
+
+29:53 it's it's definitely that all came with
+29:55 
+
+29:55 experience as well like I I made try
+29:57 
+
+29:57 reason why I said certain things and
+29:60 
+
+29:60 also uh also appreciate you as well cuz
+30:03 
+
+30:03 not everyone would have taken it the way
+30:05 
+
+30:05 you did like you knew where I was coming
+30:07 
+
+30:07 from as well I think that wasn't the
+30:09 
+
+30:09 only point we had an interaction we also
+30:12 
+
+30:12 uh interacted a lot of different how to
+30:14 
+
+30:14 like manage the whole team and stuff
+30:16 
+
+30:16 like I was I had the freedom to like
+30:19 
+
+30:19 just say my whatever I thought do you I
+30:22 
+
+30:22 I didn't actually filter things or I
+30:24 
+
+30:24 think about it too much I you are
+30:26 
+
+30:26 someone who can can receive and and that
+30:30 
+
+30:30 you know where I'm coming from and you
+30:31 
+
+30:31 wouldn't get offended so easily like I
+30:33 
+
+30:33 could tell I could tell that's how she
+30:35 
+
+30:35 is so that made it even more comfortable
+30:38 
+
+30:38 so then I even like I was like okay you
+30:41 
+
+30:41 know what you have a great idea let's
+30:43 
+
+30:43 execute it actually let's try it out cuz
+30:45 
+
+30:45 I have never done it no one else would
+30:47 
+
+30:47 have ever done it so if you you seem to
+30:50 
+
+30:50 know things let's try it up and I took
+30:52 
+
+30:52 to make mistakes yeah that's why I think
+30:55 
+
+30:55 giving feedback and receiving feedbacks
+30:57 
+
+30:57 is like a the two-way street right like
+30:59 
+
+30:59 in order to give feedback you need to
+31:01 
+
+31:01 make sure you give it in a way that's
+31:02 
+
+31:02 not like personally it's like your
+31:05 
+
+31:05 feedbacking in terms of the action or or
+31:08 
+
+31:08 the things the result the outcome or
+31:11 
+
+31:11 something not the person individually
+31:14 
+
+31:14 yeah know I think this part is really
+31:15 
+
+31:15 important to me too like in terms of
+31:17 
+
+31:17 like when I give feedback it has to be
+31:19 
+
+31:19 something that the person can work on
+31:21 
+
+31:21 it's not something that the person can't
+31:23 
+
+31:23 change like a personal characteristic
+31:26 
+
+31:26 like if I tell a person like I don't
+31:27 
+
+31:27 know you're too honest like in your
+31:29 
+
+31:29 nature you're too honest you need to
+31:30 
+
+31:30 tone it down I've gotten that feedback
+31:33 
+
+31:33 myself but my feedback to that is just
+31:35 
+
+31:35 like then what do you want me to work on
+31:37 
+
+31:37 it should be something practical that uh
+31:39 
+
+31:39 would be like okay um I understand you
+31:41 
+
+31:41 have a very honest nature um but perhaps
+31:44 
+
+31:44 like in this context it might not have
+31:45 
+
+31:45 been appropriate to ask that question um
+31:48 
+
+31:48 maybe you could like perhaps direct that
+31:50 
+
+31:50 question to somebody else instead first
+31:52 
+
+31:52 you know stuff that I can immediately
+31:54 
+
+31:54 work on but you going to give me
+31:55 
+
+31:55 something that's like you know it's
+31:57 
+
+31:57 going to drive me into an existential
+31:58 
+
+31:58 crisis like I don't know what to do with
+32:01 
+
+32:01 that information so you're right like
+32:03 
+
+32:03 feedback is so important and the way you
+32:04 
+
+32:04 give feedback is also really important
+32:06 
+
+32:06 as well and at the end of the day that
+32:08 
+
+32:08 feedback should come from the heart that
+32:10 
+
+32:10 you're not trying to like actually hurt
+32:12 
+
+32:12 the person you really want the person to
+32:14 
+
+32:14 improve on behalf of that system or that
+32:17 
+
+32:17 organization you're both aligned with
+32:20 
+
+32:20 definitely definitely that's what I also
+32:22 
+
+32:22 try to be very mindful of cuz whenever
+32:25 
+
+32:25 my readers ask for feedback for like
+32:27 
+
+32:27 their articles I make sure to only talk
+32:29 
+
+32:29 about things within that article I will
+32:31 
+
+32:31 not talk about their writing skills I
+32:33 
+
+32:33 will not talk about oh may your sentence
+32:36 
+
+32:36 structure I don't like it like that's
+32:38 
+
+32:38 personal right yeah that's personal I
+32:39 
+
+32:39 will never tell them that way it's
+32:41 
+
+32:41 always objective like I'll say like you
+32:43 
+
+32:43 can use headers to structure your better
+32:46 
+
+32:46 objective actionable also like I feel
+32:48 
+
+32:48 like giving feedbacks a lot of it is
+32:50 
+
+32:50 actually
+32:51 
+
+32:51 opinion um even for example like you can
+32:55 
+
+32:55 you know add some haers or like like for
+32:58 
+
+32:58 example uh you shouldn't have asked this
+32:60 
+
+32:60 kind of question in such a scenario it's
+33:02 
+
+33:02 actually my opinion who's there to say
+33:04 
+
+33:04 that you should ask usually there's like
+33:06 
+
+33:06 a reason to back up like the reason why
+33:08 
+
+33:08 I say to you say yeah correct you say
+33:11 
+
+33:11 that and then you give your your
+33:13 
+
+33:13 reasoning but still it's an opinion yeah
+33:16 
+
+33:16 it's best practice I mean ter of unless
+33:19 
+
+33:19 it's de yes yeah yeah I mean it's also
+33:21 
+
+33:21 like how adding that like oh this is my
+33:23 
+
+33:23 personal opinion by the way and that you
+33:25 
+
+33:25 know perhaps like send articles
+33:27 
+
+33:27 resources to back that up you know you
+33:29 
+
+33:29 can read more or usually I like to add
+33:31 
+
+33:31 that like you know you should definitely
+33:32 
+
+33:32 ask more people though to get like a
+33:34 
+
+33:34 more like um like just opinion so I try
+33:37 
+
+33:37 to like copy at that we can really talk
+33:39 
+
+33:39 about a whole episode about like how Feb
+33:42 
+
+33:42 give feedback no no that's actually a
+33:43 
+
+33:43 really good idea yeah yeah cuz that's
+33:45 
+
+33:45 really important for self-improvement
+33:47 
+
+33:47 and I think a lot of software Engineers
+33:48 
+
+33:48 or even people outside of tech they're
+33:50 
+
+33:50 always looking for ways to improve but
+33:53 
+
+33:53 like it's difficult to really ask for
+33:55 
+
+33:55 feedback or even like when you're in the
+33:57 
+
+33:57 position of giving feedback how do you
+33:58 
+
+33:58 give like a constructive feedback I
+34:00 
+
+34:00 think that's something that yeah we
+34:02 
+
+34:02 should I have one last question for
+34:04 
+
+34:04 you good uh how do you manage your time
+34:09 
+
+34:09 schedule yeah a lot of times when we are
+34:12 
+
+34:12 talking to Natasha she has like I'm
+34:14 
+
+34:14 meeting this VC founder I'm meeting this
+34:17 
+
+34:17 startup meetup group or like you know
+34:19 
+
+34:19 I'm going for this other event and I'm
+34:20 
+
+34:20 going to this and I'm going to meet this
+34:22 
+
+34:22 person and and they're all good
+34:24 
+
+34:24 productive things but how do you manage
+34:27 
+
+34:27 day to cuz she managed to you have like
+34:30 
+
+34:30 a Google Calendar I do have a Google
+34:32 
+
+34:32 Calendar it is very colorful and the
+34:34 
+
+34:34 funniest thing is like before I start
+34:36 
+
+34:36 out a new week like it's usually empty
+34:39 
+
+34:39 and then by the start of the week it
+34:41 
+
+34:41 starts filling up so honestly I approach
+34:43 
+
+34:43 it from like I can't kind of like
+34:46 
+
+34:46 determine what's going to happen in like
+34:49 
+
+34:49 the week you know I I tend to be very
+34:51 
+
+34:51 present and that's something that I've
+34:52 
+
+34:52 learned because I used to be such a
+34:55 
+
+34:55 long-term planner like I I have had an
+34:57 
+
+34:57 Excel sheet like plotting for the rest
+34:59 
+
+34:59 of the 30 years of my life what career
+35:02 
+
+35:02 level I was going to be on what income
+35:04 
+
+35:04 level I'll be at like at what stage
+35:06 
+
+35:06 would I be married what stage I would
+35:09 
+
+35:09 have the first and then like it was just
+35:11 
+
+35:11 insane and that drove me um absolutely
+35:14 
+
+35:14 anxious when things didn't go my way and
+35:17 
+
+35:17 um yeah when you know things started
+35:19 
+
+35:19 becoming really like Rowdy and stuff
+35:22 
+
+35:22 like that chaotic in my life um I had to
+35:25 
+
+35:25 teach myself to be very present I'm also
+35:27 
+
+35:27 very lucky to have therapists that I
+35:29 
+
+35:29 work with that help me with like
+35:30 
+
+35:30 self-management skills to be uh more
+35:33 
+
+35:33 present and focused as well and just to
+35:35 
+
+35:35 take like opportunities as they go so
+35:38 
+
+35:38 yeah that's the one thing in terms of
+35:39 
+
+35:39 time management like uh you're living
+35:41 
+
+35:41 week to week I'm I'm living week to week
+35:43 
+
+35:43 day on day like I I literally don't know
+35:46 
+
+35:46 my schedule but that getes there there's
+35:48 
+
+35:48 a sort of like calm in that and that
+35:52 
+
+35:52 because I don't expect or anticipate
+35:54 
+
+35:54 anything yeah then you know I will I I
+35:57 
+
+35:57 have the confid confidence that I'll be
+35:59 
+
+35:59 able to find blocks of time and manage
+36:01 
+
+36:01 my time well so that's the first part
+36:02 
+
+36:02 it's the mindset going in it's just
+36:04 
+
+36:04 being really present the uh second part
+36:07 
+
+36:07 of it is um definitely having Google
+36:09 
+
+36:09 Calendar or some sort of like um event
+36:11 
+
+36:11 scheduling thing like helps I think like
+36:14 
+
+36:14 before I started being on a calendar of
+36:16 
+
+36:16 some sort that's that's when like I
+36:18 
+
+36:18 realized like things became really messy
+36:20 
+
+36:20 um so yeah tool wise definitely have
+36:23 
+
+36:23 some sort of thing yeah um I I think
+36:26 
+
+36:26 like uh the third part is um I I don't
+36:31 
+
+36:31 know how to kind of like explain but
+36:34 
+
+36:34 like when I do put time to something no
+36:37 
+
+36:37 matter how long or how short I make sure
+36:39 
+
+36:39 it's productive time so um when I have
+36:42 
+
+36:42 like a work task at hand and I say I
+36:44 
+
+36:44 want to do Focus work for the next 20
+36:46 
+
+36:46 minutes I feel like you practice this
+36:48 
+
+36:48 too there's nothing to distract me I
+36:50 
+
+36:50 will not allow anything um I I think
+36:53 
+
+36:53 like a lot of people when they say they
+36:55 
+
+36:55 work the whole day or they work work
+36:57 
+
+36:57 this amount of time they study this
+36:58 
+
+36:58 amount of time it's actually a very
+36:59 
+
+36:59 distractive time where they have their
+37:01 
+
+37:01 phones on and then they'll allow
+37:02 
+
+37:02 themselves to get out of the Flow State
+37:04 
+
+37:04 and then work so they end up not doing
+37:05 
+
+37:05 anything or watching like a Netflix like
+37:07 
+
+37:07 a drama a side I don't do that like when
+37:10 
+
+37:10 I allocate time for something um it's
+37:13 
+
+37:13 like 100% that one thing you know even
+37:15 
+
+37:15 100% like trying to like talk to someone
+37:18 
+
+37:18 also that um that's why in a day I can
+37:21 
+
+37:21 divide it very cleanly into even 20
+37:23 
+
+37:23 minutes it's valuable to me because I
+37:25 
+
+37:25 know I'm going to optimize the the heck
+37:26 
+
+37:26 out of the 20 minutes um and that's why
+37:28 
+
+37:28 I think like I can work at such high
+37:30 
+
+37:30 capacity in small time blocks because
+37:33 
+
+37:33 I'm devoting like 150% to it so that's
+37:36 
+
+37:36 one thing as so I I have a lot of things
+37:38 
+
+37:38 going on in a day in very small time
+37:39 
+
+37:39 blocks but I make use of every single
+37:41 
+
+37:41 second of it um I think the third one is
+37:46 
+
+37:46 um
+37:47 
+
+37:47 just I don't know like it's also not I
+37:52 
+
+37:52 don't consider things to take up my time
+37:55 
+
+37:55 every single like event task thing that
+37:57 
+
+37:57 I do is very valuable to me um meeting
+38:00 
+
+38:00 every single one person is very valuable
+38:02 
+
+38:02 to me and I know I'm going to take away
+38:04 
+
+38:04 with that learning something you know
+38:06 
+
+38:06 when I do something I take away with
+38:07 
+
+38:07 something so I think it's also like I
+38:10 
+
+38:10 don't have a concept of time and space
+38:12 
+
+38:12 you know I if I want to be there I will
+38:15 
+
+38:15 make all time to be there um for that
+38:17 
+
+38:17 event for that person um because I know
+38:20 
+
+38:20 I'm going to take something away from it
+38:21 
+
+38:21 it's also kind of like maybe my brain
+38:23 
+
+38:23 just doesn't like factor in time very
+38:25 
+
+38:25 well like literally I had to get like an
+38:27 
+
+38:27 analog clock over a digital one because
+38:29 
+
+38:29 like I need to be able to see how the
+38:31 
+
+38:31 hands like how far apart like one time
+38:34 
+
+38:34 is to another to kind of like visualize
+38:36 
+
+38:36 in my head that oh actually 5 minutes is
+38:38 
+
+38:38 is not a lot of
+38:39 
+
+38:39 time but yeah I think there's a lot more
+38:43 
+
+38:43 I could go into this but this is a good
+38:45 
+
+38:45 question I really need to sit down and
+38:47 
+
+38:47 think about it but gist of it that's
+38:51 
+
+38:51 that but maybe another episode I could
+38:53 
+
+38:53 think I could think better about this
+38:54 
+
+38:54 and give you a more structured answer
+38:57 
+
+38:57 yeah and actually before we wrap up I
+38:59 
+
+38:59 just have one more question because it
+39:01 
+
+39:01 seems like you're always so productive
+39:02 
+
+39:02 like you mentioned how you block time
+39:04 
+
+39:04 and you make sure everything that
+39:06 
+
+39:06 you% yeah so what does Natasha do for
+39:10 
+
+39:10 fun oh Natasha that's a lot hey a lot of
+39:13 
+
+39:13 the things I do like are are funun fun
+39:15 
+
+39:15 is like the incentive right like if I
+39:17 
+
+39:17 don't have fun in something I'm not
+39:19 
+
+39:19 going to do it because that's how I
+39:20 
+
+39:20 derive joy and meeting through things
+39:22 
+
+39:22 like this is really fun for me you know
+39:24 
+
+39:24 the moment something loses meaning and
+39:26 
+
+39:26 fun for me I will stop doing it and
+39:28 
+
+39:28 there will be no drive so you know fun
+39:30 
+
+39:30 is like you know fostering my uh the
+39:32 
+
+39:32 animals that I Foster you know fun is
+39:35 
+
+39:35 like working on this podcast with you
+39:36 
+
+39:36 guys fun is like when I'm climbing and
+39:38 
+
+39:38 also like socializing um through the
+39:40 
+
+39:40 climbing activity fun is also when I'm
+39:42 
+
+39:42 building projects you know everything is
+39:45 
+
+39:45 fun to me and the moment something stops
+39:47 
+
+39:47 being fun I make sure to vocalize it and
+39:48 
+
+39:48 I'll drop it like really quick if it
+39:50 
+
+39:50 stops becoming interesting to me so
+39:53 
+
+39:53 that's super great yeah but in terms of
+39:54 
+
+39:54 downtime though like if that's what
+39:56 
+
+39:56 you're asking
+40:01 
+
+40:01 of headon out and I just um and also my
+40:05 
+
+40:05 favorite downtimes are like the night um
+40:09 
+
+40:09 as well as like the morning when I wake
+40:11 
+
+40:11 up so I wake up at like literally 7:30
+40:13 
+
+40:13 to um 8 like automatically every single
+40:16 
+
+40:16 morning and that time that I have before
+40:18 
+
+40:18 I actually start work that's my downtime
+40:20 
+
+40:20 and also at night like I I make sure I
+40:23 
+
+40:23 cut everybody off and I just focus on
+40:25 
+
+40:25 myself so so that's great that's really
+40:29 
+
+40:29 nice to hear so I think in this episode
+40:31 
+
+40:31 we really learn a lot about you and I'm
+40:33 
+
+40:33 so glad that yeah I'm so glad that
+40:37 
+
+40:37 you're sharing so much and I'm sure I'm
+40:39 
+
+40:39 a croing over sharers it's okay it's
+40:42 
+
+40:42 okay and I'm sure like your episode is
+40:44 
+
+40:44 like everyone will still have many many
+40:47 
+
+40:47 questions for you so be sure to leave it
+40:50 
+
+40:50 in the comments in every single platform
+40:53 
+
+40:53 possible um so yeah thanks guys so much
+40:57 
+
+40:57 for tuning in to Natasha's episode and
+41:01 
+
+41:01 you know be sure to follow us like
+41:04 
+
+41:04 subscribe and all that good stuff I'm
+41:06 
+
+41:06 too lazy to like you know Jazz yeah all
+41:09 
+
+41:09 that jazz um so yeah thanks so much
+41:11 
+
+41:11 Natasha for sharing and problem thank
+41:13 
+
+41:13 you for question and I'm super happy to
+41:15 
+
+41:15 you know learn a lot from you from this
+41:18 
+
+41:18 episode as well I'm so glad to learn
+41:19 
+
+41:19 from you guys we'll have more questions
+41:21 
+
+41:21 definitely have yeah so thank Youk you
+41:24 
+
+41:24 this is RA tag this is RA tag yeah
+41:29 
+
+41:29 oh gosh I think I went over
+41:31 
+
+41:31 time how much time did we do oh Jesus 4
+41:35 
+
+41:35 minutes 4 minutes

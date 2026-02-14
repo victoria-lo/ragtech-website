@@ -1,0 +1,952 @@
+00:00 hi everyone welcome to R teag the place
+00:02 
+
+00:02 for bites and ventor my name is Victoria
+00:04 
+
+00:04 I'm a Solutions engineer I'm Salon
+00:06 
+
+00:06 software developer and today we have our
+00:09 
+
+00:09 guest Andrew hey everyone my name is
+00:11 
+
+00:11 Andrew and I'm a senior software
+00:13 
+
+00:13 engineer at a fintech company and
+00:16 
+
+00:16 recently I've been become a new dad to
+00:19 
+
+00:19 um one and a half year old son yeah
+00:21 
+
+00:21 which is such a great segue to our topic
+00:24 
+
+00:24 for today because today is all about the
+00:26 
+
+00:26 engineering dad and basically we just
+00:29 
+
+00:29 want to dive deep into the life of
+00:31 
+
+00:31 Andrew like not too
+00:34 
+
+00:34 deep just dive deep about like how has
+00:37 
+
+00:37 he basically managed his time like both
+00:39 
+
+00:39 as a software engineer and as a recent
+00:42 
+
+00:42 dad so I think we can ask our first
+00:45 
+
+00:45 question that we're most curious about
+00:46 
+
+00:46 for Andrew is what does a typical day
+00:48 
+
+00:48 look like for you balancing just as a
+00:51 
+
+00:51 software engineer and as a dad the day
+00:54 
+
+00:54 in the life of being a dad and and junor
+00:57 
+
+00:57 I think it's it was quite hectic last
+00:59 
+
+00:59 year because firstly like for example
+01:02 
+
+01:02 our in the morning we have to kind of
+01:06 
+
+01:06 give him milk and change his diapers and
+01:10 
+
+01:10 also change his clothes and stuff like
+01:12 
+
+01:12 that basically this is another human
+01:14 
+
+01:14 being right so he would have to eat
+01:16 
+
+01:16 sleep shower change clothes just that
+01:20 
+
+01:20 someone else have to do it for him now
+01:22 
+
+01:22 because he's not capable of doing so
+01:24 
+
+01:24 yeah so the morning it's usually quite
+01:26 
+
+01:26 hectic in that sense because I have to
+01:28 
+
+01:28 also get ready for uh for stand up it's
+01:31 
+
+01:31 always a rush to kind of get everything
+01:35 
+
+01:35 that needs to be done for my son in the
+01:36 
+
+01:36 morning we have to feed him like every
+01:39 
+
+01:39 two or three hours as well so you
+01:41 
+
+01:41 constantly have to kind of be reminded
+01:42 
+
+01:42 all this like when is his next nap time
+01:45 
+
+01:45 when is next feeling time have we
+01:47 
+
+01:47 changed typers so a lot of like asking
+01:49 
+
+01:49 ourselves like me and my wife asking
+01:51 
+
+01:51 ourselves questions throughout the day
+01:53 
+
+01:53 is it time yet is it time yet and and
+01:55 
+
+01:55 like while still trying to qu something
+01:57 
+
+01:57 out right so it's it's kind of at a
+01:59 
+
+01:59 backround mind that I have another
+02:01 
+
+02:01 person to take care of I think
+02:03 
+
+02:03 throughout the throughout the like 9 to
+02:05 
+
+02:05 5 or 9 to six we'll just be juggling
+02:07 
+
+02:07 between going for meetings and like when
+02:11 
+
+02:11 I when I end work and I basically become
+02:13 
+
+02:13 more fulltime with my son we have to
+02:16 
+
+02:16 stop preparing like his for night yeah
+02:18 
+
+02:18 for night time it's like there a
+02:20 
+
+02:20 different set of things to do like we
+02:22 
+
+02:22 shower him or like bring him up for walk
+02:25 
+
+02:25 and also try try to get into a schedule
+02:28 
+
+02:28 I think more recently there's updated
+02:31 
+
+02:31 version because we we got we actually
+02:34 
+
+02:34 employ the helper and she actually helps
+02:37 
+
+02:37 with the the morning routine so me and
+02:41 
+
+02:41 my wife can actually sleep in a bit
+02:42 
+
+02:42 longer um yeah I think that's the two
+02:45 
+
+02:45 versions that I have as of now um as of
+02:50 
+
+02:50 now cuz is I say as of now because it's
+02:52 
+
+02:52 always going to change like every I
+02:55 
+
+02:55 wouldn't say every year like every month
+02:57 
+
+02:57 every month is is a different every not
+02:60 
+
+02:60 every month new version update yeah new
+03:02 
+
+03:02 it's like a like a minor version bump
+03:05 
+
+03:05 minor version bu wow yeah so just
+03:08 
+
+03:08 hearing from you it's like very hectic
+03:10 
+
+03:10 constantly changing constantly having to
+03:13 
+
+03:13 adapt I was wondering if there's any
+03:14 
+
+03:14 technology that you use to leverage or
+03:16 
+
+03:16 to help you like navigate all these like
+03:19 
+
+03:19 new responsibilities especially since
+03:21 
+
+03:21 you're software engineer do you like
+03:23 
+
+03:23 dabble and like making an app or like
+03:25 
+
+03:25 finding apps that will help with that
+03:28 
+
+03:28 I yeah wouldn't the thing is I wouldn't
+03:32 
+
+03:32 I wouldn't even have the time to to have
+03:35 
+
+03:35 uh looked into having an app or like
+03:39 
+
+03:39 creating something on my own there's no
+03:41 
+
+03:41 need to reinvent we there really apps
+03:43 
+
+03:43 baby apps out there that can kind of
+03:45 
+
+03:45 help me and my wife we didn't actually
+03:48 
+
+03:48 get a baby monitor per se the thing that
+03:51 
+
+03:51 we we use is
+03:52 
+
+03:52 just uh just to track like the live
+03:55 
+
+03:55 footage and also it allows you to store
+03:58 
+
+03:58 like to the cloud mhm but we didn't do
+04:00 
+
+04:00 that cuz we thought it was like too much
+04:03 
+
+04:03 we just like back it up to the local SD
+04:06 
+
+04:06 card on the camera so we can through the
+04:09 
+
+04:09 app we can do like a playback we can
+04:11 
+
+04:11 just go the parts of the night and see
+04:13 
+
+04:13 what what he was doing cuz sometimes you
+04:14 
+
+04:14 wake up in the middle of night and uh oh
+04:18 
+
+04:18 yeah it's all by themselves right just
+04:20 
+
+04:20 their yeah and then they might just sit
+04:22 
+
+04:22 down and like just look into the end
+04:25 
+
+04:25 like they might go to sleep or not um we
+04:28 
+
+04:28 we not only have such cameras in his
+04:31 
+
+04:31 bedroom but also we have it in like
+04:32 
+
+04:32 living room it also helped capture some
+04:34 
+
+04:34 of the moments that we weren't able to
+04:37 
+
+04:37 capture like for example when he was
+04:39 
+
+04:39 like first started
+04:40 
+
+04:40 clapping uh it's not like it's not like
+04:43 
+
+04:43 you it's not like me and my wife has our
+04:45 
+
+04:45 food always standby right so the thing
+04:47 
+
+04:47 is always recording so we just need to
+04:49 
+
+04:49 go back play back at that exact second
+04:52 
+
+04:52 it allows us to capture like a snippet
+04:54 
+
+04:54 and then oh that's nice the person he
+04:57 
+
+04:57 stands also I guess Yeahs yeah like as
+05:01 
+
+05:01 long as it's within the view of the
+05:02 
+
+05:02 camera cuz we don't have like camera
+05:04 
+
+05:04 everywhere so it's just like in the main
+05:07 
+
+05:07 spaces whereby he usually at I actually
+05:09 
+
+05:09 wanted to ask like with this uh dad
+05:12 
+
+05:12 being a dad and a Sofer you how do you
+05:14 
+
+05:14 actually like at least for me I find it
+05:16 
+
+05:16 I it will be a bit difficult for me to
+05:19 
+
+05:19 stop thinking about one or the other do
+05:21 
+
+05:21 you face this issue where you can't
+05:24 
+
+05:24 separate uh your thought process maybe I
+05:28 
+
+05:28 would say definitely because
+05:30 
+
+05:30 our like me and my
+05:32 
+
+05:32 wives well we live we live in the Tre
+05:34 
+
+05:34 room hdb so it's not the biggest so it
+05:38 
+
+05:38 doesn't really matter if you have the
+05:39 
+
+05:39 door closed or like you can still hear
+05:42 
+
+05:42 yeah we can still hear or even sometimes
+05:44 
+
+05:44 like
+05:45 
+
+05:45 weas think that he's crying but she's
+05:48 
+
+05:48 not it's like this kind of like
+05:49 
+
+05:49 hallucinations no because it's just like
+05:52 
+
+05:52 espe time so you might think it's is it
+05:55 
+
+05:55 crying I mean especially during like the
+05:57 
+
+05:57 first year where he's where he's like
+05:59 
+
+05:59 you can't even walk C yet like he's just
+06:02 
+
+06:02 mainly just uh crying when he when he's
+06:05 
+
+06:05 hungry like I mean that's the way that
+06:07 
+
+06:07 they communicate in the early years yeah
+06:09 
+
+06:09 I would say it's hard
+06:11 
+
+06:11 to contact switch I mean even at work
+06:14 
+
+06:14 even at work there is contact switching
+06:16 
+
+06:16 I think the boundaries between work and
+06:19 
+
+06:19 being a that have as much as possible
+06:21 
+
+06:21 you want to be like a super human right
+06:23 
+
+06:23 but I think eventually it's just going
+06:25 
+
+06:25 to be really tiring to manage both yeah
+06:27 
+
+06:27 you just have to manage one thing at a
+06:29 
+
+06:29 time and like on the weekends where
+06:31 
+
+06:31 there obviously there's no work and like
+06:33 
+
+06:33 you have full commitment to to taking
+06:35 
+
+06:35 care of your kid I think that's that's
+06:38 
+
+06:38 important to have yeah I do have one uh
+06:41 
+
+06:41 question for you uh like I always want
+06:43 
+
+06:43 to ask this to like a man where you know
+06:47 
+
+06:47 like how we always associate children
+06:50 
+
+06:50 and kids with moms like the mom has to
+06:52 
+
+06:52 be very involved with the child but I
+06:55 
+
+06:55 I've heard that you're a little bit more
+06:57 
+
+06:57 Hands-On you you actually uh ask a
+06:59 
+
+06:59 company for like oh can I get some time
+07:01 
+
+07:01 off here I need to bring my child to
+07:03 
+
+07:03 Clinic I need to take care of him I need
+07:04 
+
+07:04 to feed him so how do you feel it is
+07:06 
+
+07:06 like like do you think it's actually
+07:08 
+
+07:08 more mom involved or do you think Dad
+07:10 
+
+07:10 can have equal role in it or or that's
+07:13 
+
+07:13 how it should be like what's your take
+07:15 
+
+07:15 on it I believe it should be an equal
+07:18 
+
+07:18 involvement it has to be a two-way
+07:20 
+
+07:20 communication so in terms of having a
+07:22 
+
+07:22 kid maybe it's a bit different for dads
+07:25 
+
+07:25 Because I think there's a saying out
+07:26 
+
+07:26 there that goes like a mom becomes a mom
+07:29 
+
+07:29 when when they get pregnant because then
+07:31 
+
+07:31 they have to carry the kid for 9 months
+07:34 
+
+07:34 and then um it already affected their
+07:37 
+
+07:37 life yeah really affected their lives in
+07:39 
+
+07:39 terms of how they're feeling right for
+07:41 
+
+07:41 the N9 months but a dead comes a dead
+07:44 
+
+07:44 when the kid is born like even that even
+07:46 
+
+07:46 at work I feel like being Hands-On is is
+07:48 
+
+07:48 something that when I say Hands-On I
+07:50 
+
+07:50 mean like be proactive right so I think
+07:52 
+
+07:52 not only just applies to like having a
+07:54 
+
+07:54 kid but like in any even in your job I
+07:56 
+
+07:56 being Hands-On there's always there's
+07:57 
+
+07:57 definitely always more upsides and
+07:59 
+
+07:59 downsides and there's no there's no harm
+08:01 
+
+08:01 like trying something they've not tried
+08:02 
+
+08:02 before and when it comes to taking care
+08:04 
+
+08:04 of a a baby things new things like
+08:07 
+
+08:07 unforeseen that com sens like when you
+08:09 
+
+08:09 changing the diapers and then like the
+08:11 
+
+08:11 kids earning the speed on you right and
+08:12 
+
+08:12 what what you do right it's like you
+08:14 
+
+08:14 will never you will never experience all
+08:17 
+
+08:17 of this if you don't even attempt to
+08:20 
+
+08:20 change uh the kids diapers right and we
+08:23 
+
+08:23 we actually employed the confinement n
+08:26 
+
+08:26 in the first month which basically do
+08:28 
+
+08:28 all the stuff while the mom while the
+08:31 
+
+08:31 mom rest but then that got me thinking
+08:34 
+
+08:34 because thankly the de doesn't really do
+08:37 
+
+08:37 much in the the whole labor process
+08:39 
+
+08:39 right just like moral support so
+08:43 
+
+08:43 like technically the de can just get
+08:45 
+
+08:45 started right away even even if there
+08:47 
+
+08:47 confirming any he can be hands on right
+08:49 
+
+08:49 from then right yeah I would say be
+08:52 
+
+08:52 hands on from the start and then I think
+08:54 
+
+08:54 eventually you just get like used to it
+08:57 
+
+08:57 and like just becomes part of your your
+08:59 
+
+08:59 daily routine
+08:60 
+
+08:60 it's good that he's like that you're
+09:01 
+
+09:01 very involved and that you really try to
+09:04 
+
+09:04 be empathetic towards you know like
+09:06 
+
+09:06 shared responsibilities and everything
+09:08 
+
+09:08 so maybe we can have one last question
+09:11 
+
+09:11 before wrapping up is that what advice
+09:13 
+
+09:13 can you give to like maybe future dads
+09:17 
+
+09:17 who are also engineers and have to like
+09:19 
+
+09:19 juggle and experience all this that you
+09:21 
+
+09:21 have experienced I would say because
+09:23 
+
+09:23 when you're a software engineer I think
+09:25 
+
+09:25 at least for most guys we try to
+09:28 
+
+09:28 tackle we try tackle challenges in a
+09:31 
+
+09:31 logical manner but sometimes there is no
+09:34 
+
+09:34 logic to to taking care of kid because
+09:37 
+
+09:37 you don't know I you don't know what
+09:38 
+
+09:38 they want right like if you are at work
+09:42 
+
+09:42 and you are working on debuging a
+09:45 
+
+09:45 specific issue it's always like pretty
+09:48 
+
+09:48 method methodical right you go step by
+09:50 
+
+09:50 step like check the logs and like try to
+09:52 
+
+09:52 reproduce the issue but with a kid you
+09:55 
+
+09:55 can't you can't reproduce the issue
+09:56 
+
+09:56 right it's just it's just really there
+09:58 
+
+09:58 and like even if you go through the
+10:00 
+
+10:00 things that you think it usually solves
+10:02 
+
+10:02 the issue like it still doesn't work
+10:03 
+
+10:03 then you just have to you just have to
+10:05 
+
+10:05 figure out like what what works best for
+10:07 
+
+10:07 because I think every every kid is
+10:09 
+
+10:09 different prepare yourself like to to
+10:11 
+
+10:11 that it's not always going it's not
+10:13 
+
+10:13 always going to work basically like in
+10:15 
+
+10:15 in in software engineering like there is
+10:17 
+
+10:17 definitely a solution to it but in
+10:19 
+
+10:19 taking when taking care of a kid like
+10:21 
+
+10:21 it's pretty normal right you just have
+10:23 
+
+10:23 to accept that it's it's a normal part
+10:25 
+
+10:25 of being a parent and you will only get
+10:28 
+
+10:28 better with time I think with being a
+10:31 
+
+10:31 dad and an engineer as well time
+10:34 
+
+10:34 management probably is important um
+10:37 
+
+10:37 because I mean at work you have
+10:39 
+
+10:39 different tasks to work on and as a dad
+10:40 
+
+10:40 you have different tasks to work on
+10:42 
+
+10:42 right so you kind of have to allocate
+10:45 
+
+10:45 your time accordingly and also like
+10:47 
+
+10:47 don't try to do everything by yourself
+10:50 
+
+10:50 at home you have to communicate with
+10:53 
+
+10:53 your wife and see which things you are
+10:56 
+
+10:56 better in and which things she's better
+10:58 
+
+10:58 in right U like for example I'm better
+10:60 
+
+10:60 at showering the kid and I'll just do it
+11:02 
+
+11:02 and she but she's better at like maybe
+11:04 
+
+11:04 cooking his food or like thinking of
+11:06 
+
+11:06 what food to in to him then she'll just
+11:08 
+
+11:08 take ownership of that so it's kind of
+11:10 
+
+11:10 the same at work as well in that sense
+11:13 
+
+11:13 cuz you just have to identify your
+11:14 
+
+11:14 strengths and and just work together
+11:17 
+
+11:17 with your your teammate in this case my
+11:20 
+
+11:20 wife and achieve your I want say achieve
+11:23 
+
+11:23 your goals but that's more for your work
+11:25 
+
+11:25 but like B see just grow old together
+11:30 
+
+11:30 with the with your sunmate like just
+11:32 
+
+11:32 watching maintain the code base well and
+11:34 
+
+11:34 then you know any up project actually
+11:38 
+
+11:38 the child will become something he'll
+11:40 
+
+11:40 have outcome also you have to constantly
+11:42 
+
+11:42 update nurturing it what's there
+11:45 
+
+11:45 together as a team yeah as a team yeah
+11:47 
+
+11:47 as a teamwork I like that I like how you
+11:50 
+
+11:50 always um have that parallelism and that
+11:53 
+
+11:53 it's always like that with software
+11:54 
+
+11:54 Engineers I I try I try not to overdo it
+11:57 
+
+11:57 but like on hindsight it does Mak sense
+11:60 
+
+11:60 some of things yeah it makes certain
+12:02 
+
+12:02 things metod
+12:04 
+
+12:04 meod yeah that's nice yeah so thank you
+12:07 
+
+12:07 so much Andrew for today's session I
+12:09 
+
+12:09 think once again we learned a lot
+12:11 
+
+12:11 especially compared to human's mom
+12:13 
+
+12:13 Junior episode now we learn a different
+12:15 
+
+12:15 perspective from the dad's perspective
+12:17 
+
+12:17 which is also just as interesting and
+12:19 
+
+12:19 just as insightful we hope a lot of
+12:21 
+
+12:21 people do find some relatability in this
+12:24 
+
+12:24 and maybe even take away a lot of advice
+12:27 
+
+12:27 for like aspiring new dads so thank you
+12:29 
+
+12:29 so much and yeah this has been R tag and
+12:33 
+
+12:33 like always please do subscribe to us
+12:35 
+
+12:35 follow us on our socials and we'll see
+12:38 
+
+12:38 you again yeah thank you bye bye byebye

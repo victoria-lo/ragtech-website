@@ -1,0 +1,1777 @@
+00:00 Some people make it seem like it's very
+00:02 
+
+00:02 scary. So, I'm scared and I want you
+00:04 
+
+00:04 guys to explain to me what is agent and
+00:07 
+
+00:07 agent AI.
+00:08 
+
+00:08 >> So, Joy is going to take notice of the
+00:10 
+
+00:10 taboo cards and then if you use any of
+00:12 
+
+00:12 the taboo words, she's going to shout at
+00:14 
+
+00:14 you.
+00:15 
+
+00:15 >> So, an agent is essentially a
+00:20 
+
+00:20 >> I don't know how to speak Korean. That
+00:22 
+
+00:22 guy doesn't know how to speak English.
+00:24 
+
+00:24 >> Now, I have this list of different types
+00:26 
+
+00:26 of greetings. So, how do you want to
+00:28 
+
+00:28 start out your conversation with this
+00:30 
+
+00:30 Korean guy, this hot oppa?
+00:37 
+
+00:37 Hello everyone, welcome to Rack Tech.
+00:39 
+
+00:39 Today we'll be simplifying tech terms
+00:42 
+
+00:42 for everyone and this is the first
+00:44 
+
+00:44 episode of our series called taking the
+00:46 
+
+00:46 buzz out of buzzwords and the theme for
+00:48 
+
+00:48 today is AI. Before we start, uh we want
+00:51 
+
+00:51 to introduce ourselves to those who
+00:52 
+
+00:52 haven't watched this uh our episodes
+00:54 
+
+00:54 yet. My name is Natasha. I'm a software
+00:56 
+
+00:56 engineer. I'm Victoria. I'm a solutions
+00:58 
+
+00:58 engineer.
+00:58 
+
+00:58 >> I'm Salon, software developer. And today
+01:01 
+
+01:01 we have a guest speaker, Joy.
+01:04 
+
+01:04 >> Hi everyone.
+01:05 
+
+01:05 >> So, uh, Joy, welcome to React Tech.
+01:07 
+
+01:07 Please tell us more about what do you do
+01:09 
+
+01:09 and how tech shows up in your workplace.
+01:13 
+
+01:13 >> Yeah, sure. Okay. Hi everyone. I'm Joy.
+01:16 
+
+01:16 So, I'm actually a fresh grad that just
+01:18 
+
+01:18 started uh in the workforce and I
+01:21 
+
+01:21 studied communications and new media,
+01:23 
+
+01:23 but right now I'm doing PR and coms in a
+01:26 
+
+01:26 private equity firm and they also have a
+01:28 
+
+01:28 venture fund for deep tech. So, that's
+01:31 
+
+01:31 where the tech comes into play. Yeah.
+01:33 
+
+01:33 And as someone who didn't study, you
+01:35 
+
+01:35 know, computer science or like um
+01:38 
+
+01:38 engineering anything as a degree in
+01:40 
+
+01:40 university for me uh I had to pick up a
+01:43 
+
+01:43 lot of things on the job itself. Yeah.
+01:45 
+
+01:45 So for example all the jargon tech terms
+01:48 
+
+01:48 and also
+01:48 
+
+01:48 >> yeah there's a lot of jargon right?
+01:50 
+
+01:50 >> Yeah and also how everything works right
+01:52 
+
+01:52 like for me no coding background yeah I
+01:55 
+
+01:55 have to speak to founders in my job and
+01:57 
+
+01:57 also investors so I need to understand
+01:60 
+
+02:00 what are they building yeah even though
+02:02 
+
+02:02 I didn't I don't um really dabble into
+02:05 
+
+02:05 that sector myself. Yeah. So um it's
+02:08 
+
+02:08 very important for me to learn these
+02:10 
+
+02:10 things um and pick up on what the
+02:12 
+
+02:12 founders are building so we can also
+02:14 
+
+02:14 make uh good decisions on like which are
+02:16 
+
+02:16 good investments as well.
+02:17 
+
+02:17 >> Wow that's really amazing. It must be
+02:19 
+
+02:19 like a bit of a learning curve right?
+02:21 
+
+02:21 >> Yes definitely cuz a lot of people who
+02:23 
+
+02:23 were from my major let's say if you want
+02:25 
+
+02:25 to go to like a more niche sector like
+02:28 
+
+02:28 for example deep tech or like finance
+02:30 
+
+02:30 you definitely have to learn a lot of
+02:32 
+
+02:32 things on the side not just like study
+02:34 
+
+02:34 your university classes and stuff. Is it
+02:36 
+
+02:36 your personal pet peeve when people use
+02:38 
+
+02:38 buzzwords out of nowhere?
+02:41 
+
+02:41 >> Yeah, I guess it's like um for me I also
+02:44 
+
+02:44 try to understand them because they
+02:45 
+
+02:45 might not know that I'm not from this
+02:47 
+
+02:47 background, you know. Yeah. And I think
+02:49 
+
+02:49 for me I made it my mission as well that
+02:52 
+
+02:52 as a PR in this sector, I need to make
+02:55 
+
+02:55 these terms easier for people who are
+02:57 
+
+02:57 non- techies to understand because I
+03:00 
+
+03:00 personally experience it. Yeah. Like for
+03:03 
+
+03:03 example um like when I'm in a program or
+03:06 
+
+03:06 in university there were a lot of people
+03:08 
+
+03:08 who studied computer science there and
+03:09 
+
+03:09 like obviously for me I felt kind of um
+03:12 
+
+03:12 like I cannot catch up with what they
+03:14 
+
+03:14 are you know building or like they are
+03:15 
+
+03:15 talking about but um I'm like okay I
+03:18 
+
+03:18 don't blame them because they are
+03:20 
+
+03:20 already they studied in university right
+03:23 
+
+03:23 so it's like for me I want to make it my
+03:25 
+
+03:25 mission to help people that that are
+03:27 
+
+03:27 like me to understand um the tech terms
+03:30 
+
+03:30 when they are non techy as well. Yeah.
+03:32 
+
+03:32 >> Oh, you've come to the right place. Uh,
+03:34 
+
+03:34 this is literally our series. It's
+03:36 
+
+03:36 taking the buzz out of buzzwords because
+03:39 
+
+03:39 don't worry, like you, even though we're
+03:40 
+
+03:40 techies, we also hate when people use
+03:42 
+
+03:42 tech buzzwords. There are a lot of
+03:44 
+
+03:44 people at conferences who throw out
+03:45 
+
+03:45 these buzzwords
+03:46 
+
+03:46 >> and they're using it wrong.
+03:48 
+
+03:48 >> Yeah. The worst part is when they use it
+03:50 
+
+03:50 wrong. But basically, they will use it
+03:52 
+
+03:52 wrong. Yet at the same time, like when
+03:54 
+
+03:54 we challenge, we realize it comes out
+03:56 
+
+03:56 empty. So, this series is not just for
+03:58 
+
+03:58 non- techies. is also for the techies
+03:60 
+
+04:00 out there who have been in these
+04:02 
+
+04:02 situations where you feel like uh people
+04:04 
+
+04:04 around you are using buzzwords wrong. So
+04:07 
+
+04:07 Joy actually we forgot to mention this
+04:09 
+
+04:09 at the start you're also a content
+04:10 
+
+04:10 creator um and um we will tag her handle
+04:14 
+
+04:14 like in this video uh do follow her over
+04:17 
+
+04:17 there. uh she's looking to connect uh
+04:19 
+
+04:19 with uh founders or entrepreneurs uh
+04:22 
+
+04:22 investors as well not specifically deep
+04:24 
+
+04:24 tech necessarily but you know if you're
+04:27 
+
+04:27 adjacent to that you can also connect
+04:29 
+
+04:29 with joy so yeah so will explain uh the
+04:33 
+
+04:33 props that we have for today yeah so
+04:35 
+
+04:35 today we wanted to try out this new
+04:37 
+
+04:37 thing and this is something that I
+04:39 
+
+04:39 actually came up with it is this thing
+04:41 
+
+04:41 called tech taboo so I actually brought
+04:44 
+
+04:44 in like the first few prototypes right
+04:46 
+
+04:46 here you know how like As techies, I was
+04:48 
+
+04:48 hanging out with all of my tech friends
+04:51 
+
+04:51 and I thought there must be something
+04:53 
+
+04:53 better to do than just chitchat, right?
+04:55 
+
+04:55 So, and I love games. So, I actually
+04:57 
+
+04:57 created this from inspired from taboo
+04:60 
+
+04:60 cards and I call it tech taboo. So, how
+05:02 
+
+05:02 this is is basically I have these cards.
+05:06 
+
+05:06 There are these buzzwords written on the
+05:08 
+
+05:08 top of it and then below it there are
+05:10 
+
+05:10 five words that you can't use to explain
+05:12 
+
+05:12 the buzz word. And that's that's the
+05:15 
+
+05:15 game. you you just have to go through as
+05:17 
+
+05:17 many words as you can make the other
+05:19 
+
+05:19 person guess these words and within 60
+05:22 
+
+05:22 seconds maybe and if you can do the most
+05:25 
+
+05:25 you win and I actually came up with the
+05:28 
+
+05:28 first prototype which was paper I cut
+05:30 
+
+05:30 out printed out cut out this paper
+05:33 
+
+05:33 >> and it was quite a hit among my friends
+05:35 
+
+05:35 uh and that's when we realized why not
+05:38 
+
+05:38 produce better quality cards and now we
+05:41 
+
+05:41 are realizing that this can come in very
+05:44 
+
+05:44 handy with non non tech people as well
+05:46 
+
+05:46 because we're basically basically
+05:48 
+
+05:48 explaining these buzzwords when we are
+05:51 
+
+05:51 talking about these uh like excluding
+05:54 
+
+05:54 these buzz uh these taboo words out so
+05:57 
+
+05:57 yeah
+05:57 
+
+05:57 >> yeah exactly but how we're going to use
+05:59 
+
+05:59 it for this session joy uh you have like
+06:02 
+
+06:02 a differentish set because this is
+06:04 
+
+06:04 actually like iteration too like we went
+06:06 
+
+06:06 to some Chinese manufacturer you can see
+06:08 
+
+06:08 if I don't know if you can see but
+06:10 
+
+06:10 there's white sides to it because we
+06:11 
+
+06:11 have no idea what bleed edges mean it's
+06:14 
+
+06:14 very small see This is my hand. This is
+06:16 
+
+06:16 my cut. Cannot see. Right. So, we we
+06:19 
+
+06:19 decided to make a bigger one. We won't
+06:21 
+
+06:21 show you the words yet because uh Joy
+06:23 
+
+06:23 will be the one picking these out. But
+06:24 
+
+06:24 how you will be using this is instead of
+06:26 
+
+06:26 anybody guessing the word, we all know
+06:28 
+
+06:28 what word you choose. So, you're going
+06:30 
+
+06:30 to choose the tech buzzwords from the
+06:32 
+
+06:32 deck which are all AI related because
+06:34 
+
+06:34 that's the theme that you've chosen. And
+06:36 
+
+06:36 uh our job is to explain that term to
+06:39 
+
+06:39 you without using the taboo words
+06:41 
+
+06:41 because in this case the taboo words are
+06:42 
+
+06:42 very uh technical. So explaining to you
+06:45 
+
+06:45 a technical term using technical words
+06:47 
+
+06:47 will will not like help you because
+06:48 
+
+06:48 that's what a lot of tech bros do. So
+06:51 
+
+06:51 sorry to tech bros out there. But yes,
+06:53 
+
+06:53 uh that is how we're going to play the
+06:55 
+
+06:55 game today.
+06:56 
+
+06:56 >> Yeah, Victoria, this is also your first
+06:58 
+
+06:58 time seeing the cards, right?
+06:59 
+
+06:59 >> Yes. And I have to say very high quality
+07:02 
+
+07:02 except the
+07:03 
+
+07:03 >> from China.
+07:04 
+
+07:04 >> Hey now, now a lot of founders all sorry
+07:08 
+
+07:08 I don't want this. Cut this out. No, I
+07:11 
+
+07:11 mean it's cheap.
+07:11 
+
+07:11 >> A lot of things are in China. I chose a
+07:13 
+
+07:13 cheap.
+07:18 
+
+07:18 >> But yeah, I really love this game. Yes,
+07:20 
+
+07:20 >> I really love this game because like
+07:22 
+
+07:22 it's an extension of the normal ordinary
+07:24 
+
+07:24 taboo we know, but it's like so
+07:26 
+
+07:26 applicable to both techies and people
+07:28 
+
+07:28 who are interested to learning about
+07:29 
+
+07:29 tech. So kudos to Sony for coming out
+07:31 
+
+07:31 with this. So yeah, let's get started.
+07:34 
+
+07:34 So I have laid out these words in front
+07:36 
+
+07:36 of you here. Choose one.
+07:38 
+
+07:38 >> Okay,
+07:39 
+
+07:39 >> you can choose one. uh anyone that
+07:42 
+
+07:42 you've encountered recently, somebody
+07:44 
+
+07:44 used the buzz word on you.
+07:46 
+
+07:46 >> Yeah. Okay. So, I think this word um I
+07:49 
+
+07:49 would like to bring this word up first
+07:50 
+
+07:50 because I've been seeing it a lot
+07:52 
+
+07:52 especially this year. Yeah. So, this is
+07:55 
+
+07:55 agent. Yeah. I've I've been hearing like
+07:58 
+
+07:58 agent agentic AI this year is a very
+08:02 
+
+08:02 popular buzz word actually. So, I think
+08:04 
+
+08:04 um as a non- techie I was also very
+08:08 
+
+08:08 interested in finding out what was it. I
+08:10 
+
+08:10 even saw like YouTube videos on people
+08:12 
+
+08:12 predicting like what's going to happen
+08:13 
+
+08:13 to agentic AI in the future and I don't
+08:15 
+
+08:15 know some people make it seem like it's
+08:17 
+
+08:17 very scary so I'm scared and I want you
+08:20 
+
+08:20 guys to explain to me what is agent and
+08:22 
+
+08:22 agent AI yeah
+08:24 
+
+08:24 >> who do you want to explain
+08:25 
+
+08:25 >> no no no I want I want because Victoria
+08:27 
+
+08:27 you wrote a blog post about this right
+08:29 
+
+08:29 >> so Victoria is also a technical writer
+08:32 
+
+08:32 actually uh she started out being a
+08:34 
+
+08:34 technical writer first uh and in her
+08:36 
+
+08:36 recent blog post that was one about uh
+08:38 
+
+08:38 agents and agent authentic AI. So, yeah,
+08:40 
+
+08:40 we choose you. Okay. So, Joy is going to
+08:43 
+
+08:43 take notice of the taboo cards. Okay.
+08:45 
+
+08:45 And then if you use any of the taboo
+08:47 
+
+08:47 words, uh she's going to shout at you. I
+08:49 
+
+08:49 mean, you can do anything you want.
+08:50 
+
+08:50 >> Stop.
+08:50 
+
+08:50 >> Yeah. Yeah. Then you have to try. Okay.
+08:53 
+
+08:53 >> Okay. Okay. So, an agent is essentially
+08:57 
+
+08:57 a butler.
+08:58 
+
+08:58 >> Woo.
+08:59 
+
+08:59 >> Wow.
+08:59 
+
+08:59 >> Wait. I love that. Okay. I can
+09:01 
+
+09:01 understand now. Yeah. So when you have
+09:04 
+
+09:04 like that thing that you use daytoday
+09:10 
+
+09:10 >> thing
+09:10 
+
+09:10 >> to ask questions.
+09:12 
+
+09:12 >> You're trying so hard.
+09:14 
+
+09:14 >> Yeah. You have you have that thing that
+09:16 
+
+09:16 you ask
+09:17 
+
+09:17 >> dayto day or it's like on a website
+09:19 
+
+09:19 right
+09:20 
+
+09:20 >> that thing is a kind of like a
+09:22 
+
+09:22 consultant you can say right like it
+09:24 
+
+09:24 will help you like distill information
+09:27 
+
+09:27 or like
+09:28 
+
+09:28 >> information. Okay. Don't no don't
+09:31 
+
+09:31 stress. Okay. Yeah, it helps you do
+09:33 
+
+09:33 that.
+09:34 
+
+09:34 >> But if you want it to do
+09:38 
+
+09:38 certain things,
+09:41 
+
+09:41 >> certain things.
+09:42 
+
+09:42 >> Yeah. You need a butler to instruct it
+09:48 
+
+09:48 to do the thing for you.
+09:49 
+
+09:49 >> Okay, I understand. Yeah.
+09:51 
+
+09:51 >> Yeah. Like let's say you want
+09:53 
+
+09:53 automation,
+09:55 
+
+09:55 >> things like that.
+09:56 
+
+09:56 >> So then you have to deploy a butler to
+09:60 
+
+09:60 go do it for you. So, this agent, which
+10:02 
+
+10:02 is the definition you're looking for, is
+10:05 
+
+10:05 essentially
+10:06 
+
+10:06 >> a specialized butler to help you do
+10:09 
+
+10:09 that.
+10:10 
+
+10:10 >> Are there any examples of what this
+10:11 
+
+10:11 butler can do?
+10:12 
+
+10:12 >> Oh, yeah. So, there's many different
+10:14 
+
+10:14 types of butlers.
+10:16 
+
+10:16 >> Okay.
+10:17 
+
+10:17 >> I look at you emphasizing butler.
+10:18 
+
+10:18 >> Yeah, it's like butlers.
+10:21 
+
+10:21 >> Okay. Butler. Let's go.
+10:22 
+
+10:22 >> Yeah.
+10:23 
+
+10:23 >> How many types of
+10:23 
+
+10:23 >> Give us some examples. Yeah.
+10:25 
+
+10:25 >> Okay. So the first one, the easiest one
+10:28 
+
+10:28 is
+10:30 
+
+10:30 do you know GitHub?
+10:32 
+
+10:32 >> Okay,
+10:32 
+
+10:32 >> I I do actually.
+10:35 
+
+10:35 >> Yeah.
+10:36 
+
+10:36 >> Yay. But for those that don't know,
+10:39 
+
+10:39 >> for those don't know, GitHub is like
+10:42 
+
+10:42 >> a place where
+10:44 
+
+10:44 >> I I think it might be in one of the
+10:46 
+
+10:46 decks. It's also taboo, but okay.
+10:48 
+
+10:48 >> It's a place where people uh store their
+10:51 
+
+10:51 code and then you have version control.
+10:53 
+
+10:53 So you can see the history. It's like
+10:55 
+
+10:55 Google Drive but for code
+10:57 
+
+10:57 >> something like that. So that's a good
+10:59 
+
+10:59 one. So so for GitHub let's say you are
+11:01 
+
+11:01 from your machine your laptop you want
+11:04 
+
+11:04 to automate certain task like
+11:08 
+
+11:08 task is what I do
+11:09 
+
+11:09 >> automate certain likes
+11:11 
+
+11:11 >> work work
+11:12 
+
+11:12 >> automates work
+11:14 
+
+11:14 >> taboo taboo
+11:15 
+
+11:15 >> stop.
+11:15 
+
+11:15 >> Okay stop we we passed the mic to salony
+11:18 
+
+11:18 now you fail you fail.
+11:19 
+
+11:19 >> Okay about good job. So good job. Do you
+11:21 
+
+11:21 have any examples? Okay.
+11:23 
+
+11:23 >> Okay. Agent
+11:24 
+
+11:24 >> examples.
+11:25 
+
+11:25 >> Example would be
+11:26 
+
+11:26 >> get be creative with it.
+11:28 
+
+11:28 >> Okay. For example, imagine. Okay. So,
+11:31 
+
+11:31 you are this person who is like the
+11:32 
+
+11:32 bridge between tech and uh non tech,
+11:35 
+
+11:35 right? So, maybe because you're so busy,
+11:37 
+
+11:37 you have all these t
+11:39 
+
+11:39 >> Oh,
+11:40 
+
+11:40 >> it did not did not complete. You have
+11:43 
+
+11:43 all of these things to do. So imagine I
+11:46 
+
+11:46 built for you this app where it will
+11:50 
+
+11:50 automatically connect to your Gmail and
+11:53 
+
+11:53 it can help you read your Gmail and give
+11:57 
+
+11:57 you a summary of all the emails you have
+11:58 
+
+11:58 received for the day. M that sounds
+12:00 
+
+12:00 >> so this is doing a thing for you right
+12:03 
+
+12:03 >> this app and exactly this program that
+12:06 
+
+12:06 I've written to read your e read your
+12:08 
+
+12:08 Gmail summarize it and then send you uh
+12:12 
+
+12:12 text of your summary
+12:14 
+
+12:14 >> this is an agent
+12:16 
+
+12:16 >> okay I get it now yeah
+12:18 
+
+12:18 >> right it has done a specific
+12:20 
+
+12:20 >> I think can pass can pass yeah
+12:22 
+
+12:22 >> I want to talk about the MCP and A2A but
+12:24 
+
+12:24 >> okay
+12:26 
+
+12:26 >> you just do two more like buzz
+12:29 
+
+12:29 there cuz it's uh it's the different
+12:31 
+
+12:31 types of butler.
+12:35 
+
+12:35 >> What are the different types of butlers?
+12:37 
+
+12:37 >> Okay. What kind of butlers? Get
+12:38 
+
+12:38 creative.
+12:38 
+
+12:38 >> Which butler did I talk about just now?
+12:40 
+
+12:40 >> You talked about the generic.
+12:42 
+
+12:42 >> Yes.
+12:42 
+
+12:42 >> Okay. So, there's a generic butler.
+12:45 
+
+12:45 >> That's Batman's butler.
+12:46 
+
+12:46 >> Yes.
+12:47 
+
+12:47 >> Batman.
+12:48 
+
+12:48 >> Batman. Sorry. Okay. Your butler. Your
+12:50 
+
+12:50 butler.
+12:51 
+
+12:51 >> So, there's the generic butler. So,
+12:53 
+
+12:53 that's the one that you mentioned.
+12:55 
+
+12:55 >> Generic task.
+12:56 
+
+12:56 >> You can basically connect this butler to
+12:59 
+
+12:59 like third party services.
+13:01 
+
+13:01 >> Okay.
+13:02 
+
+13:02 >> So I was last time using GitHub as an
+13:03 
+
+13:03 example. So only uses Gmail. Yeah.
+13:06 
+
+13:06 >> Right. So that is the generic butler.
+13:08 
+
+13:08 Butlers also have their own butler
+13:11 
+
+13:11 community.
+13:12 
+
+13:12 >> Oh, that's cool.
+13:15 
+
+13:15 >> Okay.
+13:16 
+
+13:16 >> Okay. What about this?
+13:17 
+
+13:17 >> So they can talk to other butlers as
+13:20 
+
+13:20 well, right? So, a butler talking to
+13:22 
+
+13:22 another butler cuz let's say the butler
+13:25 
+
+13:25 specific task is to read emails.
+13:28 
+
+13:28 >> You just say task.
+13:30 
+
+13:30 >> Does it say work?
+13:31 
+
+13:31 >> Okay. Work.
+13:33 
+
+13:33 >> I failed so much.
+13:34 
+
+13:34 >> Fail again.
+13:35 
+
+13:35 >> I'm so bad at this game.
+13:35 
+
+13:35 >> Minus two.
+13:36 
+
+13:36 >> Dang it. Okay. Yeah, we'll have points
+13:38 
+
+13:38 at the end. Um but yeah, so if a butler
+13:42 
+
+13:42 can only do one specific thing cuz
+13:44 
+
+13:44 they're very specialized like read email
+13:49 
+
+13:49 and summarize it.
+13:51 
+
+13:51 >> Email is not there.
+13:53 
+
+13:53 >> Read read email and summarize it.
+13:55 
+
+13:55 >> She scared them specific thing it does.
+13:58 
+
+13:58 >> Yes. And then there's another butler
+14:00 
+
+14:00 that actually takes these emails and
+14:02 
+
+14:02 maybe draft replies
+14:05 
+
+14:05 >> for these emails.
+14:07 
+
+14:07 >> Okay. So this butler have to talk to
+14:10 
+
+14:10 this butler say that these are the
+14:12 
+
+14:12 emails I receive
+14:14 
+
+14:14 >> and now help me
+14:17 
+
+14:17 >> write.
+14:18 
+
+14:18 She looks so scared
+14:20 
+
+14:20 >> that those emails uh according to like
+14:23 
+
+14:23 maybe urgency content and certain
+14:27 
+
+14:27 things.
+14:28 
+
+14:28 >> So when a butler talks to another butler
+14:30 
+
+14:30 it's called A2A agent to agent.
+14:33 
+
+14:33 >> Oh okay
+14:34 
+
+14:34 >> type of protocol.
+14:36 
+
+14:36 >> Yep. You also mentioned MCP, right? Do
+14:38 
+
+14:38 you want to?
+14:38 
+
+14:38 >> Yeah. MCP stands for model context
+14:42 
+
+14:42 protocol. Okay. So, this is this
+14:43 
+
+14:43 something I've heard before, by the way.
+14:45 
+
+14:45 >> MCP. No, actually. So, yeah.
+14:47 
+
+14:47 >> I think it's a very techy techy term.
+14:49 
+
+14:49 >> It's okay. Like, maybe if she hears it,
+14:51 
+
+14:51 next time uh it sounds next time someone
+14:54 
+
+14:54 says MCP, I'm like, "Oh my god, I know
+14:55 
+
+14:55 why it is."
+14:56 
+
+14:56 >> Yeah. So, basically, u some third party
+14:60 
+
+14:60 services, the the one that Salony
+15:02 
+
+15:02 described. So, for example, I'm speaking
+15:03 
+
+15:03 English to you, right? then you have to
+15:05 
+
+15:05 speak English back to me. But some of
+15:07 
+
+15:07 these third party services might be oh
+15:09 
+
+15:09 I'm speaking English but
+15:11 
+
+15:11 >> they'll come back to me in Korean you
+15:12 
+
+15:12 know.
+15:13 
+
+15:13 >> Okay.
+15:13 
+
+15:13 >> So that is when you will need a MCP
+15:18 
+
+15:18 model context protocol because it
+15:20 
+
+15:20 standardizes the communication between
+15:23 
+
+15:23 butlers and third party services.
+15:25 
+
+15:25 >> So let's say GitHub has a MCP. So
+15:29 
+
+15:29 instead of you know give a prompt like
+15:31 
+
+15:31 say
+15:34 
+
+15:34 >> okay okay
+15:34 
+
+15:34 >> promise not promise not
+15:37 
+
+15:37 promise not bad
+15:39 
+
+15:39 >> okay promise not
+15:40 
+
+15:40 >> let's say you have to tell GitHub to do
+15:42 
+
+15:42 a certain thing for you using the agent
+15:46 
+
+15:46 >> normally you can write a prompt right
+15:48 
+
+15:48 >> okay
+15:49 
+
+15:49 >> but
+15:50 
+
+15:50 >> sometimes the problem with
+15:52 
+
+15:52 >> oh the problem with this thing is that
+15:56 
+
+15:56 the output is not always consistent
+15:58 
+
+15:58 right Okay.
+15:59 
+
+15:59 >> So by using MCP they'll already have
+16:01 
+
+16:01 predefined
+16:03 
+
+16:03 >> ah I cannot use that they have
+16:05 
+
+16:05 predefined
+16:07 
+
+16:07 >> things
+16:07 
+
+16:07 >> okay
+16:08 
+
+16:08 >> that you can do. So let's say for for
+16:10 
+
+16:10 Gmail MCP is like read emails right. So
+16:13 
+
+16:13 you don't instead of writing a prompt
+16:15 
+
+16:15 from scratch you'll just take the MCP
+16:18 
+
+16:18 >> thing that says read emails. So you'll
+16:20 
+
+16:20 be like
+16:21 
+
+16:21 >> predefined prompt so you don't have to
+16:23 
+
+16:23 write it.
+16:23 
+
+16:23 >> Yeah. So let's see if I understand it
+16:24 
+
+16:24 correctly. Let's say I am a Singaporean.
+16:28 
+
+16:28 I go to Korea and then there's this
+16:30 
+
+16:30 Korean guy that I think is really
+16:32 
+
+16:32 handsome and I'm like my friend is with
+16:34 
+
+16:34 me and then my friend knows how to speak
+16:36 
+
+16:36 Korean. I don't know how to speak
+16:37 
+
+16:37 Korean. That guy doesn't know how to
+16:39 
+
+16:39 speak English. And then let's say I want
+16:41 
+
+16:41 to hear on that guy. Then my friend is
+16:45 
+
+16:45 the wingman who is the MCP.
+16:48 
+
+16:48 >> He translates that context in this case
+16:50 
+
+16:50 where the predefined promp is translated
+16:52 
+
+16:52 back into English.
+16:54 
+
+16:54 >> That's a good one. That's a good one. So
+16:55 
+
+16:55 your friend essentially have already
+16:58 
+
+16:58 predefined like uh options for you. So
+17:01 
+
+17:01 it's like okay so you speak English, I
+17:03 
+
+17:03 can translate for you Korean. Now I have
+17:05 
+
+17:05 this list of like different types of
+17:07 
+
+17:07 greetings. So how do you want to start
+17:09 
+
+17:09 out your conversation with this Korean
+17:12 
+
+17:12 guy? This hot oa
+17:16 
+
+17:16 is
+17:16 
+
+17:16 >> it's really simple terms now.
+17:17 
+
+17:17 >> Yeah. It's like do you want any or you
+17:19 
+
+17:19 want I don't know what or girl knows
+17:22 
+
+17:22 Korean.
+17:23 
+
+17:23 >> She is the MCP.
+17:24 
+
+17:24 or anyong like what kind of style you
+17:28 
+
+17:28 want.
+17:28 
+
+17:28 >> Okay,
+17:28 
+
+17:28 >> it's all predefined. So that way you
+17:31 
+
+17:31 don't have to always specifically
+17:32 
+
+17:32 instruct your friend, I want it this
+17:34 
+
+17:34 way, I want it this way cuz that can be
+17:36 
+
+17:36 inconsistent and that can be time
+17:38 
+
+17:38 consuming to build all the the possible
+17:42 
+
+17:42 things that you can. It's like if you go
+17:44 
+
+17:44 on if let's say that context you were
+17:46 
+
+17:46 relying on chat the whole time and then
+17:48 
+
+17:48 every time you send out it's like can
+17:50 
+
+17:50 you uh give me the pronunciation of I
+17:53 
+
+17:53 want to say that I like you but I want
+17:56 
+
+17:56 the tone to be like friendly not
+17:57 
+
+17:57 overbearing not I like you. I want it to
+17:59 
+
+17:59 be I kind of like you. Okay, then you
+18:01 
+
+18:01 send it out. Okay, then you say it. Then
+18:03 
+
+18:03 the next time you prompt it again, then
+18:04 
+
+18:04 you say, "Okay, remember you make it
+18:06 
+
+18:06 make it cool. Don't don't be
+18:07 
+
+18:07 overbearing." Then you have to keep
+18:08 
+
+18:08 saying don't be overbearing. Don't be
+18:10 
+
+18:10 overbearing. It gets quite tiring to
+18:11 
+
+18:11 keep typing it out. Then the opa gone
+18:13 
+
+18:13 already, right? Yeah. So it's basically
+18:15 
+
+18:15 like that.
+18:16 
+
+18:16 >> Yeah. Yeah, I understand now.
+18:18 
+
+18:18 >> Yay. very explanation.
+18:21 
+
+18:21 >> She so basically today we not only
+18:23 
+
+18:23 explained agent, we also explained
+18:25 
+
+18:25 multi- aent and also how agents talk to
+18:30 
+
+18:30 third party using MCP.
+18:32 
+
+18:32 >> Okay.
+18:33 
+
+18:33 >> How how's your experience with that?
+18:35 
+
+18:35 >> I think that was very good. It's like
+18:37 
+
+18:37 simple terms like I said and after that
+18:39 
+
+18:39 we turn it into analogy. Yeah. I'm like
+18:41 
+
+18:41 okay. So now I say agent is a butler.
+18:44 
+
+18:44 >> Yeah. And I also learn about MCP, right?
+18:47 
+
+18:47 And uh we use that Korean example. Yeah.
+18:50 
+
+18:50 Which I think is very easy to understand
+18:52 
+
+18:52 as well. And you all did a very good job
+18:53 
+
+18:53 explaining it. Yeah.
+18:54 
+
+18:54 >> Okay. Nice. So next time when you go to
+18:56 
+
+18:56 your founders, your investors and then
+18:59 
+
+18:59 they are going to use this term, right?
+19:01 
+
+19:01 You're going to bring in the Korean OPA
+19:02 
+
+19:02 analogy.
+19:03 
+
+19:03 >> Oh my god. Yeah. It's like when they
+19:04 
+
+19:04 mention this then in my head I'm
+19:05 
+
+19:05 thinking the Korean. Yeah. Okay. That's
+19:08 
+
+19:08 very good. Well, actually we there there
+19:10 
+
+19:10 are actually eight words here. One, two,
+19:12 
+
+19:12 three. Yeah. Eight words. But it's so
+19:13 
+
+19:13 funny that from one word we spun off
+19:15 
+
+19:15 into so many other words because that's
+19:17 
+
+19:17 the thing about tech, right? It's so
+19:19 
+
+19:19 complex like you can't just throw out
+19:21 
+
+19:21 one buzz word because to understand that
+19:23 
+
+19:23 whole domain it takes understanding so
+19:26 
+
+19:26 much more like agents to MCPs to A2A
+19:29 
+
+19:29 like there's so much to unpack here. So
+19:31 
+
+19:31 even though we didn't get to choose
+19:32 
+
+19:32 other words in this deck uh I hope you
+19:35 
+
+19:35 came off with like an understanding and
+19:37 
+
+19:37 appreciation of uh tech. So yeah, do you
+19:40 
+
+19:40 guys uh enjoy that? You seem to have
+19:42 
+
+19:42 enjoyed that the most, right?
+19:43 
+
+19:43 >> No, I'm a bit stressed.
+19:45 
+
+19:45 >> No, but you did a great job.
+19:46 
+
+19:46 >> She wanted to do more explanations.
+19:49 
+
+19:49 Actually, I wanted both of you to try,
+19:51 
+
+19:51 but you have tried a bit, but you
+19:53 
+
+19:53 haven't tried.
+19:54 
+
+19:54 >> Next episode.
+19:55 
+
+19:55 >> Next episode.
+19:56 
+
+19:56 >> Yeah. So far, we can do another one next
+19:57 
+
+19:57 time.
+19:58 
+
+19:58 >> Yeah. Yeah. We'll play more with you
+19:59 
+
+19:59 behind the scenes. Yeah.
+20:00 
+
+20:00 >> And I I just want to say kudos to this
+20:03 
+
+20:03 game. Like, I think it's really cool to
+20:05 
+
+20:05 think of this idea to make it like, you
+20:08 
+
+20:08 know, like explain it to non techies.
+20:10 
+
+20:10 Yeah. And it's just interesting seeing
+20:11 
+
+20:11 people build something from scratch, you
+20:13 
+
+20:13 know, like
+20:14 
+
+20:14 >> even though it's a prototype or like I
+20:16 
+
+20:16 don't know, you made it like um I just
+20:18 
+
+20:18 think it's really cool. Yeah. And cool.
+20:20 
+
+20:20 >> Yes. Okay. Then we will continue
+20:22 
+
+20:22 building on the prototype. Give us
+20:23 
+
+20:23 feedback. Give us feedback also. Okay.
+20:25 
+
+20:25 Okay. As always, this was Reg. So we'll
+20:29 
+
+20:29 see you in the next episode. Thanks so
+20:30 
+
+20:30 much, Joy. And thank you everybody.
+20:39 
+
+20:39 >> Wow. You have fun.
+20:41 
+
+20:41 >> I do. I know. It was so fun.

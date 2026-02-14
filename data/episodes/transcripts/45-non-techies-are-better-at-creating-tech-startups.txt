@@ -1,0 +1,2038 @@
+00:00 We have to admit that the tech market is
+00:02 
+
+00:02 paying more than a lot of other job
+00:04 
+
+00:04 fields right now. So if we are saying
+00:06 
+
+00:06 non techies who otherwise aren't in the
+00:07 
+
+00:07 tech job market doing this startup
+00:10 
+
+00:10 versus me taking a entry-level job that
+00:13 
+
+00:13 might be 3 4K at best
+00:15 
+
+00:15 >> the opportunity cost is just simply not
+00:17 
+
+00:17 that high.
+00:20 
+
+00:20 [music]
+00:24 
+
+00:24 Hello everybody, we're Rack Tag. This is
+00:26 
+
+00:26 the podcast where we talk about real
+00:27 
+
+00:27 life in tech together with real people
+00:29 
+
+00:29 in tech. And my name is Natasha. I'm a
+00:31 
+
+00:31 software engineer.
+00:32 
+
+00:32 >> I'm Salon, software developer.
+00:34 
+
+00:34 >> And I'm Victoria, solutions engineer.
+00:36 
+
+00:36 >> And together we are rack tech. So
+00:38 
+
+00:38 today's episode uh is more of uh less of
+00:41 
+
+00:41 a topic but more of an observation that
+00:43 
+
+00:43 we've had. Three of us are techies.
+00:45 
+
+00:45 Three of us have worked in different
+00:47 
+
+00:47 companies. Three of us are also very
+00:48 
+
+00:48 active in uh the startup and founder
+00:51 
+
+00:51 community. And the other day um Salony
+00:54 
+
+00:54 and I I don't know what context we were
+00:56 
+
+00:56 in. We were basically looking at some
+00:58 
+
+00:58 other founders and talking to some other
+00:60 
+
+00:60 founders and she made this observation
+01:02 
+
+01:02 that a lot of non- techies are founders
+01:06 
+
+01:06 of tech companies and a lot less techies
+01:09 
+
+01:09 are actually founding companies in
+01:11 
+
+01:11 general. And we've been mulling over
+01:14 
+
+01:14 this observation and trying to talk to
+01:16 
+
+01:16 more people to understand why. So we
+01:19 
+
+01:19 wanted to have this conversation to kind
+01:21 
+
+01:21 of like be able to um get our thoughts
+01:24 
+
+01:24 in on this. So Salon, you came up with
+01:27 
+
+01:27 the obser observation. Um do you want to
+01:29 
+
+01:29 like talk more about uh when you started
+01:32 
+
+01:32 first uh observing this pattern?
+01:36 
+
+01:36 Uh I mean I I had been observing but it
+01:39 
+
+01:39 really hit me when I met this founder
+01:42 
+
+01:42 and they had started a tech company
+01:45 
+
+01:45 which was very into you can you can say
+01:47 
+
+01:47 something like uh cyber security maybe.
+01:51 
+
+01:51 So cyber security is a very niche field
+01:53 
+
+01:53 in tech right for that even I would not
+01:56 
+
+01:56 have like deep details about it but I
+01:59 
+
+01:59 would know like a beginner level basics
+02:01 
+
+02:01 of cyber security but for a
+02:04 
+
+02:04 non-technical person to be able to start
+02:07 
+
+02:07 a technical company on cyber security
+02:10 
+
+02:10 and cyber solution solutions it was very
+02:14 
+
+02:14 uh eye openening for me that okay you
+02:16 
+
+02:16 don't really need to know the details or
+02:18 
+
+02:18 the the deep knowledge in tech about
+02:21 
+
+02:21 cyber security, but you can still have
+02:23 
+
+02:23 an idea of a solution out there and just
+02:27 
+
+02:27 do it.
+02:28 
+
+02:28 >> Yeah. Yeah.
+02:29 
+
+02:29 >> And I was like, I have a lot of tech
+02:31 
+
+02:31 knowledge. Why can't I start a company?
+02:34 
+
+02:34 >> Yeah. Yeah. I think maybe we can start
+02:36 
+
+02:36 first at like how do we as techies um
+02:41 
+
+02:41 see the world and how do we function?
+02:43 
+
+02:43 You know, it it seems like we are it's
+02:46 
+
+02:46 the Dunning Krueger effect. you know,
+02:48 
+
+02:48 the more you know, the uh the the less
+02:51 
+
+02:51 confident you are about that subject uh
+02:54 
+
+02:54 matter. How do you think like this might
+02:56 
+
+02:56 connect to why techies might be more
+02:58 
+
+02:58 averse to jumping into a field that they
+03:00 
+
+03:00 don't really know?
+03:02 
+
+03:02 >> So, this is also by pure observation,
+03:04 
+
+03:04 but technical people are a little bit
+03:07 
+
+03:07 more risk averse is because partly like
+03:10 
+
+03:10 you said the Dunning Krueger effect is
+03:12 
+
+03:12 because the more you know, the more you
+03:14 
+
+03:14 know that you don't know. So you realize
+03:17 
+
+03:17 that there's so many things that you
+03:18 
+
+03:18 don't know about in this field like
+03:20 
+
+03:20 let's say you are already like a 5 years
+03:23 
+
+03:23 into cyber security compared to average
+03:26 
+
+03:26 people you definitely know more but you
+03:28 
+
+03:28 see yourself like I am nowhere near
+03:30 
+
+03:30 someone who has 10 years 20 years in
+03:33 
+
+03:33 cyber security so you know there's so
+03:34 
+
+03:34 many knowledge gaps that you don't know
+03:37 
+
+03:37 and that kind of that may paralyze
+03:40 
+
+03:40 someone from taking action
+03:43 
+
+03:43 >> and in general people are people who
+03:47 
+
+03:47 goes into tech I am just observing is
+03:50 
+
+03:50 they're risk averse in a way that they
+03:53 
+
+03:53 just want to look for stability and
+03:55 
+
+03:55 they're primarily motivated by the
+03:58 
+
+03:58 desire to learn to to master their craft
+04:02 
+
+04:02 at least that's from the different
+04:04 
+
+04:04 software engineers I've talked to a lot
+04:05 
+
+04:05 of them they see themselves in the next
+04:07 
+
+04:07 few years as a senior software engineer
+04:10 
+
+04:10 or they want to be someone principal
+04:11 
+
+04:11 software engineer they want to be
+04:12 
+
+04:12 someone who is a master at their skill
+04:15 
+
+04:15 But entrepreneurship is a whole another
+04:18 
+
+04:18 thing, right? It's something where you
+04:21 
+
+04:21 don't get to be a master of one skill,
+04:23 
+
+04:23 but instead you are wearing many
+04:25 
+
+04:25 different hats and you become a jack of
+04:28 
+
+04:28 all trade, master of none.
+04:31 
+
+04:31 >> Whereas I now see it techreneurship,
+04:34 
+
+04:34 right, are people who are uh jack of all
+04:38 
+
+04:38 trades and master of all. Basically, if
+04:42 
+
+04:42 you can position yourself to that level,
+04:47 
+
+04:47 um most likely you will be you will be
+04:49 
+
+04:49 able to uh be confident enough to start
+04:52 
+
+04:52 to start something. But that takes time
+04:55 
+
+04:55 and I don't think everyone starts out in
+04:58 
+
+04:58 that position.
+04:59 
+
+04:59 >> But the people who are actually doing it
+05:02 
+
+05:02 are the ones that are already halfway
+05:05 
+
+05:05 there. they're the ones who are already
+05:07 
+
+05:07 um willing to take those risk and
+05:09 
+
+05:09 willing to do what they see that there's
+05:12 
+
+05:12 a solution for a problem that you know
+05:14 
+
+05:14 even though they don't have much domain
+05:15 
+
+05:15 knowledge of
+05:17 
+
+05:17 >> so so I was saying like for me as a tech
+05:19 
+
+05:19 person
+05:21 
+
+05:21 >> uh and I do want to you know have a
+05:23 
+
+05:23 company of [clears throat] myself what
+05:25 
+
+05:25 is now stopping me from doing that is
+05:27 
+
+05:27 basically sheer
+05:30 
+
+05:30 uh fear of not
+05:32 
+
+05:32 >> no actually I have an answer I think
+05:33 
+
+05:33 it's opportunity cost for techies it's
+05:36 
+
+05:36 opportunity cost because you know that
+05:39 
+
+05:39 as a software engineer you're going to
+05:41 
+
+05:41 get like this salary that's going to
+05:43 
+
+05:43 this equity that's going to keep you so
+05:45 
+
+05:45 stable. So if I asked you right now yeah
+05:47 
+
+05:47 you want to be a founder but I ask you
+05:49 
+
+05:49 to quit your job right now and lose that
+05:51 
+
+05:51 stability of income in order to do that
+05:54 
+
+05:54 startup that you want you're probably
+05:56 
+
+05:56 probably not going to earn for the next
+05:58 
+
+05:58 two years would you do it?
+06:01 
+
+06:01 >> No.
+06:01 
+
+06:01 >> Yeah. as opposed to I bring you back to
+06:04 
+
+06:04 your university days, you haven't had a
+06:06 
+
+06:06 job yet.
+06:08 
+
+06:08 >> Do you think that what what is the
+06:10 
+
+06:10 opportunity cost there where you
+06:13 
+
+06:13 haven't, you know, progress in your job
+06:15 
+
+06:15 enough, you know, the opportunity cost
+06:16 
+
+06:16 is lower, you know, when you're a new
+06:19 
+
+06:19 university grad and then you take this
+06:21 
+
+06:21 uh uh perspective for uh non-technical
+06:23 
+
+06:23 people um where I mean we have to admit
+06:26 
+
+06:26 that the tech market is paying more than
+06:28 
+
+06:28 a lot of other job fields right now. So
+06:30 
+
+06:30 if we're saying non techies, techies who
+06:32 
+
+06:32 other non- techies who otherwise aren't
+06:34 
+
+06:34 in the tech job market, you know, versus
+06:36 
+
+06:36 this doing this startup uh versus me
+06:40 
+
+06:40 taking a entry- levelvel job that might
+06:42 
+
+06:42 be 3 4K at best,
+06:45 
+
+06:45 >> the opportunity cost is just simply not
+06:47 
+
+06:47 that uh uh high as opposed to you being
+06:50 
+
+06:50 like a senior software engineer now. Uh
+06:53 
+
+06:53 but that's why I also see that some
+06:55 
+
+06:55 people who are not willing to start
+06:58 
+
+06:58 earlier is also because yes they think
+07:00 
+
+07:00 of that opportunity cost but see they
+07:02 
+
+07:02 also think of it as a all or nothing
+07:04 
+
+07:04 kind of situation where like
+07:06 
+
+07:06 >> you you are limited to only doing one or
+07:08 
+
+07:08 the other
+07:09 
+
+07:09 >> where some entrepreneurs that you've
+07:11 
+
+07:11 spoken to they do it while they're
+07:13 
+
+07:13 having full-time jobs also just to test
+07:16 
+
+07:16 their idea first. So it really depends
+07:19 
+
+07:19 on your perspective and how you execute
+07:21 
+
+07:21 it. But of course it's very hard to say
+07:24 
+
+07:24 because people also have different
+07:25 
+
+07:25 seasons in life and maybe they value
+07:28 
+
+07:28 that stability right now over pursuing
+07:31 
+
+07:31 what they wanted to do and that's why
+07:34 
+
+07:34 it's very hard to say but I'm curious
+07:37 
+
+07:37 about for Salon who have always been
+07:39 
+
+07:39 like someone into entrepreneurship
+07:43 
+
+07:43 what has it been for you like and why
+07:46 
+
+07:46 why do you think you're starting you
+07:48 
+
+07:48 could you have started earlier if you
+07:51 
+
+07:51 you know met the the right people or
+07:52 
+
+07:52 like or have the right idea.
+07:55 
+
+07:55 >> Uh I mean honestly I have been trying
+07:57 
+
+07:57 for since I started working
+08:00 
+
+08:00 >> to start something. Uh somehow I from
+08:05 
+
+08:05 what I've reflected I think it's fear.
+08:07 
+
+08:07 Fear of failing, fear of putting in too
+08:10 
+
+08:10 much and again failing. Uh not knowing
+08:14 
+
+08:14 enough is definitely one of it because I
+08:16 
+
+08:16 don't know how to market. I don't know
+08:18 
+
+08:18 what I don't know in tech as well. I
+08:20 
+
+08:20 also don't want to pay people uh not be
+08:23 
+
+08:23 able to pay people because I didn't
+08:25 
+
+08:25 don't have enough income to do so. So
+08:29 
+
+08:29 yeah, basic I I would think for me is
+08:31 
+
+08:31 fear.
+08:33 
+
+08:33 >> And to which point like you did mention
+08:35 
+
+08:35 in university I would have lower
+08:37 
+
+08:37 opportunity cost because I don't have a
+08:38 
+
+08:38 stable income. would I have started
+08:40 
+
+08:40 something in university when I mean when
+08:43 
+
+08:43 I was thinking back in university the
+08:45 
+
+08:45 reason why I did not start in university
+08:47 
+
+08:47 is also because I don't know what it
+08:50 
+
+08:50 takes to release an app or market or
+08:54 
+
+08:54 talk oh one of the one of the years I
+08:56 
+
+08:56 mean while I was working when I did
+08:58 
+
+08:58 start a company I mean when I say start
+09:00 
+
+09:00 a company launch an app uh the reason
+09:04 
+
+09:04 why I gave it up was also because I did
+09:06 
+
+09:06 not understand
+09:08 
+
+09:08 uh seeding rounds and investments and
+09:11 
+
+09:11 pitching and there were so many new
+09:13 
+
+09:13 things coming up to me and then it gave
+09:15 
+
+09:15 me it made me more overwhelmed than like
+09:17 
+
+09:17 okay this is too much stress or you know
+09:20 
+
+09:20 new people coming up to me and asking me
+09:22 
+
+09:22 to be uh asking them asking me if they
+09:25 
+
+09:25 can be my co-founder so I'm like I
+09:27 
+
+09:27 already found it why would you be a
+09:29 
+
+09:29 co-founder now when I've already found
+09:31 
+
+09:31 it that concept was just like go yeah
+09:35 
+
+09:35 very foreign to me and I was just fear
+09:37 
+
+09:37 of not knowing things So I was like,
+09:39 
+
+09:39 okay, you know what? I will keep at it
+09:40 
+
+09:40 at my job. Keep learning, keep learning
+09:43 
+
+09:43 until I'm confident enough to do it. Now
+09:45 
+
+09:45 I'm realizing it's not so much about not
+09:48 
+
+09:48 knowing things. It is about I can now
+09:50 
+
+09:50 start a company and I know who to get
+09:53 
+
+09:53 into to help me do things. I think
+09:56 
+
+09:56 that's how non-technical people do it.
+09:58 
+
+09:58 They're like, I have a vision. I have an
+09:60 
+
+09:60 idea. I'll hire the best or I'll get the
+10:02 
+
+10:02 best engineers in to do it for me
+10:06 
+
+10:06 >> and I will have the vision of doing it.
+10:09 
+
+10:09 >> So I think that's how non- techies do
+10:11 
+
+10:11 it. That's what I think.
+10:13 
+
+10:13 >> Yeah, I think that's exactly right that
+10:15 
+
+10:15 nontechnical people they're not
+10:17 
+
+10:17 paralyzed by the fear of not knowing
+10:19 
+
+10:19 because by nature of not knowing they've
+10:21 
+
+10:21 had to ask people and they already know
+10:24 
+
+10:24 that they have the resources to find the
+10:26 
+
+10:26 people to do it. But as technical people
+10:28 
+
+10:28 you know we are so inclined to finding
+10:30 
+
+10:30 the solution ourselves. That's the whole
+10:33 
+
+10:33 idea of like software engineering right
+10:35 
+
+10:35 you just trial and error and then find
+10:36 
+
+10:36 it and be resourceful on your own. Very
+10:39 
+
+10:39 rarely do we reach out to other people
+10:41 
+
+10:41 to ask them for help in this field. So
+10:44 
+
+10:44 that's one. I think the second thing
+10:45 
+
+10:45 which I learned uh when I was in a
+10:48 
+
+10:48 venture accelerator in Boston for a year
+10:50 
+
+10:50 trying to start uh uh up a company in
+10:52 
+
+10:52 order to commercialize research I had
+10:54 
+
+10:54 done uh is that being a founder is more
+10:58 
+
+10:58 about owning the problem not the
+11:00 
+
+11:00 solution and for technical people like
+11:03 
+
+11:03 ourselves we tend to be more attached to
+11:06 
+
+11:06 the solution than the problem. That was
+11:07 
+
+11:07 how I was like I mean I entered the
+11:10 
+
+11:10 venture accelerator already with a
+11:12 
+
+11:12 solution. It was um this uh prediction
+11:15 
+
+11:15 algorithm to be able to predict how
+11:17 
+
+11:17 innovation would diffuse into industry
+11:20 
+
+11:20 already had a solution and it then I
+11:23 
+
+11:23 came in and I didn't want to let go of
+11:25 
+
+11:25 the solution. So it became more of like
+11:27 
+
+11:27 a let's find a problem to fit it. The
+11:30 
+
+11:30 the venture accelerator made me realize
+11:33 
+
+11:33 that um this was a much harder thing to
+11:36 
+
+11:36 do and I needed to detach from my
+11:38 
+
+11:38 product
+11:39 
+
+11:39 >> and start asking people and trying to
+11:41 
+
+11:41 find out what the problem is. So they
+11:42 
+
+11:42 made me basically stop developing and
+11:46 
+
+11:46 they said like talk to 50 people first
+11:47 
+
+11:47 then maybe we can talk about this first
+11:49 
+
+11:49 $1,000 we're going to give you to start
+11:51 
+
+11:51 things up. $1,000 only but 50 people
+11:54 
+
+11:54 >> you start talking to people and at first
+11:56 
+
+11:56 you go in with the bias of like I want
+11:58 
+
+11:58 to hear something that fits my worldview
+11:60 
+
+11:60 that you want to predict where
+12:02 
+
+12:02 innovation goes. First interview, oh
+12:05 
+
+12:05 wow, this person hardly wants to do
+12:08 
+
+12:08 that. They're actually happy with status
+12:10 
+
+12:10 quo. That's not good.
+12:11 
+
+12:11 >> Second interview again went in with my
+12:13 
+
+12:13 bias. Oh, this person is interested uh
+12:17 
+
+12:17 thinks it's interesting but not willing
+12:19 
+
+12:19 to pay a scent. And then the more you go
+12:21 
+
+12:21 to these interviews, you realize that
+12:23 
+
+12:23 the the issue is you coming into that
+12:26 
+
+12:26 interview with a bias of that person uh
+12:30 
+
+12:30 wanting your solution. I learned how to
+12:32 
+
+12:32 get rid of this bias and instead be more
+12:34 
+
+12:34 invested in the problem and finding out
+12:36 
+
+12:36 what problems people had. And I think
+12:38 
+
+12:38 like when nontechnical people they found
+12:40 
+
+12:40 companies because they know they don't
+12:43 
+
+12:43 have the resources yet to even envision
+12:45 
+
+12:45 what a solution looks like
+12:47 
+
+12:47 >> but they wholeheartedly believe and know
+12:50 
+
+12:50 that the problem exists. So they're
+12:53 
+
+12:53 going to like put in and go all in to be
+12:56 
+
+12:56 able to find a solution to the problem.
+12:57 
+
+12:57 And they're going to be very willing to
+12:58 
+
+12:58 pivot. Okay. Yeah. This solution or not.
+12:60 
+
+12:60 Let's drop it. Let's do the other one.
+13:02 
+
+13:02 That's what keeps founders going because
+13:05 
+
+13:05 solutions can go out of time, out of
+13:08 
+
+13:08 date, but problems don't. And I feel
+13:10 
+
+13:10 like that may be the main limiting
+13:12 
+
+13:12 factor for us uh and the wider
+13:15 
+
+13:15 engineering community is that we're so
+13:18 
+
+13:18 used to finding solutions, not problems.
+13:23 
+
+13:23 >> So, yeah. What do you think? Like that's
+13:26 
+
+13:26 something you've thought about like
+13:28 
+
+13:28 you've always want to be an entrepreneur
+13:30 
+
+13:30 but you know like do you start out first
+13:32 
+
+13:32 with a solution rather than like a
+13:35 
+
+13:35 problem? Do you find yourself like uh
+13:38 
+
+13:38 seeing problems more than solution? Like
+13:41 
+
+13:41 where do you think you're here on this?
+13:43 
+
+13:43 >> Uh definitely I I did know about this
+13:46 
+
+13:46 that problem first then solution but I
+13:49 
+
+13:49 think just because of the nature of
+13:51 
+
+13:51 engineering it does move on to the
+13:53 
+
+13:53 solution a bit too quickly. That's when
+13:55 
+
+13:55 you realize you have lost touch of the
+13:57 
+
+13:57 problem. And a lot of times for me what
+13:60 
+
+13:60 happened was I'll come up with a
+14:01 
+
+14:01 problem. Okay. Yeah. This is a problem.
+14:03 
+
+14:03 First I would not validate it. That was
+14:05 
+
+14:05 that was new that you you introduced to
+14:08 
+
+14:08 me like you know 50 interviews or 30
+14:10 
+
+14:10 interviews at least that that made it
+14:13 
+
+14:13 very real like okay maybe this is a
+14:14 
+
+14:14 problem to me not to others right. So
+14:17 
+
+14:17 validating that and then secondary
+14:19 
+
+14:19 secondly after you have the problem when
+14:22 
+
+14:22 we do go to the solution we try we'll
+14:25 
+
+14:25 see okay but there are other solutions
+14:27 
+
+14:27 in the market and that's when I would
+14:29 
+
+14:29 stop because the problem is already
+14:31 
+
+14:31 solved but no maybe that solution
+14:35 
+
+14:35 there's a reason why I didn't know about
+14:37 
+
+14:37 that solution for example or why it's
+14:40 
+
+14:40 not taking up as fast as other other
+14:42 
+
+14:42 solutions. So also doing market research
+14:44 
+
+14:44 on the different alternative solutions
+14:47 
+
+14:47 would also help to to find a gap of why
+14:50 
+
+14:50 people are not using this products.
+14:53 
+
+14:53 >> So yeah I I think it's still a learning
+14:55 
+
+14:55 process but I think it these are things
+14:57 
+
+14:57 that you learn as you go
+14:59 
+
+14:59 >> not you don't have I don't have to wait
+15:01 
+
+15:01 for things to pan out. I would see the
+15:04 
+
+15:04 entire thing.
+15:04 
+
+15:04 >> Yeah. Yeah. You don't have to like have
+15:06 
+
+15:06 taken a course have some kind of
+15:08 
+
+15:08 certification to do this this thing. You
+15:10 
+
+15:10 just have to have the resilience to push
+15:11 
+
+15:11 through. And another thing that you
+15:13 
+
+15:13 mentioned uh that I also noticed is that
+15:16 
+
+15:16 as software engineers or maybe techies
+15:19 
+
+15:19 like we tend to guard our intellectual
+15:20 
+
+15:20 property quite a lot where we because we
+15:24 
+
+15:24 own the solution, right? We're like I
+15:26 
+
+15:26 don't want anybody else to have this
+15:29 
+
+15:29 because you you were like you were
+15:32 
+
+15:32 asking me on this one idea I was avidly
+15:34 
+
+15:34 sharing. You were asking me like why are
+15:37 
+
+15:37 you sharing this idea with people? What
+15:39 
+
+15:39 if they take it? But I feel like that is
+15:44 
+
+15:44 uh not really a valid uh uh uh problem
+15:48 
+
+15:48 to ha to in the first place in the sense
+15:50 
+
+15:50 that ideas are cheap. Anybody can have
+15:52 
+
+15:52 an idea. Yeah, the idea can be like very
+15:54 
+
+15:54 creative and from uh uh like some kind
+15:57 
+
+15:57 of lived experience you have but it
+15:60 
+
+15:60 takes so much to execute an idea and
+16:03 
+
+16:03 bring it into fruition, you know, like
+16:05 
+
+16:05 it's it's so what you have this fancy
+16:07 
+
+16:07 idea. I could come up with 10 ideas
+16:08 
+
+16:08 right now in in the next 5 minutes.
+16:10 
+
+16:10 >> Our techy taboo idea.
+16:12 
+
+16:12 >> Our techy taboo idea. Sure. Like you
+16:14 
+
+16:14 know like these are just simple cards.
+16:16 
+
+16:16 Anybody could print these cards when you
+16:19 
+
+16:19 had the idea like you were also showing
+16:23 
+
+16:23 like you were playing it when it was
+16:24 
+
+16:24 just a paper prototype. Anybody playing
+16:26 
+
+16:26 with it could have taken the idea.
+16:28 
+
+16:28 >> Why didn't they?
+16:31 
+
+16:31 But
+16:31 
+
+16:31 >> it takes effort. It takes effort and it
+16:33 
+
+16:33 also takes uh a person who believes in
+16:37 
+
+16:37 the problem enough because of their own
+16:40 
+
+16:40 unique lived set of experiences. Like I
+16:42 
+
+16:42 wouldn't have related to your premise of
+16:45 
+
+16:45 like I I don't like small talk. That's
+16:46 
+
+16:46 why I created this. Like I mean I'm okay
+16:49 
+
+16:49 with small talk but you really saw the
+16:52 
+
+16:52 problem there. You saw that like wait
+16:53 
+
+16:53 all my friends in the tech industry tend
+16:55 
+
+16:55 to struggle with small talk and ice
+16:57 
+
+16:57 breakers are something that helps them.
+16:59 
+
+16:59 So you bring with yourself a different
+17:03 
+
+17:03 sort of passion and resilience to want
+17:05 
+
+17:05 to see through this because you believed
+17:06 
+
+17:06 in the problem. You didn't see that yet,
+17:08 
+
+17:08 but you believed in the problem. So
+17:10 
+
+17:10 yeah, the other thing that's important
+17:12 
+
+17:12 is finding the right people to do it
+17:14 
+
+17:14 with you to feel fill up the gaps, you
+17:16 
+
+17:16 know, and that's why, you know, you
+17:19 
+
+17:19 wouldn't have turned this into an actual
+17:20 
+
+17:20 card game if not for Victoria and
+17:22 
+
+17:22 myself. Victoria, you designed the
+17:24 
+
+17:24 entire packaging, right? and you came up
+17:26 
+
+17:26 with all like the little characters and
+17:30 
+
+17:30 the design and also the website to
+17:32 
+
+17:32 weight list. Like sure, you kind of
+17:35 
+
+17:35 could have done it yourself, but this
+17:38 
+
+17:38 was an instance of you reaching out with
+17:40 
+
+17:40 somebody with who was better at Canva
+17:43 
+
+17:43 and Photoshop than you who can uh uh
+17:45 
+
+17:45 design this. You know, I think people
+17:48 
+
+17:48 are the next most important thing for
+17:51 
+
+17:51 founding a company and is very hard to
+17:53 
+
+17:53 come by. a good team of people who have
+17:57 
+
+17:57 a very balanced uh skill set, you know,
+17:59 
+
+17:59 who not the same skill set but and
+18:02 
+
+18:02 different personality personality types
+18:04 
+
+18:04 with enough trust to kind of combat each
+18:07 
+
+18:07 other's thoughts.
+18:08 
+
+18:08 >> I would say the key word is
+18:09 
+
+18:09 complimentary complimentary skill sets,
+18:12 
+
+18:12 personality and ways of working and just
+18:14 
+
+18:14 good and open communication, right? I I
+18:17 
+
+18:17 think what I learned from this
+18:18 
+
+18:18 experience and and even how you started
+18:20 
+
+18:20 this was you really know how to
+18:22 
+
+18:22 communicate your passion like this is
+18:24 
+
+18:24 what I believe in and I really think
+18:26 
+
+18:26 it's a good idea. So even when it's
+18:29 
+
+18:29 still just a paper prototype, I remember
+18:30 
+
+18:30 we're recording one episode, it's almost
+18:32 
+
+18:32 just like this and then you're like,
+18:34 
+
+18:34 let's try it out, you know, like you're
+18:36 
+
+18:36 excited to talk about it. And I think
+18:37 
+
+18:37 naturally people can feel that from you
+18:40 
+
+18:40 is because this is your idea. And like
+18:42 
+
+18:42 what Natasha mentioned, ideas come
+18:44 
+
+18:44 cheap. And the thing is so many people
+18:46 
+
+18:46 are so busy focusing on their own ideas
+18:49 
+
+18:49 that they won't bother with yours. Trust
+18:51 
+
+18:51 me. So like I've been to many
+18:53 
+
+18:53 hackathons, right? Everyone really
+18:55 
+
+18:55 believes in their own ideas. They pitch
+18:57 
+
+18:57 it, they talk about it. Yours, they'll
+18:60 
+
+18:60 just listen like that's cool. They they
+19:02 
+
+19:02 won't do anything. They're too busy
+19:04 
+
+19:04 making their own ideas into reality. So
+19:07 
+
+19:07 that's why we always like at least both
+19:10 
+
+19:10 of us don't believe that this is a
+19:11 
+
+19:11 concern that you need to be worried
+19:13 
+
+19:13 about because definitely your idea
+19:17 
+
+19:17 technically is replicable of course, but
+19:20 
+
+19:20 how when when would you find another
+19:23 
+
+19:23 salon? Basically, you are your own like
+19:26 
+
+19:26 you are a unique individual and this is
+19:28 
+
+19:28 what you came up with. It's very hard
+19:30 
+
+19:30 for someone to replicate that.
+19:32 
+
+19:32 >> Yeah. Yeah. And it's just like the fact
+19:35 
+
+19:35 that we're still pushing through with
+19:36 
+
+19:36 this small little product, you know,
+19:38 
+
+19:38 we've hit obstacles along the way,
+19:40 
+
+19:40 right? Like having only like five people
+19:42 
+
+19:42 wait list. Oh, we were expecting 30. Oh,
+19:45 
+
+19:45 having uh like the supplier come in uh
+19:48 
+
+19:48 with dented uh packaging. These are all
+19:51 
+
+19:51 instances that if you give this idea to
+19:55 
+
+19:55 somebody else who didn't believe in the
+19:56 
+
+19:56 problem as passionately as you did, if
+19:59 
+
+19:59 they were to do it, they wouldn't push
+20:01 
+
+20:01 through with these obstacles. And I
+20:03 
+
+20:03 think that's the real value there. And
+20:05 
+
+20:05 bringing it back to like the initial
+20:07 
+
+20:07 observation why we see more
+20:09 
+
+20:09 non-technical founders than technical
+20:11 
+
+20:11 founders even in tech spaces. I I think
+20:14 
+
+20:14 it really is this that technical people
+20:17 
+
+20:17 um firstly we tend to obsess over our
+20:20 
+
+20:20 own solutions and ideas uh by nature of
+20:22 
+
+20:22 the job. Uh secondly, we're less
+20:25 
+
+20:25 inclined to reach out to other people uh
+20:27 
+
+20:27 who have better skills than than us. Uh
+20:31 
+
+20:31 and I think third we're also just not
+20:33 
+
+20:33 that good at marketing. I feel like
+20:35 
+
+20:35 business any form of company tech
+20:38 
+
+20:38 nontechnical physical product service
+20:40 
+
+20:40 it's all about marketing. you know it
+20:42 
+
+20:42 doesn't matter how good your solution is
+20:44 
+
+20:44 you know you need to reach out to the
+20:46 
+
+20:46 right people uh that's why when we
+20:48 
+
+20:48 talked to like one of the uh co-founders
+20:50 
+
+20:50 of this uh cyber safety uh organization
+20:55 
+
+20:55 and we asked her like you're a
+20:57 
+
+20:57 non-technical person like what makes you
+20:59 
+
+20:59 so uh confident that this business would
+21:02 
+
+21:02 have taken off uh and she was like
+21:03 
+
+21:03 through fierce networking you know I
+21:06 
+
+21:06 marketed it I tried to push it out and I
+21:08 
+
+21:08 feel like as techies like That is the
+21:11 
+
+21:11 one thing we struggle with a lot like
+21:13 
+
+21:13 marketing and reaching out to a broader
+21:15 
+
+21:15 audience. I mean, we're still doing it.
+21:16 
+
+21:16 We're still trying to learn. That's why
+21:18 
+
+21:18 this podcast thing is so hard for us.
+21:20 
+
+21:20 That's why the whole social media
+21:21 
+
+21:21 campaigns that we had to do, we had to
+21:23 
+
+21:23 try to find courses to like teach us how
+21:26 
+
+21:26 to do it. Whereas for I feel like for a
+21:28 
+
+21:28 lot of nontechnical people, it looks
+21:30 
+
+21:30 like it's intuitive.
+21:32 
+
+21:32 >> Maybe they also put in a lot of hours
+21:34 
+
+21:34 behind the scenes. We also don't know
+21:35 
+
+21:35 for sure but it's just my generalization
+21:38 
+
+21:38 but definitely they're more comfortable
+21:39 
+
+21:39 in front of the camera than you know
+21:42 
+
+21:42 like in more introverted people right
+21:44 
+
+21:44 and then we even have an episode about
+21:46 
+
+21:46 are engineers introverted
+21:48 
+
+21:48 >> and I think our consensus is that
+21:50 
+
+21:50 >> in general yeah yeah we agree they are
+21:52 
+
+21:52 and so that's why it's very hard for
+21:54 
+
+21:54 them to put themselves out there feels
+21:56 
+
+21:56 so vulnerable you know it feels like
+21:59 
+
+21:59 >> oh my god everyone can see what I'm
+22:01 
+
+22:01 doing like yes building in public is
+22:03 
+
+22:03 even something that a lot of software
+22:05 
+
+22:05 engineers are trying to advocate now,
+22:08 
+
+22:08 but not many people, it's still just a
+22:10 
+
+22:10 good minority that's building in public
+22:12 
+
+22:12 because a good majority likes to stay
+22:16 
+
+22:16 >> hidden.
+22:17 
+
+22:17 >> And even a lot of their GitHub profiles,
+22:19 
+
+22:19 they try to keep it
+22:21 
+
+22:21 >> clean. Clean and like
+22:22 
+
+22:22 >> green everywhere.
+22:24 
+
+22:24 >> Yeah. But no profile picture and no
+22:26 
+
+22:26 personal branding, you know, just just
+22:28 
+
+22:28 keep it as anonymous as possible. like
+22:30 
+
+22:30 their GitHub username is not their names
+22:32 
+
+22:32 but it's like something else
+22:34 
+
+22:34 >> it's because they believe like I don't
+22:37 
+
+22:37 know it's just the form of being
+22:39 
+
+22:39 technical person it's like
+22:41 
+
+22:41 >> you just be anonymous you know like it's
+22:43 
+
+22:43 fine not to be visible like they don't
+22:45 
+
+22:45 value that part
+22:46 
+
+22:46 >> I think it's not about like just wanting
+22:48 
+
+22:48 to be invisible as a whole but it's the
+22:50 
+
+22:50 fear of being seen failing I think like
+22:53 
+
+22:53 if this is advice to any uh technical
+22:56 
+
+22:56 even nontechnical people out there who
+22:59 
+
+22:59 uh resonate with the things that we're
+23:01 
+
+23:01 saying and I'm also seeing a lot of
+23:02 
+
+23:02 technical people who like us want to
+23:05 
+
+23:05 found companies especially with how
+23:06 
+
+23:06 volatile the tech market is you know
+23:08 
+
+23:08 people are starting to lose uh uh faith
+23:10 
+
+23:10 in having a stable job in tech things
+23:13 
+
+23:13 are changing and a lot of uh people in
+23:16 
+
+23:16 tech are trying to move to found
+23:18 
+
+23:18 something on their own like because like
+23:20 
+
+23:20 I said the opportunity cost that we
+23:21 
+
+23:21 talked about earlier it's actually going
+23:23 
+
+23:23 down because now you don't have the
+23:25 
+
+23:25 stability anymore to mark as like an
+23:27 
+
+23:27 opportunity you have to give up. So with
+23:30 
+
+23:30 more technical people trying out this
+23:31 
+
+23:31 route um I think the advice not that we
+23:35 
+
+23:35 are in a position to give advice but
+23:37 
+
+23:37 through our anecdotes and things that we
+23:39 
+
+23:39 have tried and failed in it which we
+23:40 
+
+23:40 hope that you learn from so you don't
+23:43 
+
+23:43 have to go through those bounds is one
+23:46 
+
+23:46 don't be afraid of what you don't know
+23:48 
+
+23:48 um Dunning Krueger effect is very real
+23:51 
+
+23:51 we know but at the same time like um the
+23:54 
+
+23:54 the fun is also in discovering uh how
+23:56 
+
+23:56 you're going to do this thing that you
+23:58 
+
+23:58 don't know just go into it, just do it
+23:60 
+
+23:60 and have solace in the fact that you
+24:02 
+
+24:02 will be able to find people who know how
+24:04 
+
+24:04 to do the thing that you don't know. Uh
+24:06 
+
+24:06 that goes to the second part. Um being
+24:09 
+
+24:09 able to uh network to share your ideas
+24:12 
+
+24:12 with other people is one great way that
+24:15 
+
+24:15 you can get to know this network of
+24:17 
+
+24:17 people who know what you don't know,
+24:18 
+
+24:18 right? And also market your product.
+24:20 
+
+24:20 That is how you do it. You know, it's
+24:22 
+
+24:22 not all about the solution. It is more
+24:24 
+
+24:24 about the community around the problem
+24:27 
+
+24:27 you're trying to solve.
+24:29 
+
+24:29 >> Yeah.
+24:29 
+
+24:29 >> And not just market a product, market
+24:31 
+
+24:31 yourself.
+24:32 
+
+24:32 >> Yes. Yes.
+24:33 
+
+24:33 >> Because most of the time brands are the
+24:35 
+
+24:35 person themselves.
+24:38 
+
+24:38 >> So,
+24:38 
+
+24:38 >> exactly. I think people buy products
+24:41 
+
+24:41 from people not from brands. Otherwise,
+24:43 
+
+24:43 like I could just buy any other thing
+24:45 
+
+24:45 off of like I don't know, Topout and
+24:47 
+
+24:47 eBay. Um but you know uh in this era of
+24:54 
+
+24:54 um a lot of creator-led businesses where
+24:58 
+
+24:58 people are putting themselves on social
+24:60 
+
+25:00 media and have like large following and
+25:03 
+
+25:03 then they sell their products in return.
+25:05 
+
+25:05 I think more and more people are
+25:06 
+
+25:06 preferring to buy from creators and
+25:08 
+
+25:08 individuals than corporates and brands.
+25:11 
+
+25:11 Um so yeah carving your personal brand
+25:14 
+
+25:14 out is also very important. Yeah, more
+25:17 
+
+25:17 than anything, I hope you find solace um
+25:21 
+
+25:21 in the fact that you know these are
+25:23 
+
+25:23 systemic problems. It's not just a you
+25:26 
+
+25:26 or us thing. Uh but like we said just
+25:29 
+
+25:29 now like people are the most important
+25:32 
+
+25:32 thing and I'm glad you found trust and
+25:34 
+
+25:34 community within us to build this
+25:36 
+
+25:36 together with you and whatever you want
+25:38 
+
+25:38 to build we are here with you.
+25:41 
+
+25:41 >> So yeah, I hope that gives you the
+25:43 
+
+25:43 confidence alone. Yes. Together we can
+25:45 
+
+25:45 do a lot of things.
+25:46 
+
+25:46 >> Yes. Yes. It sounds cringe, but it is
+25:48 
+
+25:48 really true. Yeah.
+25:50 
+
+25:50 >> If you want to go fast, go alone. If you
+25:52 
+
+25:52 want to go far, go together.
+25:54 
+
+25:54 >> Yes. Yeah. So, drop the wanting to go
+25:57 
+
+25:57 fast. We're going at this together,
+25:59 
+
+25:59 including with this podcast, I guess.
+26:01 
+
+26:01 And techie taboo.
+26:02 
+
+26:02 >> Yeah. Which is a small foray into our
+26:05 
+
+26:05 little experiment into
+26:07 
+
+26:07 >> this is not really techreneurship, I
+26:09 
+
+26:09 guess, but at Jason Techreneurship
+26:11 
+
+26:11 little card game. Uh but yeah, this is a
+26:14 
+
+26:14 marker of greater things that we
+26:15 
+
+26:15 envision to do in the future and things
+26:18 
+
+26:18 we want to bring to all of you. So as
+26:20 
+
+26:20 always, this was Reag. Thank you for
+26:22 
+
+26:22 tuning in and remember to follow, like,
+26:24 
+
+26:24 subscribe, and turn on notifications.
+26:26 
+
+26:26 Bye
+26:27 
+
+26:27 >> bye.

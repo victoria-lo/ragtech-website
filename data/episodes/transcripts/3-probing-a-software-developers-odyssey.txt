@@ -1,0 +1,2650 @@
+00:00 as I progressed on in my career path I
+00:03 
+
+00:03 actually started working for companies
+00:05 
+
+00:05 that were more white skill So currently
+00:08 
+
+00:08 the one I'm working for is the most
+00:11 
+
+00:11 widest uh user base that I have which is
+00:14 
+
+00:14 the entire
+00:16 
+
+00:16 world what what are you doing like are
+00:21 
+
+00:21 [Music]
+00:24 
+
+00:24 you hi we're Rag tech the podcast for bytes
+00:27 
+
+00:27 and banter so in this episode we we are
+00:30 
+
+00:30 going to talk about Saloni before that we
+00:33 
+
+00:33 wanted to introduce ourselves first
+00:35 
+
+00:35 because we always somehow forget that
+00:37 
+
+00:37 I'm Natasha software engineer I'm Salone
+00:39 
+
+00:39 software engineer and I'm Victoria a
+00:41 
+
+00:41 Solutions engineer So today we're going
+00:43 
+
+00:43 to talk about Salon
+00:46 
+
+00:46 yay and so I think the first question we
+00:49 
+
+00:49 just want to segue into is that
+00:51 
+
+00:51 something that me and Natasha always
+00:52 
+
+00:52 notice about you and we just want to ask
+00:54 
+
+00:54 is why do you always wear a black shirt
+00:57 
+
+00:57 oh a black shirt okay uh many many
+01:01 
+
+01:01 reasons one of it is I think black makes
+01:04 
+
+01:04 me kind of invisible so I like that like
+01:08 
+
+01:08 you should see me for me my face and
+01:12 
+
+01:12 everything else is invisible and also
+01:14 
+
+01:14 like I think in in like the tech office
+01:19 
+
+01:19 it's easier to blend in if I'm not so
+01:21 
+
+01:21 colorful I don't know that's just my
+01:24 
+
+01:24 opinion also every morning when I do
+01:27 
+
+01:27 wake up I don't have to think about what
+01:29 
+
+01:29 I'm going to wear I know it's a black
+01:30 
+
+01:30 shirt with a black pants or with a black
+01:33 
+
+01:33 skirt so yeah it's just ease of choosing
+01:37 
+
+01:37 clothes so basically your uniform yeah
+01:40 
+
+01:40 it is my uniform it's like it's my tech
+01:42 
+
+01:42 uniform I do wear other colors at other
+01:45 
+
+01:45 places I've seen that I've seen that
+01:48 
+
+01:48 yeah so basically it sounds like you
+01:52 
+
+01:52 just don't want to think about you know
+01:53 
+
+01:53 what to wear and all that yeah just easy
+01:55 
+
+01:55 black shirt so you're like a female
+01:57 
+
+01:57 Steve Jobs you can say that I guess
+02:01 
+
+02:01 okay it's not everywhere that I'll wear
+02:02 
+
+02:02 my black shirt though yeah I do have
+02:05 
+
+02:05 colors okay Steve's a software engineer
+02:08 
+
+02:08 no but he's like a he like a Founder
+02:10 
+
+02:10 type you need to have the turtleneck if
+02:11 
+
+02:11 you want like be him but I guess so how
+02:15 
+
+02:15 many how many black shirts do you
+02:17 
+
+02:17 own uh not that many actually I I have
+02:20 
+
+02:20 about seven just rear the same one every
+02:23 
+
+02:23 single day right they are actually the
+02:25 
+
+02:25 exact same one but I have seven of the
+02:27 
+
+02:27 same ones wow because I one new one
+02:31 
+
+02:31 every day and also they're all from uni
+02:35 
+
+02:35 so at Uni
+02:37 
+
+02:37 everywhere if you want I'm kid yes uh
+02:41 
+
+02:41 uni CLA has like the the most
+02:42 
+
+02:42 comfortable shirts gu I agree with that
+02:46 
+
+02:46 it's very soft nice yeah so how does the
+02:48 
+
+02:48 black shirt help you in your day-to-day
+02:50 
+
+02:50 job as a software
+02:53 
+
+02:53 engineer I I just feel comfortable in it
+02:56 
+
+02:56 like yeah comfortable and and confident
+03:00 
+
+03:00 yeah because those are the two qualities
+03:02 
+
+03:02 that you require to be a software
+03:03 
+
+03:03 engineer but anyways back to the serious
+03:05 
+
+03:05 question okay yeah that was a fun
+03:07 
+
+03:07 question question I think like uh this
+03:09 
+
+03:09 episode we really wanted to talk about
+03:11 
+
+03:11 like Salone um and her experience in the
+03:13 
+
+03:13 tech industry and for Salone she's
+03:15 
+
+03:15 basically a software engineer she's the
+03:17 
+
+03:17 one who's had the most experience out of
+03:19 
+
+03:19 all three of us so Salone why don't you
+03:21 
+
+03:21 tell everybody how many years of
+03:23 
+
+03:23 experience do you have as a software
+03:24 
+
+03:24 engineer I have seven years of
+03:27 
+
+03:27 experience as a software develop I
+03:30 
+
+03:30 actually prefer the concept software
+03:32 
+
+03:32 developer what's the difference between
+03:34 
+
+03:34 developer and
+03:35 
+
+03:35 engineer I don't think there is a
+03:37 
+
+03:37 difference different companies call
+03:40 
+
+03:40 their employees differently but I don't
+03:42 
+
+03:42 think there's a difference per se I feel
+03:44 
+
+03:44 like I've read it in a book that like um
+03:47 
+
+03:47 a software developer is basically
+03:49 
+
+03:49 somebody who just like builds but a
+03:50 
+
+03:50 software engineer somebody who builds
+03:52 
+
+03:52 with skill in mind I think this was in
+03:54 
+
+03:54 like Jean Kim's like devop handbook or
+03:56 
+
+03:56 something like that I can't remember but
+03:58 
+
+03:58 you think I have I read some something
+03:60 
+
+03:60 like this as well but I mean nowadays I
+04:03 
+
+04:03 don't know who's not building for skill
+04:05 
+
+04:05 anymore that's true at least I have
+04:08 
+
+04:08 skill in mind all the time whatever I'm
+04:10 
+
+04:10 building so yeah I guess yeah depends
+04:13 
+
+04:13 person to person yeah that's true but
+04:15 
+
+04:15 you did say that you would call yourself
+04:17 
+
+04:17 a developer over an engineer so why is
+04:20 
+
+04:20 that when it's the
+04:21 
+
+04:21 same I just prefer the developer and not
+04:24 
+
+04:24 an not an engineer engineer is like very
+04:28 
+
+04:28 I don't like mechanical engineer
+04:30 
+
+04:30 Hardware involvement I that's how I
+04:33 
+
+04:33 perceive it you don't want to like
+04:36 
+
+04:36 freaking like screw all electrical light
+04:39 
+
+04:39 bulbs like be an electrical engineer in
+04:41 
+
+04:41 the first episode when you talked about
+04:42 
+
+04:42 as the years pass I have changed a lot
+04:45 
+
+04:45 and this is what I think now you have
+04:47 
+
+04:47 become her wise I would like to think
+04:50 
+
+04:50 so I see I see yeah yeah so as someone
+04:54 
+
+04:54 who's been in the industry for really
+04:57 
+
+04:57 long time um what has your been your
+04:60 
+
+04:60 journey been like so
+05:02 
+
+05:02 far uh I would say I have a very
+05:06 
+
+05:06 traditional career Journey as a software
+05:09 
+
+05:09 developer so I graduated with computer
+05:11 
+
+05:11 science uh and I got my first job right
+05:14 
+
+05:14 after as a com as a software
+05:17 
+
+05:17 developer and and then I switched
+05:19 
+
+05:19 companies every two years but always in
+05:22 
+
+05:22 the core software development
+05:24 
+
+05:24 role and yeah it's just always building
+05:28 
+
+05:28 uh Building Systems for the company and
+05:33 
+
+05:33 it has been very backend oriented but in
+05:37 
+
+05:37 some of the companies that I did work
+05:38 
+
+05:38 for there was some front end involved so
+05:41 
+
+05:41 I do call myself a fullstack developer
+05:44 
+
+05:44 MH where full stack is for those who
+05:46 
+
+05:46 don't know fullstack developers would be
+05:48 
+
+05:48 someone who can do both front end design
+05:52 
+
+05:52 so the websites face uh client facing
+05:54 
+
+05:54 end as well as the backend databases
+05:58 
+
+05:58 servers involved as well
+06:00 
+
+06:00 so yeah I'm a I'm a full stack developer
+06:03 
+
+06:03 and yeah so mostly doing backend heavy
+06:07 
+
+06:07 jobs and I think every full stack
+06:09 
+
+06:09 developer does lean to one of it so for
+06:12 
+
+06:12 me based on the demands of the job and
+06:14 
+
+06:14 the company that you're at correct and
+06:15 
+
+06:15 also your interest you would naturally
+06:17 
+
+06:17 lean towards one you can't be the Best
+06:19 
+
+06:19 of Both Worlds that's true yeah you
+06:21 
+
+06:21 would be better at one and you will lean
+06:23 
+
+06:23 towards one as well so for me that would
+06:25 
+
+06:25 be backend development mhm and uh I mean
+06:30 
+
+06:30 yeah so mostly dealing with a lot of
+06:32 
+
+06:32 exposing apis and uh ensuring
+06:36 
+
+06:36 scalability as well so as I progressed
+06:39 
+
+06:39 on in my career path I actually started
+06:41 
+
+06:41 working for companies that were more uh
+06:44 
+
+06:44 White skill So currently the one I'm
+06:46 
+
+06:46 working for is the most widest uh user
+06:50 
+
+06:50 base that I have which is the entire
+06:54 
+
+06:54 world what what are you doing like are
+06:58 
+
+06:58 you building the internet the World
+07:00 
+
+07:00 building the internet that's a big big
+07:03 
+
+07:03 ask yeah I me not the entire world I I
+07:06 
+
+07:06 would say a couple million million users
+07:09 
+
+07:09 right right so yeah I mean in my world
+07:11 
+
+07:11 that's the entire world is there like a
+07:13 
+
+07:13 particular industry you're you're
+07:15 
+
+07:15 targeting for like your next company cuz
+07:17 
+
+07:17 you mentioned how you change companies
+07:18 
+
+07:18 every two years is it like always like a
+07:21 
+
+07:21 company that's within the tax Bas like
+07:23 
+
+07:23 heavily so this uh 2 years company
+07:26 
+
+07:26 change wasn't an intentional thing uh it
+07:29 
+
+07:29 just so happened that I found that I've
+07:33 
+
+07:33 uh reaped everything I don't know that's
+07:35 
+
+07:35 if I've received everything that I could
+07:37 
+
+07:37 from that job and I have given my all as
+07:38 
+
+07:38 well and then that's when I was just
+07:41 
+
+07:41 just nice it was 2 years uh I'm
+07:44 
+
+07:44 currently in a good space I would say
+07:46 
+
+07:46 that there are still things that I will
+07:49 
+
+07:49 learn and I want to learn and where I
+07:51 
+
+07:51 can even show my skills so and uh
+07:55 
+
+07:55 currently I'm in a fintech and I am
+07:58 
+
+07:58 loving it cuz
+07:60 
+
+07:60 I love Finance I love as I have
+08:03 
+
+08:03 mentioned many times love money I love
+08:05 
+
+08:05 money and I love Tech so I'm in a
+08:08 
+
+08:08 fintech company so I I do get the best
+08:11 
+
+08:11 of both all I do get to see money moving
+08:13 
+
+08:13 around and uh use my tech skills on this
+08:17 
+
+08:17 so if if I do uh do switch to another
+08:21 
+
+08:21 comp it would still be a fin Tech I
+08:23 
+
+08:23 would say right right so you finally
+08:25 
+
+08:25 found that sweet spot that you really
+08:28 
+
+08:28 enjoy uh I I haven't seen all the
+08:30 
+
+08:30 industries yet I have seen I've worked
+08:32 
+
+08:32 for the government I've worked for uh
+08:36 
+
+08:36 mainly government yes and could I know
+08:39 
+
+08:39 that education edch sort of edch yeah
+08:43 
+
+08:43 and iot MH and then uh the last couple
+08:47 
+
+08:47 of years has been fintech right and yeah
+08:50 
+
+08:50 I like I like the fintech space so do
+08:53 
+
+08:53 you think it was intentional for you to
+08:55 
+
+08:55 kind of like as you switch jobs you
+08:56 
+
+08:56 switch across domains or is it um more
+08:59 
+
+08:59 of like as you switch jobs you're also
+09:01 
+
+09:01 learning for new skills within like the
+09:04 
+
+09:04 uh technical role that you're in maybe
+09:05 
+
+09:05 the first one was more front end and
+09:07 
+
+09:07 you're looking for something more
+09:08 
+
+09:08 backend like how was that thought
+09:11 
+
+09:11 process for you as you changed um jobs
+09:13 
+
+09:13 along the way so for me like my uh the
+09:17 
+
+09:17 most highest important factor wouldn't
+09:19 
+
+09:19 be the teex stack per se I'm open to
+09:23 
+
+09:23 multitude of Tex text but there's
+09:25 
+
+09:25 something I do look for and even
+09:27 
+
+09:27 industry I don't particularly look for a
+09:29 
+
+09:29 certain industry I'm open to various
+09:32 
+
+09:32 Industries and I would I would like to
+09:34 
+
+09:34 be in different Industries to experience
+09:36 
+
+09:36 all before choosing one to focus on yeah
+09:40 
+
+09:40 so it just so happened that I got into
+09:42 
+
+09:42 the different Industries in the
+09:44 
+
+09:44 beginning uh but one thing I do look for
+09:46 
+
+09:46 when I'm switching is the company values
+09:49 
+
+09:49 itself oh so like the culture the the
+09:53 
+
+09:53 work life balance that they have the
+09:56 
+
+09:56 value they are providing to yeah end
+09:60 
+
+09:60 users to the end users uh things like
+10:03 
+
+10:03 that and yeah like the people I'm going
+10:05 
+
+10:05 to be interacting I love it when
+10:07 
+
+10:07 companies allow me to talk to my team
+10:09 
+
+10:09 directly so certain companies allow that
+10:12 
+
+10:12 they actually what do you mean allow
+10:13 
+
+10:13 like like just like there are companies
+10:15 
+
+10:15 that ban you like no don't talk to your
+10:16 
+
+10:16 team no before the interview ends you
+10:20 
+
+10:20 know like I'm still in the interview
+10:22 
+
+10:22 process you're in an interview face yeah
+10:23 
+
+10:23 I was just going to ask you like how do
+10:25 
+
+10:25 you kind of like understand the culture
+10:27 
+
+10:27 and the values that a company as spouses
+10:29 
+
+10:29 like before you even get to the job like
+10:31 
+
+10:31 so correct so it's it's true interview
+10:33 
+
+10:33 so I've learned this so uh even now
+10:36 
+
+10:36 actually I do believe in this that uh
+10:39 
+
+10:39 you should always be interview ready so
+10:41 
+
+10:41 at various points in my life I would
+10:43 
+
+10:43 just go for interviews for the sake of
+10:46 
+
+10:46 being up there to be ready for interview
+10:50 
+
+10:50 be ready for interview so that I know
+10:52 
+
+10:52 what what are the what um the company's
+10:54 
+
+10:54 looking for these days I don't want to
+10:56 
+
+10:56 be you know on the on the rear end of
+10:59 
+
+10:59 the chain
+10:60 
+
+10:60 I always like to be on in front so I do
+11:02 
+
+11:02 go for interviews every now and then I
+11:05 
+
+11:05 don't know if I'm going to be penalized
+11:06 
+
+11:06 for saying that but I mean but if
+11:08 
+
+11:08 there's a good offer why not uh I do
+11:11 
+
+11:11 accept accept it as well but yeah I do
+11:14 
+
+11:14 go for interviews every now and then and
+11:17 
+
+11:17 through these interviews I kind of
+11:18 
+
+11:18 mastered I don't think I've mastered it
+11:20 
+
+11:20 but I kind of got how I can get my the
+11:23 
+
+11:23 the factors I want out uh so it's not
+11:26 
+
+11:26 just an interview where the interview is
+11:27 
+
+11:27 interviewing me I'm also inter in them
+11:30 
+
+11:30 right I look at it that way so they ask
+11:33 
+
+11:33 me questions I will always ask them
+11:35 
+
+11:35 questions as well what kind of questions
+11:37 
+
+11:37 do you ask them actually uh and when do
+11:39 
+
+11:39 you ask them not story when so like
+11:42 
+
+11:42 every every interview round they do
+11:44 
+
+11:44 encourage you to ask questions so you
+11:45 
+
+11:45 should ask questions it's just that ask
+11:48 
+
+11:48 the good don't just ask book questions
+11:50 
+
+11:50 you know those questions that are on
+11:51 
+
+11:51 Google that you should ask these kind of
+11:53 
+
+11:53 questions know what you're asking
+11:55 
+
+11:55 intentionally and then receive the
+11:57 
+
+11:57 response that way so I would ask like if
+11:60 
+
+11:60 it's a tech lead who's interviewing me I
+12:02 
+
+12:02 would try to ask like how is your day
+12:05 
+
+12:05 to-day like how is your relationship
+12:08 
+
+12:08 with the other members on your team oh
+12:10 
+
+12:10 that's a good question uh things like
+12:12 
+
+12:12 that and how much do you value
+12:16 
+
+12:16 mentorship over
+12:18 
+
+12:18 selflearning things like that so like
+12:20 
+
+12:20 there there are certain things I'll just
+12:23 
+
+12:23 ask um and uh there was this even one
+12:26 
+
+12:26 interview where where I asked
+12:29 
+
+12:29 I usually do ask this question I do ask
+12:31 
+
+12:31 the female male ratio in the in the
+12:34 
+
+12:34 teams the engineering teams so then uh
+12:38 
+
+12:38 the person was like oh there aren't many
+12:40 
+
+12:40 actually there's only like three out of
+12:42 
+
+12:42 like how many we have uh and then I was
+12:46 
+
+12:46 like oh why do you think it is so wa
+12:48 
+
+12:48 you're really interview when you say
+12:50 
+
+12:50 interview ready it's like I'm the
+12:51 
+
+12:51 interviewer and I'm ready for you um it
+12:54 
+
+12:54 depends sometimes I am confident enough
+12:56 
+
+12:56 to ask such questions sometimes I'm not
+12:59 
+
+12:59 as well you know it depends on my level
+13:02 
+
+13:02 of uh casualness with the interviewer
+13:05 
+
+13:05 right right it's also about how you Vibe
+13:07 
+
+13:07 with the interviewer if you're bold
+13:08 
+
+13:08 enough to ask those questions it
+13:10 
+
+13:10 probably means the culture is kind of
+13:11 
+
+13:11 like there corre yeah and also like the
+13:13 
+
+13:13 response it indicates something right
+13:15 
+
+13:15 like if if the person responds with like
+13:18 
+
+13:18 oh that's because there aren't that many
+13:21 
+
+13:21 good female software Engineers so that's
+13:24 
+
+13:24 that's like a big red flag like so you
+13:28 
+
+13:28 know why I mean yes I can join you and
+13:30 
+
+13:30 try to prove myself but why would I do
+13:32 
+
+13:32 that you know like exactly I'm sure you
+13:35 
+
+13:35 have seen good female software
+13:37 
+
+13:37 developers there are out there it's
+13:40 
+
+13:40 something sometimes it's in your mind
+13:42 
+
+13:42 that you you like blocked off that's
+13:44 
+
+13:44 really important because I think a lot
+13:46 
+
+13:46 of people who are new and trying to find
+13:48 
+
+13:48 interviews they think they should be the
+13:50 
+
+13:50 one that fits into the company but not
+13:52 
+
+13:52 finding a company that fits them so by
+13:54 
+
+13:54 you asking these questions you're
+13:56 
+
+13:56 actually finding a company that fits you
+13:58 
+
+13:58 as well your values so I think that's
+13:60 
+
+14:00 really good and talking about this is
+14:03 
+
+14:03 that how like you kind of develop your
+14:04 
+
+14:04 interview ready series you know oh yes I
+14:07 
+
+14:07 so I started a interview ready series
+14:09 
+
+14:09 for women cot I used the platform to so
+14:13 
+
+14:13 women cot is a community that uh that is
+14:16 
+
+14:16 run in Singapore and I am a speaker in
+14:19 
+
+14:19 one of the series where it's an
+14:20 
+
+14:20 interview ready series started by me
+14:22 
+
+14:22 where every month or so I would do a
+14:25 
+
+14:25 mock interview of a there different
+14:28 
+
+14:28 interview rounds for a software deer so
+14:30 
+
+14:30 I'll do one in each month that is also a
+14:34 
+
+14:34 one of the ways I make myself interview
+14:36 
+
+14:36 ready by and not attend an actual
+14:38 
+
+14:38 interview at a company cuz it is
+14:40 
+
+14:40 draining sometimes to be you know
+14:42 
+
+14:42 talking to a stranger but doing mock
+14:45 
+
+14:45 interviews I would do it like with a
+14:47 
+
+14:47 friend of mine like yourself or yeah so
+14:50 
+
+14:50 that's much easier and I it still lets
+14:52 
+
+14:52 me be on top of my knowledge and
+14:55 
+
+14:55 Concepts mhh and also as I always say
+14:58 
+
+14:58 teaching is the best way to learn it
+14:60 
+
+14:60 actually forces me to question a lot of
+15:02 
+
+15:02 things like why do I do certain things a
+15:04 
+
+15:04 certain way mhmh uh so yeah that's
+15:07 
+
+15:07 that's one of the reasons I wanted to
+15:08 
+
+15:08 promote the culture of being interview
+15:10 
+
+15:10 ready CU to reach the state of where you
+15:13 
+
+15:13 can ask these kind of questions to an
+15:14 
+
+15:14 interviewer you have to be you have to
+15:17 
+
+15:17 know that you are of a certain caliber
+15:19 
+
+15:19 right like you need to have some
+15:21 
+
+15:21 confidence in yourself you can't be like
+15:23 
+
+15:23 a lower and average software do your and
+15:25 
+
+15:25 still be asking such big questions like
+15:27 
+
+15:27 oh who are you so so so I I was at that
+15:31 
+
+15:31 place I tried I practiced I gained
+15:34 
+
+15:34 confidence by doing these kind of things
+15:37 
+
+15:37 uh so I would say I'm a average to a
+15:40 
+
+15:40 little above average software developers
+15:42 
+
+15:42 where I can demand such kind of factors
+15:46 
+
+15:46 in a company yeah and I can actually
+15:48 
+
+15:48 also deny certain companies right like
+15:51 
+
+15:51 reject them that no I do not want I do
+15:53 
+
+15:53 not want to join you where for some
+15:55 
+
+15:55 people it's not the case they don't
+15:57 
+
+15:57 always have a choice yeah for sure sure
+15:59 
+
+15:59 yeah I also love what you said that like
+16:02 
+
+16:02 you always say say this but teaching is
+16:04 
+
+16:04 the best way of learning and the fact
+16:06 
+
+16:06 that you did like the interview ready
+16:08 
+
+16:08 series you're preparing yourself but
+16:10 
+
+16:10 you're teaching that to the world as
+16:11 
+
+16:11 well through that media and I think
+16:13 
+
+16:13 that's really valuable do you think like
+16:15 
+
+16:15 it's because of this value that you kind
+16:17 
+
+16:17 of hold dear to yourself that you've
+16:18 
+
+16:18 kind of advanced yourself so much as a
+16:20 
+
+16:20 software engineer it definitely helped
+16:22 
+
+16:22 me uh in in my Learning Journey uh where
+16:27 
+
+16:27 I want to be interview ready so I learn
+16:29 
+
+16:29 a lot of things on my own to get up
+16:31 
+
+16:31 there and then give it to the others as
+16:34 
+
+16:34 well so yeah uh yeah I and I know like
+16:38 
+
+16:38 one of the things you really like to do
+16:40 
+
+16:40 is actually you advocate for par
+16:41 
+
+16:41 programming a lot yeah yeah not not so
+16:45 
+
+16:45 much in the in the recent past okay yeah
+16:48 
+
+16:48 but do you want to kind of like talk
+16:49 
+
+16:49 about what par programming is and try to
+16:51 
+
+16:51 relate that to people who might not know
+16:53 
+
+16:53 what it is uh sure yeah so pair
+16:55 
+
+16:55 programming is something I learned uh
+16:57 
+
+16:57 during my time at to Works uh
+16:59 
+
+16:59 thoughtworks is a company which promotes
+17:02 
+
+17:02 a lot of uh good developer skills like
+17:06 
+
+17:06 tdd test driven development pair
+17:08 
+
+17:08 programming is one of it uh there's
+17:10 
+
+17:10 extreme programming and things like that
+17:13 
+
+17:13 so pair programming uh this very lay men
+17:17 
+
+17:17 lay women understanding of of uh what
+17:21 
+
+17:21 PIR programming is but it is to me it is
+17:23 
+
+17:23 two developers sitting together and
+17:26 
+
+17:26 working on a ticket item so we would
+17:30 
+
+17:30 first discuss okay what are we going to
+17:32 
+
+17:32 do and uh so usually when we do p
+17:36 
+
+17:36 programming we would also do tdd test
+17:38 
+
+17:38 driven development so we'll actually
+17:39 
+
+17:39 write proper very simple tests the other
+17:43 
+
+17:43 person would implement the the test
+17:46 
+
+17:46 scenario and make it pass write another
+17:48 
+
+17:48 test make it pass and uh iteratively get
+17:52 
+
+17:52 to the actual ticket item itself and
+17:56 
+
+17:56 then do like a round of refactoring
+17:58 
+
+17:58 wherever it's needed
+17:59 
+
+17:59 and then you should be able to now merge
+18:02 
+
+18:02 your code you do not need a review
+18:05 
+
+18:05 another level of review again you had
+18:07 
+
+18:07 somebody review it two pairs of eyes
+18:10 
+
+18:10 reviewing it already but of course there
+18:12 
+
+18:12 various versions of this there are also
+18:14 
+
+18:14 you can do it the other way where you
+18:15 
+
+18:15 implement first test later or do it
+18:18 
+
+18:18 together things like that or one person
+18:20 
+
+18:20 is just a typer and the other person
+18:24 
+
+18:24 without using the you have to like sit
+18:26 
+
+18:26 on your hand and you just be like okay
+18:28 
+
+18:28 what about we implement this function
+18:30 
+
+18:30 which does this and then the other
+18:31 
+
+18:31 person implements it it's just a verbal
+18:33 
+
+18:33 and a typ of would you say that's for
+18:36 
+
+18:36 more like senior um like Engineers to
+18:40 
+
+18:40 kind of do yeah so yeah so exactly so
+18:42 
+
+18:42 that's when the different seniority
+18:44 
+
+18:44 comes into play of the pair so that it
+18:46 
+
+18:46 could be two Juniors a senior a junior
+18:49 
+
+18:49 two
+18:50 
+
+18:50 seniors uh but it it does it involve a
+18:53 
+
+18:53 lot of collaboration and ability to
+18:56 
+
+18:56 accept uh criticism have a proper
+18:60 
+
+18:60 discussion like not be too opinion I do
+19:03 
+
+19:03 it this way all the time I want to do it
+19:05 
+
+19:05 this way understand why the other person
+19:07 
+
+19:07 does things the other way yeah yeah
+19:09 
+
+19:09 exactly so there's a lot of learnings
+19:11 
+
+19:11 involved it does slow the process of you
+19:13 
+
+19:13 doing it by yourself but maybe as a
+19:16 
+
+19:16 whole the the feature that you have not
+19:18 
+
+19:18 produced is much more higher quality cuz
+19:20 
+
+19:20 you bounced off Pro of so many different
+19:24 
+
+19:24 yeah and I think it's actually like
+19:26 
+
+19:26 because you practice this so much and
+19:27 
+
+19:27 it's also kind of like widely practice
+19:29 
+
+19:29 in the tech industry as a whole I think
+19:32 
+
+19:32 it's been such a comfortable kind of
+19:33 
+
+19:33 like working experience with both of you
+19:35 
+
+19:35 on this podcast cuz we've been kind of
+19:38 
+
+19:38 basically doing that because we do this
+19:40 
+
+19:40 at our own time right so when it comes
+19:42 
+
+19:42 to trying to optimize our time we're not
+19:44 
+
+19:44 holding back our constructive criticism
+19:46 
+
+19:46 we kind of give give each other
+19:47 
+
+19:47 immediate objective feedback when it
+19:49 
+
+19:49 comes to like the video editing so it's
+19:50 
+
+19:50 really not just about like par
+19:53 
+
+19:53 programming that's specific to like the
+19:55 
+
+19:55 tech world I feel like I've been able to
+19:58 
+
+19:58 carry this culture outside and be really
+20:00 
+
+20:00 honest open and also very receptive to
+20:03 
+
+20:03 feedback and I think that that kind of
+20:05 
+
+20:05 shows in our dynamic as well yeah like
+20:07 
+
+20:07 talking about that example where we also
+20:10 
+
+20:10 give uh feedback to each other we also
+20:12 
+
+20:12 have to remember that we are a team we
+20:14 
+
+20:14 are working towards one goal like exact
+20:17 
+
+20:17 you know for example make re Tech
+20:19 
+
+20:19 perfect so whatever your feedback is I
+20:22 
+
+20:22 have to take it with the perception that
+20:24 
+
+20:24 you are coming from an angle of making
+20:26 
+
+20:26 it perfect and it's something I want to
+20:28 
+
+20:28 do too so I would then act on it because
+20:30 
+
+20:30 yes that makes sense it is leading to
+20:32 
+
+20:32 that that end goal so the same thing
+20:34 
+
+20:34 with P programming no one you you should
+20:37 
+
+20:37 it's a way of thinking as well like
+20:39 
+
+20:39 where is the person coming from right
+20:41 
+
+20:41 right are we both working towards this
+20:43 
+
+20:43 product uh that yeah definitely there's
+20:46 
+
+20:46 no ill intention with that right like
+20:48 
+
+20:48 it's a win-win scenario MH yeah but uh
+20:50 
+
+20:50 since in my experience there are also
+20:52 
+
+20:52 some developers who can't do pair
+20:55 
+
+20:55 programming like they are against it
+20:57 
+
+20:57 which is completely all right right
+20:59 
+
+20:59 against it many reasons maybe it's not
+21:02 
+
+21:02 done properly the first time so they
+21:03 
+
+21:03 have a bad experience or uh very
+21:07 
+
+21:07 opiniated so you would not want to
+21:10 
+
+21:10 collaborate MH so it depends on the team
+21:13 
+
+21:13 the culture yeah yeah and how it works
+21:15 
+
+21:15 but I definitely like the when I when I
+21:18 
+
+21:18 see the most benefit of PIR programming
+21:20 
+
+21:20 is when someone is on boarding to your
+21:22 
+
+21:22 team oh yeah that's true yeah for them
+21:25 
+
+21:25 to on board to not just say you know
+21:27 
+
+21:27 your uh daily software practices but
+21:30 
+
+21:30 also to the teams culture because that's
+21:32 
+
+21:32 how you interact them with teams culture
+21:33 
+
+21:33 the domain knowledge itself like that's
+21:35 
+
+21:35 a very good way to start on a ticket
+21:38 
+
+21:38 with a new person like okay so this is
+21:41 
+
+21:41 how it is this is the introduction of
+21:43 
+
+21:43 things this is where I would make the
+21:44 
+
+21:44 changes mhm and yeah like you also kind
+21:48 
+
+21:48 of become like buddy buddy with the
+21:49 
+
+21:49 person yeah yeah I also think this whole
+21:51 
+
+21:51 conversation is really good cuz I think
+21:53 
+
+21:53 a lot of my um perhaps non-technical
+21:55 
+
+21:55 folks think software engineering
+21:57 
+
+21:57 engineering Tech in general is a very
+21:58 
+
+21:58 lonely kind of like Endeavor that's how
+22:01 
+
+22:01 the media usually portrays it and even
+22:03 
+
+22:03 though we talk about like you know we
+22:04 
+
+22:04 develop our own games we de develop our
+22:06 
+
+22:06 own side projects but really the idea of
+22:09 
+
+22:09 like um working in a team is so
+22:11 
+
+22:11 important and that's what differentiates
+22:13 
+
+22:13 like you know um a person doing
+22:15 
+
+22:15 University uh projects for example from
+22:18 
+
+22:18 like somebody who has actually worked on
+22:20 
+
+22:20 uh software on at scale and like a
+22:23 
+
+22:23 larger team and a larger company that's
+22:25 
+
+22:25 a different set of skills and it's way
+22:27 
+
+22:27 softer like you talk about soft skills a
+22:29 
+
+22:29 lot right yeah it's not really just
+22:31 
+
+22:31 about the hard skills of knowing how to
+22:32 
+
+22:32 code it's about like how do you code
+22:34 
+
+22:34 with people yeah because at the end of
+22:36 
+
+22:36 the day you're not doing a solo project
+22:37 
+
+22:37 you have to merge your code into
+22:39 
+
+22:39 somebody else's like imagine working on
+22:40 
+
+22:40 a Microsoft work doc document or like
+22:43 
+
+22:43 more Google Sheets wait gole Google
+22:46 
+
+22:46 Google Docs I don't even know but
+22:48 
+
+22:48 imagine doing that but with 10 different
+22:49 
+
+22:49 people
+22:50 
+
+22:50 simultaneously you know you're going to
+22:52 
+
+22:52 clash for sure so how do you manage you
+22:54 
+
+22:54 know that kind of like People to People
+22:56 
+
+22:56 Communications how do you manage like
+22:57 
+
+22:57 onboarding to new team members like you
+22:60 
+
+22:60 said who don't know who who won't know
+23:01 
+
+23:01 the context of your word document how do
+23:03 
+
+23:03 you like uh ascertain that the tone of
+23:05 
+
+23:05 the word document like Remains the Same
+23:08 
+
+23:08 you one uses passive tense and then one
+23:10 
+
+23:10 uses like something else that's going to
+23:11 
+
+23:11 look weird so I think this is the part
+23:13 
+
+23:13 that I was really glad that we are
+23:15 
+
+23:15 talking about it because then like I
+23:17 
+
+23:17 hope like it helps people understand
+23:19 
+
+23:19 that it's not like collabration is
+23:21 
+
+23:21 definitely like a something that people
+23:23 
+
+23:23 tend to overlook when they go into Tech
+23:25 
+
+23:25 they always think that it's a lone wolf
+23:27 
+
+23:27 kind of thing right so I'm glad we
+23:29 
+
+23:29 highlight that I think that's quite
+23:31 
+
+23:31 important to um emphasize on
+23:33 
+
+23:33 collaboration and how often actually in
+23:36 
+
+23:36 your day-to-day lives that like yeah
+23:38 
+
+23:38 even outside of tech that you know you
+23:40 
+
+23:40 need to know how to collaborate with
+23:42 
+
+23:42 people and it's not just software
+23:44 
+
+23:44 engineer you're a Solutions engineer
+23:46 
+
+23:46 like you you definitely work in a team
+23:47 
+
+23:47 like we collaborate across teams as well
+23:49 
+
+23:49 not just team our own team but also like
+23:53 
+
+23:53 product team sales team you know and
+23:55 
+
+23:55 across different roles as well right
+23:57 
+
+23:57 yeah so understanding like how to
+23:59 
+
+23:59 communicate effectively across like I
+24:02 
+
+24:02 wouldn't be so technical to sales people
+24:04 
+
+24:04 right I might be more technical to
+24:06 
+
+24:06 product team but not so much to salese
+24:08 
+
+24:08 so understanding what is their business
+24:11 
+
+24:11 objectives and speak in the same lingual
+24:13 
+
+24:13 is quite important and I like how you
+24:15 
+
+24:15 mentioned about how prir programming
+24:16 
+
+24:16 actually helps with onboarding because
+24:18 
+
+24:18 actually when I first joined this
+24:20 
+
+24:20 company I also start pair programming
+24:22 
+
+24:22 with someone oh right and that actually
+24:23 
+
+24:23 helps you to just you know understand
+24:26 
+
+24:26 and learn things quicker right so I
+24:28 
+
+24:28 think that's part of like you know if
+24:29 
+
+24:29 you pair program with someone they
+24:31 
+
+24:31 understand the code Bas faster as well
+24:33 
+
+24:33 it will help the entire team so having
+24:34 
+
+24:34 that win-win group think mindset is
+24:37 
+
+24:37 actually quite essential as a software
+24:39 
+
+24:39 that's also how I actually uh learned a
+24:41 
+
+24:41 lot of shortcuts on the edit CU a lot of
+24:45 
+
+24:45 people would do it and I'm like oh wait
+24:47 
+
+24:47 why did you just press so actually I
+24:48 
+
+24:48 want to ask you know as someone who's
+24:49 
+
+24:49 super experienced right how important it
+24:52 
+
+24:52 is to know all the visual studi code
+24:55 
+
+24:55 shortcuts cuz I learned quite a you when
+24:58 
+
+24:58 I just started you know cuz I thought I
+25:00 
+
+25:00 need to know but how important like is
+25:02 
+
+25:02 vim also necessary for for those you who
+25:04 
+
+25:04 don't know by the way like um visual
+25:06 
+
+25:06 Studios code is basically like it's the
+25:09 
+
+25:09 space where you edit and you write your
+25:10 
+
+25:10 code it's a code editor it's a code
+25:12 
+
+25:12 editor but but yeah we're talking about
+25:14 
+
+25:14 shortcuts in the sense that how you
+25:15 
+
+25:15 control V like control C but with a load
+25:19 
+
+25:19 more keyboard commands so any tips for
+25:22 
+
+25:22 that so I'm a Java developer and I use
+25:26 
+
+25:26 intellig intell oh yeah so but same
+25:30 
+
+25:30 thing also code editor U so for a long
+25:34 
+
+25:34 time in my years of coding I was not
+25:38 
+
+25:38 able to remember the C the shortcuts but
+25:41 
+
+25:41 people around me would use it and they
+25:42 
+
+25:42 were much much faster and it was a thing
+25:45 
+
+25:45 like they don't use the mouse at all
+25:48 
+
+25:48 just everything is V keyboard it was so
+25:51 
+
+25:51 cool uh I I have still not mastered it
+25:55 
+
+25:55 but I do know certain shortcuts and it
+25:57 
+
+25:57 does make your your life so so much
+25:59 
+
+25:59 easier for example even like my favorite
+26:02 
+
+26:02 shortcut would be going back a few files
+26:05 
+
+26:05 that you just touched like usually you
+26:07 
+
+26:07 be like oh wait where is that tab there
+26:08 
+
+26:08 a shortcut for that yeah there is a
+26:10 
+
+26:10 shortcut for that what's the shortcut I
+26:12 
+
+26:12 mean on intell it would be like command
+26:15 
+
+26:15 shift e or something okay okay but I'm
+26:18 
+
+26:18 sure there's a equivalent one for vs
+26:20 
+
+26:20 code and like there's one for like
+26:21 
+
+26:21 finding any file you can just open any
+26:23 
+
+26:23 file so like command shift o would be
+26:26 
+
+26:26 and then type the file name
+26:28 
+
+26:28 M uh things like that so super easy and
+26:31 
+
+26:31 it just makes you a bit more efficient M
+26:34 
+
+26:34 so yes efficiency wise it is good to
+26:38 
+
+26:38 have shortcuts but you will also not
+26:41 
+
+26:41 fail in life if you don't know the
+26:42 
+
+26:42 shortcuts it's just efficiency and like
+26:45 
+
+26:45 you know if if you are like bothered by
+26:47 
+
+26:47 using the mouse or like the keypad yeah
+26:50 
+
+26:50 definitely I've seen like really
+26:51 
+
+26:51 experienced ones they use Vim so oh yes
+26:54 
+
+26:54 so whm is another one that one You
+26:56 
+
+26:56 definitely don't need a mouse at all do
+26:58 
+
+26:58 you want to explain what Vim is uh Vim
+27:01 
+
+27:01 is another type of editor where
+27:04 
+
+27:04 everything okay I don't I've never
+27:06 
+
+27:06 explained it nor read a definition of it
+27:09 
+
+27:09 but I'll just describe it you can there
+27:13 
+
+27:13 is no cursor of the mouse that is just
+27:17 
+
+27:17 the editor line so you just type and
+27:20 
+
+27:20 there are shortcuts to like move ahead
+27:22 
+
+27:22 move back highlight things for you all
+27:25 
+
+27:25 via keyboard shortcut so it's a keyboard
+27:29 
+
+27:29 editor kind of thing yeah so do you use
+27:32 
+
+27:32 it uh I don't use it out of uh my own
+27:36 
+
+27:36 willingness but certain things do happen
+27:39 
+
+27:39 like git for example I only use it for
+27:41 
+
+27:41 like uh the G commit messages and stuff
+27:43 
+
+27:43 like that just because it was on default
+27:45 
+
+27:45 and I was just like I'm too lazy to
+27:47 
+
+27:47 change the default yeah I think BM you
+27:50 
+
+27:50 people should know like the most
+27:53 
+
+27:53 basic yeah yeah for sure it's basically
+27:55 
+
+27:55 what you see in movies right like the
+27:57 
+
+27:57 coder comes up and all he does is like
+27:59 
+
+27:59 half that black command start typing a
+28:02 
+
+28:02 command into it and he starts running
+28:03 
+
+28:03 all these yeah yeah no like you're
+28:06 
+
+28:06 scared at a hacker like doing that on
+28:08 
+
+28:08 the on a movies like we're scared when
+28:09 
+
+28:09 we see developers do that like no that's
+28:12 
+
+28:12 not us yeah for sure but no well the
+28:15 
+
+28:15 only shortcuts that I use are crol C and
+28:17 
+
+28:17 control V like I am such a purist I'm
+28:20 
+
+28:20 vanilla all the way but but there is one
+28:23 
+
+28:23 really really useful one where you can
+28:25 
+
+28:25 highlight multi line I think it's called
+28:27 
+
+28:27 m
+28:28 
+
+28:28 I've seen that where you can then add a
+28:30 
+
+28:30 comma in every single line or like a
+28:32 
+
+28:32 semicolon in every sing that's actually
+28:34 
+
+28:34 so useful yeah yeah so that is the one
+28:37 
+
+28:37 that I really appreciate the the
+28:40 
+
+28:40 shortcut for MH uh but yeah otherwise
+28:42 
+
+28:42 everything else is just a click away
+28:44 
+
+28:44 yeah yeah but for sure the shortcuts
+28:46 
+
+28:46 don't Define your experience as a
+28:48 
+
+28:48 software engineer right yeah being like
+28:51 
+
+28:51 an experience and more senior software
+28:52 
+
+28:52 engineer like you definitely don't
+28:54 
+
+28:54 Define your experiences in shortcuts but
+28:57 
+
+28:57 at many software developers I know do
+28:59 
+
+28:59 not know a lot of the shortcuts yeah
+29:01 
+
+29:01 yeah I mean it's just something like you
+29:02 
+
+29:02 said to make things more efficient but
+29:04 
+
+29:04 you know in your years as a software
+29:06 
+
+29:06 engineer like those are not the things
+29:08 
+
+29:08 that define you it's about the way you
+29:10 
+
+29:10 kind of learn from others the way you
+29:11 
+
+29:11 kind of work in a team I I would say one
+29:14 
+
+29:14 thing that defines a senior software Eng
+29:16 
+
+29:16 would be the code structure code design
+29:21 
+
+29:21 what's using usage of design patterns uh
+29:25 
+
+29:25 like the ability to know that in the
+29:27 
+
+29:27 future would be another similar feature
+29:29 
+
+29:29 so make it into in a way that allows you
+29:32 
+
+29:32 to easily add more code later and make
+29:34 
+
+29:34 it work for longterm things like that
+29:37 
+
+29:37 yeah yeah basically desig things at
+29:40 
+
+29:40 scale so yeah design itself forward
+29:42 
+
+29:42 looking basically yeah yeah you're
+29:44 
+
+29:44 thinking on behalf of the team rather
+29:46 
+
+29:46 than for yourself so when you're
+29:47 
+
+29:47 actually like coach you're not just like
+29:49 
+
+29:49 Solly thinking I just want to complete
+29:51 
+
+29:51 this uh ticket you know you're thinking
+29:53 
+
+29:53 of like when I complete this ticket I
+29:55 
+
+29:55 want to make sure that um other like
+29:58 
+
+29:58 team members will be able to easily come
+29:59 
+
+29:59 in simple things like comments even
+30:01 
+
+30:01 simple things like documentation that
+30:03 
+
+30:03 comes into your field also like I I saw
+30:06 
+
+30:06 on your um LinkedIn buyer you say I like
+30:08 
+
+30:08 the clean code or something refactory oh
+30:10 
+
+30:10 yes I like I like cleaning code it it
+30:12 
+
+30:12 gives me some certain satisfaction do
+30:14 
+
+30:14 you want to talk about what cleaning
+30:15 
+
+30:15 code
+30:16 
+
+30:16 means people all like what do you mean
+30:18 
+
+30:18 like clean your screen yeah so cleaning
+30:20 
+
+30:20 code means so code can so yeah you can
+30:24 
+
+30:24 you can write code in many different
+30:27 
+
+30:27 ways and and certain ways of writing
+30:29 
+
+30:29 code makes it a bit easier for you to
+30:31 
+
+30:31 like read through and understand what's
+30:32 
+
+30:32 happening and some it could be a bit
+30:34 
+
+30:34 convoluted like this links to that file
+30:36 
+
+30:36 that file LS to here and so we call that
+30:38 
+
+30:38 spaghetti code so cleaning code would be
+30:41 
+
+30:41 to untangle the spaghetti and making it
+30:43 
+
+30:43 making it very easy to read easy to
+30:46 
+
+30:46 understand easy to extend the code as
+30:49 
+
+30:49 well y so that that's what I meant by I
+30:52 
+
+30:52 like cleaning code yeah yeah B
+30:54 
+
+30:54 minimizing minimizing like not
+30:56 
+
+30:56 necessarily minimizing sometimes you're
+30:58 
+
+30:58 actually writing more code but you're
+30:59 
+
+30:59 actually trying to make it more modular
+31:01 
+
+31:01 or you're trying to make it like you
+31:03 
+
+31:03 know instead of having one super long
+31:05 
+
+31:05 line of cat you're trying to break it
+31:07 
+
+31:07 down yeah I think people also call this
+31:08 
+
+31:08 other than spaghetti coat like smelly
+31:10 
+
+31:10 coat I think that's where the term comes
+31:13 
+
+31:13 from yeah I don't know why we have that
+31:14 
+
+31:14 term but coat smell is Right
+31:17 
+
+31:17 smell yeah I think when I first heard it
+31:20 
+
+31:20 I was like what and then I was just like
+31:23 
+
+31:23 okay I get it now again cuz this Co SM
+31:26 
+
+31:26 yeah and this is like an interesting
+31:28 
+
+31:28 Insight that I got from my non-technical
+31:30 
+
+31:30 friend is that um he thinks that the
+31:33 
+
+31:33 longer the lines of code is the better
+31:36 
+
+31:36 no yeah so like before when I was
+31:39 
+
+31:39 writing an app for him and then he was
+31:41 
+
+31:41 like saying how many lines of code like
+31:43 
+
+31:43 he judge the code quality based on the
+31:46 
+
+31:46 number of lines so he thinks of it like
+31:48 
+
+31:48 an essay right so the more lines you
+31:50 
+
+31:50 write the more complicated or the more
+31:53 
+
+31:53 complete the code is so when he asked me
+31:56 
+
+31:56 at first like this is my use case can
+31:57 
+
+31:57 you help me build a website with all
+31:59 
+
+31:59 these user stories and I say okay sure I
+32:02 
+
+32:02 can do that and then he's like how many
+32:03 
+
+32:03 lines of code do you think there will be
+32:05 
+
+32:05 that like that's how he judged yeah so
+32:07 
+
+32:07 it's really good that you mentioned this
+32:09 
+
+32:09 cuz when I was trying to explain clean
+32:11 
+
+32:11 code for him I couldn't articulate it as
+32:14 
+
+32:14 well as you I just kind of saying it
+32:17 
+
+32:17 it's not about the length right like I
+32:19 
+
+32:19 say it could be less or more like I
+32:21 
+
+32:21 don't know um but yeah the fact that you
+32:24 
+
+32:24 articulated so well I think that really
+32:26 
+
+32:26 helps like I can defitely show him this
+32:28 
+
+32:28 video and yeah yeah exactly it's really
+32:30 
+
+32:30 about making it understandable to other
+32:33 
+
+32:33 members of your team other members who
+32:35 
+
+32:35 haven't even onboarded to your team as
+32:37 
+
+32:37 well as making it editable by other
+32:39 
+
+32:39 people you're basically trying to make
+32:40 
+
+32:40 yourself like dispensable like if I
+32:42 
+
+32:42 leave the team like other people can I
+32:44 
+
+32:44 also want to tell him about like robust
+32:47 
+
+32:47 code what it means but like that is also
+32:49 
+
+32:49 hard to Define like to non techies right
+32:52 
+
+32:52 yeah like is there a way since you
+32:54 
+
+32:54 defined clean code so well code yeah
+32:58 
+
+32:58 what so I I guess a very well well
+33:01 
+
+33:01 tested code would be a robust code yeah
+33:03 
+
+33:03 yeah it holds the strength of like any
+33:06 
+
+33:06 edge cases comes in it is able to
+33:09 
+
+33:09 gracefully handle
+33:10 
+
+33:10 it okay okay that's a good one I maybe
+33:14 
+
+33:14 maybe in a new episode we could like
+33:16 
+
+33:16 really delve into these like random
+33:18 
+
+33:18 technical words like I just realized how
+33:20 
+
+33:20 many strange words appear in our field
+33:23 
+
+33:23 other people will be like what does coat
+33:25 
+
+33:25 smell like what does robust mean like
+33:28 
+
+33:28 what what is cod cleaning so yeah I
+33:30 
+
+33:30 think that might Dem a few of those in
+33:34 
+
+33:34 this yeah so I I think this has been
+33:37 
+
+33:37 like a really good it was supposed to be
+33:38 
+
+33:38 about you and your journey but I
+33:39 
+
+33:39 realized like because you have such a
+33:41 
+
+33:41 wealth of experience we ended up like
+33:42 
+
+33:42 delving into like bit technical yeah
+33:45 
+
+33:45 yeah but at the same time it's really
+33:46 
+
+33:46 interesting yeah because um at the end
+33:48 
+
+33:48 of the day it also exemplifies you as a
+33:51 
+
+33:51 person you love teaching like that is a
+33:52 
+
+33:52 core in fact you considered teaching
+33:54 
+
+33:54 before you went into like engineering
+33:56 
+
+33:56 sod ofish uh in my childhood I I wanted
+33:59 
+
+33:59 to be a teacher yes yeah yeah so there
+34:01 
+
+34:01 we go so naturally this conversation was
+34:04 
+
+34:04 going to come here but uh yeah I think
+34:06 
+
+34:06 we're going to wrap this episode up here
+34:08 
+
+34:08 because there are so many topics that
+34:09 
+
+34:09 could basically be episodes on your own
+34:11 
+
+34:11 so um yeah as we end off thank you
+34:14 
+
+34:14 everybody for listening to uh this
+34:16 
+
+34:16 episode of our podcast and for learning
+34:17 
+
+34:17 more about Salone as well as her journey
+34:20 
+
+34:20 as a software engineer as well as all
+34:21 
+
+34:21 the other technical uh Concepts that we
+34:24 
+
+34:24 have glossed over today so if you have
+34:26 
+
+34:26 any further comments you know comment
+34:28 
+
+34:28 below what other technical Concepts you
+34:29 
+
+34:29 would like us to expound on what other
+34:31 
+
+34:31 things about Salone you have questions
+34:33 
+
+34:33 about that we can kind of like ask and
+34:36 
+
+34:36 um yeah as always thank you for tuning
+34:38 
+
+34:38 in this is please subscribe oh yes I I
+34:41 
+
+34:41 keep forgetting maybe Victoria you can
+34:43 
+
+34:43 try oh yeah so please subscribe um
+34:46 
+
+34:46 comment in our different platforms and
+34:49 
+
+34:49 follow us on I don't think we'll ever
+34:50 
+
+34:50 get this right stuff yeah basically all
+34:53 
+
+34:53 the all social stuff yeah all the
+34:55 
+
+34:55 socials do everything you can support us
+34:58 
+
+34:58 yes please yeah

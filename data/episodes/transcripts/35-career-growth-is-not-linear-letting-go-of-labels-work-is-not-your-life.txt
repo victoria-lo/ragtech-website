@@ -1,0 +1,1447 @@
+00:00 They're already like when you're already
+00:02 
+
+00:02 mid engineer, mid-level engineer, right?
+00:05 
+
+00:05 You are not sure where else to progress
+00:06 
+
+00:06 other than up.
+00:07 
+
+00:07 >> I actually do agree that you kind of
+00:09 
+
+00:09 start becoming fearful of your identity
+00:12 
+
+00:12 as somebody who's very technical and
+00:14 
+
+00:14 even now I describe myself as a
+00:16 
+
+00:16 technical policy adviser, right?
+00:18 
+
+00:18 >> And also like in your case, I would
+00:20 
+
+00:20 think uh maybe non-technical people
+00:22 
+
+00:22 don't know the advantage of having
+00:24 
+
+00:24 technical knowledge.
+00:27 
+
+00:27 [Music]
+00:29 
+
+00:29 Hello everybody. We are React Tech, the
+00:31 
+
+00:31 place for bites and banter. My name is
+00:32 
+
+00:32 Natasha. I'm a software engineer,
+00:34 
+
+00:34 recently turned tech policy adviser.
+00:36 
+
+00:36 Salony, software developer.
+00:38 
+
+00:38 >> And I'm Victoria, a solutions engineer.
+00:40 
+
+00:40 >> And together we are react. Today's
+00:42 
+
+00:42 episode will be all about talking about
+00:44 
+
+00:44 how career growth um at least for TAG is
+00:47 
+
+00:47 not linear and about the process of
+00:50 
+
+00:50 letting go of labels that are tagged to
+00:52 
+
+00:52 career growth. uh this topic came about
+00:54 
+
+00:54 uh because I think we were talking to
+00:56 
+
+00:56 one of our uh friends.
+00:57 
+
+00:57 >> So it's actually not just one friend. I
+00:59 
+
+00:59 talked to many people recently and they
+01:02 
+
+01:02 told me about how they're already like
+01:04 
+
+01:04 when you're already mid engineer,
+01:05 
+
+01:05 mid-level engineer, right? You are not
+01:08 
+
+01:08 sure where else to progress other than
+01:09 
+
+01:09 up right other than principal software
+01:12 
+
+01:12 engineer. But at some point, a lot of
+01:16 
+
+01:16 people that I've talked to who are
+01:17 
+
+01:17 mid-level, they told me they're not
+01:20 
+
+01:20 really sure if that's the way they want
+01:22 
+
+01:22 to go, that's the way they want to
+01:23 
+
+01:23 proceed. They want to try something new.
+01:25 
+
+01:25 They want to pivot, but doing that
+01:28 
+
+01:28 they're afraid that they will lose the
+01:30 
+
+01:30 label of being technical
+01:32 
+
+01:32 >> because let's say they want to pivot to
+01:34 
+
+01:34 product management. A lot of people see
+01:36 
+
+01:36 product managers as not very technical.
+01:38 
+
+01:38 They don't want to lose that label and
+01:40 
+
+01:40 they already selfidentify themselves so
+01:42 
+
+01:42 much as a software engineer.
+01:45 
+
+01:45 >> So they're like how can I experience new
+01:49 
+
+01:49 challenges at work, new kind of diverse
+01:52 
+
+01:52 task without feeling like I lost my
+01:55 
+
+01:55 identity.
+01:56 
+
+01:56 >> So that's why think this topic is
+01:59 
+
+01:59 relevant. I think like maybe I'll
+02:01 
+
+02:01 comment on this because I as I mentioned
+02:03 
+
+02:03 in the intro I recently switched into
+02:05 
+
+02:05 more of a tech policy advisor role and
+02:09 
+
+02:09 uh I actually do agree that you kind of
+02:12 
+
+02:12 start becoming fearful of your identity
+02:14 
+
+02:14 as somebody who's very technical and
+02:17 
+
+02:17 even now I describe myself as a
+02:19 
+
+02:19 technical policy adviser right I really
+02:21 
+
+02:21 want that label of being technical
+02:23 
+
+02:23 because there's so much fear of that
+02:25 
+
+02:25 amount of sunken cost that's one that I
+02:28 
+
+02:28 put into honing this very specialized
+02:30 
+
+02:30 skill to just kind of lose it like that
+02:33 
+
+02:33 through the label.
+02:34 
+
+02:34 >> I'm worried about it and it feels like
+02:36 
+
+02:36 part of my identity is race so there's
+02:38 
+
+02:38 some cost. Two, I think it's this um
+02:41 
+
+02:41 like being technical made me feel
+02:43 
+
+02:43 competent, you know, like it it made me
+02:46 
+
+02:46 feel like I had a skill that nobody else
+02:48 
+
+02:48 could easily replace. uh and if I
+02:51 
+
+02:51 removed that label, no longer being a
+02:53 
+
+02:53 software engineer, no, no longer being
+02:55 
+
+02:55 technical and it seemed like I was going
+02:57 
+
+02:57 down the generalist path
+02:59 
+
+02:59 >> again that also felt uh like something
+03:02 
+
+03:02 that was taken away from my identity.
+03:03 
+
+03:03 So, I definitely did have like a sort of
+03:05 
+
+03:05 crisis transition point. Uh but at least
+03:08 
+
+03:08 in my current role, I'm finding ways to
+03:10 
+
+03:10 combine both. I did have the culture
+03:13 
+
+03:13 shock of coming in and realizing wow um
+03:15 
+
+03:15 even though it's tech uh policy work a
+03:18 
+
+03:18 lot of it is very non-technical um I
+03:20 
+
+03:20 even had this first conversation with uh
+03:23 
+
+03:23 my supervisor then I asked him like um I
+03:27 
+
+03:27 realized I'm the only uh um technical
+03:29 
+
+03:29 person in the entire division do you
+03:32 
+
+03:32 feel like there should be more technical
+03:33 
+
+03:33 people do you find a use for my uh
+03:36 
+
+03:36 technical perspective and I was really
+03:38 
+
+03:38 really hoping he would say yes it was a
+03:40 
+
+03:40 rhetorical question to boost my
+03:41 
+
+03:41 self-confidence.
+03:42 
+
+03:42 >> He actually replied that no actually
+03:45 
+
+03:45 most of the job is more functional. Uh
+03:47 
+
+03:47 he didn't think that there was a need
+03:49 
+
+03:49 for a technical perspective and I think
+03:51 
+
+03:51 facing the harsh reality of that fact
+03:53 
+
+03:53 that there was no need uh for a
+03:56 
+
+03:56 technical uh perspective and for my
+03:58 
+
+03:58 technical skills in a role it's more of
+03:59 
+
+03:59 a bonus that was kind of like a hot
+04:02 
+
+04:02 thing for me to sit into. But I think
+04:04 
+
+04:04 over time I found a way to kind of blend
+04:06 
+
+04:06 both. So um being more technical I could
+04:10 
+
+04:10 very easily understand where um like
+04:14 
+
+04:14 infrastructure related issues were
+04:15 
+
+04:15 discussed at meetings where there was a
+04:17 
+
+04:17 lot of boilerplate in terms of like them
+04:19 
+
+04:19 explaining this uh issue that came uh
+04:22 
+
+04:22 upwards about infrastructure this is
+04:24 
+
+04:24 what a container library there was a lot
+04:26 
+
+04:26 of discussions up front but I already
+04:28 
+
+04:28 intuitively knew what it was so um there
+04:31 
+
+04:31 was that benefit of that the other
+04:33 
+
+04:33 benefit was right now my I'm actually
+04:35 
+
+04:35 helping people automate tasks. I'm
+04:38 
+
+04:38 automating tasks using like power apps
+04:40 
+
+04:40 on Microsoft. Uh I'm using like chat GPT
+04:44 
+
+04:44 uh and trying to teach others as well.
+04:46 
+
+04:46 So yeah, I think that's so far how I've
+04:49 
+
+04:49 been able to struggle uh that this
+04:52 
+
+04:52 crisis uh and these dual identity. Um
+04:56 
+
+04:56 again acknowledging that that identity
+04:58 
+
+04:58 crisis does exist but trying to find
+04:60 
+
+04:60 ways to blend uh the technical side and
+05:03 
+
+05:03 see that it brings new perspective to a
+05:05 
+
+05:05 role that might not be that technical
+05:08 
+
+05:08 >> and also like in your case I would think
+05:11 
+
+05:11 uh maybe non-technical people don't know
+05:13 
+
+05:13 the advantage of having technical
+05:15 
+
+05:15 knowledge
+05:15 
+
+05:15 >> right yeah
+05:16 
+
+05:16 >> it could just be unawareness
+05:19 
+
+05:19 >> yeah yeah actually there's that part too
+05:21 
+
+05:21 I think like it's my first timeish being
+05:24 
+
+05:24 in like a huge division where I'm like
+05:27 
+
+05:27 one of the only few who came from a very
+05:29 
+
+05:29 technical background. So obviously I
+05:31 
+
+05:31 it's difficult for me to empathize with
+05:34 
+
+05:34 um uh the other party party who's
+05:36 
+
+05:36 non-technical but yeah it could be a
+05:39 
+
+05:39 matter of like they just haven't had a
+05:40 
+
+05:40 lot of people who are technical so the
+05:42 
+
+05:42 benefits aren't
+05:43 
+
+05:43 >> really realized yet. I actually do
+05:45 
+
+05:45 understand like uh those people you
+05:47 
+
+05:47 spoke to where they coming from as a
+05:49 
+
+05:49 engineer I would if I was to lose my
+05:52 
+
+05:52 technical skills it would be scary for
+05:55 
+
+05:55 me to for example thinking of moving to
+05:57 
+
+05:57 product management I feel like tech uh
+05:59 
+
+05:59 coding is something that is the special
+06:02 
+
+06:02 skill that I have even though it's a
+06:04 
+
+06:04 hard skill which anyone can actually
+06:06 
+
+06:06 just learn it's just about learning
+06:07 
+
+06:07 right practicing learning
+06:09 
+
+06:09 >> I feel like that it's a special skill
+06:10 
+
+06:10 that I have
+06:11 
+
+06:11 >> and if you take that away from me what's
+06:14 
+
+06:14 left.
+06:15 
+
+06:15 >> So, so I understand the fear of letting
+06:17 
+
+06:17 go of the tech tech skills that you
+06:20 
+
+06:20 have, the coding skills.
+06:22 
+
+06:22 >> No, I like what you said about
+06:23 
+
+06:23 envisioning if you take that away from
+06:25 
+
+06:25 me, what's left because this is the
+06:27 
+
+06:27 whole idea of labels, right? Um, and
+06:29 
+
+06:29 honestly, it is a needed exercise. You
+06:32 
+
+06:32 need to take something away from
+06:34 
+
+06:34 yourself and envision yourself to really
+06:35 
+
+06:35 see at the root of it. If coding didn't
+06:38 
+
+06:38 exist, your other um like jobs like that
+06:41 
+
+06:41 didn't exist. What is your unique value
+06:43 
+
+06:43 proposition?
+06:44 
+
+06:44 >> Very
+06:46 
+
+06:46 part about letting go of labels. If you
+06:49 
+
+06:49 couldn't introduce yourself as a
+06:51 
+
+06:51 software developer today,
+06:53 
+
+06:53 >> who is Salon? Who is Victoria?
+06:55 
+
+06:55 >> Just another person.
+06:57 
+
+06:57 >> No, that's not the answer. Well, you
+06:59 
+
+06:59 obviously have to take this moment and
+07:01 
+
+07:01 really sit with it. But you know like um
+07:03 
+
+07:03 I I I had like this uh one uh session
+07:07 
+
+07:07 with I think junior devs where I was
+07:09 
+
+07:09 basically telling people like yeah
+07:11 
+
+07:11 labels are just an easy way for you to
+07:13 
+
+07:13 introduce yourself to people um in
+07:15 
+
+07:15 networking sessions and stuff like that.
+07:18 
+
+07:18 But you know at the core of it people
+07:20 
+
+07:20 should remember you by not just your
+07:22 
+
+07:22 label but like who you are as a person.
+07:25 
+
+07:25 You know that flavor that spirit and
+07:27 
+
+07:27 that's what makes them come back to you.
+07:28 
+
+07:28 It's not that I came back to salon
+07:30 
+
+07:30 because she's a software engineer. But
+07:32 
+
+07:32 there is a special essence of it and
+07:34 
+
+07:34 that selfawareness needs to kick in. If
+07:37 
+
+07:37 you didn't have this role uh today, then
+07:40 
+
+07:40 >> what do you offer to teams?
+07:42 
+
+07:42 >> Yeah, that's why I think like this is a
+07:44 
+
+07:44 very interesting question for all of us
+07:46 
+
+07:46 to also reflect and think about because
+07:48 
+
+07:48 we're we're always labeling ourselves
+07:50 
+
+07:50 unconsciously, right? Whether it's true
+07:52 
+
+07:52 MBTI
+07:54 
+
+07:54 >> or through our LinkedIn titles what we
+07:56 
+
+07:56 do, right? We're just we're just a
+07:58 
+
+07:58 society that's obsessed with labels
+07:60 
+
+07:60 because that's how we can easily
+08:02 
+
+08:02 remember people better, right? We
+08:04 
+
+08:04 categorize them. It's just easier for
+08:05 
+
+08:05 us.
+08:06 
+
+08:06 >> So because of that, in return, we label
+08:09 
+
+08:09 ourselves, right? And we associated
+08:10 
+
+08:10 oursel with all these labels.
+08:13 
+
+08:13 >> And for me, I grew up in three different
+08:15 
+
+08:15 countries.
+08:16 
+
+08:16 >> I cannot find a cultural identity.
+08:19 
+
+08:19 Basically, that was my issue growing up.
+08:20 
+
+08:20 It's like
+08:22 
+
+08:22 >> I don't have a strong cultural identity.
+08:24 
+
+08:24 And I noticed I I I think it's a problem
+08:27 
+
+08:27 because during the Olympics, right,
+08:29 
+
+08:29 Indonesia,
+08:29 
+
+08:29 >> you don't know who to support.
+08:30 
+
+08:30 >> Indonesia versus Singapore. Then I'm
+08:32 
+
+08:32 like,
+08:32 
+
+08:32 >> I know. I remember I was like so
+08:34 
+
+08:34 confused. 2008 Olympics, uh my helper,
+08:38 
+
+08:38 she's pure Indonesian.
+08:40 
+
+08:40 >> I'm just cheerful Indonesian. No
+08:42 
+
+08:42 hesitation there. But me, I have lived
+08:43 
+
+08:43 in Singapore for quite some time and I
+08:45 
+
+08:45 even start to use English and I'm like,
+08:48 
+
+08:48 >> what am I now?
+08:50 
+
+08:50 >> Right. Yeah.
+08:51 
+
+08:51 >> So again, I think for this question,
+08:54 
+
+08:54 this is the career side of things,
+08:56 
+
+08:56 right?
+08:57 
+
+08:57 >> I find it a déja vu because I
+08:59 
+
+08:59 experienced that growing up cultural
+09:02 
+
+09:02 wise. Now I'm experiencing that
+09:04 
+
+09:04 career-wise. That's why when you say
+09:06 
+
+09:06 take out the technical side, what is
+09:08 
+
+09:08 left of me? I think I'm in a better
+09:11 
+
+09:11 position than software engineers because
+09:12 
+
+09:12 software engineers is like let's face
+09:15 
+
+09:15 it, 90% is hard skill. But I came in as
+09:18 
+
+09:18 solutions engineer. So it's not I I I
+09:21 
+
+09:21 know hard skill is so important but at
+09:23 
+
+09:23 the same time I'm not obsessed with that
+09:25 
+
+09:25 because I already know that what I'm
+09:28 
+
+09:28 good at is I can manage projects
+09:32 
+
+09:32 stakeholder communication
+09:34 
+
+09:34 >> understanding how to break down task
+09:37 
+
+09:37 into smaller milestones and actually
+09:39 
+
+09:39 delivering things. So I have many sets
+09:41 
+
+09:41 of skills that is not just hard skills.
+09:44 
+
+09:44 >> Yeah. So I think like what Natasha said
+09:46 
+
+09:46 to let go of labels, you need to be able
+09:49 
+
+09:49 to have more than just that skill alone.
+09:52 
+
+09:52 You you must be able to really write
+09:54 
+
+09:54 down who you are as a person. What other
+09:57 
+
+09:57 value can you bring to the table besides
+09:59 
+
+09:59 the hard skills? That way even when you
+10:01 
+
+10:01 transition cuz I did meet a person who
+10:04 
+
+10:04 transitioned from software to product,
+10:06 
+
+10:06 they're very okay with it. They still
+10:07 
+
+10:07 take pride that I'm a technical product
+10:09 
+
+10:09 manager. I'm a product manager. very
+10:12 
+
+10:12 technical and it is really a good asset.
+10:15 
+
+10:15 >> She don't throw it away. She still keep
+10:16 
+
+10:16 it with her but yes maybe people on
+10:19 
+
+10:19 first impression do not realize she's
+10:21 
+
+10:21 technical but the work will show
+10:23 
+
+10:23 eventually.
+10:24 
+
+10:24 >> Exactly. Yeah. Yeah. I like how you
+10:26 
+
+10:26 raised this part. It's that like um
+10:29 
+
+10:29 labels are um not as important as like
+10:33 
+
+10:33 knowing what you bring to the table. You
+10:36 
+
+10:36 need to be very self-aware that beyond
+10:38 
+
+10:38 those labels who you are inside at even
+10:40 
+
+10:40 where comes a point of time midcareer
+10:43 
+
+10:43 you're interested in product management
+10:44 
+
+10:44 or you're interested in starting your
+10:45 
+
+10:45 own startup that and it could be like a
+10:48 
+
+10:48 completely non-technical startup.
+10:50 
+
+10:50 >> How do you make that leap? You let go of
+10:52 
+
+10:52 your labels first but then you also
+10:54 
+
+10:54 address the fact that even after making
+10:56 
+
+10:56 that transition that you bring this new
+10:58 
+
+10:58 technical perspective because of your
+10:60 
+
+10:60 lived experience, right? So that's also
+11:03 
+
+11:03 like a great thing to be able to combine
+11:05 
+
+11:05 identities and refashion a new identity
+11:08 
+
+11:08 for yourself. Not just a product manager
+11:09 
+
+11:09 now I'm a technical product manager.
+11:11 
+
+11:11 Sure I can't have that on my title per
+11:13 
+
+11:13 se but it will show in my work. So I
+11:15 
+
+11:15 really like that approach of uh looking
+11:17 
+
+11:17 at things as well especially when people
+11:20 
+
+11:20 you know are faced with needing to uh
+11:22 
+
+11:22 transit careers. I am thinking of a lot
+11:24 
+
+11:24 of like uh you know people become moms
+11:26 
+
+11:26 for example. I think we have a few of
+11:27 
+
+11:27 that in women devs who have had to let
+11:30 
+
+11:30 go of being an engineer and then you
+11:32 
+
+11:32 know becoming a mom and then re-enter as
+11:34 
+
+11:34 a product manager maybe
+11:36 
+
+11:36 >> and I always say career growth is not
+11:38 
+
+11:38 linear I don't think there's only one
+11:40 
+
+11:40 path to growth there's many different
+11:43 
+
+11:43 paths and whatever experiences that you
+11:45 
+
+11:45 have collected throughout the years it
+11:47 
+
+11:47 will really benefit to your current role
+11:49 
+
+11:49 because that makes you as a person you
+11:51 
+
+11:51 have all these domain knowledge that
+11:52 
+
+11:52 >> maybe another person same role as you
+11:55 
+
+11:55 will not have cuz they have totally
+11:57 
+
+11:57 different experiences. So these
+11:58 
+
+11:58 knowledge will overlap, right? And that
+12:01 
+
+12:01 would really benefit if you have like if
+12:03 
+
+12:03 you can identify how you can synergize
+12:05 
+
+12:05 those.
+12:05 
+
+12:05 >> Exactly. And I think personally for you
+12:07 
+
+12:07 talk a lot about like um you know you're
+12:10 
+
+12:10 not just a software engineer, you're
+12:11 
+
+12:11 also like a pro uh you have to think in
+12:13 
+
+12:13 product. So you're also a product
+12:15 
+
+12:15 person. So what you do is you don't see
+12:17 
+
+12:17 your career as like linear, you're also
+12:19 
+
+12:19 doing things on the side in order to
+12:21 
+
+12:21 help uh become a more holistic person.
+12:23 
+
+12:23 And one of the what are some of the few
+12:25 
+
+12:25 things that you're doing at the site
+12:26 
+
+12:26 right now to kind of enhance your role
+12:28 
+
+12:28 as a software engineer so you can go
+12:30 
+
+12:30 beyond that label?
+12:31 
+
+12:31 >> It's okay. You can talk about your side
+12:33 
+
+12:33 hustles as well. Okay. Firstly, some
+12:36 
+
+12:36 intentional things that I'm doing is uh
+12:39 
+
+12:39 speaking like this podcast is one of my
+12:42 
+
+12:42 side hustles you can call uh able to
+12:45 
+
+12:45 project my voice firstly, able to
+12:47 
+
+12:47 express my opinions, uh make
+12:49 
+
+12:49 conversations, meet people, things like
+12:52 
+
+12:52 that. That's something that's not very
+12:55 
+
+12:55 techy tech but it's it's some it's this
+12:58 
+
+12:58 skill that you'll have to evolve for
+12:60 
+
+12:60 yourself. Okay. So for example I like to
+13:01 
+
+13:01 do hackathons with my friends on a
+13:03 
+
+13:03 random Saturday right. So it's not even
+13:06 
+
+13:06 though it's hackathon yes it's very
+13:07 
+
+13:07 technical but before the hackathon
+13:09 
+
+13:09 happens you have to actually break down
+13:11 
+
+13:11 task into smaller tickets so that
+13:13 
+
+13:13 everyone can simultaneously work on
+13:15 
+
+13:15 projects and there'll be a MVP at the
+13:17 
+
+13:17 end of it. So it's like project
+13:19 
+
+13:19 management or you can call it product
+13:21 
+
+13:21 management as well. So these are just
+13:24 
+
+13:24 skills that one can do on the side to
+13:27 
+
+13:27 hone these other aspects of your life
+13:29 
+
+13:29 that that want to take away your tech
+13:32 
+
+13:32 technical your coding aspect. There are
+13:34 
+
+13:34 all these things at your side.
+13:37 
+
+13:37 >> Yeah. Yeah. And you also like do some
+13:39 
+
+13:39 stuff in e-commerce as well. Spending so
+13:41 
+
+13:41 much
+13:42 
+
+13:42 >> social media marketing digital
+13:44 
+
+13:44 marketing.
+13:44 
+
+13:44 >> Yeah. Yeah. Just allowing yourself to
+13:46 
+
+13:46 have skills. I think there's this thing
+13:48 
+
+13:48 called like uh being a tea skilled
+13:50 
+
+13:50 person. You have one very deep skill
+13:52 
+
+13:52 like a tea shape and then but then your
+13:54 
+
+13:54 whole bread Yeah. Uh you have to have
+13:57 
+
+13:57 good breath as well and you're just
+13:58 
+
+13:58 growing this tea, right? And I think
+14:00 
+
+14:00 that that's more valued in society
+14:02 
+
+14:02 nowadays especially since we're talking
+14:03 
+
+14:03 more about AI. AI can replace a lot of
+14:06 
+
+14:06 like uh certain parts of like that deep
+14:09 
+
+14:09 skill. So I guess like if with the
+14:11 
+
+14:11 understanding that career growth is not
+14:13 
+
+14:13 linear, how you can grow in your career,
+14:14 
+
+14:14 you don't have to be more technical as a
+14:16 
+
+14:16 person, you can look for other areas to
+14:18 
+
+14:18 develop yourself into because who knows
+14:21 
+
+14:21 in the future there might be new jobs
+14:23 
+
+14:23 that require more of an amalgamation of
+14:25 
+
+14:25 these skills. Like for example, just
+14:26 
+
+14:26 real quick, when we're talking about
+14:28 
+
+14:28 public speaking and like being a
+14:30 
+
+14:30 software engineer, it sounds like it'll
+14:31 
+
+14:31 never like combine, right? What about
+14:33 
+
+14:33 developer relations roles? What about
+14:35 
+
+14:35 solutions engineer roles? these roles uh
+14:38 
+
+14:38 are also there because they need these
+14:40 
+
+14:40 people with very specific combination of
+14:43 
+
+14:43 skills.
+14:44 
+
+14:44 >> I always believe that like you shouldn't
+14:46 
+
+14:46 just be work work shouldn't just be your
+14:49 
+
+14:49 entire life. You should have other
+14:51 
+
+14:51 endeavors
+14:52 
+
+14:52 >> also. It should be I'm I'm not doing
+14:54 
+
+14:54 this podcast because I want to uh
+14:57 
+
+14:57 increase my public speaking skills. I'm
+14:59 
+
+14:59 also doing because it's fun. I get to
+15:01 
+
+15:01 speak to my friends
+15:03 
+
+15:03 >> while doing these other skills
+15:04 
+
+15:04 enhancement. I get to meet these other
+15:07 
+
+15:07 passionate technical people in women
+15:10 
+
+15:10 deaths also broadening my scope also
+15:12 
+
+15:12 making friends
+15:14 
+
+15:14 >> uh so it's it's fun to do these things
+15:17 
+
+15:17 and also hone these other skills and I
+15:19 
+
+15:19 also have you can call it like I have a
+15:21 
+
+15:21 life outside of work as well then
+15:23 
+
+15:23 >> and I think you find yourself in a good
+15:25 
+
+15:25 position where you don't know what to
+15:26 
+
+15:26 put in your LinkedIn if you don't know
+15:28 
+
+15:28 which label to choose to put in your
+15:29 
+
+15:29 LinkedIn I feel like you're in a good
+15:30 
+
+15:30 position that means you're a really
+15:32 
+
+15:32 diverse person with diverse skill sets
+15:34 
+
+15:34 you know so
+15:34 
+
+15:34 >> then you're label should be diverse
+15:36 
+
+15:36 person
+15:37 
+
+15:37 >> honestly like uh like yeah just I'm a
+15:40 
+
+15:40 diverse I think some people actually
+15:42 
+
+15:42 write such things that you can talk to
+15:44 
+
+15:44 me about anything
+15:45 
+
+15:45 >> yeah and honestly it's it's totally fine
+15:47 
+
+15:47 yeah in fact I feel like our society
+15:49 
+
+15:49 might be going more that way we're so
+15:51 
+
+15:51 concerned with labels and being
+15:52 
+
+15:52 technical because unfortunately that's
+15:54 
+
+15:54 the way a capitalist society like
+15:56 
+
+15:56 functions right now you know work
+15:58 
+
+15:58 corporate you have this designated rule
+16:00 
+
+16:00 go for it but life is not that way you
+16:03 
+
+16:03 know we're not meant to be pigeonhold
+16:05 
+
+16:05 So yeah, I I like the idea of viewing
+16:08 
+
+16:08 career growth as like nonlinear. We are
+16:10 
+
+16:10 also unintentionally doing it ourselves.
+16:12 
+
+16:12 So yeah, we hope this was uh good advice
+16:14 
+
+16:14 to anybody out there who might be
+16:16 
+
+16:16 sharing in the same struggle of uh kind
+16:19 
+
+16:19 of not really knowing uh where you are
+16:23 
+
+16:23 if you're midcareer and you might be
+16:25 
+
+16:25 looking to transition but you're so
+16:27 
+
+16:27 afraid of letting go all the technical
+16:29 
+
+16:29 skills that you've built up. But we're
+16:31 
+
+16:31 here to tell you that it's you're not
+16:33 
+
+16:33 letting it go. you know, you're
+16:34 
+
+16:34 basically taking it with you and
+16:36 
+
+16:36 modifying the next step of whatever
+16:37 
+
+16:37 transition that you're going into. Uh,
+16:40 
+
+16:40 and for those who are like in the middle
+16:42 
+
+16:42 of your career and still don't know
+16:44 
+
+16:44 where you want to transit to, just know
+16:46 
+
+16:46 that your career growth is not linear.
+16:48 
+
+16:48 You can expand into a variety of
+16:50 
+
+16:50 different things. Do things on the side.
+16:52 
+
+16:52 Do things that are fun to you. It
+16:53 
+
+16:53 doesn't have to be a a course or
+16:55 
+
+16:55 something like could be like e-commerce
+16:58 
+
+16:58 like you're doing or like a podcast like
+16:59 
+
+16:59 we're doing. So yeah, we hope this
+17:01 
+
+17:01 episode was helpful to people out there.
+17:03 
+
+17:03 And as always, we are Racktag, the place
+17:05 
+
+17:05 for Bites Inventor. Bye.
+17:08 
+
+17:08 [Music]

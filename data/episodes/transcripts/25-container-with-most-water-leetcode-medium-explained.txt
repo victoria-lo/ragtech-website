@@ -1,0 +1,661 @@
+00:01 [Music]
+00:04 
+
+00:04 hi everyone and welcome back to Rag Tech
+00:07 
+
+00:07 where we dive into real life topics in
+00:09 
+
+00:09 Tech today we are excited to introduce a
+00:12 
+
+00:12 brand new type of episode we're calling
+00:14 
+
+00:14 Tech tutoring in this series will tackle
+00:17 
+
+00:17 leet code problems the kinds of coding
+00:19 
+
+00:19 challenges software Engineers often face
+00:21 
+
+00:21 in technical interviews but don't worry
+00:24 
+
+00:24 this isn't Just For Engineers these
+00:26 
+
+00:26 problems are like brain teasers perfect
+00:28 
+
+00:28 for anyone curious about the problem
+00:30 
+
+00:30 solving site of tech for this first
+00:32 
+
+00:32 episode we've chosen a classic Le cat
+00:35 
+
+00:35 question container with the most water
+00:38 
+
+00:38 it's an approachable problem that's
+00:39 
+
+00:39 great for beginners but still highlights
+00:42 
+
+00:42 the strategies Engineers use every day
+00:44 
+
+00:44 plus it's a fun way to explore
+00:46 
+
+00:46 algorithms without getting too deep into
+00:48 
+
+00:48 complex math whether you're prepping for
+00:50 
+
+00:50 interviews learning something new or
+00:53 
+
+00:53 just here for the ride we hope you enjoy
+00:55 
+
+00:55 this special episode let's jump
+00:58 
+
+00:58 in my name is Toria I'm a Solutions
+01:01 
+
+01:01 engineer I'm sonone a software engineer
+01:04 
+
+01:04 and today we'll be doing a new type of
+01:06 
+
+01:06 content where we're actually going to
+01:08 
+
+01:08 have Sone explain a Leal question and
+01:12 
+
+01:12 teach it to me so without further Ado
+01:14 
+
+01:14 sonone so today's question is going to
+01:17 
+
+01:17 be uh it's on lead code and this is
+01:19 
+
+01:19 container with most water so very simply
+01:23 
+
+01:23 explained that we have like a bar bar
+01:26 
+
+01:26 graph and we want to find what is the
+01:29 
+
+01:29 largest are between two bars and that's
+01:34 
+
+01:34 a problem and there are like practical
+01:36 
+
+01:36 applications of such problems you can
+01:39 
+
+01:39 think of like in networking there are
+01:41 
+
+01:41 different notes which are different
+01:42 
+
+01:42 routers in place and between these notes
+01:46 
+
+01:46 there is a cost to connect to the next
+01:48 
+
+01:48 node so you can think of the cost as the
+01:51 
+
+01:51 height and therefore you want to get
+01:53 
+
+01:53 like the minimum cost or the maximum
+01:55 
+
+01:55 cost so that's one application of such
+01:58 
+
+01:58 without further Ado uh this is how I
+02:02 
+
+02:02 would go about like solving this
+02:03 
+
+02:03 question we see that we have uh integer
+02:06 
+
+02:06 array of the height and we want to
+02:09 
+
+02:09 return integer which is the maximum
+02:12 
+
+02:12 amount of water and maximum amount of
+02:14 
+
+02:14 water would be height times uh the the
+02:18 
+
+02:18 width yeah okay so uh let's look at an
+02:22 
+
+02:22 example here I usually use commments so
+02:25 
+
+02:25 I use this to comment and now we have
+02:28 
+
+02:28 this so these are the heights first L
+02:29 
+
+02:29 you know that have to choose two bars so
+02:32 
+
+02:32 in between the two bars that's the array
+02:34 
+
+02:34 it seems quite obvious to start with two
+02:37 
+
+02:37 pointers like one at the starting and
+02:40 
+
+02:40 one at the end so one over here using
+02:44 
+
+02:44 the first okay I like that they have
+02:46 
+
+02:46 this example this image here so using
+02:48 
+
+02:48 this one and this seven to calculate the
+02:51 
+
+02:51 area between these two it would be the
+02:55 
+
+02:55 array index here minus the array index
+02:58 
+
+02:58 here which will give us one 1 2 3 4 5 6
+03:02 
+
+03:02 7 eight so eight times one only and one
+03:06 
+
+03:06 because it is the minimum of the two
+03:09 
+
+03:09 lens right so that's how you calculate
+03:12 
+
+03:12 the area the minimum Bar times the
+03:16 
+
+03:16 distance between the two indexes so that
+03:19 
+
+03:19 that sounds good yeah so now if we have
+03:21 
+
+03:21 these two array pointers the first one
+03:24 
+
+03:24 and the last one we just calculate the
+03:28 
+
+03:28 current area maybe M so that would be 1
+03:34 
+
+03:34 time8 I calculated eight right this not
+03:37 
+
+03:37 yep yeah so one
+03:39 
+
+03:39 times8 so that is eight So currently the
+03:42 
+
+03:42 the maximum is also eight so we just
+03:45 
+
+03:45 also store the max which is also eight
+03:49 
+
+03:49 and then we will
+03:51 
+
+03:51 move we should move the one which is
+03:55 
+
+03:55 lower so since the first one is lower we
+03:58 
+
+03:58 move this one h cuz you want to find the
+04:01 
+
+04:01 max area right yeah so we move the one
+04:03 
+
+04:03 which is lower yeah so in this case now
+04:05 
+
+04:05 we have eight so now the current area
+04:08 
+
+04:08 becomes uh eight and seven seven is
+04:11 
+
+04:11 lower so seven times the distance
+04:14 
+
+04:14 between eight the index of8 and seven is
+04:17 
+
+04:17 seven because just minus one from the
+04:20 
+
+04:20 previous now it is
+04:22 
+
+04:22 49 okay so that's definitely the max
+04:25 
+
+04:25 area now I'll replace the max area then
+04:28 
+
+04:28 now because seven is lower I will bring
+04:31 
+
+04:31 this one down so between eight and three
+04:34 
+
+04:34 it would be three is the height so uh
+04:37 
+
+04:37 three
+04:39 
+
+04:39 times uh six this time so 18 is still
+04:44 
+
+04:44 lower than the max area it doesn't
+04:46 
+
+04:46 change yeah so I'll just keep doing this
+04:49 
+
+04:49 in that particular Manner and the max
+04:51 
+
+04:51 area is your answer yeah sounds good
+04:54 
+
+04:54 that would be the Brute Force way right
+04:56 
+
+04:56 like that's when I first at this
+04:57 
+
+04:57 question that's the thing that comes to
+04:59 
+
+04:59 my mind and and I feel it's not that bad
+05:02 
+
+05:02 because I actually just went through the
+05:03 
+
+05:03 array one time o complexity as well so
+05:07 
+
+05:07 I'll start implementing this let's go
+05:10 
+
+05:10 okay so we can start with initializing
+05:14 
+
+05:14 some of our variables so we have integer
+05:18 
+
+05:18 current area this is Java we have to put
+05:20 
+
+05:20 a semicolon behind so if not it's a
+05:23 
+
+05:23 syntax error so this is how it is now
+05:26 
+
+05:26 I'm using JavaScript at work so bear
+05:29 
+
+05:29 with me H and then I also need like a
+05:33 
+
+05:33 left and right pointer so I'll just call
+05:34 
+
+05:34 it left and right and the left is index
+05:38 
+
+05:38 zero and the right is index height uh
+05:43 
+
+05:43 height array is length I think yeah
+05:47 
+
+05:47 minus one minus one yeah so then while
+05:52 
+
+05:52 we have left is always less than the
+05:55 
+
+05:55 right because once it's equal you have
+05:58 
+
+05:58 finished all your combinations already
+06:01 
+
+06:01 right so the while left is less than
+06:04 
+
+06:04 right I would start getting I need
+06:07 
+
+06:07 another pointer for the actual indexes
+06:09 
+
+06:09 so let's just call it IJ if you don't
+06:12 
+
+06:12 mind my lack of variable so height of
+06:17 
+
+06:17 left M and oops J would be height of
+06:23 
+
+06:23 right
+06:25 
+
+06:25 and with that we now do our calculation
+06:27 
+
+06:27 which we want to find which is the
+06:28 
+
+06:28 minimum index which is but there's this
+06:31 
+
+06:31 math do mean that we can use m i and J
+06:35 
+
+06:35 and then we calculate the current area
+06:38 
+
+06:38 actually even though I put a current
+06:40 
+
+06:40 area there is just within this so we
+06:43 
+
+06:43 actually don't need this right so
+06:46 
+
+06:46 integer current area would just be
+06:48 
+
+06:48 minimum times the index difference right
+06:52 
+
+06:52 and index in this case is left and right
+06:56 
+
+06:56 yeah which is just right minus left
+06:59 
+
+06:59 because right is more and left yep so
+07:01 
+
+07:01 that is the current area and then we do
+07:02 
+
+07:02 a simple if current area is more than
+07:08 
+
+07:08 Max area we replace the max area Max are
+07:12 
+
+07:12 equals to current area there's some
+07:14 
+
+07:14 noise in the
+07:16 
+
+07:16 background it's okay we have mic uh I
+07:20 
+
+07:20 guess yes so that's the gist of it
+07:24 
+
+07:24 and uh if I just go through this then I
+07:27 
+
+07:27 also need to move the one that that is
+07:30 
+
+07:30 lower for the next iteration so how do I
+07:34 
+
+07:34 decide which one I move is if the right
+07:39 
+
+07:39 looking back at my example I moved seven
+07:43 
+
+07:43 was s is smaller than eight so that
+07:47 
+
+07:47 means I and J so if I
+07:52 
+
+07:52 is we already have the minimum if
+07:55 
+
+07:55 minimum is I then you do i++
+08:00 
+
+08:00 else I don't know no this is with
+08:04 
+
+08:04 JavaScript so I'll have to put this here
+08:07 
+
+08:07 then else if you see as software the opp
+08:10 
+
+08:10 we always get confused with two
+08:11 
+
+08:11 different programming languages if
+08:13 
+
+08:13 that's what is happening at work uh but
+08:17 
+
+08:17 no nothing to worry not i++ but actually
+08:20 
+
+08:20 it's a left Plus+ yeah the pointer yeah
+08:23 
+
+08:23 the yeah the index itself the index yeah
+08:25 
+
+08:25 that's why namings are important if I
+08:27 
+
+08:27 had named the left Index right index
+08:30 
+
+08:30 makes more sense and then return
+08:32 
+
+08:32 statement would be here return Max area
+08:36 
+
+08:36 I think it looks good should we go
+08:38 
+
+08:38 through it to we just ironic as a slead
+08:40 
+
+08:40 Cod and we are not in an actual
+08:42 
+
+08:42 interview okay yeah let's just keep it
+08:45 
+
+08:45 casual let's just run it and see and
+08:47 
+
+08:47 hopefully I think yeah I think what you
+08:50 
+
+08:50 say makes sense okay y because this is a
+08:52 
+
+08:52 pretty easy uh solution and we did run
+08:54 
+
+08:54 it before yeah yeah that's why I think
+08:57 
+
+08:57 with all Le C questions that's how we
+08:59 
+
+08:59 should do it we should not just rush
+09:01 
+
+09:01 into like writing the code we should
+09:03 
+
+09:03 think through it validate your
+09:05 
+
+09:05 solutioning on talk through the I also
+09:08 
+
+09:08 think this also helped the interviewer
+09:10 
+
+09:10 or the other person to understand what I
+09:12 
+
+09:12 was going to do next I definitely
+09:14 
+
+09:14 understand like your code and how you
+09:15 
+
+09:15 implement it because I heard your
+09:17 
+
+09:17 thought process before so it makes it
+09:19 
+
+09:19 more structur easy for me to follow as
+09:22 
+
+09:22 well if I were the interviewer and I
+09:24 
+
+09:24 also can see how you thought through
+09:26 
+
+09:26 step by step right wow so thank you so
+09:29 
+
+09:29 much Lon for explaining and I like how
+09:31 
+
+09:31 you particularly relate a leak code
+09:35 
+
+09:35 question to like an application in real
+09:37 
+
+09:37 world because I think a lot of Le Cod
+09:39 
+
+09:39 questions they are quite abstract and
+09:41 
+
+09:41 it'll make you feel kind of like why do
+09:43 
+
+09:43 I need this why do I need to solve this
+09:45 
+
+09:45 there was more motivation after I found
+09:47 
+
+09:47 out that it makes sense to solve this
+09:50 
+
+09:50 question yeah so yeah I think um yeah I
+09:54 
+
+09:54 hope this was a helpful episode yeah and
+09:57 
+
+09:57 uh if you like such episodes do comment
+09:60 
+
+09:60 let us know what do you like what what
+10:01 
+
+10:01 do you like about this and if you have
+10:03 
+
+10:03 special questions that you would like us
+10:04 
+
+10:04 to answer as well we will get the
+10:07 
+
+10:07 challenge get on the challenge and yeah
+10:11 
+
+10:11 thank you for watching and thank you bye
+10:13 
+
+10:13 bye please follow subscribe to rec by
+10:15 
+
+10:15 bye bye
+10:17 
+
+10:17 [Music]

@@ -1,0 +1,1882 @@
+00:00 There's this party trick I do at at
+00:03 
+
+00:03 meetups where I'll be like, "Hey,
+00:05 
+
+00:05 Victoria, meet Natasha.
+00:07 
+
+00:07 Guess her MTR." She can actually tell
+00:10 
+
+00:10 you your entire personality. That's
+00:11 
+
+00:11 that's Victoria's uh secret.
+00:17 
+
+00:17 Hello everyone. We are Reg, the place
+00:19 
+
+00:19 for bites and banter. I'm Natasha, a
+00:22 
+
+00:22 software engineer, recently turned tech
+00:23 
+
+00:23 adviser.
+00:24 
+
+00:24 Salony, software developer,
+00:26 
+
+00:26 and I'm Victoria, solutions engineer.
+00:28 
+
+00:28 And today we're going to be talking
+00:30 
+
+00:30 about MBTI and answering a question, are
+00:32 
+
+00:32 engineers mostly introverts? So we
+00:35 
+
+00:35 actually came up with this topic because
+00:36 
+
+00:36 we have a resident MBTI expert who
+00:39 
+
+00:39 explain to us what MBTI is. So Victoria
+00:43 
+
+00:43 is actually the resident expert here.
+00:45 
+
+00:45 Yes, I am. So MBTI is basically
+00:47 
+
+00:47 MyersBrigg type indicator. It stands for
+00:50 
+
+00:50 that. Um most people also know it by 16
+00:54 
+
+00:54 personalities. So because there's four
+00:57 
+
+00:57 letters in MBTI that describe your
+00:60 
+
+00:60 personality and there's 16 different
+01:02 
+
+01:02 combinations. So that's what it's
+01:04 
+
+01:04 essentially about. But before we get
+01:06 
+
+01:06 deeper, I just want to disclaimer that
+01:10 
+
+01:10 you know there's no such thing as only
+01:12 
+
+01:12 16 personalities and people are not
+01:15 
+
+01:15 boxed into 16 personalities. So I prefer
+01:18 
+
+01:18 calling it MBTI because MBTI also talks
+01:22 
+
+01:22 about the cognitive functions
+01:24 
+
+01:24 which later we can
+01:25 
+
+01:25 yeah I think a lot of people forget
+01:26 
+
+01:26 about the cognitive functions and focus
+01:29 
+
+01:29 a lot about the extrovert introvert part
+01:31 
+
+01:31 right personality
+01:32 
+
+01:32 just the four letter that describes this
+01:34 
+
+01:34 person's whole personality which it's
+01:37 
+
+01:37 not right so that's why I think calling
+01:40 
+
+01:40 it MBTI is more accurate because it
+01:42 
+
+01:42 looks deeper than just you know labeling
+01:45 
+
+01:45 yourself into these four letters.
+01:49 
+
+01:49 What are these four four letters? Can
+01:50 
+
+01:50 you just explain?
+01:51 
+
+01:51 Yeah. So the four letters, the first one
+01:53 
+
+01:53 extraversion or introversion. So E or I.
+01:57 
+
+01:57 Second one intuition or sensing. Third
+01:60 
+
+01:60 one is thinking or feeling. And then the
+02:02 
+
+02:02 fourth one judging versus perception.
+02:06 
+
+02:06 So each of these letters kind of like
+02:08 
+
+02:08 other personality kind of frameworks
+02:10 
+
+02:10 like ocean and all that. Each of these
+02:12 
+
+02:12 letters describe your tendency
+02:14 
+
+02:14 to behave or think a certain way.
+02:17 
+
+02:17 So for example, E versus I. That that's
+02:19 
+
+02:19 the easiest people would get, right?
+02:21 
+
+02:21 Extroversion versus introversion.
+02:23 
+
+02:23 So another myth is introversion doesn't
+02:26 
+
+02:26 mean you're shy.
+02:28 
+
+02:28 Extroversion doesn't mean you're
+02:30 
+
+02:30 outgoing.
+02:31 
+
+02:31 The difference is extroversion means you
+02:34 
+
+02:34 recharge when you're around people. And
+02:37 
+
+02:37 then for introversion means you recharge
+02:39 
+
+02:39 when you're by yourself.
+02:42 
+
+02:42 But it doesn't mean like I'm an
+02:43 
+
+02:43 introvert. It doesn't mean like I hate
+02:45 
+
+02:45 people.
+02:46 
+
+02:46 I'm antisocial.
+02:48 
+
+02:48 There's nothing about that. I think a
+02:49 
+
+02:49 lot of people misconception about you
+02:52 
+
+02:52 know extroversion introversion.
+02:53 
+
+02:53 Yeah. Yeah.
+02:54 
+
+02:54 Yeah. And I think there's also the
+02:55 
+
+02:55 common misconception of people think
+02:57 
+
+02:57 that engineers are mostly introverts.
+02:60 
+
+02:60 But with this new reframing that
+03:02 
+
+03:02 introverts just um they don't
+03:04 
+
+03:04 necessarily uh gain energy from talking
+03:07 
+
+03:07 to people like what do you think about
+03:08 
+
+03:08 this conception actually are you an
+03:10 
+
+03:10 introvert yourself? I mean we're all
+03:11 
+
+03:11 engineers sitting here like you're
+03:13 
+
+03:13 I'm like a 90%
+03:15 
+
+03:15 introvert. There also this there's also
+03:17 
+
+03:17 this thing called introverted extrovert.
+03:20 
+
+03:20 M
+03:20 
+
+03:20 I think I've heard of this and I think
+03:22 
+
+03:22 I'm there like yes I I I get my energy
+03:26 
+
+03:26 by being alone by myself but I also
+03:28 
+
+03:28 enjoy being with people and I like
+03:30 
+
+03:30 presentation for example I like podcast
+03:33 
+
+03:33 like I'm speaking out loud right now
+03:36 
+
+03:36 uh that's also fun so so it's it's
+03:39 
+
+03:39 called like introverted extrovert
+03:40 
+
+03:40 it's not really an MBTI the concept of
+03:42 
+
+03:42 like extroverted introvert is there
+03:45 
+
+03:45 exclusively for MBTI only there's other
+03:48 
+
+03:48 personality frameworks that uses
+03:49 
+
+03:49 introvert version and extraversion like
+03:51 
+
+03:51 for example the big five the ocean right
+03:54 
+
+03:54 that that also
+03:55 
+
+03:55 I don't know what that is also
+03:56 
+
+03:56 oh okay I think
+03:57 
+
+03:57 so that's why you're the resident expert
+03:59 
+
+03:59 right
+03:59 
+
+03:59 cuz ocean stands for like openness
+04:02 
+
+04:02 conscientiousness
+04:03 
+
+04:03 extraversion agreeableness neotism
+04:06 
+
+04:06 right right
+04:07 
+
+04:07 so the ocean framework is also
+04:09 
+
+04:09 describing there's a extraversion part
+04:11 
+
+04:11 in there right but again extraversion
+04:14 
+
+04:14 doesn't mean see like you said you like
+04:16 
+
+04:16 speaking you like talking to people you
+04:17 
+
+04:17 like hanging out it doesn't mean that
+04:19 
+
+04:19 you are an extrovert, right? If you
+04:22 
+
+04:22 still
+04:23 
+
+04:23 in order to recharge your energy, your
+04:25 
+
+04:25 soul,
+04:26 
+
+04:26 yeah, I need to go.
+04:27 
+
+04:27 You have to spend time alone,
+04:29 
+
+04:29 it it just means you're introvert,
+04:30 
+
+04:30 right? That means you just need to
+04:32 
+
+04:32 recharge by yourself.
+04:33 
+
+04:33 And there's many ways of recharging,
+04:35 
+
+04:35 right? And of course, it's not like you
+04:37 
+
+04:37 only like people are in a spectrum.
+04:40 
+
+04:40 It doesn't mean like oh, you're
+04:41 
+
+04:41 introvert means you only recharge by
+04:43 
+
+04:43 spending time alone. I also can recharge
+04:45 
+
+04:45 spending time with my closest people.
+04:47 
+
+04:47 Right. Right. It's dependent on like
+04:49 
+
+04:49 people.
+04:49 
+
+04:49 Yep. Some some people do not drain that
+04:52 
+
+04:52 energy from you. So it's actually
+04:53 
+
+04:53 intact.
+04:54 
+
+04:54 Yeah. Yeah. Or sometimes even talking
+04:56 
+
+04:56 with someone helps you gain
+04:57 
+
+04:57 and elevate it. Yeah.
+04:58 
+
+04:58 Yeah. So it just means in general your
+05:01 
+
+05:01 spectrum you lie on this means you tend
+05:04 
+
+05:04 to like to spend time alone to recharge
+05:06 
+
+05:06 but it doesn't mean
+05:08 
+
+05:08 it's you only do that and it's always
+05:10 
+
+05:10 you only do that.
+05:11 
+
+05:11 Yeah. Yeah. That makes sense. And also
+05:13 
+
+05:13 like just going back since like you're
+05:15 
+
+05:15 an introvert you would consider yourself
+05:16 
+
+05:16 an extroverted introvert. Introverted
+05:19 
+
+05:19 introverted introverted
+05:20 
+
+05:20 introverted.
+05:21 
+
+05:21 Yeah. And then like myself actually a
+05:24 
+
+05:24 lot of people think I am just probably
+05:26 
+
+05:26 100% extroverted. I did test to be an
+05:28 
+
+05:28 extrovert on uh the MBTI test but that
+05:30 
+
+05:30 was years ago. I would actually consider
+05:32 
+
+05:32 myself to be what I call a professional
+05:34 
+
+05:34 extrovert. I do need a lot of time to
+05:37 
+
+05:37 recharge and usually if you see the
+05:39 
+
+05:39 cadence of my public appearances once I
+05:42 
+
+05:42 appear in public to do a public speaking
+05:44 
+
+05:44 event super extroverted but then I kind
+05:46 
+
+05:46 of tone down for the next month because
+05:48 
+
+05:48 I need to recharge. So I guess like if
+05:51 
+
+05:51 we go back to like the myth are
+05:52 
+
+05:52 engineers introverts I would say I I
+05:55 
+
+05:55 think there might be like a greater
+05:56 
+
+05:56 tendency perhaps it might be a nature of
+05:58 
+
+05:58 work I'm not really sure but you know if
+06:01 
+
+06:01 that's a myth that people are interested
+06:02 
+
+06:02 in this is our statistical analysis the
+06:05 
+
+06:05 three people sitting in front of you are
+06:07 
+
+06:07 mostly introverted I guess but it's not
+06:11 
+
+06:11 saying that we're going to be
+06:12 
+
+06:12 pigeonholder that because the fact that
+06:13 
+
+06:13 we're sitting before you and speaking
+06:16 
+
+06:16 you know despite being like perhaps uh
+06:18 
+
+06:18 having a greater tendency to be
+06:20 
+
+06:20 introverted just means that yeah that's
+06:22 
+
+06:22 just our tendency but we can do things
+06:23 
+
+06:23 too but I wanted to go back to like why
+06:25 
+
+06:25 you're a resident expert like what got
+06:27 
+
+06:27 you interested in studying personality
+06:29 
+
+06:29 types is it because of your other things
+06:31 
+
+06:31 you have to do in your field of work
+06:33 
+
+06:33 yeah because every day I have to
+06:35 
+
+06:35 communicate with nontechnical people and
+06:37 
+
+06:37 technical people right and there's a
+06:39 
+
+06:39 huge difference like statistically like
+06:42 
+
+06:42 in terms of communication style when
+06:44 
+
+06:44 talking with nontechnical and technical
+06:47 
+
+06:47 people and I just find it easier easier
+06:49 
+
+06:49 if I know what is their MBTI then I can
+06:53 
+
+06:53 cater my communication style to them
+06:56 
+
+06:56 that way it's easier for them to
+06:58 
+
+06:58 understand what I'm saying it's easier
+06:59 
+
+06:59 for me to convey what I'm saying and
+07:01 
+
+07:01 it's easier for us to just you know
+07:03 
+
+07:03 two-way communication cuz I would
+07:06 
+
+07:06 understand them they would understand me
+07:07 
+
+07:07 and so on so I think I use MBTI as a
+07:10 
+
+07:10 framework uh more like a guidance not
+07:12 
+
+07:12 like a you know 100% boxing people into
+07:15 
+
+07:15 the these but more like
+07:17 
+
+07:17 let's say this person is um they're more
+07:20 
+
+07:20 receptive and understanding if I appeal
+07:24 
+
+07:24 from the emotional side.
+07:25 
+
+07:25 Yeah.
+07:26 
+
+07:26 Right. Then I can start out my pitch
+07:28 
+
+07:28 being like, you know, talking about, oh,
+07:31 
+
+07:31 feelings, humans, right?
+07:33 
+
+07:33 Or like even us
+07:34 
+
+07:34 feelings humans
+07:37 
+
+07:37 versus robots.
+07:39 
+
+07:39 No, no, cuz some people are more more I
+07:43 
+
+07:43 I'm naturally more pivoted towards data,
+07:46 
+
+07:46 right, analytics, like I I need to see
+07:49 
+
+07:49 like concrete data. But some of them
+07:51 
+
+07:51 they might prefer like what is the
+07:53 
+
+07:53 meaning behind this? What's the deeper
+07:54 
+
+07:54 meaning? like in a broader perspective
+07:57 
+
+07:57 like for the customers for the users
+07:59 
+
+07:59 right they they care more about that
+08:01 
+
+08:01 so then I'll start off with that or even
+08:04 
+
+08:04 building rapport first I'll start off
+08:05 
+
+08:05 with how was your week how was your day
+08:08 
+
+08:08 because some people they they want that
+08:10 
+
+08:10 personal feelings first
+08:12 
+
+08:12 and then then they can work with the
+08:14 
+
+08:14 person well where some people they're
+08:16 
+
+08:16 just more you know just tell me what I
+08:18 
+
+08:18 need to do
+08:19 
+
+08:19 and and be done with it
+08:20 
+
+08:20 more objective so actually where does
+08:22 
+
+08:22 this land and is it the end or
+08:25 
+
+08:25 uh so again it's not the letter itself
+08:27 
+
+08:27 it's the cognitive functions
+08:30 
+
+08:30 okay right
+08:31 
+
+08:31 like as a whole what it means
+08:33 
+
+08:33 that personality
+08:35 
+
+08:35 there's many there's yeah so again it's
+08:37 
+
+08:37 very complicated
+08:39 
+
+08:39 it's like the cognitive function itself
+08:40 
+
+08:40 so so cognitive functions are things
+08:43 
+
+08:43 that describe how you process
+08:46 
+
+08:46 information and how you think through
+08:48 
+
+08:48 that information and how you communicate
+08:51 
+
+08:51 it
+08:52 
+
+08:52 so for me as an example I am INTJ. So
+08:55 
+
+08:55 what does that mean cognitive function
+08:57 
+
+08:57 wise is Ni. So my first dominant
+08:60 
+
+08:60 function N I means I look at patterns. I
+09:03 
+
+09:03 observe people based on patterns and I
+09:05 
+
+09:05 look for deeper meaning. So let's say
+09:07 
+
+09:07 there's a movie, right? I would always
+09:09 
+
+09:09 think about what's the underlying
+09:11 
+
+09:11 meaning or message.
+09:12 
+
+09:12 Right. Right. Do you search up the
+09:14 
+
+09:14 synopsis like after and see? Sometimes
+09:16 
+
+09:16 I'll look up like what is the symbolism
+09:18 
+
+09:18 or the meaning of certain motives that I
+09:20 
+
+09:20 will see keep appearing in the movie
+09:22 
+
+09:22 like certain symbolism. I wonder what
+09:24 
+
+09:24 does that mean
+09:25 
+
+09:25 you know like I'm curious to find out
+09:27 
+
+09:27 like after I see patterns like that's
+09:29 
+
+09:29 how I think and then my second cognitive
+09:33 
+
+09:33 function TE extroverted thinking so that
+09:36 
+
+09:36 led me to be more rational and logical
+09:38 
+
+09:38 than compared to like other people
+09:40 
+
+09:40 because based on what I see the patterns
+09:42 
+
+09:42 the Ni after that I'll apply it with my
+09:45 
+
+09:45 logic my TE I'll apply it with like okay
+09:47 
+
+09:47 so how does this fit into the logic of
+09:50 
+
+09:50 this world
+09:52 
+
+09:52 basically so that's like my thought
+09:53 
+
+09:53 process usually.
+09:55 
+
+09:55 Yeah, it's like it can go very very
+09:57 
+
+09:57 deep. Um, so that's why uh based on
+10:01 
+
+10:01 cognitive functions, it helps me
+10:03 
+
+10:03 structure how I should communicate to
+10:05 
+
+10:05 this person. It is part of my PE also,
+10:08 
+
+10:08 you know, it's like I see this person
+10:10 
+
+10:10 has a certain tendency. So I look for
+10:11 
+
+10:11 patterns in this person's behavior and
+10:13 
+
+10:13 thought process and then I use my TE to
+10:16 
+
+10:16 like logically come out with a solution
+10:18 
+
+10:18 to cater to this person.
+10:20 
+
+10:20 Right? for you it's just like input
+10:22 
+
+10:22 output
+10:24 
+
+10:24 some people
+10:25 
+
+10:25 basically a computer
+10:26 
+
+10:26 does that's why growing up people do
+10:28 
+
+10:28 describe me as robotic right because
+10:31 
+
+10:31 that's how I process information kind of
+10:33 
+
+10:33 like that
+10:34 
+
+10:34 I've also received that feedback
+10:36 
+
+10:36 growing up that am I robotic but I'm not
+10:39 
+
+10:39 I mean not in your terms
+10:42 
+
+10:42 but maybe some thinking
+10:43 
+
+10:43 maybe there's different definitions yeah
+10:45 
+
+10:45 so that's how I essentially use MBTI as
+10:48 
+
+10:48 like a guidance to work in teams,
+10:51 
+
+10:51 communicate, resolve conflicts, uh even
+10:54 
+
+10:54 manage teams. But of course, that's not
+10:56 
+
+10:56 the only thing I look at because again,
+10:59 
+
+10:59 you don't pigeon hole people. They It's
+11:01 
+
+11:01 all in a spectrum. They just
+11:03 
+
+11:03 It's a guide, right? It's a guide. It's
+11:04 
+
+11:04 a guide. And I guess it's a good
+11:05 
+
+11:05 starting point for people who are
+11:07 
+
+11:07 intimidated about working in teams. In
+11:10 
+
+11:10 one of the last episodes, you mentioned
+11:11 
+
+11:11 how AI is uh going to replace a lot of
+11:14 
+
+11:14 like the more functional bits of
+11:17 
+
+11:17 actually becoming a junior developer
+11:20 
+
+11:20 onwards. So we need to focus more on
+11:22 
+
+11:22 soft skills including working in teams.
+11:23 
+
+11:23 Like do you think like using MBTI as a
+11:26 
+
+11:26 guy? I know you have your own like
+11:27 
+
+11:27 opinions about it, right? Do you think
+11:29 
+
+11:29 using MTI as a guide to work with teams
+11:31 
+
+11:31 might be a good uh framework to guide uh
+11:34 
+
+11:34 future developers coming in who are
+11:36 
+
+11:36 afraid that you know now I need to
+11:38 
+
+11:38 develop more of my soft skills. No,
+11:40 
+
+11:40 definitely like uh before I met
+11:42 
+
+11:42 Victoria, I wasn't very aware of this
+11:43 
+
+11:43 kind of things. But after I met her,
+11:45 
+
+11:45 after I saw her explain it multiple
+11:48 
+
+11:48 times, what exactly how she uses it, I
+11:51 
+
+11:51 also saw the benefit of it. Like
+11:53 
+
+11:53 for me, the main benefit was I suddenly
+11:56 
+
+11:56 became a bit more forgiving cuz now I
+11:58 
+
+11:58 understand why certain people did
+12:00 
+
+12:00 certain things in a certain way. And
+12:02 
+
+12:02 then also uh I use it more like
+12:05 
+
+12:05 convincing like how would I convince
+12:08 
+
+12:08 this person to do something.
+12:10 
+
+12:10 They would naturally go towards for
+12:12 
+
+12:12 example show them some data like in the
+12:13 
+
+12:13 past this this these things happened and
+12:15 
+
+12:15 then this is how we can approach it and
+12:17 
+
+12:17 then to some people I would be like more
+12:20 
+
+12:20 you know the the customers would need to
+12:22 
+
+12:22 understand that this way those kind of
+12:25 
+
+12:25 things. So in that way I I I've been
+12:27 
+
+12:27 using it as well very subtly.
+12:29 
+
+12:29 Uh and definitely this is part of human
+12:32 
+
+12:32 interaction in teams and stuff.
+12:34 
+
+12:34 Not just in teams like not even at home
+12:38 
+
+12:38 with my family.
+12:39 
+
+12:39 I mean I'm not an expert like her but I
+12:42 
+
+12:42 can like tell subtle like very easy easy
+12:46 
+
+12:46 categories of how they're thinking right
+12:49 
+
+12:49 and it helps to some extent. If I read a
+12:52 
+
+12:52 bit deeper, I can actually use it to my
+12:54 
+
+12:54 benefit and feel like a manipulator, but
+12:57 
+
+12:57 a master puppeteer.
+12:59 
+
+12:59 But I mean, it does help to know where
+13:01 
+
+13:01 people are coming from, why are they
+13:03 
+
+13:03 saying certain things in a certain way,
+13:04 
+
+13:04 and how I can communicate with them in a
+13:07 
+
+13:07 more friendly manner
+13:08 
+
+13:08 that doesn't hurt anyone, things like
+13:10 
+
+13:10 that.
+13:10 
+
+13:10 Yeah. Yeah. No, actually like now that
+13:12 
+
+13:12 you put it that way, I guess MBTI,
+13:14 
+
+13:14 whether or not you subscribe to it fully
+13:16 
+
+13:16 or not, it's just a reminder that people
+13:18 
+
+13:18 work differently. People have different
+13:20 
+
+13:20 perspectives. The fact that just a
+13:22 
+
+13:22 simple framework like MBTI puts people
+13:24 
+
+13:24 already into 16 different categories.
+13:27 
+
+13:27 Like basically in a team, you have to
+13:29 
+
+13:29 consider that every single person works
+13:31 
+
+13:31 and thinks very differently. And I think
+13:33 
+
+13:33 what you said about like it allows you
+13:34 
+
+13:34 to be more forgiving to people. It
+13:36 
+
+13:36 allows you to like take a different
+13:38 
+
+13:38 perspective. I I think perhaps even if
+13:40 
+
+13:40 you don't believe in MBTI, that is the
+13:42 
+
+13:42 takeaway here. Yeah. That every time you
+13:44 
+
+13:44 come into uh work and you know you're
+13:47 
+
+13:47 delivering a certain suggestion and
+13:48 
+
+13:48 somebody comes back at you with a
+13:50 
+
+13:50 different one, it's not a personal
+13:51 
+
+13:51 attack.
+13:52 
+
+13:52 Oh, I have an example for this using
+13:54 
+
+13:54 Victoria as an example. For example, if
+13:57 
+
+13:57 I ever was to share like um something
+14:01 
+
+14:01 I'm feeling at work for with Victoria or
+14:03 
+
+14:03 some or any problem that I have in my
+14:06 
+
+14:06 life, uh she would I would I cannot
+14:09 
+
+14:09 expect her to validate what I'm feeling.
+14:12 
+
+14:12 She would give solutions.
+14:13 
+
+14:13 So I could have been offended by like
+14:16 
+
+14:16 why aren't you validating what I just
+14:17 
+
+14:17 said? Like why are you saying that? Yes,
+14:19 
+
+14:19 only that is a problem.
+14:21 
+
+14:21 Uh but then cuz now I know that's how
+14:23 
+
+14:23 she thinks. So then she comes with
+14:25 
+
+14:25 solutions. So whenever I ask her, get to
+14:29 
+
+14:29 her for advice now, I know she's going
+14:32 
+
+14:32 to give me solutions.
+14:33 
+
+14:33 So I only go to her if I want solutions,
+14:36 
+
+14:36 right? Not for feelings.
+14:37 
+
+14:37 I wouldn't go to her if I want to get am
+14:40 
+
+14:40 I am I correct to feel this way. I I
+14:43 
+
+14:43 wouldn't get my answer from her.
+14:45 
+
+14:45 So I I'll go to someone else. But
+14:46 
+
+14:46 it's not so much of that. I think like
+14:48 
+
+14:48 Victoria does try, right?
+14:50 
+
+14:50 I mean, so I know you are ISFJ, right?
+14:54 
+
+14:54 So I know that you need validation.
+14:56 
+
+14:56 I don't give validation for the sake of
+14:59 
+
+14:59 giving validation.
+15:00 
+
+15:00 So I only
+15:01 
+
+15:01 which I respect.
+15:02 
+
+15:02 I only agree if I do see that it is
+15:06 
+
+15:06 something I agree if I truly agree with
+15:08 
+
+15:08 it because
+15:10 
+
+15:10 sorry.
+15:12 
+
+15:12 Exactly. Which is which is fine because
+15:14 
+
+15:14 now I understand sometimes I actually
+15:16 
+
+15:16 want solutions
+15:18 
+
+15:18 and she's great at that. So, I know how
+15:21 
+
+15:21 to like go to people for what I need and
+15:24 
+
+15:24 I don't get offended or stuff any I
+15:26 
+
+15:26 don't think I was ever offended by
+15:28 
+
+15:28 Victoria, but
+15:29 
+
+15:29 someone else might be.
+15:31 
+
+15:31 I'm like, why are you validating me?
+15:33 
+
+15:33 But yeah, so that's one kind of example
+15:36 
+
+15:36 of understanding people and uh getting
+15:39 
+
+15:39 the right things,
+15:41 
+
+15:41 right?
+15:42 
+
+15:42 Give and take.
+15:42 
+
+15:42 I think that's the biggest thing for me,
+15:44 
+
+15:44 empathy, right? is because I think in a
+15:46 
+
+15:46 previous episode I mentioned I'm I'm not
+15:49 
+
+15:49 so much empathy. I'm more like a
+15:50 
+
+15:50 sympathetic person because I cannot
+15:53 
+
+15:53 directly feel like you know it's like
+15:57 
+
+15:57 it's your feelings not mine. How am I
+15:59 
+
+15:59 supposed to feel what you're feeling?
+16:01 
+
+16:01 Yeah, for sure. So I cannot directly
+16:03 
+
+16:03 empathize and maybe like in my very
+16:07 
+
+16:07 early adolescence years it frustrates me
+16:10 
+
+16:10 because I cannot understand people as
+16:12 
+
+16:12 deeply as you know my other friends
+16:14 
+
+16:14 would right but understanding how the
+16:17 
+
+16:17 person thinks and why they feeling this
+16:20 
+
+16:20 way it helps me at least have have this
+16:23 
+
+16:23 little empathy like at least
+16:25 
+
+16:25 it's like a mini empathy you know like I
+16:27 
+
+16:27 can understand them better like I
+16:29 
+
+16:29 understand oh why why salon is feeling
+16:31 
+
+16:31 like this
+16:32 
+
+16:32 right and like that.
+16:33 
+
+16:33 I think what you're basically saying is
+16:35 
+
+16:35 that like for some people like uh
+16:37 
+
+16:37 empathy doesn't come as intuitively like
+16:40 
+
+16:40 you mentioned but it's not an excuse to
+16:42 
+
+16:42 be unempathetic
+16:44 
+
+16:44 in general. There are ways uh for you to
+16:46 
+
+16:46 slowly learn the skills of empathy or to
+16:48 
+
+16:48 apply frameworks like in this case you
+16:49 
+
+16:49 use MBTI. You didn't make it an excuse.
+16:51 
+
+16:51 You you aren't like uh telling people
+16:53 
+
+16:53 like I'm sorry I'm objective. I just am
+16:56 
+
+16:56 not able to be empathetic. Instead, you
+16:58 
+
+16:58 actually went to research. You went to
+17:00 
+
+17:00 look at the ocean framework. You went to
+17:01 
+
+17:01 look at MBTI framework to really see how
+17:04 
+
+17:04 you can hone your skills of
+17:05 
+
+17:05 understanding how you can better work in
+17:06 
+
+17:06 a team. And I think that's the best
+17:08 
+
+17:08 takeaway that we can have from this
+17:11 
+
+17:11 conversation. We're not really asking
+17:12 
+
+17:12 you that you have to know your MBTI, you
+17:15 
+
+17:15 have to have the same expertise in being
+17:17 
+
+17:17 able to uh discern the MBTI of other
+17:20 
+
+17:20 people, but really especially uh even in
+17:23 
+
+17:23 the uh engineering field, especially if
+17:26 
+
+17:26 uh uh you know, we're kind of scared
+17:28 
+
+17:28 that AI is taking over more of the
+17:30 
+
+17:30 functional side of the house. Uh I we do
+17:32 
+
+17:32 see a trend that more of our work is
+17:34 
+
+17:34 going to be more people oriented. it's
+17:36 
+
+17:36 going to be more about team dynamics and
+17:38 
+
+17:38 with that it requires a lot of empathy
+17:41 
+
+17:41 and understanding how different people
+17:42 
+
+17:42 work. Um so you can use things like the
+17:45 
+
+17:45 MHI framework to you use it as a
+17:48 
+
+17:48 stepping stone to train yourself in uh
+17:51 
+
+17:51 learning how different people can work
+17:53 
+
+17:53 together and training yourself to be
+17:55 
+
+17:55 more empathetic so you can work better
+17:56 
+
+17:56 in the team.
+17:57 
+
+17:57 Yes. And also I like to point out that
+17:59 
+
+17:59 MBTI is also still a good way for
+18:01 
+
+18:01 building self-awareness
+18:03 
+
+18:03 because if you know exactly how you
+18:04 
+
+18:04 think you can overcome biases like for
+18:08 
+
+18:08 me I I know that sometimes I can be too
+18:10 
+
+18:10 logical
+18:11 
+
+18:11 and then I don't see I don't consider
+18:13 
+
+18:13 the person's feelings right
+18:15 
+
+18:15 then knowing that next time if like I'm
+18:17 
+
+18:17 considering many factors
+18:20 
+
+18:20 now I know that okay since last time I
+18:22 
+
+18:22 didn't consider people's feelings now I
+18:24 
+
+18:24 have to take this into account like I'll
+18:26 
+
+18:26 pay more attention
+18:27 
+
+18:27 to my pitfalls and my weaknesses. So
+18:29 
+
+18:29 being self-aware
+18:30 
+
+18:30 like you're you're growing.
+18:32 
+
+18:32 Yeah. Yeah. So again that's why as
+18:35 
+
+18:35 people grow I observe people also
+18:37 
+
+18:37 because of MTI also
+18:39 
+
+18:39 it gives me the habit of observing
+18:41 
+
+18:41 people cuz I need to understand them. So
+18:43 
+
+18:43 by observing people I see that
+18:46 
+
+18:46 people in like already like really have
+18:48 
+
+18:48 a lot of work experience right diverse
+18:50 
+
+18:50 work experience
+18:52 
+
+18:52 they're naturally become more balanced.
+18:54 
+
+18:54 they it becomes harder and harder to see
+18:57 
+
+18:57 them like their cognitive functions are
+18:59 
+
+18:59 all so developed that they don't super
+19:02 
+
+19:02 lean into a certain tendency. They
+19:04 
+
+19:04 already become quite balanced.
+19:05 
+
+19:05 Right. Right. Right.
+19:06 
+
+19:06 And that that should be the Yeah. That
+19:07 
+
+19:07 should be the aim, right? To be
+19:09 
+
+19:09 balanced.
+19:10 
+
+19:10 Yeah. So you have all of your cognitive
+19:13 
+
+19:13 functions really just
+19:15 
+
+19:15 uh driving and working together. Like
+19:18 
+
+19:18 for me, my weakness is FE
+19:20 
+
+19:20 cuz I'm FI, right? So I'm fe extroverted
+19:23 
+
+19:23 feeling means like the harmony of the
+19:25 
+
+19:25 team versus the goal of the project. I
+19:28 
+
+19:28 prioritize the goal first.
+19:31 
+
+19:31 I prioritize what I want first. Other
+19:33 
+
+19:33 people's opinions is like consider
+19:35 
+
+19:35 later, right?
+19:37 
+
+19:37 But if you see a typical like a textbook
+19:40 
+
+19:40 INTJ versus me, they will not guess I'm
+19:44 
+
+19:44 an INTJ at first
+19:45 
+
+19:45 because I no longer very as robotic as I
+19:48 
+
+19:48 was previously.
+19:49 
+
+19:49 You honed your skills. I try to I try to
+19:52 
+
+19:52 develop a little bit of that cognitive
+19:55 
+
+19:55 function.
+19:56 
+
+19:56 Yeah. Yeah. Exactly. Yeah. I like that
+19:58 
+
+19:58 you kind of like summed it up also that
+19:60 
+
+19:60 it's a lot about growth. You know, MBTI
+20:02 
+
+20:02 might tell you what your starting state
+20:04 
+
+20:04 uh tendencies are, but it also lets you
+20:07 
+
+20:07 be self-aware what you need to improve
+20:09 
+
+20:09 on to have the angle of being more
+20:11 
+
+20:11 balanced as a whole. Yeah. So regardless
+20:13 
+
+20:13 if you're in the engineering field or
+20:15 
+
+20:15 you're in other fields, uh I think like
+20:17 
+
+20:17 the uh uh the need to be empathetic
+20:20 
+
+20:20 towards others and the need to be
+20:21 
+
+20:21 self-aware still stands uh in order for
+20:23 
+
+20:23 you to grow in your career as a person.
+20:26 
+
+20:26 So yep, this was our take on uh MBTI uh
+20:30 
+
+20:30 how Victoria uses it in her day-to-day
+20:33 
+
+20:33 at work and how you know we can also
+20:35 
+
+20:35 like take advice from her and also use
+20:37 
+
+20:37 it as well. So, we hope this was helpful
+20:39 
+
+20:39 information for anyone who uh is looking
+20:42 
+
+20:42 for advice. How can I start off um you
+20:45 
+
+20:45 know uh being better at working in
+20:46 
+
+20:46 teams? Wait, I just like to add one more
+20:48 
+
+20:48 thing.
+20:49 
+
+20:49 Oh, yeah.
+20:49 
+
+20:49 Uh you can use this clip later.
+20:51 
+
+20:51 Oh, yeah. Yeah.
+20:52 
+
+20:52 There's this party trick I do at at
+20:55 
+
+20:55 meetups where I'll be like, "Hey,
+20:57 
+
+20:57 Victoria, meet Natasha."
+20:59 
+
+20:59 Oh,
+20:59 
+
+20:59 guess her. She can actually tell you
+21:02 
+
+21:02 your entire personality. That's that's
+21:04 
+
+21:04 Victoria's uh secret.
+21:05 
+
+21:05 Yeah. Yeah. I think we'll try it at a
+21:06 
+
+21:06 few hangers.
+21:07 
+
+21:07 I I do it at all the times whenever it
+21:09 
+
+21:09 gets open like she
+21:10 
+
+21:10 your party.
+21:10 
+
+21:10 I'm like uh guys, she can actually tell
+21:13 
+
+21:13 you who you are.
+21:15 
+
+21:15 Disclaimer, MBTI is not a party trick.
+21:17 
+
+21:17 And disclaimer, Salon Entertainment.
+21:20 
+
+21:20 Salon always introduce me like fun fact.
+21:23 
+
+21:23 This is my fun fact is my friend can
+21:24 
+
+21:24 guess MBTI. So I'm her fun fact and I'm
+21:28 
+
+21:28 her party trick.
+21:29 
+
+21:29 She's my entertainer. Well, I guess if
+21:31 
+
+21:31 you want to use MBTI as a party trick,
+21:33 
+
+21:33 either bring Victoria or learn MBTI.
+21:35 
+
+21:35 No, but disclaimer is like I need to
+21:37 
+
+21:37 observe.
+21:37 
+
+21:37 It's also fun and stuff.
+21:39 
+
+21:39 Yeah. It's just fun.
+21:40 
+
+21:40 I do give out that that disclaimer.
+21:43 
+
+21:43 Yes. Yes.
+21:43 
+
+21:43 And she needs to observe you for some
+21:45 
+
+21:45 time.
+21:45 
+
+21:45 Yeah. Like it's not like I immediately
+21:47 
+
+21:47 read your mind and like, oh, I know.
+21:49 
+
+21:49 But at the end, she can tell you who you
+21:50 
+
+21:50 are.
+21:52 
+
+21:52 Yeah. Leave your comments below. Um,
+21:56 
+
+21:56 wait. No, I don't think you can read
+21:57 
+
+21:57 anyone by pure comments alone. Okay,
+21:59 
+
+21:59 whatever. Tell us what you thought about
+21:60 
+
+22:00 this episode. And as always, remember to
+22:02 
+
+22:02 like, follow, and subscribe. Bye.
+22:05 
+
+22:05 [Music]

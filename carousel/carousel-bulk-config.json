@@ -1,0 +1,199 @@
+{
+  "transcriptName": "AI-Wrappers",
+  "videoId": "qw3dKhXV6Vw",
+  "showLogo": false,
+  "carousels": [
+    {
+      "name": "what-is-an-ai-wrapper",
+      "description": "Defining what AI wrappers are and how they work — the thin layer of AI over existing models",
+      "slides": [
+        {
+          "topTimestamp": 40,
+          "bottomTimestamp": 48,
+          "topText": "AI wrappers are applications that have a thin layer of AI over them.",
+          "bottomText": "They don't have their own proprietary model for AI."
+        },
+        {
+          "topTimestamp": 50,
+          "bottomTimestamp": 60,
+          "topText": "OpenAI has GPT-4 — they trained it, they invested resources.",
+          "bottomText": "Google has Gemini. Anthropic has Claude. Meta has Llama."
+        },
+        {
+          "topTimestamp": 62,
+          "bottomTimestamp": 72,
+          "topText": "AI wrappers are the companies who access these models",
+          "bottomText": "and then build an application layer over them."
+        },
+        {
+          "topTimestamp": 74,
+          "bottomTimestamp": 84,
+          "topText": "They don't own the models themselves.",
+          "bottomText": "They have no way to train their own models."
+        },
+        {
+          "topTimestamp": 86,
+          "bottomTimestamp": 98,
+          "topText": "What they're doing is making an API request —",
+          "bottomText": "requesting data from models that OpenAI or Google owns."
+        },
+        {
+          "topTimestamp": 100,
+          "bottomTimestamp": 112,
+          "topText": "They receive that data back into their application",
+          "bottomText": "and serve it up to the clients."
+        },
+        {
+          "topTimestamp": 114,
+          "bottomTimestamp": 126,
+          "topText": "An example would be chatbots.",
+          "bottomText": "Or those essay-writing AI companies that say 'we help you write copy.'"
+        }
+      ]
+    },
+    {
+      "name": "competing-on-prompts",
+      "description": "AI wrapper companies compete on prompt engineering — subject matter expertise is the real differentiator",
+      "slides": [
+        {
+          "topTimestamp": 408,
+          "bottomTimestamp": 418,
+          "topText": "AI wrapper companies showed up in hordes",
+          "bottomText": "during the generative AI era of 2021 to 2022."
+        },
+        {
+          "topTimestamp": 420,
+          "bottomTimestamp": 432,
+          "topText": "Almost every AI company is technically a wrapper",
+          "bottomText": "but it is solving a specialized use case."
+        },
+        {
+          "topTimestamp": 434,
+          "bottomTimestamp": 448,
+          "topText": "Their value proposition is their prompt engineering —",
+          "bottomText": "how well their prompts are to the AI model."
+        },
+        {
+          "topTimestamp": 450,
+          "bottomTimestamp": 464,
+          "topText": "If you're choosing between two essay-writing AIs —",
+          "bottomText": "you'd pick whichever one writes a better essay. They're competing on how well they prompt the same model."
+        },
+        {
+          "topTimestamp": 466,
+          "bottomTimestamp": 480,
+          "topText": "Being a good prompter means being a subject matter expert.",
+          "bottomText": "An animator knows the exact terminologies — cinematography, VFX, different cuts."
+        },
+        {
+          "topTimestamp": 482,
+          "bottomTimestamp": 498,
+          "topText": "These experts can templatize the prompt —",
+          "bottomText": "serve up a form where you fill in 'I want this filter, this effect.'"
+        },
+        {
+          "topTimestamp": 500,
+          "bottomTimestamp": 516,
+          "topText": "You wouldn't have thought about these terms as a layperson.",
+          "bottomText": "That's how a subject matter expert adds real value to an AI wrapper."
+        }
+      ]
+    },
+    {
+      "name": "danger-of-not-owning-your-model",
+      "description": "The risks of building on someone else's AI model — pricing, opacity, and the threat of being easily replicated",
+      "slides": [
+        {
+          "topTimestamp": 632,
+          "bottomTimestamp": 644,
+          "topText": "There's a long-term sustainability factor to think about.",
+          "bottomText": "The moment OpenAI or Anthropic decides 'we're not sharing our models anymore' —"
+        },
+        {
+          "topTimestamp": 646,
+          "bottomTimestamp": 658,
+          "topText": "What can they do? Exactly.",
+          "bottomText": "Or they share their models but you're subject to their price increases."
+        },
+        {
+          "topTimestamp": 660,
+          "bottomTimestamp": 674,
+          "topText": "APIs are cheap now because they want everyone to use them.",
+          "bottomText": "But once they increase the price per API call — your entire pricing model changes."
+        },
+        {
+          "topTimestamp": 676,
+          "bottomTimestamp": 692,
+          "topText": "You're basically beholden to whatever the model owners decide.",
+          "bottomText": "And it's also very opaque to you."
+        },
+        {
+          "topTimestamp": 694,
+          "bottomTimestamp": 710,
+          "topText": "You don't know how they train the model.",
+          "bottomText": "You don't know the existing biases. There are no standards enforcing transparency."
+        },
+        {
+          "topTimestamp": 712,
+          "bottomTimestamp": 728,
+          "topText": "The scary part is when your only value is the prompt.",
+          "bottomText": "Somebody could come in and steal the same idea — it's so easily stolen."
+        },
+        {
+          "topTimestamp": 730,
+          "bottomTimestamp": 746,
+          "topText": "In the startup community saturated with AI wrapper companies,",
+          "bottomText": "that's what investors are wary of. There's talk of an AI bubble."
+        }
+      ]
+    },
+    {
+      "name": "data-ethics-pivot",
+      "description": "A cautionary tale about an AI wrapper company that pivoted to a proprietary model by secretly harvesting user data",
+      "slides": [
+        {
+          "topTimestamp": 852,
+          "bottomTimestamp": 864,
+          "topText": "I have a story of a company that used to be an AI wrapper",
+          "bottomText": "but they're trying to pivot by building their own model."
+        },
+        {
+          "topTimestamp": 866,
+          "bottomTimestamp": 880,
+          "topText": "How are they going to collect data to build their own model?",
+          "bottomText": "It's tricky. They started using users' data without being transparent."
+        },
+        {
+          "topTimestamp": 882,
+          "bottomTimestamp": 898,
+          "topText": "They told users 'We're training our own model now'",
+          "bottomText": "but essentially they were reading users' message history and all their information."
+        },
+        {
+          "topTimestamp": 900,
+          "bottomTimestamp": 916,
+          "topText": "When they released the model, users asked 'How did you build this?'",
+          "bottomText": "'Oh, from opt-in users' data.' Opt-in."
+        },
+        {
+          "topTimestamp": 918,
+          "bottomTimestamp": 934,
+          "topText": "In the small terms and conditions, you're essentially opting in.",
+          "bottomText": "As users, we just have to be vigilant in how companies use our data."
+        },
+        {
+          "topTimestamp": 936,
+          "bottomTimestamp": 952,
+          "topText": "These terms and conditions are designed to make you feel so burdened",
+          "bottomText": "that you just accept — they don't offer a way for you to negotiate."
+        },
+        {
+          "topTimestamp": 954,
+          "bottomTimestamp": 970,
+          "topText": "It's either you accept our terms or you don't use the app.",
+          "bottomText": "There are no regulations to make terms and conditions negotiable. And that's a problem."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2722 @@
+00:01 recording
+00:07 
+
+00:07 recording
+00:09 
+
+00:09 okaying the water oh yeah sorry I'm so
+00:14 
+
+00:14 unprepared to this so
+00:16 
+
+00:16 [Music]
+00:19 
+
+00:19 sorry hi welcome to R Tech the place for
+00:21 
+
+00:21 bites and bentor my name is Victoria I'm
+00:23 
+
+00:23 a Solutions engineer I'm selon software
+00:26 
+
+00:26 developer and I'm Natasha software
+00:27 
+
+00:27 engineer as well so in today's episode
+00:30 
+
+00:30 we'll be talking about interview prep
+00:31 
+
+00:31 resume tips and basically preparation
+00:33 
+
+00:33 for anyone who's like starting a career
+00:35 
+
+00:35 in Tech so maybe we can start with the
+00:38 
+
+00:38 both of you all right like yeah what do
+00:40 
+
+00:40 I what do we think about it yeah what
+00:42 
+
+00:42 what do you think about interview prep
+00:44 
+
+00:44 in general and like you know how in
+00:45 
+
+00:45 software Engineers there's like a huge
+00:47 
+
+00:47 competition for like you know data
+00:49 
+
+00:49 structures and algorithms and all that
+00:51 
+
+00:51 like how do you usually advise people to
+00:54 
+
+00:54 prep their interviews for for their
+00:57 
+
+00:57 career yeah maybe I can start with like
+00:60 
+
+00:60 how I do it maybe yeah in fact like
+01:02 
+
+01:02 maybe you should talk about how you
+01:03 
+
+01:03 actually have a series and that's why
+01:05 
+
+01:05 like I feel like you're the most
+01:05 
+
+01:05 qualified person to speak in this like
+01:07 
+
+01:07 room so yeah you want to talk a bit
+01:09 
+
+01:09 about that and how you've been helping
+01:11 
+
+01:11 others like prepare as well okay so uh
+01:15 
+
+01:15 how it all starts is basically for a
+01:18 
+
+01:18 software developer interviewing is like
+01:21 
+
+01:21 a big thing I feel like there are like
+01:23 
+
+01:23 five rounds in most companies and so
+01:26 
+
+01:26 there's like the the live coding round
+01:30 
+
+01:30 yeah so that that might be online where
+01:32 
+
+01:32 you have to answer data structures and
+01:35 
+
+01:35 algorithms question and then there would
+01:37 
+
+01:37 be a system Design Round so as you get a
+01:39 
+
+01:39 bit more senior there is the system
+01:41 
+
+01:41 design or there's the API Design Round
+01:43 
+
+01:43 for a more Junior role there might be
+01:45 
+
+01:45 like a behavioral round and uh some
+01:48 
+
+01:48 other cultural rounds and things like
+01:50 
+
+01:50 that so there are these rounds it is
+01:52 
+
+01:52 very difficult I in my opinion to
+01:55 
+
+01:55 prepare for this cuz you don't actually
+01:57 
+
+01:57 do these data structure algorithm
+01:59 
+
+01:59 questions in your dayto day job so you
+02:01 
+
+02:01 actually have to sit down on like this
+02:03 
+
+02:03 website I use lead code but it's like
+02:05 
+
+02:05 Hecker Hecker Hecker heer Hecker Rank
+02:08 
+
+02:08 and rank Hecker rank yeah yeah so uh you
+02:13 
+
+02:13 can prepare for questions on these but
+02:16 
+
+02:16 preparing is like basically relearning
+02:18 
+
+02:18 your whole
+02:19 
+
+02:19 university not your whole university but
+02:21 
+
+02:21 a lot of your University topics yeah
+02:23 
+
+02:23 it's very Tex I feel like it it'll take
+02:26 
+
+02:26 like 3 months for for me to for example
+02:28 
+
+02:28 if I've never I've not done an interview
+02:31 
+
+02:31 in a long time I it would take 3 months
+02:33 
+
+02:33 for me to prepare for the data
+02:36 
+
+02:36 structures and algorithm round for any
+02:38 
+
+02:38 bigger company and it's a whole process
+02:40 
+
+02:40 so what I usually do is I try to be
+02:43 
+
+02:43 consistent with it so always be
+02:45 
+
+02:45 interview ready basically and you know
+02:48 
+
+02:48 how the job market is Tech layoffs are
+02:50 
+
+02:50 going left right center everywhere so
+02:52 
+
+02:52 it's better to be interview ready and
+02:55 
+
+02:55 how you do that is basically how I do
+02:57 
+
+02:57 that is because I run a community I can
+02:59 
+
+02:59 do it so I actually do like monthly
+03:02 
+
+03:02 sessions uh every yeah so monthly
+03:05 
+
+03:05 sessions on like one question at a time
+03:07 
+
+03:07 or one system design Topic at a time
+03:11 
+
+03:11 where I will try to be I will be
+03:13 
+
+03:13 interviewed or I'll interview one of my
+03:15 
+
+03:15 friends and we'll just discuss around
+03:18 
+
+03:18 those topics and that's how we keep
+03:20 
+
+03:20 updated with uh the latest questions and
+03:23 
+
+03:23 be prepared with all the algorithms out
+03:25 
+
+03:25 there and yeah so it makes it a bit
+03:27 
+
+03:27 easier so when you're not pressured to
+03:29 
+
+03:29 go find for a job just on your normal
+03:32 
+
+03:32 daytoday life you're prepared already so
+03:34 
+
+03:34 that when you do get laid off yeah you
+03:36 
+
+03:36 will still have to practice a bit more
+03:38 
+
+03:38 but at least you're already like halfway
+03:40 
+
+03:40 there in that you don't have to like
+03:42 
+
+03:42 start from scratch yeah so that's that's
+03:44 
+
+03:44 my thinking overall for interview
+03:46 
+
+03:46 software developer interview prep but of
+03:48 
+
+03:48 course there's other parts of it like
+03:49 
+
+03:49 your resume has to be updated LinkedIn
+03:52 
+
+03:52 and things like that uh yeah so that
+03:55 
+
+03:55 that's how M my thinking is for soft I
+03:59 
+
+03:59 actually love that philos opy like
+04:00 
+
+04:00 always be interview ready cuz you don't
+04:02 
+
+04:02 know what happens like the same thing
+04:05 
+
+04:05 for resume actually I always tell my
+04:06 
+
+04:06 readers your resume has always to be
+04:08 
+
+04:08 interview ready kind of like ready for
+04:10 
+
+04:10 submission I I did write an article
+04:12 
+
+04:12 before on like you know how to structure
+04:14 
+
+04:14 a good resume there's a difference
+04:16 
+
+04:16 between good and W rums so I always like
+04:20 
+
+04:20 kind of show tips on how to have a w
+04:22 
+
+04:22 resume and one of those tips is actually
+04:24 
+
+04:24 to always keep it as up to date as
+04:26 
+
+04:26 possible so definitely in line with your
+04:28 
+
+04:28 philosophy I was wondering if
+04:31 
+
+04:31 Natasha yeah like actually I didn't
+04:33 
+
+04:33 realize that but I also kind of had the
+04:35 
+
+04:35 same mindset but less s of like really
+04:38 
+
+04:38 intentionally telling yourself I have to
+04:40 
+
+04:40 be interview ready at all times but to
+04:42 
+
+04:42 make sure that like your day-to-day
+04:43 
+
+04:43 software uh or like like your day-to-day
+04:45 
+
+04:45 work practices are kind of geared
+04:47 
+
+04:47 towards like different uh aspects of an
+04:50 
+
+04:50 interview uh I think one of the tips
+04:52 
+
+04:52 that people I always give to people when
+04:54 
+
+04:54 they ask me is really to be comfortable
+04:56 
+
+04:56 with vocalizing exactly what's in your
+04:58 
+
+04:58 mind and I think a lot of people people
+04:60 
+
+04:60 don't start off with that but this is
+05:01 
+
+05:01 something you can train on an everyday
+05:03 
+
+05:03 basis I.E engage in par programming like
+05:06 
+
+05:06 and when you're doing parir programming
+05:08 
+
+05:08 don't just like sit there and then just
+05:09 
+
+05:09 kind of like wait for questions to be
+05:11 
+
+05:11 asked to you uh by a partner um practice
+05:14 
+
+05:14 just like verbalizing everything and
+05:16 
+
+05:16 don't be ashamed of like um you know
+05:19 
+
+05:19 being like Oh I actually don't know this
+05:20 
+
+05:20 syntax like yeah you have to practice
+05:22 
+
+05:22 that as well because I feel like that
+05:24 
+
+05:24 went really well for me uh at a stages
+05:27 
+
+05:27 in life where I was interviewed but I
+05:30 
+
+05:30 would say that I wouldn't have had
+05:31 
+
+05:31 enough time to say like practice my data
+05:34 
+
+05:34 structures and algorithms to practice my
+05:36 
+
+05:36 system design questions but because
+05:38 
+
+05:38 every day I'm already so used to like
+05:40 
+
+05:40 just literally brain dumping everything
+05:42 
+
+05:42 that's in my head I felt like the
+05:44 
+
+05:44 interviewer could tell that I didn't
+05:46 
+
+05:46 prepare um uh for like exactly the
+05:50 
+
+05:50 questions but at the same time he knew
+05:51 
+
+05:51 exactly my thought process because I'll
+05:53 
+
+05:53 would be like oh um yeah I kind of want
+05:55 
+
+05:55 to do this but I kind of forgot like how
+05:57 
+
+05:57 to do it in this syntax um right now I'm
+05:60 
+
+05:60 going some of the um like interviews are
+06:02 
+
+06:02 like open book book as well and they
+06:03 
+
+06:03 want to see like what you search up I'm
+06:05 
+
+06:05 going to go on like the browser right
+06:06 
+
+06:06 now and I think I'm going to like search
+06:08 
+
+06:08 this up because this is the exact thing
+06:09 
+
+06:09 that I yeah so just basically um being
+06:12 
+
+06:12 comfortable with that being also knowing
+06:14 
+
+06:14 like the terminologies that you're um
+06:18 
+
+06:18 you use on an everyday basis to relay
+06:20 
+
+06:20 Concepts to people to relay your
+06:22 
+
+06:22 misunderstandings and uh relay like your
+06:24 
+
+06:24 questions and this also goes into like
+06:27 
+
+06:27 um not just being comfortable
+06:28 
+
+06:28 verbalizing what's in your head as you
+06:30 
+
+06:30 work but also the practice of like
+06:33 
+
+06:33 asking questions in work if you already
+06:36 
+
+06:36 have that practice where whenever you
+06:37 
+
+06:37 hit into a rope block you immediately
+06:40 
+
+06:40 ask someone you're constantly practicing
+06:42 
+
+06:42 ready you know verbalizing what's in
+06:44 
+
+06:44 your headp verbalizing your thought
+06:45 
+
+06:45 processes so that's kind of like
+06:48 
+
+06:48 actually in line with this whole
+06:49 
+
+06:49 philosophy of always being interview
+06:50 
+
+06:50 ready it doesn't have to be a very
+06:52 
+
+06:52 conscious thing in fact like once you
+06:54 
+
+06:54 start off it becomes very
+06:55 
+
+06:55 subconscious and I think that like you
+06:58 
+
+06:58 know with all all that wrapped up you
+07:01 
+
+07:01 know you have your resume ready you know
+07:02 
+
+07:02 you're always like practicing with a
+07:04 
+
+07:04 friend and also practicing not not
+07:06 
+
+07:06 really practicing data structures and
+07:07 
+
+07:07 algorithms every day like I think I
+07:09 
+
+07:09 would die like if I that' be so boring
+07:11 
+
+07:11 but uh and also like just in your
+07:13 
+
+07:13 everyday work um knowing how to
+07:16 
+
+07:16 verbalize your thought processes and
+07:18 
+
+07:18 being very unashamed about it I think
+07:20 
+
+07:20 that combined already you know you could
+07:22 
+
+07:22 be ready for an interview next day and
+07:24 
+
+07:24 you'll feel like really like um relaxed
+07:26 
+
+07:26 hopefully so natural at it yeah so what
+07:28 
+
+07:28 I actually like about you mentioned as
+07:30 
+
+07:30 well verbalizing the concept like
+07:32 
+
+07:32 practicing it I think a lot of people
+07:34 
+
+07:34 they focus on just deepening their
+07:35 
+
+07:35 knowledge and focusing on training like
+07:38 
+
+07:38 how to code like essentially but in Tech
+07:40 
+
+07:40 interviews we often see that they also
+07:42 
+
+07:42 test your communication skills and that
+07:45 
+
+07:45 is something people don't train enough I
+07:47 
+
+07:47 guess right and that's why we say about
+07:49 
+
+07:49 like mock interviews pair programming
+07:51 
+
+07:51 these are all essential because you're
+07:52 
+
+07:52 actually practicing how to communicate
+07:54 
+
+07:54 to other people so just by verbalizing
+07:57 
+
+07:57 your thoughts and your how you code your
+07:59 
+
+07:59 thought processes that actually kind of
+08:02 
+
+08:02 trains you and you're actually preparing
+08:04 
+
+08:04 for the interview so I really like what
+08:06 
+
+08:06 you mentioned about just verbalizing it
+08:08 
+
+08:08 out that actually like the examiner the
+08:11 
+
+08:11 interviewer they are actually kind of
+08:13 
+
+08:13 like looking whether or not you can
+08:16 
+
+08:16 communicate that exactly it's also a big
+08:18 
+
+08:18 part of communication yeah so like in a
+08:20 
+
+08:20 normal Tech interview they're not just
+08:22 
+
+08:22 looking at your solution but how you
+08:24 
+
+08:24 communicate because eventually
+08:26 
+
+08:26 especially for bigger companies you'll
+08:28 
+
+08:28 be within a team right they want to know
+08:30 
+
+08:30 how well you can articulate your
+08:31 
+
+08:31 Solutions and how well you can discuss
+08:34 
+
+08:34 and how well you can actually work in a
+08:36 
+
+08:36 team yeah so I think that is also one
+08:38 
+
+08:38 tip that would like to share with a lot
+08:41 
+
+08:41 of people is the communication skills
+08:43 
+
+08:43 part exactly and as you talk about that
+08:45 
+
+08:45 I wanted to throw something out I just
+08:46 
+
+08:46 realized like especially with things
+08:48 
+
+08:48 like chat gbt GitHub co-pilot all these
+08:50 
+
+08:50 like AI enabl like tools that basically
+08:53 
+
+08:53 replaces the mundane of I know like this
+08:56 
+
+08:56 stack in and out and I can I know all
+08:59 
+
+08:59 the syntax it's like you're basically
+09:00 
+
+09:00 weeding out like the people who already
+09:03 
+
+09:03 like know this so beyond like just being
+09:06 
+
+09:06 able to do what chat GPT what gith up
+09:08 
+
+09:08 co-pilot can do what can like um like
+09:11 
+
+09:11 interviewees and uh like people in Tech
+09:13 
+
+09:13 offer to the table now like what do you
+09:16 
+
+09:16 guys think oh actually when when you
+09:18 
+
+09:18 started talking about Chad G I thought
+09:19 
+
+09:19 you will be coming from the aspect that
+09:21 
+
+09:21 you should also be a good prompter
+09:23 
+
+09:23 actually I use Chad in my day-to-day
+09:26 
+
+09:26 coding job as well so to be able to
+09:29 
+
+09:29 articulate to Chad GP this is what I
+09:32 
+
+09:32 want can you write a method that can do
+09:34 
+
+09:34 this and then write a test for it or uh
+09:37 
+
+09:37 refactor this line of code so you should
+09:39 
+
+09:39 be able to know words like reflector
+09:41 
+
+09:41 firstly like or what is a good
+09:43 
+
+09:43 reflecting did they even do it properly
+09:45 
+
+09:45 or like understand the nuances that it
+09:47 
+
+09:47 does and uh to be able to tell it that
+09:51 
+
+09:51 uh what language what principle you want
+09:52 
+
+09:52 to use so that I think now the new age
+09:56 
+
+09:56 interviewing should also be looking out
+09:58 
+
+09:58 for uh
+09:60 
+
+09:60 you should be able to prompt cuz you'll
+10:02 
+
+10:02 be faster right cuz gith up co-pilot for
+10:04 
+
+10:04 example you should be just able to write
+10:06 
+
+10:06 a comment write this method and in like
+10:09 
+
+10:09 a second you already have a method
+10:11 
+
+10:11 whereas you spend 30 minutes to write
+10:12 
+
+10:12 this on your own yeah so that's also
+10:15 
+
+10:15 something so you should be using it
+10:17 
+
+10:17 maybe that I love that as like a senior
+10:20 
+
+10:20 engineer you are saying this because I
+10:22 
+
+10:22 think a lot of people are ashamed to
+10:24 
+
+10:24 admit that they rely heavily on GitHub
+10:26 
+
+10:26 co-pilot and chat gbt but you're
+10:29 
+
+10:29 absolutely right cuz like Beyond like
+10:30 
+
+10:30 doing the mundane and a routine that
+10:33 
+
+10:33 like these uh Services can already
+10:35 
+
+10:35 provide um it's about us and how we
+10:37 
+
+10:37 leverage on these tools to know exactly
+10:39 
+
+10:39 what to prompt that's like you know they
+10:41 
+
+10:41 call it a prompt engineer right like
+10:43 
+
+10:43 even as a like a a software engineering
+10:45 
+
+10:45 Solutions engineer you're a prompt
+10:46 
+
+10:46 engineer yourself and I like that you
+10:49 
+
+10:49 said you're basically thinking that
+10:50 
+
+10:50 maybe more interviews should be going in
+10:52 
+
+10:52 that direction to see what people prompt
+10:55 
+
+10:55 yeah yeah I think that's another aspect
+10:57 
+
+10:57 it it is the future of software
+10:59 
+
+10:59 development for sure that AI will be
+11:02 
+
+11:02 helping you to code and you will be a
+11:05 
+
+11:05 much faster developer so you should be I
+11:09 
+
+11:09 would actually look out for these kind
+11:10 
+
+11:10 of things I don't know about if
+11:11 
+
+11:11 companies are already doing it but I
+11:12 
+
+11:12 think that's where we should be going
+11:14 
+
+11:14 yeah agree it's not it's not something
+11:16 
+
+11:16 to be ashamed of it's something to be
+11:17 
+
+11:17 proud of that you leverage on existing
+11:20 
+
+11:20 Technologies to make yourself better
+11:21 
+
+11:21 yeah definitely I actually wanted to
+11:23 
+
+11:23 like bring about this new and this new
+11:25 
+
+11:25 topic which is I always find like for
+11:27 
+
+11:27 software Developers I always have like
+11:30 
+
+11:30 two opinions about this like why do we
+11:33 
+
+11:33 actually have to do those data structure
+11:35 
+
+11:35 and algorithm questions like why we
+11:37 
+
+11:37 going through this yes okay I didn't
+11:39 
+
+11:39 know we're going to get into that very
+11:41 
+
+11:41 fast but yes I want to know I want to
+11:44 
+
+11:44 know your opinions like what do you guys
+11:46 
+
+11:46 think about it I think it's unnecessary
+11:50 
+
+11:50 like honestly like it's not unnecessary
+11:52 
+
+11:52 in that like nobody should know data
+11:54 
+
+11:54 structures and algorithms but I think
+11:55 
+
+11:55 it's not necessary by practicing you can
+11:58 
+
+11:58 just do it exactly but why do we why do
+12:01 
+
+12:01 all of us have to do it yeah yeah I I
+12:04 
+
+12:04 think like I really think it's more of
+12:06 
+
+12:06 like it's an easy thing to test like
+12:08 
+
+12:08 that's one we have to acknowledge that
+12:10 
+
+12:10 in the job market um companies engage uh
+12:13 
+
+12:13 Outsource the recruitment part right and
+12:15 
+
+12:15 when you Outsource I realized that a lot
+12:17 
+
+12:17 of recruiters uh obviously they aren't
+12:20 
+
+12:20 Engineers themselves the majority of
+12:21 
+
+12:21 them otherwise they would be like
+12:23 
+
+12:23 Engineers um and the easy way around
+12:26 
+
+12:26 like testing you know um would be to
+12:28 
+
+12:28 look at what's already chesta in school
+12:31 
+
+12:31 right like for them to model um uh those
+12:34 
+
+12:34 those textbook answers and questions and
+12:36 
+
+12:36 I feel like that as a basis it's just
+12:38 
+
+12:38 more of like it's easy to test versus
+12:41 
+
+12:41 like system design questions you
+12:42 
+
+12:42 actually have to think about and know uh
+12:45 
+
+12:45 the system designed well as an
+12:47 
+
+12:47 interviewer you know as somebody who
+12:49 
+
+12:49 crafts the questions but as we're like
+12:50 
+
+12:50 interviewing so many people and hordes
+12:52 
+
+12:52 and people are Outsourcing recruitment
+12:54 
+
+12:54 to other agencies I can see why um the
+12:58 
+
+12:58 preference like you know know gears to
+12:59 
+
+12:59 where it's like easier to like test
+13:01 
+
+13:01 things so that's one and I think it's
+13:03 
+
+13:03 also like a weer you know um like like
+13:06 
+
+13:06 more of a weer around for people who
+13:08 
+
+13:08 just like completely aren't able to
+13:11 
+
+13:11 understand these Concepts perhaps I'm
+13:12 
+
+13:12 not saying that like uh I think this
+13:14 
+
+13:14 should be the continue to be the way for
+13:17 
+
+13:17 it I'm just saying like I acknowledge
+13:19 
+
+13:19 that you know why it's like this but
+13:22 
+
+13:22 whether or not it's actually important
+13:23 
+
+13:23 to our jobs um I don't think it is I um
+13:28 
+
+13:28 feel like it's it's more of like when
+13:30 
+
+13:30 you hit a problem that requires you to
+13:32 
+
+13:32 go down to that low level you naturally
+13:35 
+
+13:35 already have the resources to revisit
+13:37 
+
+13:37 those topics and see like what's
+13:39 
+
+13:39 important to that particular problem
+13:41 
+
+13:41 you're facing at hand in a job um yeah
+13:45 
+
+13:45 like for me I actually never had a data
+13:46 
+
+13:46 structures and algorithms class at all
+13:49 
+
+13:49 oh like yeah I never uh I never actually
+13:52 
+
+13:52 did like proper computer science and
+13:54 
+
+13:54 software engineering and I knew I didn't
+13:56 
+
+13:56 want to um basically like when I went to
+13:59 
+
+13:59 college I had the choice between going
+14:00 
+
+14:00 to Carnegie melon to pursue like
+14:02 
+
+14:02 straight up computer science and going
+14:04 
+
+14:04 to UCLA to do on declar because I don't
+14:06 
+
+14:06 know what I want to do I picked UCLA
+14:09 
+
+14:09 because I was so afraid that going into
+14:11 
+
+14:11 like computer science as Academia like I
+14:14 
+
+14:14 would completely be disenchanted and not
+14:16 
+
+14:16 want to pursue this as a discipline um
+14:18 
+
+14:18 so for my four years in college I
+14:20 
+
+14:20 continued software engineering on the
+14:21 
+
+14:21 side like still you know developing apps
+14:24 
+
+14:24 but I never actually like you know data
+14:27 
+
+14:27 science data structure algorithms
+14:29 
+
+14:29 whatever it's only like I decided to
+14:30 
+
+14:30 give myself a shot for Masters and I did
+14:32 
+
+14:32 a masters in computer information
+14:33 
+
+14:33 systems yeah and then like yeah I did
+14:35 
+
+14:35 the necessary to like pass and wave off
+14:38 
+
+14:38 like um the uh fundamental classes and
+14:41 
+
+14:41 stuff but do I think like those actually
+14:43 
+
+14:43 like help me in my current job I would
+14:47 
+
+14:47 say so yeah so I I do resonate a lot
+14:49 
+
+14:49 with you just also partly I don't have
+14:51 
+
+14:51 formal education in CS oh yeah uh When I
+14:55 
+
+14:55 Was preparing for like a interview with
+14:57 
+
+14:57 love tech companies the first thing
+14:59 
+
+14:59 they're looking for like you mentioned
+15:00 
+
+15:00 is to weed out is to filter the people
+15:03 
+
+15:03 who knows the concept and the people who
+15:04 
+
+15:04 don't so naturally I studied data
+15:07 
+
+15:07 structures and algorithms for like you
+15:09 
+
+15:09 know 10 11 months you know I studied it
+15:12 
+
+15:12 in Great depth because I know that it's
+15:14 
+
+15:14 important for me to know this if I want
+15:16 
+
+15:16 to get a job in Tech uh whether or not
+15:19 
+
+15:19 is relevant like in the day-to-day job
+15:22 
+
+15:22 is debatable but I do recognize it as a
+15:25 
+
+15:25 tool so it's kind of like calculus in
+15:27 
+
+15:27 finance it's like day-to-day job in
+15:30 
+
+15:30 finance you will need calculus but when
+15:33 
+
+15:33 things come and like you want to like
+15:35 
+
+15:35 analyze certain Trends or something math
+15:38 
+
+15:38 is needed so it's more like a tool it's
+15:40 
+
+15:40 like in the back of your mind you like
+15:42 
+
+15:42 immediately oh I actually know how to
+15:44 
+
+15:44 solve this problem because you already
+15:46 
+
+15:46 studied the concepts so it's not as in
+15:49 
+
+15:49 like oh you like some people would ask
+15:51 
+
+15:51 like people who never been in Tech do
+15:53 
+
+15:53 you actually use data structures and
+15:55 
+
+15:55 algorithms every day in coding of course
+15:58 
+
+15:58 my answer will be
+15:59 
+
+15:59 no but it's very helpful to know if like
+16:03 
+
+16:03 let's say you have a problem and then
+16:04 
+
+16:04 you need a solution you know what datra
+16:07 
+
+16:07 structure am I going to use to implement
+16:09 
+
+16:09 this so in a way knowing it is very
+16:12 
+
+16:12 useful and I can see why interviews
+16:15 
+
+16:15 always have this question is so that
+16:17 
+
+16:17 they know that and they are confident in
+16:20 
+
+16:20 hiring you that this these are the
+16:22 
+
+16:22 skills you have and these are the
+16:23 
+
+16:23 knowledge that you have so we're
+16:25 
+
+16:25 confident about you that you can solve
+16:28 
+
+16:28 problems like you know if the situation
+16:30 
+
+16:30 comes when you need data structures and
+16:32 
+
+16:32 algorithms yeah yeah essentially like a
+16:34 
+
+16:34 software doer job is to solve problems
+16:37 
+
+16:37 cuz there are problems but so like in my
+16:41 
+
+16:41 uh Journey what I've realized cuz every
+16:43 
+
+16:43 two years I do switch jobs right so I've
+16:46 
+
+16:46 done many interviews and from that
+16:48 
+
+16:48 experience I think like my conclusion of
+16:50 
+
+16:50 like uh this this rounds are is that I
+16:55 
+
+16:55 think uh it should not be the the the
+16:59 
+
+16:59 most biggest or like the deal breaker
+17:01 
+
+17:01 thing like I wouldn't ever like practice
+17:04 
+
+17:04 crazily and like be able to answer all
+17:06 
+
+17:06 questions I would be able I try I try I
+17:09 
+
+17:09 will try to keep myself to a level where
+17:11 
+
+17:11 I can answer medium questions not the
+17:13 
+
+17:13 really tough ones like go crazy so like
+17:17 
+
+17:17 able to answer medium questions and uh
+17:19 
+
+17:19 what it helps me do cuz I do interview
+17:22 
+
+17:22 prep on like on as a site thing also
+17:25 
+
+17:25 right so I actually think that it
+17:27 
+
+17:27 actually makes me feel smarter
+17:29 
+
+17:29 like I feel like I'm not oiling my
+17:31 
+
+17:31 engine what if you feel smart like it's
+17:33 
+
+17:33 you like your day to-day job you're not
+17:35 
+
+17:35 really using that much of your brain
+17:36 
+
+17:36 sometimes right sometimes it's cuz it's
+17:39 
+
+17:39 like uh repeater routine work sometimes
+17:42 
+
+17:42 so when I do this interview prep on the
+17:45 
+
+17:45 side it actually feels like I'm oiling
+17:47 
+
+17:47 my engines so then when I go to work the
+17:49 
+
+17:49 next day after doing like a two two
+17:51 
+
+17:51 three good questions the day before I
+17:53 
+
+17:53 actually feel like wait my brain's
+17:55 
+
+17:55 working a lot more faster it's like you
+17:57 
+
+17:57 know it's like engined it's like oil
+17:59 
+
+17:59 it's like that's good and then I
+18:01 
+
+18:01 actually start thinking a bit more about
+18:03 
+
+18:03 what I'm doing like actually uh even
+18:06 
+
+18:06 though it's like uh it's like you know
+18:09 
+
+18:09 you can use a set instead of like a
+18:11 
+
+18:11 array or like a list here because you
+18:13 
+
+18:13 want unique unique items you can
+18:15 
+
+18:15 actually you'll start thinking a little
+18:17 
+
+18:17 bit more about these nuances in your
+18:20 
+
+18:20 code and data structures you do use
+18:22 
+
+18:22 every day maybe not the algorithms but
+18:26 
+
+18:26 uh yeah it it does come in handy I feel
+18:29 
+
+18:29 in at work it does make me think a bit
+18:31 
+
+18:31 more think a bit more uh efficient wise
+18:35 
+
+18:35 as well cuz there are two for Loops that
+18:37 
+
+18:37 happens at work so then I will think
+18:40 
+
+18:40 about wait if there are like 100,000
+18:43 
+
+18:43 items coming in which it does in the
+18:45 
+
+18:45 company I work for because it's a bigger
+18:47 
+
+18:47 company so then I will think about I
+18:50 
+
+18:50 don't want to go through it uh two
+18:52 
+
+18:52 rounds of it how can I make it better so
+18:55 
+
+18:55 okay yeah true okay it does my words
+18:58 
+
+18:58 back it does it does make sense I just
+19:00 
+
+19:00 don't believe in doing the hardcore know
+19:03 
+
+19:03 how to answer all the hard questions
+19:05 
+
+19:05 kind of like know the names of
+19:07 
+
+19:07 algorithms things like that you should
+19:09 
+
+19:09 be able to solve questions it does show
+19:11 
+
+19:11 that you know how to solve questions you
+19:13 
+
+19:13 are able to think in that m in that
+19:16 
+
+19:16 sorry in that mindset so yes you should
+19:20 
+
+19:20 be able to think in that mindset it is a
+19:21 
+
+19:21 mindset I think the way of thinking it's
+19:25 
+
+19:25 a mindset paired with the knowledge
+19:28 
+
+19:28 correct yeah you should know when to tap
+19:30 
+
+19:30 what and solve this question in that
+19:33 
+
+19:33 manner uh yeah yeah perhaps what we're
+19:35 
+
+19:35 trying to gear towards is that we're not
+19:37 
+
+19:37 saying that data structures and
+19:38 
+
+19:38 algorithms are not important in fact
+19:40 
+
+19:40 they're the fundamental basis um and we
+19:42 
+
+19:42 do use it every single day but it's just
+19:44 
+
+19:44 that the way it's being tested as like
+19:46 
+
+19:46 pure data structures and algorithms
+19:48 
+
+19:48 rather than how is it being applied in
+19:50 
+
+19:50 modern um tools framework Stacks yeah I
+19:53 
+
+19:53 feel like that should be um like tested
+19:55 
+
+19:55 but I realize I I'm still kind of like
+19:58 
+
+19:58 um thinking about how it would look like
+20:00 
+
+20:00 so like I would I would if I'm an
+20:02 
+
+20:02 interviewer I wouldn't I wouldn't uh
+20:05 
+
+20:05 like beat about you're not able to
+20:07 
+
+20:07 produce the correct output I would look
+20:09 
+
+20:09 at your the way you explain this the
+20:12 
+
+20:12 pseudo code that you wrote or like the
+20:15 
+
+20:15 way you explained it to me I think if
+20:17 
+
+20:17 that is in the right uh Direction I
+20:20 
+
+20:20 would give that point to you that kind I
+20:22 
+
+20:22 don't think it should be so rigid like
+20:24 
+
+20:24 the output has to be correct if not the
+20:26 
+
+20:26 system will Mark you wrong and you are
+20:28 
+
+20:28 filtered yeah yeah actually that's a
+20:30 
+
+20:30 good point so um I want to kind of
+20:33 
+
+20:33 transition this into like let's say
+20:35 
+
+20:35 someone is you know just starting out
+20:37 
+
+20:37 their Tech journey and they want to be
+20:39 
+
+20:39 interview ready do you recommend them
+20:42 
+
+20:42 going into lead code and drilling for
+20:44 
+
+20:44 this kind of questions or how else do
+20:46 
+
+20:46 you recommend them to you know be more
+20:49 
+
+20:49 ready for these kind of interview
+20:51 
+
+20:51 questions so depends so there are some
+20:54 
+
+20:54 companies who do not ask you this
+20:56 
+
+20:56 algorithm questions they do exist they
+20:59 
+
+20:59 will ask you to create an app
+21:02 
+
+21:02 Y no algorithms involved their
+21:05 
+
+21:05 structures are involved but no
+21:06 
+
+21:06 algorithms are involved so depends what
+21:09 
+
+21:09 companies you want to join have that
+21:11 
+
+21:11 list look at the interview process check
+21:13 
+
+21:13 glass door they usually have what kind
+21:15 
+
+21:15 of questions they'll ask and prepare
+21:17 
+
+21:17 accordingly so if you want to get into
+21:19 
+
+21:19 meta for example then yes you need data
+21:22 
+
+21:22 structures and algorithms they're citing
+21:23 
+
+21:23 their first round but I wouldn't say
+21:27 
+
+21:27 like go crazy only do lead code
+21:29 
+
+21:29 questions for 3 months I think that's a
+21:31 
+
+21:31 bit and if and of course if you're not
+21:33 
+
+21:33 liking it don't do it there are other
+21:36 
+
+21:36 companies you can join you can still be
+21:37 
+
+21:37 a software developer but you should be
+21:39 
+
+21:39 able to do the easy questions cuz that
+21:41 
+
+21:41 is a test of your software
+21:43 
+
+21:43 development uh career right so yeah
+21:46 
+
+21:46 basically what I hear from you is first
+21:48 
+
+21:48 do your research so make sure you know
+21:50 
+
+21:50 that you know what are the companies
+21:51 
+
+21:51 that you want to apply to are looking
+21:53 
+
+21:53 for and you customize your learning
+21:55 
+
+21:55 method towards their interview questions
+21:57 
+
+21:57 so that's the first thing and then the
+21:59 
+
+21:59 second thing is also basically find the
+22:01 
+
+22:01 company culture that fits you right so
+22:04 
+
+22:04 it's not about you having to work for
+22:06 
+
+22:06 this company of course you work for this
+22:08 
+
+22:08 company but it's also if the company
+22:10 
+
+22:10 fits you right so it's like two-way
+22:12 
+
+22:12 process yeah you're going to be spending
+22:14 
+
+22:14 like nine hours in every single day in
+22:16 
+
+22:16 the company we should always be looking
+22:18 
+
+22:18 at the companies a bit more that's true
+22:21 
+
+22:21 strictly yeah like I mean uh I do
+22:24 
+
+22:24 understand in today's day and age it is
+22:27 
+
+22:27 a bit tough because
+22:29 
+
+22:29 a lot of companies seem to be firing and
+22:31 
+
+22:31 laying off like from news but I I think
+22:35 
+
+22:35 what is not shown in the news that also
+22:37 
+
+22:37 companies hiring I don't know why it's
+22:39 
+
+22:39 it's that way right I think it's just
+22:41 
+
+22:41 clickbait bro like seriously it's it's
+22:44 
+
+22:44 yeah it's more attractive to say that oh
+22:45 
+
+22:45 companies are all like retrenching but
+22:46 
+
+22:46 there are so many companies there are so
+22:48 
+
+22:48 many companies actually you don't even
+22:49 
+
+22:49 know their Nam the big Tech I would say
+22:52 
+
+22:52 so I think that's where you we should be
+22:54 
+
+22:54 looking at the mid tier company I think
+22:57 
+
+22:57 that's the name for it yeah I think when
+22:59 
+
+22:59 people think interviews they keep
+22:60 
+
+22:60 gunting for like big Tech yeah the Fang
+23:04 
+
+23:04 mang yeah but actually there are so many
+23:06 
+
+23:06 other companies that are in need of
+23:07 
+
+23:07 people right now uh and in need of like
+23:10 
+
+23:10 very uh specific roles as well you know
+23:12 
+
+23:12 that we can all explore um but a lot of
+23:15 
+
+23:15 people don't know about it because
+23:16 
+
+23:16 that's not like I also think that the
+23:18 
+
+23:18 majority of media out there where people
+23:20 
+
+23:20 you know they start the interview
+23:21 
+
+23:21 process and then youed click interview
+23:23 
+
+23:23 prep all all almost all of it it's about
+23:26 
+
+23:26 like how do I apply to m so I think that
+23:29 
+
+23:29 distorts people's perception and like
+23:31 
+
+23:31 restricts like their interview prep
+23:33 
+
+23:33 process it also restricts like their job
+23:35 
+
+23:35 hunt process yeah so that's why I I
+23:38 
+
+23:38 really appreciate that you brought that
+23:40 
+
+23:40 up there are a lot of other companies
+23:41 
+
+23:41 that are hiring that have very different
+23:43 
+
+23:43 um interview processes a lot of them are
+23:46 
+
+23:46 very lean companies as well so you have
+23:48 
+
+23:48 like the actual person on the uh feature
+23:50 
+
+23:50 team like interviewing you with very
+23:52 
+
+23:52 exact problems that relate to the
+23:54 
+
+23:54 position that they're opening up for so
+23:57 
+
+23:57 they'll be asking questions I like like
+23:59 
+
+23:59 the more more specific to feature like
+24:01 
+
+24:01 okay so we're facing this problem now
+24:02 
+
+24:02 we're scaling up to like 10 times more
+24:04 
+
+24:04 this is a current like database like
+24:06 
+
+24:06 what do you like recommend uh how would
+24:08 
+
+24:08 you like solve this problem and it's
+24:09 
+
+24:09 very specific to the feature and you get
+24:11 
+
+24:11 to know how the company that the feature
+24:13 
+
+24:13 team's culture is like you get to know
+24:15 
+
+24:15 what kind of problems will I be solving
+24:16 
+
+24:16 and you get to apply them so yeah I I do
+24:20 
+
+24:20 agree that uh different interview uh
+24:23 
+
+24:23 like methods out there depending on the
+24:25 
+
+24:25 company type but people just need to you
+24:27 
+
+24:27 know be open feel like that process of
+24:29 
+
+24:29 exploring I know that these exist yeah
+24:31 
+
+24:31 that's really nice I'm so glad like this
+24:33 
+
+24:33 is very insightful so far and I think
+24:36 
+
+24:36 just to add on so we talk about data
+24:38 
+
+24:38 structures and algorithms and like
+24:40 
+
+24:40 understanding doing research finding
+24:42 
+
+24:42 customized like the company that fits
+24:44 
+
+24:44 you and all that now just moving on to
+24:47 
+
+24:47 like the resume part right so it's like
+24:50 
+
+24:50 the written the very first entry right
+24:53 
+
+24:53 like how what makes a resume stand out
+24:56 
+
+24:56 like I want to ask that because at least
+24:58 
+
+24:58 in tech people will always ask do I need
+25:00 
+
+25:00 to make site do I need to build site
+25:02 
+
+25:02 projects and all that right what should
+25:04 
+
+25:04 I include in my resume people often ask
+25:06 
+
+25:06 me that and I just want to get your
+25:08 
+
+25:08 perspectives on this because I think
+25:09 
+
+25:09 it's very important to first get your
+25:11 
+
+25:11 resume in right because there's the
+25:13 
+
+25:13 first filter that's the first gateway
+25:16 
+
+25:16 yeah the interview actually comes later
+25:18 
+
+25:18 I'll be honest I actually do not write
+25:20 
+
+25:20 to create do not like to create resumes
+25:22 
+
+25:22 I've been using the same resume forever
+25:24 
+
+25:24 I just removed the bottom half add the
+25:26 
+
+25:26 top add a new job in with like a few
+25:29 
+
+25:29 bullet points so my resume is really
+25:31 
+
+25:31 basic but I do feel like I think we
+25:33 
+
+25:33 should stop making resumés or at all and
+25:37 
+
+25:37 just without LinkedIn cuz everything is
+25:39 
+
+25:39 already there at least for my I just
+25:41 
+
+25:41 updated in there and that should be the
+25:43 
+
+25:43 single point and I also only look for
+25:45 
+
+25:45 jobs which are on LinkedIn so like you
+25:48 
+
+25:48 know that one click jobs like apply
+25:50 
+
+25:50 while LinkedIn just one click and then
+25:53 
+
+25:53 my my URL is sent to them I'm like
+25:56 
+
+25:56 that's that's the aim like just just
+25:58 
+
+25:58 keep clicking on those kind of jobs so I
+25:59 
+
+25:59 don't even see the other jobs who are
+26:01 
+
+26:01 not on LinkedIn and who are collecting
+26:04 
+
+26:04 the paper resumes or something so but of
+26:08 
+
+26:08 course I'm speaking from a point of
+26:09 
+
+26:09 privilege because I was looking for jobs
+26:12 
+
+26:12 before the layoff started happening so
+26:15 
+
+26:15 at that point there were such companies
+26:17 
+
+26:17 I don't know what's the situation now
+26:19 
+
+26:19 yeah yeah but I don't actually do not uh
+26:22 
+
+26:22 think too much about like how my resume
+26:24 
+
+26:24 looks as long as the last last two jobs
+26:27 
+
+26:27 are there with a few bullet points of
+26:29 
+
+26:29 the achievements or like uh markers of
+26:32 
+
+26:32 what I brought in so I don't I don't uh
+26:35 
+
+26:35 dwell too much on how it looks like and
+26:37 
+
+26:37 what's side projects and stuff I guess
+26:39 
+
+26:39 you're speaking from the perspective of
+26:40 
+
+26:40 someone who's a senior engineer and who
+26:42 
+
+26:42 has job history maybe yes yes yeah what
+26:45 
+
+26:45 if they're like University students or
+26:48 
+
+26:48 someone is like trying to transition
+26:50 
+
+26:50 pivot into Tech then what oh do you I
+26:55 
+
+26:55 don't I don't know if the resume matters
+26:58 
+
+26:58 much in that sense is usually what what
+27:01 
+
+27:01 university what uh
+27:04 
+
+27:04 degree uh but of course now nowadays
+27:07 
+
+27:07 degrees are not also very important so I
+27:10 
+
+27:10 don't I'm actually not sure sorry well I
+27:12 
+
+27:12 I actually like um B I agree on like we
+27:17 
+
+27:17 shouldn't be using paper resumés anymore
+27:18 
+
+27:18 and go on LinkedIn because like that's
+27:20 
+
+27:20 just like an easier way the resume for
+27:23 
+
+27:23 us the paper resume yeah yeah so about
+27:25 
+
+27:25 that like I agree but uh in terms of
+27:27 
+
+27:27 like getting rid of that round of like
+27:29 
+
+27:29 looking at somebody's like either resume
+27:31 
+
+27:31 or LinkedIn I I I do think that still
+27:33 
+
+27:33 needs to retain but it's about like what
+27:35 
+
+27:35 are interviewers looking out for so even
+27:37 
+
+27:37 for University students or like senior
+27:39 
+
+27:39 Engineers um I think the resume is
+27:41 
+
+27:41 important for like the interviewer to
+27:43 
+
+27:43 look at I know what questions to ask
+27:45 
+
+27:45 like oh you had this job experience oh
+27:47 
+
+27:47 you had this extracurricular you built
+27:49 
+
+27:49 this type project what did you learn
+27:51 
+
+27:51 from it or like how did you implement
+27:53 
+
+27:53 this and um like beyond that like how do
+27:55 
+
+27:55 you furnish your LinkedIn a resume more
+27:57 
+
+27:57 to include include what you actually did
+27:59 
+
+27:59 so that you can prompt an interviewer to
+28:00 
+
+28:00 ask like more specific questions I think
+28:03 
+
+28:03 like one of the best tips I got uh from
+28:05 
+
+28:05 a friend who is a senior data scientist
+28:08 
+
+28:08 now um she basically said that every
+28:11 
+
+28:11 time she works uh on any project in a
+28:13 
+
+28:13 company she records and documents the
+28:16 
+
+28:16 process and makes sure she also like
+28:18 
+
+28:18 talks about the value to the team so
+28:21 
+
+28:21 every project she works on she looks
+28:23 
+
+28:23 back at her LinkedIn like resume and
+28:25 
+
+28:25 updates the bullet points under that
+28:27 
+
+28:27 like uh job so um that's something I'm
+28:30 
+
+28:30 also practicing as well as much as
+28:32 
+
+28:32 possible that every time I have a new
+28:35 
+
+28:35 change in job Focus or like I have even
+28:37 
+
+28:37 more clarity over what I'm doing I go
+28:39 
+
+28:39 back to like my LinkedIn and in the
+28:41 
+
+28:41 bullet points I update it uh and I try
+28:43 
+
+28:43 to gear that towards like what value did
+28:45 
+
+28:45 I bring to the team rather than just
+28:48 
+
+28:48 like um dropping like Stacks like this
+28:50 
+
+28:50 is what I used but um what what's my
+28:53 
+
+28:53 function yeah so because like with this
+28:56 
+
+28:56 and if you're continuously updating it
+28:58 
+
+28:58 it becomes easier than like oh now I
+28:60 
+
+28:60 need to look for a job you going back to
+29:01 
+
+29:01 like interview always interview ready
+29:03 
+
+29:03 always make sure your LinkedIn a resume
+29:05 
+
+29:05 is ready right remind there is a
+29:07 
+
+29:07 specific round for this as well where
+29:08 
+
+29:08 they just look at your resume and ask
+29:10 
+
+29:10 you questions of what you have written
+29:12 
+
+29:12 so make sure what you write is is
+29:15 
+
+29:15 important you know everything about it
+29:17 
+
+29:17 it's not just a fluke or like yeah I I
+29:20 
+
+29:20 used it like 10 years ago so I wrote it
+29:22 
+
+29:22 in yeah yeah and it's also like uh like
+29:25 
+
+29:25 to give examples of how those bullet
+29:27 
+
+29:27 points can look like you can talk about
+29:29 
+
+29:29 like yeah I was it could just be like I
+29:32 
+
+29:32 was a beckan engineer if and it's if
+29:34 
+
+29:34 it's just that it's just like oh okay
+29:35 
+
+29:35 but if your bullet points was like I saw
+29:37 
+
+29:37 through the companies like uh when we
+29:39 
+
+29:39 scaled up to like from just 1,000
+29:42 
+
+29:42 queries to now like uh 10,000 I was the
+29:45 
+
+29:45 one who implemented that solution you
+29:47 
+
+29:47 know moved and migrated us to the cloud
+29:49 
+
+29:49 to handle that that that sort of thing
+29:51 
+
+29:51 you know and then it gives like the
+29:52 
+
+29:52 interviewer that like insight to ask you
+29:55 
+
+29:55 like oh okay so you actually seem to
+29:57 
+
+29:57 know about how uh a migration of cloud
+29:59 
+
+29:59 and the uh benefits it provides like can
+30:01 
+
+30:01 you talk more about that yeah so that's
+30:03 
+
+30:03 that's kind of like how um like that
+30:05 
+
+30:05 that friend gave me insight into how I
+30:07 
+
+30:07 should structure the LinkedIn and resume
+30:09 
+
+30:09 or whatever and I think that's a good
+30:11 
+
+30:11 practice to have for University students
+30:13 
+
+30:13 though like uh I would say like focus on
+30:17 
+
+30:17 what you've done already like even in
+30:19 
+
+30:19 classes if you're doing like small
+30:20 
+
+30:20 little projects think about how would I
+30:23 
+
+30:23 reflect this in a resume and don't be
+30:25 
+
+30:25 ashamed to put that out even if it's
+30:27 
+
+30:27 just like you know a 7day um like
+30:30 
+
+30:30 project on building like some machine
+30:32 
+
+30:32 learning model yeah write about that
+30:35 
+
+30:35 yeah I think a lot of people are afraid
+30:36 
+
+30:36 and they're like oh this is so small and
+30:37 
+
+30:37 Tiny it's actually not small quite a big
+30:40 
+
+30:40 thing exactly just be confident and know
+30:43 
+
+30:43 that I have grown through have you grown
+30:44 
+
+30:44 through the process yeah so what how did
+30:46 
+
+30:46 you grow what were the problems you face
+30:48 
+
+30:48 like you should be proud of yourself
+30:49 
+
+30:49 first so that you dare to put that on
+30:52 
+
+30:52 like the resume you know yeah I think
+30:53 
+
+30:53 it's really good like what you mentioned
+30:55 
+
+30:55 the point about being specific so not
+30:57 
+
+30:57 just writing Your Role but adding that
+30:59 
+
+30:59 specific description and also the best
+31:01 
+
+31:01 practice of always recording what you're
+31:03 
+
+31:03 learning right another point I like to
+31:06 
+
+31:06 add is about like customizing the resume
+31:10 
+
+31:10 for the company cuz you know how like we
+31:13 
+
+31:13 we talk about you know doing research
+31:16 
+
+31:16 about the company to you know understand
+31:17 
+
+31:17 what kind of interview questions they'll
+31:19 
+
+31:19 ask so the same thing for resume like at
+31:22 
+
+31:22 least for me my process of doing my
+31:24 
+
+31:24 resume is I would kind of customize it
+31:27 
+
+31:27 to each company like for example you are
+31:29 
+
+31:29 a software developer but you can do web
+31:31 
+
+31:31 development and you can do mobile
+31:33 
+
+31:33 development so then you highlight the
+31:35 
+
+31:35 mobile part in one resume you highlight
+31:37 
+
+31:37 the web part in another resume exactly
+31:39 
+
+31:39 so that's what I mean by customizing the
+31:41 
+
+31:41 resume cuz I know when I was like
+31:43 
+
+31:43 applying to many tech jobs there's web
+31:45 
+
+31:45 developer there's mobile developer and
+31:48 
+
+31:48 there's one that's looking more for
+31:49 
+
+31:49 JavaScript there's one for Java like you
+31:51 
+
+31:51 know so you will have to intentionally
+31:54 
+
+31:54 highlight those and also highlight those
+31:56 
+
+31:56 achievements if you have any site
+31:58 
+
+31:58 projects built I literally have an
+31:60 
+
+31:60 example where I have before interviewed
+32:02 
+
+32:02 at this company and this company asked
+32:04 
+
+32:04 me about my site project like all of
+32:06 
+
+32:06 them cuz they find it interesting I'll
+32:07 
+
+32:07 like add a small descriptions on like my
+32:09 
+
+32:09 little projects you know and then
+32:11 
+
+32:11 they'll be like oh actually this is very
+32:13 
+
+32:13 interesting can you tell me more about
+32:14 
+
+32:14 it you know how you build it you know
+32:16 
+
+32:16 what's the process like what did you
+32:17 
+
+32:17 learn from it so in a way the companies
+32:20 
+
+32:20 they're getting to know you as a person
+32:22 
+
+32:22 you know you're not just another
+32:24 
+
+32:24 engineer like another tech person
+32:26 
+
+32:26 applying it's it's about really
+32:28 
+
+32:28 customizing it and also showcasing your
+32:30 
+
+32:30 personality in that resume to to stand
+32:33 
+
+32:33 out yeah that's personally how I kind of
+32:35 
+
+32:35 do
+32:38 
+
+32:38 it so I think today we like talked about
+32:40 
+
+32:40 a lot of different tips uh around
+32:43 
+
+32:43 interview preps so like software
+32:44 
+
+32:44 development interview prep and some can
+32:46 
+
+32:46 be applied to even uh other uh roles as
+32:49 
+
+32:49 well and yeah sorry do you want to wrap
+32:53 
+
+32:53 up can
+32:55 
+
+32:55 okay okay yeah so oh my God this has
+32:58 
+
+32:58 been a session that I think um it just
+33:00 
+
+33:00 keep flowing like we have a lot like
+33:02 
+
+33:02 based on our experience based on our
+33:04 
+
+33:04 friends and anecdotes and everything so
+33:06 
+
+33:06 I think it's been quite an insightful
+33:08 
+
+33:08 experience definitely I enjoyed like
+33:10 
+
+33:10 learning more from your perspectives on
+33:13 
+
+33:13 this so we hope that you know this
+33:15 
+
+33:15 episode will be helpful to some people
+33:16 
+
+33:16 watching as well I think it will I and U
+33:20 
+
+33:20 we would like to hear like your comments
+33:21 
+
+33:21 about what you think about what we
+33:23 
+
+33:23 thought about the DSA rounds uh the the
+33:26 
+
+33:26 resume tip if you have some tips that
+33:29 
+
+33:29 you can share with our audience as well
+33:31 
+
+33:31 that would be great yes pleas put it in
+33:32 
+
+33:32 the comments I think it's really good to
+33:34 
+
+33:34 share this information around so yes
+33:37 
+
+33:37 thanks so much for watching today's rack
+33:38 
+
+33:38 tag episode this has been rack tag see
+33:41 
+
+33:41 you next episode oh remember to like
+33:45 
+
+33:45 subscribe follow us on our social
+33:47 
+
+33:47 comment like wherever like yeah we're
+33:50 
+
+33:50 everywhere as much as possible or or if
+33:52 
+
+33:52 we're not everywhere like tell us where
+33:54 
+
+33:54 to be yeah but yeah as always like thank
+33:57 
+
+33:57 you for watching and yeah see you for
+33:60 
+
+33:60 the next
+34:01 
+
+34:01 [Music]
+34:04 
+
+34:04 episode

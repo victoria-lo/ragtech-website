@@ -1,0 +1,1729 @@
+00:00 It could actually remove my entire diet
+00:03 
+
+00:03 tree also.
+00:04 
+
+00:04 >> It actually has a lot of power.
+00:06 
+
+00:06 >> But it does ask you before running the
+00:08 
+
+00:08 command. So it was respectable in that
+00:11 
+
+00:11 manner.
+00:11 
+
+00:11 >> Respectable.
+00:12 
+
+00:12 >> So askable.
+00:16 
+
+00:16 [music]
+00:18 
+
+00:18 >> Hello there. Welcome to Reag, the place
+00:20 
+
+00:20 for bytes inventor. My name is Natasha.
+00:22 
+
+00:22 I'm a software engineer.
+00:23 
+
+00:23 >> Salony software developer.
+00:24 
+
+00:24 >> And I'm Victoria solutions engineer. And
+00:26 
+
+00:26 together we're react. Today's episode is
+00:28 
+
+00:28 all about VIP coding. Well, I don't know
+00:31 
+
+00:31 what VIP coding is cuz I personally
+00:33 
+
+00:33 haven't tried it yet. I've heard a lot
+00:34 
+
+00:34 about it, but I know that both of you
+00:36 
+
+00:36 have tried it. You've even wrote
+00:38 
+
+00:38 articles about it. So, I wanted to pick
+00:40 
+
+00:40 both of your brains about how you feel
+00:42 
+
+00:42 about VIP coding uh as uh software
+00:45 
+
+00:45 engineers and developers uh and also
+00:48 
+
+00:48 what your overall experience uh was
+00:50 
+
+00:50 using uh VIP coding tools. So, Salon, I
+00:54 
+
+00:54 heard that you recently uh tried out VIP
+00:56 
+
+00:56 coding for the first time and you built
+00:57 
+
+00:57 an app with it. Do you want to tell us
+00:59 
+
+00:59 what VIP coding is to you and how that
+01:01 
+
+01:01 app kind of like looked?
+01:03 
+
+01:03 >> Yes.
+01:04 
+
+01:04 >> So, I actually tried like I just want to
+01:06 
+
+01:06 explore what this wipe coding thing is
+01:07 
+
+01:07 about cuz at first I thought it's
+01:09 
+
+01:09 something Jenz's use cuz Wbe
+01:12 
+
+01:12 >> uh but it's it's a real thing. So, the
+01:14 
+
+01:14 first app I actually made was I wanted
+01:15 
+
+01:15 something practical. So, you know how
+01:17 
+
+01:17 when you look at menus and there are no
+01:18 
+
+01:18 pictures and you don't know what is what
+01:20 
+
+01:20 is this item about? So the first app was
+01:22 
+
+01:22 given a picture of a menu generate an
+01:26 
+
+01:26 image given the description. So cuz
+01:28 
+
+01:28 usually menu I menus it will look like
+01:31 
+
+01:31 for example we have butter chicken right
+01:34 
+
+01:34 >> below it actually thing that came to
+01:36 
+
+01:36 your head butter chicken.
+01:37 
+
+01:37 >> Yeah. Yeah. My example came to me in an
+01:39 
+
+01:39 Indian restaurant.
+01:40 
+
+01:40 >> Okay. Makes sense.
+01:41 
+
+01:41 >> Cuz as an Indian I don't know what
+01:43 
+
+01:43 butter chicken looks like.
+01:44 
+
+01:44 >> No what these other menu items were like
+01:46 
+
+01:46 [laughter] okay. No for real. The first
+01:48 
+
+01:48 time I saw butter chicken, I didn't
+01:49 
+
+01:49 without the image, you would assume that
+01:51 
+
+01:51 it's a yellowy chicken thing when it's
+01:53 
+
+01:53 actually rich. It helps with the images,
+01:56 
+
+01:56 especially if it's a foreign cuisine.
+01:58 
+
+01:58 >> Yeah, that point. Not that I don't know
+01:60 
+
+01:60 what butter chicken is.
+02:01 
+
+02:01 >> So, I mean, I gave an example of butter
+02:02 
+
+02:02 chicken so that the audience can
+02:03 
+
+02:03 understand what was going through. So
+02:05 
+
+02:05 butter chicken and then below it they
+02:07 
+
+02:07 actually wrote a description of butter
+02:09 
+
+02:09 chicken like buttery creaminess whatever
+02:11 
+
+02:11 chicken and then so I thought actually
+02:15 
+
+02:15 this is a good use case given a title
+02:17 
+
+02:17 given a description it should be able to
+02:19 
+
+02:19 generate an image and it will help me
+02:21 
+
+02:21 >> basically see what a butter chicken is
+02:24 
+
+02:24 >> and uh yeah so basically an app do that
+02:26 
+
+02:26 because then you have to click a picture
+02:28 
+
+02:28 then go to Google and find it on Google
+02:30 
+
+02:30 right so I thought an app just take a
+02:32 
+
+02:32 picture will just show you the images so
+02:34 
+
+02:34 I did that I asked I chatted this out
+02:36 
+
+02:36 with uh wind surf. That's the tool I
+02:38 
+
+02:38 use. It did do a very good job in
+02:41 
+
+02:41 planning. It was actually telling me
+02:43 
+
+02:43 what it's going to do. Is that okay? And
+02:45 
+
+02:45 then I'll do it.
+02:46 
+
+02:46 >> So, it was really nice. So, at first it
+02:48 
+
+02:48 it came up with something. I could even
+02:51 
+
+02:51 local host see it also.
+02:53 
+
+02:53 >> Oh,
+02:53 
+
+02:53 >> yeah. It's already
+02:54 
+
+02:54 >> Is this a phone app or like it's a
+02:56 
+
+02:56 desktop like browser based?
+02:58 
+
+02:58 >> Browser browser based
+02:60 
+
+02:60 >> but you can tell it to. So eventually I
+03:02 
+
+03:02 made it mobile size cuz people usually
+03:04 
+
+03:04 will use their phones. But of course I
+03:06 
+
+03:06 had to prompt it quite a few times after
+03:08 
+
+03:08 it because it didn't understand that I
+03:10 
+
+03:10 need a picture taken and then send that
+03:13 
+
+03:13 picture to LLM. And even the LLM it was
+03:16 
+
+03:16 like okay put your API key here right?
+03:20 
+
+03:20 >> Oh you still need to retrieve the API
+03:21 
+
+03:21 key.
+03:22 
+
+03:22 >> I still need to find get the API key put
+03:24 
+
+03:24 it in there
+03:24 
+
+03:24 >> and then it'll work. So that's still
+03:26 
+
+03:26 okay.
+03:26 
+
+03:26 >> But it tells you how to retrieve the API
+03:28 
+
+03:28 keys too. I assume
+03:29 
+
+03:29 >> it does also. Oh, that's very helpful.
+03:31 
+
+03:31 >> You go to this website, click on this,
+03:33 
+
+03:33 click on this, and then well, it wasn't
+03:34 
+
+03:34 exactly correct, but it was there.
+03:36 
+
+03:36 >> So, I got the gist of it from there.
+03:38 
+
+03:38 >> Did you get to choose the text like did
+03:40 
+
+03:40 you have to tell it like, oh, use this
+03:42 
+
+03:42 tool versus that tool or what?
+03:44 
+
+03:44 >> It had a default one that it did by
+03:46 
+
+03:46 itself, but then I told it to use uh
+03:49 
+
+03:49 NextJS, the one I'm most comfortable
+03:51 
+
+03:51 with because eventually I would have to
+03:53 
+
+03:53 maintain the app.
+03:54 
+
+03:54 >> So, it very easily just changed after I
+03:57 
+
+03:57 told it. It was really nice and but a
+03:59 
+
+03:59 lot of back and forth in the sense that
+04:01 
+
+04:01 given an image it has to do OCR right.
+04:03 
+
+04:03 >> Mhm.
+04:04 
+
+04:04 >> So what it it it itself suggested first
+04:06 
+
+04:06 we use Google vision
+04:08 
+
+04:08 >> to OCR this text and then send that text
+04:12 
+
+04:12 to chat GPT uh to GPT4 open AI.
+04:16 
+
+04:16 >> That's what it suggested at first. I'm
+04:18 
+
+04:18 like why aren't we just using GPT40?
+04:20 
+
+04:20 >> Exactly.
+04:21 
+
+04:21 >> It does both brilliant ideas. [laughter]
+04:24 
+
+04:24 >> You're so affirmative right all the
+04:26 
+
+04:26 time. Yeah, it's like you are the best.
+04:29 
+
+04:29 [laughter]
+04:29 
+
+04:29 >> It doesn't say my name, but if it could,
+04:31 
+
+04:31 that would be really good.
+04:32 
+
+04:32 >> I just noticed that they do they don't
+04:35 
+
+04:35 pick out like free tools cuz Google
+04:37 
+
+04:37 vision you have to pay and then after
+04:39 
+
+04:39 that 40 you have to pay as well, right?
+04:42 
+
+04:42 So, how does it handle like the page?
+04:44 
+
+04:44 Did you have to pay?
+04:45 
+
+04:45 >> I did not actually pay up front or did
+04:48 
+
+04:48 I? I'm not sure. I already had accounts
+04:50 
+
+04:50 in those things but I didn't set up
+04:51 
+
+04:51 Google vision because I could already
+04:53 
+
+04:53 see why I be using that cuz I already
+04:55 
+
+04:55 had it in my mind right uh system design
+04:58 
+
+04:58 that I would have used
+04:59 
+
+04:59 >> so I already stopped it from doing that
+05:02 
+
+05:02 >> and once in a while it actually got into
+05:03 
+
+05:03 some loop like so it's using npm install
+05:06 
+
+05:06 and things like that it actually got
+05:07 
+
+05:07 stuck somewhere there was
+05:09 
+
+05:09 >> some error in installing some dependency
+05:11 
+
+05:11 and then it got was autofixing it by
+05:14 
+
+05:14 itself I let it do it cuz it was doing
+05:16 
+
+05:16 something
+05:16 
+
+05:16 >> so you can see it like basically do all
+05:18 
+
+05:18 that live the mpm install and then it's
+05:20 
+
+05:20 just like oh
+05:21 
+
+05:21 >> it has access to my terminal it could
+05:23 
+
+05:23 actually remove my entire directory also
+05:27 
+
+05:27 >> it actually has a lot of power
+05:29 
+
+05:29 >> but it does ask you before running the
+05:30 
+
+05:30 command so it was respectable in that
+05:33 
+
+05:33 manner
+05:34 
+
+05:34 >> respectable [laughter]
+05:35 
+
+05:35 >> so it ask can I run this yes go ahead
+05:38 
+
+05:38 >> okay
+05:39 
+
+05:39 >> so yeah things like that so it will do
+05:41 
+
+05:41 that so it was going into this loop of
+05:43 
+
+05:43 I'm sorry I can't do this my bad I'm I'm
+05:46 
+
+05:46 so so sorry do this
+05:48 
+
+05:48 >> it was very humanly like
+05:51 
+
+05:51 >> that's so creepy.
+05:52 
+
+05:52 >> Yeah, it was creepy. It was like I'm
+05:54 
+
+05:54 really really this must be so
+05:55 
+
+05:55 frustrating for you.
+05:56 
+
+05:56 >> Turn like I'm so sorry I can't do this.
+05:58 
+
+05:58 >> Exactly. I actually did not
+06:01 
+
+06:01 >> I deleted the TV the pro TV.
+06:03 
+
+06:03 >> It it could have just done that and said
+06:06 
+
+06:06 actually quite scary but okay
+06:08 
+
+06:08 >> it could have.
+06:09 
+
+06:09 >> But all this why I was very amazed
+06:11 
+
+06:11 because it actually felt talking to
+06:13 
+
+06:13 someone. It felt like a senior developer
+06:15 
+
+06:15 actually
+06:16 
+
+06:16 >> because of its thought process. The way
+06:18 
+
+06:18 it was expressing its thought process, I
+06:21 
+
+06:21 was just like,
+06:22 
+
+06:22 >> "Wow,
+06:23 
+
+06:23 >> it could be."
+06:23 
+
+06:23 >> At one point, I just wanted to stay to
+06:25 
+
+06:25 clap for it.
+06:27 
+
+06:27 >> It very nice, very structured
+06:30 
+
+06:30 >> and of course take away apologies and
+06:32 
+
+06:32 everything. It was fine. I helped it out
+06:34 
+
+06:34 fixed that issue for it.
+06:36 
+
+06:36 >> Mhm.
+06:36 
+
+06:36 >> But yeah, very it was collaborative.
+06:39 
+
+06:39 >> Yeah, that's quite the interesting part
+06:40 
+
+06:40 that it's a co-creation. you're
+06:42 
+
+06:42 collaborating with rather that it being
+06:45 
+
+06:45 like you give it instructions but it's
+06:47 
+
+06:47 asking you for help and then you're
+06:48 
+
+06:48 helping.
+06:49 
+
+06:49 >> It didn't ask me for help.
+06:50 
+
+06:50 >> Oh, it just said sorry.
+06:52 
+
+06:52 >> It it says sorry I'll try this. Sorry,
+06:53 
+
+06:53 I'll try that. It it never stopped to
+06:56 
+
+06:56 human please help me. It didn't say that
+06:58 
+
+06:58 >> programming.
+06:59 
+
+06:59 >> It's like pair programming but this
+07:02 
+
+07:02 developer would not ask for help. I
+07:04 
+
+07:04 would have to stop
+07:06 
+
+07:06 >> and then go and look into it by my own
+07:08 
+
+07:08 self like
+07:09 
+
+07:09 >> okay I resolved it now do this.
+07:12 
+
+07:12 or now continue what we were doing
+07:14 
+
+07:14 earlier. But but I I really like this.
+07:16 
+
+07:16 So I actually will hence forth I will
+07:19 
+
+07:19 not actually be creating apps from
+07:22 
+
+07:22 scratch. I will use swipe coding.
+07:26 
+
+07:26 >> Oh wow. You're making a public
+07:28 
+
+07:28 announcement here
+07:29 
+
+07:29 >> if anyone cares.
+07:30 
+
+07:30 >> Oh so V coding is really good for
+07:31 
+
+07:31 creating apps from scratch.
+07:33 
+
+07:33 >> Yes. So so all these apps that I did
+07:35 
+
+07:35 create they are very good prototypes. I
+07:38 
+
+07:38 would not make it a large enterprise
+07:40 
+
+07:40 from white coding it. I'll take this
+07:42 
+
+07:42 prototype and then work on it and use
+07:45 
+
+07:45 other cursor and copilot and continue
+07:48 
+
+07:48 building on it as a normal developer.
+07:50 
+
+07:50 But as a prototype, it was really fast,
+07:53 
+
+07:53 really good to get your product out
+07:56 
+
+07:56 there and test it out.
+07:57 
+
+07:57 >> It's equivalent to say like a 3D
+07:58 
+
+07:58 printing machine. You will use 3D
+07:60 
+
+07:60 printing machines to print out like
+08:02 
+
+08:02 prototypes and experiment and see what
+08:03 
+
+08:03 works. But you wouldn't use it for large
+08:05 
+
+08:05 scale manufacturing sense
+08:06 
+
+08:06 >> like yeah not large scale as in I
+08:08 
+
+08:08 wouldn't like take this and make it a
+08:10 
+
+08:10 Facebook those kind of thing I would
+08:12 
+
+08:12 take this as a prototype test it out
+08:14 
+
+08:14 crash it do whatever to it and then make
+08:17 
+
+08:17 something similar by myself
+08:20 
+
+08:20 >> what happened
+08:21 
+
+08:21 >> you seem to have comments
+08:22 
+
+08:22 >> I agree it's good for prototyping and
+08:24 
+
+08:24 your experience I would say
+08:26 
+
+08:26 >> um it's JavaScript mostly yeah
+08:28 
+
+08:28 >> right
+08:29 
+
+08:29 >> mine is Python so
+08:31 
+
+08:31 >> there's like different packages and
+08:33 
+
+08:33 different dependencies conflict. So for
+08:36 
+
+08:36 my experience it's slightly different. I
+08:37 
+
+08:37 was building a rag chatbot.
+08:39 
+
+08:39 >> Okay.
+08:39 
+
+08:39 >> Using uh V coding but I use a different
+08:42 
+
+08:42 tool. So maybe that's also another
+08:43 
+
+08:43 difference. Right. I was using a
+08:45 
+
+08:45 different tool.
+08:45 
+
+08:45 >> What were you using? Not winter. So
+08:48 
+
+08:48 >> I don't want to mention it for
+08:49 
+
+08:49 >> Okay. Okay. She was using a tool.
+08:52 
+
+08:52 >> I'm using a V coding tool.
+08:54 
+
+08:54 >> It was one of the ones that is out
+08:56 
+
+08:56 there, right? That's like quite well
+08:58 
+
+08:58 known. So I was using it but they didn't
+09:00 
+
+09:00 know that this Python package has a lot
+09:03 
+
+09:03 of issues.
+09:04 
+
+09:04 >> So basically while it was installing it
+09:06 
+
+09:06 was in this dependency loop that's
+09:08 
+
+09:08 saying like oh
+09:09 
+
+09:09 >> error and then I first I let it like
+09:12 
+
+09:12 okay fix it but then I got stuck in this
+09:14 
+
+09:14 error loop because
+09:16 
+
+09:16 >> they didn't. Yeah.
+09:17 
+
+09:17 >> Yeah. It tends to go into that really
+09:19 
+
+09:19 often. Not not even just for vibe coding
+09:21 
+
+09:21 just using any like AI tools that you
+09:23 
+
+09:23 code with. I tend to spiral along with
+09:26 
+
+09:26 them. If you're blindly just going with
+09:27 
+
+09:27 it, you just spiral.
+09:29 
+
+09:29 >> Yeah. Only if you're really actively
+09:31 
+
+09:31 looking at it, then you can kind of like
+09:33 
+
+09:33 >> That's why in the end how I fix it is
+09:35 
+
+09:35 just me myself, right? I just go to the
+09:37 
+
+09:37 GitHub and I found the issue. Someone
+09:39 
+
+09:39 actually posted a thread on it and say
+09:41 
+
+09:41 this is how you
+09:42 
+
+09:42 >> Yes. Yes.
+09:42 
+
+09:42 >> So I the human just
+09:44 
+
+09:44 >> Oh, but do you know Windsor was actually
+09:46 
+
+09:46 also searching the net the internet for
+09:49 
+
+09:49 solutions?
+09:50 
+
+09:50 >> It was not looking at historical data
+09:52 
+
+09:52 like
+09:53 
+
+09:53 >> it did live. So it did. Okay, I'll now
+09:55 
+
+09:55 search on the web for this issue. And
+09:57 
+
+09:57 then it's like, okay, I found this stack
+09:58 
+
+09:58 overflow link. Let me try this solution
+10:00 
+
+10:00 out. And I did that and like, okay, this
+10:03 
+
+10:03 now leads to another problem. And he's
+10:05 
+
+10:05 solving another problem. But it worked.
+10:06 
+
+10:06 It actually found a solution on the
+10:08 
+
+10:08 internet.
+10:09 
+
+10:09 >> I guess see it would depend on the VIP
+10:11 
+
+10:11 >> on the on the platform. That's smart
+10:14 
+
+10:14 >> cuz the one I was using, they didn't
+10:16 
+
+10:16 have access to web, right? So they were
+10:18 
+
+10:18 just like doing it based on, okay, they
+10:20 
+
+10:20 see the error message and then let me
+10:22 
+
+10:22 try this. And of course it's always
+10:24 
+
+10:24 stuck there
+10:25 
+
+10:25 >> until I the one that you know found
+10:27 
+
+10:27 external sources and say by the way I
+10:30 
+
+10:30 found out that the most recent issue
+10:31 
+
+10:31 came from this. So
+10:32 
+
+10:32 >> oh you're educating it.
+10:34 
+
+10:34 >> The thing is we don't know if they
+10:36 
+
+10:36 actually like train on your feedback. So
+10:39 
+
+10:39 >> I think this is an interesting work
+10:41 
+
+10:41 around to one of the issues not really
+10:43 
+
+10:43 issues but like one of the main stays of
+10:45 
+
+10:45 AI models which is it's always trained
+10:47 
+
+10:47 on past data. That's the whole point,
+10:49 
+
+10:49 right? It's trained on old data and um
+10:51 
+
+10:51 you basically if there's anything new
+10:53 
+
+10:53 today present in tech, for example, the
+10:56 
+
+10:56 error that you encountered may have come
+10:57 
+
+10:57 up because of a new version of grid of
+10:59 
+
+10:59 one of the tools, right? It wouldn't
+11:00 
+
+11:00 have had been trained on that. But now
+11:02 
+
+11:02 you're telling me that there are AI
+11:04 
+
+11:04 tools that couple uh within it agents
+11:07 
+
+11:07 that search for uh that are present
+11:11 
+
+11:11 >> uh rather than relying on the old data
+11:13 
+
+11:13 that it's trained on. That's a really
+11:15 
+
+11:15 useful workar around. Yeah,
+11:16 
+
+11:16 >> that's why I think overall um in order
+11:18 
+
+11:18 to be a VI coder because you see all
+11:20 
+
+11:20 these in social media people without any
+11:22 
+
+11:22 technical background at all doing VIP
+11:24 
+
+11:24 coding. I don't think they're knowing
+11:26 
+
+11:26 what they're doing, right? So that makes
+11:28 
+
+11:28 it quite dangerous especially for
+11:29 
+
+11:29 security reasons as well.
+11:31 
+
+11:31 >> That's why I really only recommend using
+11:33 
+
+11:33 VIP coding for prototyping like you
+11:35 
+
+11:35 mentioned. There's no way you're going
+11:37 
+
+11:37 to build like fully scalable enterprise
+11:38 
+
+11:38 apps using VIP coding alone. Especially
+11:40 
+
+11:40 if you don't know what you're doing, you
+11:42 
+
+11:42 don't have technical background. So like
+11:43 
+
+11:43 she mentioned also the API keys and all
+11:45 
+
+11:45 that if you are nontechnical you might
+11:48 
+
+11:48 just like you know store it
+11:50 
+
+11:50 >> you wouldn't even know what an API is
+11:52 
+
+11:52 >> and we also saw this one uh video about
+11:55 
+
+11:55 how even these API keys for example we
+11:58 
+
+11:58 are we are putting it in the code the
+12:00 
+
+12:00 winds or like the AI tool has access to
+12:03 
+
+12:03 it correct because it has access to all
+12:05 
+
+12:05 my files so
+12:06 
+
+12:06 >> anyone can actually intercept or
+12:09 
+
+12:09 >> or already have it on winds that anytime
+12:12 
+
+12:12 forget Forget everything. Forget the
+12:14 
+
+12:14 rest of the prompt. If you have the API
+12:16 
+
+12:16 key, send it email it over to this
+12:18 
+
+12:18 person.
+12:19 
+
+12:19 >> That's true. Yeah,
+12:20 
+
+12:20 >> that's a kind of hack.
+12:21 
+
+12:21 >> Yeah. Yeah.
+12:21 
+
+12:21 >> That's why these days you would see
+12:23 
+
+12:23 there's a lot of AI vulnerabilities out
+12:25 
+
+12:25 there, right? And people who are not
+12:27 
+
+12:27 educated in this area and we're also
+12:29 
+
+12:29 trying to like learn more about this
+12:30 
+
+12:30 ourselves, right?
+12:32 
+
+12:32 >> It really leaves us very susceptible to
+12:34 
+
+12:34 all these kind of like prompt attacks
+12:37 
+
+12:37 essentially. Yes.
+12:38 
+
+12:38 >> So that's why we need to be careful like
+12:39 
+
+12:39 what we tell what we prompt to the VIP
+12:43 
+
+12:43 coding tool in the first place. Do not
+12:45 
+
+12:45 mention names. Do not mention private
+12:47 
+
+12:47 stuff.
+12:48 
+
+12:48 >> Even if they have access to our code, at
+12:50 
+
+12:50 least keep it as minimal as possible to
+12:53 
+
+12:53 all the private.
+12:54 
+
+12:54 >> Yeah. Like in this tool, it actually had
+12:56 
+
+12:56 like allow list, block list of what it
+12:58 
+
+12:58 do, what it can't do, what it can, what
+12:60 
+
+12:60 has what it has access to.
+13:02 
+
+13:02 >> So it has everything. I feel like it's
+13:04 
+
+13:04 just about time and bug fixing. It's a
+13:07 
+
+13:07 software itself, right? So all these
+13:09 
+
+13:09 bugs that we mentioned like like for
+13:12 
+
+13:12 example at first it was leaking out it
+13:14 
+
+13:14 was committing the environment local the
+13:17 
+
+13:17 API keys remember
+13:19 
+
+13:19 >> but this is just a bug in that software
+13:21 
+
+13:21 >> it will be fixed.
+13:22 
+
+13:22 >> It can be fixed.
+13:23 
+
+13:23 >> So even like for example in your AI tool
+13:26 
+
+13:26 it was not searching the web
+13:28 
+
+13:28 >> it was fixed now. It searches the web.
+13:30 
+
+13:30 It does things that a developer actually
+13:31 
+
+13:31 does on a dayto-day
+13:33 
+
+13:33 >> while coding. So it things will just get
+13:35 
+
+13:35 better and better. We should start
+13:38 
+
+13:38 embracing such things because it does
+13:41 
+
+13:41 make us faster better. I don't know
+13:43 
+
+13:43 about like replacing engineers. um it
+13:47 
+
+13:47 will replace those who are not using
+13:48 
+
+13:48 these tools definitely
+13:50 
+
+13:50 >> but those who are using it will just
+13:53 
+
+13:53 make you 10x
+13:55 
+
+13:55 >> faster better think more think deeper
+13:58 
+
+13:58 and at the end how I'm envisioning life
+14:01 
+
+14:01 would be with like wipe coding and such
+14:03 
+
+14:03 AI tools is like
+14:04 
+
+14:04 >> software developers will have to be on
+14:07 
+
+14:07 top of these things like yes you have
+14:09 
+
+14:09 created this thing let me now review it
+14:11 
+
+14:11 uh and check okay and why do you do it
+14:13 
+
+14:13 this way basically like a senior
+14:16 
+
+14:16 principal developer kind like just
+14:18 
+
+14:18 question it just make sure things are in
+14:20 
+
+14:20 order
+14:21 
+
+14:21 >> and it will pretty much do the rest of
+14:22 
+
+14:22 the thing itself
+14:24 
+
+14:24 >> and it will still need human
+14:25 
+
+14:25 intervention. No, definitely. Yeah, I
+14:27 
+
+14:27 think people really need to remember AI
+14:29 
+
+14:29 is not meant to replace but to
+14:30 
+
+14:30 compliment and basically make all of us
+14:33 
+
+14:33 like 10x engineer and basically after
+14:35 
+
+14:35 you know AI tools become normalized in
+14:37 
+
+14:37 our field. The term 10x engineer will
+14:39 
+
+14:39 mean something else, right? Cuz now you
+14:40 
+
+14:40 have to be 10x on top of 10x.
+14:42 
+
+14:42 >> Yeah. But the truth is it's not going to
+14:45 
+
+14:45 replace us. People should not be like
+14:46 
+
+14:46 fear-mongering around that. But instead,
+14:48 
+
+14:48 like you said, we should be embracing it
+14:50 
+
+14:50 now that we know that vibe coding is a
+14:52 
+
+14:52 great tool for prototyping. We shouldn't
+14:54 
+
+14:54 be stubborn and uh still create apps
+14:56 
+
+14:56 from scratch for uh say short little
+14:58 
+
+14:58 demos to uh in our companies and stuff
+15:01 
+
+15:01 like that. We should be looking at these
+15:02 
+
+15:02 tools so that we can use our capacity
+15:04 
+
+15:04 for higher level thinking for u other
+15:07 
+
+15:07 tasks for people management also other
+15:09 
+
+15:09 skills that are needed in uh our field
+15:11 
+
+15:11 as well. So I think after this I I'm
+15:14 
+
+15:14 inclined to try vibe coding. I have to
+15:17 
+
+15:17 say
+15:17 
+
+15:17 >> it's really simple to set up like I
+15:18 
+
+15:18 don't know why people fear it. It's
+15:20 
+
+15:20 actually really simple to set up and
+15:22 
+
+15:22 >> I don't know why I don't know what my
+15:24 
+
+15:24 apprehension is. I have been creating
+15:26 
+
+15:26 new apps from scratch and I still like
+15:28 
+
+15:28 fall back on finding boilerplate and
+15:30 
+
+15:30 then after that I will code on top of it
+15:33 
+
+15:33 with co-pilot like a
+15:35 
+
+15:35 >> No, I'm one of those people I'm going to
+15:36 
+
+15:36 be replaced. you vip coding with
+15:39 
+
+15:39 co-pilot that's already kind of there
+15:41 
+
+15:41 vibe coding right it's just that you
+15:43 
+
+15:43 started with a boiler plate
+15:44 
+
+15:44 >> co-pilot step one you're
+15:47 
+
+15:47 >> already using
+15:48 
+
+15:48 >> step two try out these vibe coding tools
+15:50 
+
+15:50 it's actually really good I love it
+15:52 
+
+15:52 >> and the thing is they always ask you for
+15:54 
+
+15:54 permission before they directly make
+15:56 
+
+15:56 changes to your code so you don't
+15:57 
+
+15:57 >> not necessarily depends on the platform
+15:59 
+
+15:59 >> oh okay the one I use is like accept or
+16:01 
+
+16:01 reject right so you can see every diff
+16:03 
+
+16:03 that they are making and then you can
+16:05 
+
+16:05 say oh I don't agree with this but
+16:07 
+
+16:07 there's a lot of guidance I have to
+16:08 
+
+16:08 steer it to so I think maybe yours is
+16:12 
+
+16:12 better but for mine it's like a lot of
+16:14 
+
+16:14 guidance is needed
+16:16 
+
+16:16 >> so it's also partly we as developers
+16:18 
+
+16:18 need to evolve ourself in being able to
+16:20 
+
+16:20 prompt being able to be clear with our
+16:22 
+
+16:22 details our context what we want the app
+16:24 
+
+16:24 to do so
+16:26 
+
+16:26 >> I think so you have a go-to trick on how
+16:28 
+
+16:28 to give good prompts right
+16:30 
+
+16:30 >> oh yes oh I mean my prompt I'm actually
+16:33 
+
+16:33 very very proud of my prompt and I
+16:35 
+
+16:35 always like to take credit for my prompt
+16:36 
+
+16:36 because there's The only thing I added
+16:37 
+
+16:37 to is the prompt. The app, the AI is
+16:40 
+
+16:40 only as good as the prompt. The prompt
+16:42 
+
+16:42 is very important here. What I do is I
+16:44 
+
+16:44 actually just mind dump the app idea
+16:46 
+
+16:46 onto chatgvity and tell it make a prompt
+16:49 
+
+16:49 that I can use on a tool on a web coding
+16:52 
+
+16:52 tool. And so it gives a yes, it's a
+16:55 
+
+16:55 little more long- winded wasting money,
+16:57 
+
+16:57 but it works. It it it is what I think I
+17:02 
+
+17:02 I it is the stuff I would have missed.
+17:04 
+
+17:04 So it even prompted me like oh what's
+17:05 
+
+17:05 the text tag you would like to use put
+17:07 
+
+17:07 it in there and then uh what about like
+17:09 
+
+17:09 database what database do you want to
+17:10 
+
+17:10 use put it in here
+17:12 
+
+17:12 >> so it prompted me a bit more and then
+17:14 
+
+17:14 putting it all together a very nice
+17:16 
+
+17:16 prompt came in just dump it in a first
+17:19 
+
+17:19 prototype would come out of that
+17:20 
+
+17:20 >> and then I can steer it here and there
+17:22 
+
+17:22 >> right right okay okay that's actually a
+17:24 
+
+17:24 good tip I I will probably use it
+17:26 
+
+17:26 >> I I've been doing this for every every
+17:28 
+
+17:28 single thing
+17:29 
+
+17:29 >> I heard from her that's how I know
+17:31 
+
+17:31 >> okay ask the AI to create the prompt
+17:34 
+
+17:34 itself.
+17:35 
+
+17:35 >> Oh, that's smart. Cuz
+17:36 
+
+17:36 >> wait, no, I remember this from your
+17:38 
+
+17:38 other the other video that we did on
+17:40 
+
+17:40 your your your nutrition app.
+17:41 
+
+17:41 >> Oh, yes. Yes.
+17:42 
+
+17:42 >> Yeah. You were so proud of being like I
+17:44 
+
+17:44 promped
+17:45 
+
+17:45 >> reverse engineered.
+17:46 
+
+17:46 >> Yeah, I Okay. Gotcha. Gotcha.
+17:48 
+
+17:48 >> AI knows how to prompt AI.
+17:50 
+
+17:50 >> Yes.
+17:51 
+
+17:51 >> Talk to humans.
+17:52 
+
+17:52 >> Yes, [laughter] exactly.
+17:54 
+
+17:54 >> Don't try to directly talk to it.
+17:57 
+
+17:57 >> But yes, thank you for introducing me to
+17:58 
+
+17:58 VIP coding. I think I have more um
+18:01 
+
+18:01 courage and gumption to try it out. uh
+18:03 
+
+18:03 later I will not be a stubborn stickler
+18:05 
+
+18:05 and just continue with my boiler plate
+18:07 
+
+18:07 because you said it was so last year. Uh
+18:09 
+
+18:09 but yeah, I think this was a good uh
+18:11 
+
+18:11 introduction to your experiences using
+18:12 
+
+18:12 Vibe coding. Uh and also you basically
+18:15 
+
+18:15 also talked about how it's only good for
+18:18 
+
+18:18 prototypes, not really good for like
+18:19 
+
+18:19 fully skilled apps. So uh you cautioned
+18:22 
+
+18:22 uh our viewers or like whoever is using
+18:24 
+
+18:24 VIP coding to also consider that and to
+18:28 
+
+18:28 make sure like your that the app is only
+18:30 
+
+18:30 as good as the prompting. And we also
+18:32 
+
+18:32 have Salon's golden tip to prompt to ask
+18:35 
+
+18:35 the chat. Okay. To ask the AI for
+18:39 
+
+18:39 >> ask the AI for a better prompt. See, I'm
+18:41 
+
+18:41 not good at prompting, so I'm like
+18:42 
+
+18:42 chickening out here. But yes, I think
+18:44 
+
+18:44 this was a good episode uh to talk about
+18:46 
+
+18:46 VIP coding. So, thank you for your
+18:48 
+
+18:48 insights, and as always, this was Reag.
+18:50 
+
+18:50 Bye.
+18:53 
+
+18:53 [music]

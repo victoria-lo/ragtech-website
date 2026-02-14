@@ -163,7 +163,7 @@ function sanitizeEmailContent(html: string | undefined | null): string {
 BlogPostNewsletter.PreviewProps = {
   title: 'Introducing Markdown-Based Blog Posts',
   brief: 'We\'re excited to announce a new way to write and publish blog posts using Markdown, giving us full control over our content while maintaining our newsletter capabilities.',
-  coverImage: 'https://ragtechdev.com/assets/laptop.png',
+  coverImage: 'https://ragtechdev.com/assets/techybara-holding-laptop.png',
   content: '<p>This is a sample blog post content. In the actual newsletter, this will contain the full HTML content of your markdown post.</p><p>The content is automatically sanitized and truncated to provide a preview in the email, with a clear call-to-action to read the full article on your website.</p>',
   slug: 'introducing-markdown-blog-posts',
   author: 'ragTech Team',

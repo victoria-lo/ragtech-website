@@ -46,7 +46,7 @@ export default function Header() {
               transition={{ duration: 0.5 }}
             >
               <Image 
-                src="/assets/rect-logo.png" 
+                src="/assets/logo/ragtech-logo-rectangle.png" 
                 alt="ragTech" 
                 width={180} 
                 height={48}

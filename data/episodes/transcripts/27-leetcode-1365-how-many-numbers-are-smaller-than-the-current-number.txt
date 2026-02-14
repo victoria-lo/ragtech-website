@@ -1,0 +1,763 @@
+00:00 [Music]
+00:04 
+
+00:04 hi everyone and welcome back to rtech
+00:07 
+
+00:07 where we dive into real life topics in
+00:09 
+
+00:09 Tech today we are excited to introduce a
+00:12 
+
+00:12 brand new type of episode we're calling
+00:14 
+
+00:14 Tech tutoring in this series we'll
+00:17 
+
+00:17 tackle Le Cod problems the kinds of
+00:19 
+
+00:19 coding challenges software Engineers
+00:21 
+
+00:21 often face in technical interviews but
+00:23 
+
+00:23 don't worry this isn't Just For
+00:25 
+
+00:25 Engineers these problems are like brain
+00:27 
+
+00:27 teasers perfect for anyone curious about
+00:29 
+
+00:29 the problems solving site of tech
+00:31 
+
+00:31 whether you're prepping for interviews
+00:33 
+
+00:33 learning something new or just here for
+00:35 
+
+00:35 the ride we hope you enjoy this special
+00:38 
+
+00:38 episode let's jump
+00:40 
+
+00:40 in my name is Victoria I'm a Solutions
+00:43 
+
+00:43 engineer and Salon software developer
+00:46 
+
+00:46 and today we'll be doing really co
+00:48 
+
+00:48 question so today we have this uh
+00:51 
+
+00:51 question how how many numbers are
+00:53 
+
+00:53 smaller than the card number so if you
+00:55 
+
+00:55 see this question is basically the input
+00:57 
+
+00:57 is an array if you see in the
+00:59 
+
+00:59 constraints it's
+01:00 
+
+01:00 up to 500 and it's more than one so with
+01:05 
+
+01:05 that size of an array we basically have
+01:08 
+
+01:08 to put in as the output the same length
+01:11 
+
+01:11 array the output is the same length as
+01:13 
+
+01:13 the input but this time you have to put
+01:16 
+
+01:16 down how many numbers are smaller that
+01:19 
+
+01:19 that number so for example you see here
+01:21 
+
+01:21 there's an eight four numbers one two
+01:24 
+
+01:24 two and three are smaller than eight so
+01:27 
+
+01:27 four is in the first in uh it's zero
+01:31 
+
+01:31 index and then one there's no other
+01:34 
+
+01:34 number less than one so it's zero and
+01:36 
+
+01:36 then for two there's only one and then
+01:39 
+
+01:39 this next one is equal to two so it's
+01:40 
+
+01:40 one and then three there's one two and
+01:43 
+
+01:43 two so there will be three numbers that
+01:46 
+
+01:46 is less than two so the output is
+01:48 
+
+01:48 essentially how many numbers are smaller
+01:51 
+
+01:51 that that number so if you read through
+01:54 
+
+01:54 the question for those of you have read
+01:55 
+
+01:55 through is probably kind of a simple
+01:58 
+
+01:58 question to do it the boot Force way I'm
+02:00 
+
+02:00 sure people just think of you know first
+02:02 
+
+02:02 let's iterate through the array right so
+02:04 
+
+02:04 maybe we take eight and then after that
+02:06 
+
+02:06 we count how many numbers are smaller
+02:08 
+
+02:08 than eight and we do the simple one and
+02:11 
+
+02:11 will look through that how how many
+02:13 
+
+02:13 numbers smaller than one and so on but
+02:15 
+
+02:15 isn't that inefficient N squared that's
+02:19 
+
+02:19 and cl comp time complexity that's right
+02:21 
+
+02:21 because it's a double loot right so
+02:24 
+
+02:24 basically that is usually in a software
+02:27 
+
+02:27 engineering interview that is the
+02:29 
+
+02:29 solution that you have probably just
+02:30 
+
+02:30 talk to First yeah with the interviewer
+02:33 
+
+02:33 but then after that you would have to
+02:34 
+
+02:34 suggest a more optimal solution so let
+02:38 
+
+02:38 us go to the board for me to show what
+02:40 
+
+02:40 is the next optimal solution z a more
+02:44 
+
+02:44 efficient approach involves sorting the
+02:46 
+
+02:46 array and using a hashmap to store the
+02:48 
+
+02:48 position of the first occurrence of each
+02:49 
+
+02:49 number this helps us directly determine
+02:52 
+
+02:52 how many numbers are smaller than a
+02:53 
+
+02:53 given value let's take a look at how to
+02:55 
+
+02:55 do it first we take the given list and
+02:58 
+
+02:58 create a sorted version of it for for
+02:60 
+
+02:60 the array 8122 3 sorting gives us 1 2 2
+03:04 
+
+03:04 38 next we iterate through the sorted
+03:07 
+
+03:07 list and store the index as the value
+03:09 
+
+03:09 and the key as sorted nums I in a hash
+03:12 
+
+03:12 map the index represents how many
+03:14 
+
+03:14 numbers are smaller than that number for
+03:17 
+
+03:17 example one appears at index zero in the
+03:19 
+
+03:19 sorted array meaning there are zero
+03:21 
+
+03:21 numbers smaller than it the first
+03:23 
+
+03:23 occurrence of two is at index one
+03:25 
+
+03:25 meaning one number is smaller than it
+03:27 
+
+03:27 the number three appears at index three
+03:29 
+
+03:29 meaning three numbers are smaller than
+03:31 
+
+03:31 it and so on once we have the hashmap
+03:34 
+
+03:34 ready we iterate through the original
+03:35 
+
+03:35 array looking up the values from the
+03:37 
+
+03:37 hash map and building the result list
+03:39 
+
+03:39 here's how the implementation looks like
+03:41 
+
+03:41 in Python sorting takes o n log n and
+03:45 
+
+03:45 the hashmap look up and population take
+03:47 
+
+03:47 o n making the overall complexity o n
+03:50 
+
+03:50 log n so normally in an interview they
+03:53 
+
+03:53 expect you to stop here because it is
+03:55 
+
+03:55 already pretty good but we can solve it
+03:57 
+
+03:57 more efficiently using a frequency based
+03:59 
+
+03:59 approach with PR fixed sums if you
+04:01 
+
+04:01 recall the constraints in the question
+04:03 
+
+04:03 since nums I range from 0 to 100 we can
+04:07 
+
+04:07 create a list that keeps track of how
+04:09 
+
+04:09 many times each number appears in nums
+04:12 
+
+04:12 if a number appears once we mark it once
+04:15 
+
+04:15 if a number appears twice we mark it
+04:17 
+
+04:17 twice so we create a count array of size
+04:20 
+
+04:20 102 to store how many times each number
+04:24 
+
+04:24 appears we do this by storing the
+04:27 
+
+04:27 frequency of number num in count num +
+04:31 
+
+04:31 one why num +
+04:33 
+
+04:33 one we shift everything by one position
+04:37 
+
+04:37 so that when we later sum up the prefix
+04:39 
+
+04:39 the count array can directly tell us how
+04:42 
+
+04:42 many numbers are smaller than num which
+04:44 
+
+04:44 we will see later at this point we know
+04:47 
+
+04:47 how frequently each number appears but
+04:50 
+
+04:50 we still don't know how many numbers are
+04:53 
+
+04:53 smaller so we need to transform our
+04:56 
+
+04:56 count array into something more useful
+04:58 
+
+04:58 we can accumulate the frequency counts
+05:00 
+
+05:00 so that for each number the list now
+05:03 
+
+05:03 tells us how many numbers are smaller
+05:05 
+
+05:05 than it for example if a number like
+05:08 
+
+05:08 three appears we check how many numbers
+05:11 
+
+05:11 appeared before it in our count list
+05:13 
+
+05:13 this is called a prefix sum and it helps
+05:16 
+
+05:16 us instantly determine how many numbers
+05:18 
+
+05:18 are smaller without looping through the
+05:20 
+
+05:20 entire array hence to calculate our
+05:22 
+
+05:22 prefix sum in every count I we simply
+05:25 
+
+05:25 have to add the value from the previous
+05:27 
+
+05:27 index count I minus one
+05:30 
+
+05:30 now that we've precomputed the number of
+05:33 
+
+05:33 smaller elements for each number finding
+05:36 
+
+05:36 the result is easy for each number in
+05:38 
+
+05:38 the original list we can now instantly
+05:41 
+
+05:41 look up how many numbers are smaller
+05:43 
+
+05:43 than it using the count array we just
+05:44 
+
+05:44 built by simply looking up count num
+05:48 
+
+05:48 which gives us the answer
+05:51 
+
+05:51 40113 now let's take a look at the
+05:53 
+
+05:53 actual implementation in code now we
+05:56 
+
+05:56 back okay okay so now we have seen the
+05:59 
+
+05:59 optimal solution right right so let let
+06:01 
+
+06:01 us code it out because it is important
+06:03 
+
+06:03 so like what I said the first step is we
+06:07 
+
+06:07 initialize an array right oh and what is
+06:10 
+
+06:10 say using python we're using python for
+06:12 
+
+06:12 this it's easier Pro yeah so for now we
+06:16 
+
+06:16 using that you initialize an array of
+06:19 
+
+06:19 102 because you know as you can see in
+06:21 
+
+06:21 the constraints um the value of the
+06:25 
+
+06:25 numbers is up until 100 so we just use
+06:29 
+
+06:29 102 as a
+06:30 
+
+06:30 after that we would then move the nums
+06:33 
+
+06:33 array in order to make the frequency
+06:36 
+
+06:36 aable so again we talk about how is the
+06:39 
+
+06:39 index after that we're going to be using
+06:42 
+
+06:42 poate the weency cable so it will be num
+06:44 
+
+06:44 plus one and then you'll always add one
+06:48 
+
+06:48 so that way so even if there's
+06:50 
+
+06:50 duplicates number it will add it as
+06:53 
+
+06:53 another come yeah and then next next we
+06:57 
+
+06:57 have the cumulative AR that we want to
+07:00 
+
+07:00 make but we can make it for I in range
+07:05 
+
+07:05 range
+07:07 
+
+07:07 two so here we would put out I we would
+07:13 
+
+07:13 have to add the previous number right so
+07:15 
+
+07:15 every time when we're in the current
+07:17 
+
+07:17 index we add the one previously to it
+07:20 
+
+07:20 now so it's like intive so I might one
+07:24 
+
+07:24 and then we will
+07:26 
+
+07:26 return will return uh basically what I
+07:30 
+
+07:30 whatever
+07:31 
+
+07:31 the the so whatever the number the
+07:35 
+
+07:35 number value in the nums array as the
+07:37 
+
+07:37 index of that cumulative array right so
+07:41 
+
+07:41 count down like that or I didn't know
+07:44 
+
+07:44 you can do that in Python yes you can oh
+07:49 
+
+07:49 wait I want to keep M no in Python they
+07:51 
+
+07:51 very strict
+07:53 
+
+07:53 about okay this should be good okay yeah
+07:56 
+
+07:56 so let let's go through the solution
+07:58 
+
+07:58 again just to double check so first
+07:60 
+
+07:60 initialize our array and then next we
+08:03 
+
+08:03 look through the nums array making sure
+08:06 
+
+08:06 that we populate our frequency array
+08:10 
+
+08:10 with the frequency of the number itself
+08:14 
+
+08:14 in the index after it and then after
+08:17 
+
+08:17 that once we have the frequency table we
+08:20 
+
+08:20 would then have to you know make the
+08:23 
+
+08:23 cumulative table where we would um we
+08:26 
+
+08:26 keep seeing table it's actually like a
+08:27 
+
+08:27 list right yeah it's array where we
+08:30 
+
+08:30 would have to add the previous value to
+08:34 
+
+08:34 it so it will be accumulated and then
+08:37 
+
+08:37 after that we will just simply return
+08:40 
+
+08:40 the numbers we want the numbers we want
+08:42 
+
+08:42 only the num so let us run that very
+08:45 
+
+08:45 elegant a we of writing it in in Python
+08:49 
+
+08:49 yes okay so all this have cases are
+08:51 
+
+08:51 accepted and then we can sub that as
+08:54 
+
+08:54 well oh yeah okay two many seconds yeah
+08:59 
+
+08:59 yeah it's not bad so again this is just
+09:02 
+
+09:02 a super optimal solution um we during a
+09:06 
+
+09:06 real interview they're not expecting you
+09:08 
+
+09:08 to actually and be able to come up with
+09:11 
+
+09:11 this if you can maybe talk through a a
+09:14 
+
+09:14 similar idea you can maybe have your
+09:17 
+
+09:17 thought process but if you cannot code
+09:19 
+
+09:19 it out it's also completely fine yeah
+09:22 
+
+09:22 like we was talking about it that this
+09:25 
+
+09:25 is not something any one of us also
+09:27 
+
+09:27 might be a come up with but because now
+09:29 
+
+09:29 we know
+09:30 
+
+09:30 it might come to our mind in subsequent
+09:32 
+
+09:32 problems that's why it's to press s code
+09:36 
+
+09:36 and don't always look in the solution
+09:38 
+
+09:38 section so they like you finish like
+09:40 
+
+09:40 solving a Le Cod but if you're curious
+09:43 
+
+09:43 how can you further optimize it don't be
+09:45 
+
+09:45 afraid to look at the solutions because
+09:47 
+
+09:47 that's there for you to see yeah right
+09:49 
+
+09:49 like I know some people how other people
+09:51 
+
+09:51 solve it and even just we are writing
+09:53 
+
+09:53 the code I think you did it in like five
+09:55 
+
+09:55 lines you can do the same thing in
+09:57 
+
+09:57 Python in much longer if you don't know
+09:59 
+
+09:59 this shortcuts yeah if you don't know
+10:01 
+
+10:01 but now now you know now you can learn
+10:04 
+
+10:04 all these things by studing code yeah
+10:07 
+
+10:07 it's like don't be afraid to look at the
+10:09 
+
+10:09 solutions and actually learn and
+10:11 
+
+10:11 understand what they mean so that you
+10:13 
+
+10:13 can in the future come up with the
+10:16 
+
+10:16 solution yourself yeah so this is the o
+10:19 
+
+10:19 n the complex will be o n and then space
+10:24 
+
+10:24 cuz 102 is the length of your new array
+10:27 
+
+10:27 that you created and it's fixed so if
+10:29 
+
+10:29 it's fixed it is not counted so it's
+10:31 
+
+10:31 constant so it's 01 yeah yeah so I I
+10:35 
+
+10:35 hope this episode has been helpful to
+10:37 
+
+10:37 just go through like the thought process
+10:39 
+
+10:39 and how people actually solve these kind
+10:42 
+
+10:42 of B questions you know starting from
+10:44 
+
+10:44 root Force to Optimal to even the most
+10:46 
+
+10:46 optimal possible but yeah in a real and
+10:48 
+
+10:48 tribute don't be afraid to just voice
+10:50 
+
+10:50 out the thoughts first before actually
+10:52 
+
+10:52 writing the yeah and this has been R so
+10:55 
+
+10:55 if you like this episode do like follow
+10:57 
+
+10:57 And subscribe to us and we hope see you
+10:60 
+
+10:60 next time yes thank you
+11:03 
+
+11:03 [Music]

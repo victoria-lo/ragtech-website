@@ -13,9 +13,9 @@ export const metadata: Metadata = {
   keywords: ["ragTech", "Techie Taboo", "tech podcast", "Bytes & Banter", "technology", "innovation", "workshops"],
   authors: [{ name: "ragTech Team" }],
   icons: {
-    icon: "/assets/logo.png",
-    shortcut: "/assets/logo.png",
-    apple: "/assets/logo.png",
+    icon: "/assets/logo/ragtech-logo.png",
+    shortcut: "/assets/logo/ragtech-logo.png",
+    apple: "/assets/logo/ragtech-logo.png",
   },
   openGraph: {
     title: "ragTech - Bytes & Banter podcast",

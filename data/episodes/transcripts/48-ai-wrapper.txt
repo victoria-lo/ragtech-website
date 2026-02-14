@@ -1,0 +1,1810 @@
+00:00 Hello everybody. This is React Tech, the
+00:03 
+
+00:03 place where real life people in tech,
+00:04 
+
+00:04 i.e. us, talk about real life in tech.
+00:07 
+
+00:07 My name is Natasha. I'm a software
+00:08 
+
+00:08 engineer, Salony, software developer,
+00:10 
+
+00:10 and I'm Victoria solutions engineer.
+00:12 
+
+00:12 Today's episode will be about AI
+00:15 
+
+00:15 rappers. It's okay if you don't know
+00:17 
+
+00:17 what these are because we'll be
+00:18 
+
+00:18 explaining what AI rappers are. Um, and
+00:21 
+
+00:21 we're also going to be talking about our
+00:23 
+
+00:23 perspective of it as uh people who are
+00:25 
+
+00:25 in tech as well as really dissect why
+00:28 
+
+00:28 this has become quite a norm in the
+00:31 
+
+00:31 applications that we see nowadays and
+00:33 
+
+00:33 some misconceptions that people might
+00:36 
+
+00:36 have about them. So firstly defining
+00:38 
+
+00:38 what AI rappers are. So um AI rappers
+00:41 
+
+00:41 are applications and software that have
+00:44 
+
+00:44 a thin layer of uh AI over it. Yeah.
+00:48 
+
+00:48 Basically, it's like you all you don't
+00:51 
+
+00:51 these are applications that do not have
+00:53 
+
+00:53 uh their proprietary uh model for AI.
+00:56 
+
+00:56 For example, Open AI has their own
+00:58 
+
+00:58 model, right? They have uh Open AI has
+01:01 
+
+01:01 chat GBT wait it has GPT4 as their own
+01:05 
+
+01:05 model. They trained it. They invested
+01:06 
+
+01:06 resources. It's something that they own.
+01:10 
+
+01:10 >> Then you have Entropic who uh Google.
+01:12 
+
+01:12 >> So Google has Gemini as their model. We
+01:16 
+
+01:16 have Entropic which has Claude as their
+01:18 
+
+01:18 model.
+01:19 
+
+01:19 >> That's their model and Meta has llama I
+01:22 
+
+01:22 guess.
+01:22 
+
+01:22 >> Yeah, Llama.
+01:23 
+
+01:23 >> Llama has the model.
+01:24 
+
+01:24 >> Yeah. Obviously, you also have your
+01:25 
+
+01:25 Chinese companies who own Deep Seeks
+01:27 
+
+01:27 model and stuff. AI rappers are the
+01:30 
+
+01:30 companies who access these models and
+01:33 
+
+01:33 then build an application layer over
+01:35 
+
+01:35 these models. They do not own the models
+01:37 
+
+01:37 themselves. They have no way to train
+01:39 
+
+01:39 their own models. What they're doing is
+01:41 
+
+01:41 uh doing what we call an API request. uh
+01:44 
+
+01:44 basically um requesting data from the
+01:48 
+
+01:48 model that OpenAI or Anthropic or Google
+01:52 
+
+01:52 owns and then receiving that data back
+01:54 
+
+01:54 into the application and serving it up
+01:56 
+
+01:56 to the clients. Um an example of this
+01:59 
+
+01:59 would be say um chat bots. Chat bots.
+02:03 
+
+02:03 Yeah. Or I would even simpler is like
+02:05 
+
+02:05 you know those essay writing kind of uh
+02:08 
+
+02:08 AI companies that says oh we help you
+02:10 
+
+02:10 write uh copyright like that right we
+02:13 
+
+02:13 specifically help you do that.
+02:14 
+
+02:14 >> Technically GPT4 also does that but they
+02:19 
+
+02:19 rebranded it repackage it in a way that
+02:22 
+
+02:22 says okay we can do it for you but more
+02:25 
+
+02:25 specialized.
+02:26 
+
+02:26 >> Right. Right. Or say you already have
+02:28 
+
+02:28 established applications say oh notion
+02:30 
+
+02:30 or canva and they have like uh notion AI
+02:33 
+
+02:33 right where you write uh something and
+02:36 
+
+02:36 then they'll recommend a a
+02:38 
+
+02:38 >> write a prompt to the AI correct
+02:40 
+
+02:40 >> like I want a documentation written in
+02:43 
+
+02:43 my notion for
+02:44 
+
+02:44 >> yeah yeah in in this case notion doesn't
+02:46 
+
+02:46 own the model um I I don't know what
+02:49 
+
+02:49 model they use but they probably use one
+02:51 
+
+02:51 of those models that we mentioned uh so
+02:53 
+
+02:53 that's what we call an AI rapper and
+02:56 
+
+02:56 You've probably seen the these
+02:58 
+
+02:58 applications all around and you might
+02:59 
+
+02:59 not even notice that uh these are just
+03:02 
+
+03:02 rapper applications not uh companies who
+03:05 
+
+03:05 own and train the AI models themselves.
+03:07 
+
+03:07 Uh that's what we've not been noticing
+03:10 
+
+03:10 uh as uh software engineers and um there
+03:13 
+
+03:13 there's there's you know two camps where
+03:15 
+
+03:15 we look at uh when we look at AI rappers
+03:18 
+
+03:18 like one uh AI rappers um are good in
+03:22 
+
+03:22 the sense it's quite optimized right
+03:24 
+
+03:24 these companies don't need to train
+03:25 
+
+03:25 their own models it takes a lot of
+03:27 
+
+03:27 energy effort and data to train your own
+03:29 
+
+03:29 model so very efficient way of just
+03:31 
+
+03:31 let's not build the model let's only
+03:34 
+
+03:34 just focus on the problem build that
+03:35 
+
+03:35 application solve the problem and use
+03:37 
+
+03:37 this third party application. But
+03:39 
+
+03:39 there's also the other side of the house
+03:41 
+
+03:41 where uh we see that it's kind of u not
+03:45 
+
+03:45 an uh real AI app to market it as AI
+03:49 
+
+03:49 sometimes can feel quite disingenuous
+03:52 
+
+03:52 because you you didn't actually uh you
+03:54 
+
+03:54 don't actually own the model and there
+03:56 
+
+03:56 are a lot of like different uh
+03:58 
+
+03:58 engineering repercussions to that uh
+04:00 
+
+04:00 such as because you don't own the model
+04:03 
+
+04:03 you can't fix it for any bias for
+04:05 
+
+04:05 example it's a black box to you. So yeah
+04:09 
+
+04:09 as as opposed to uh so for example
+04:11 
+
+04:11 taking the essay example there's a
+04:13 
+
+04:13 website which basically has a
+04:16 
+
+04:16 pre-written prompt in it that allows you
+04:18 
+
+04:18 to okay for example I'm a college
+04:20 
+
+04:20 student I want to write a essay on lamps
+04:22 
+
+04:22 so I would I would just go to this
+04:25 
+
+04:25 website and say I want to write an essay
+04:26 
+
+04:26 on lamps it itself will have a primary
+04:29 
+
+04:29 prompt which is like write a 1,000word
+04:32 
+
+04:32 essay on this topic
+04:34 
+
+04:34 >> so that's that's this is a AI rapper But
+04:37 
+
+04:37 I could actually do the same thing by
+04:39 
+
+04:39 myself on chat GPT and say exactly this.
+04:42 
+
+04:42 I'm a college student. I want to write a
+04:43 
+
+04:43 1,00 word essay on lamps. So the like
+04:48 
+
+04:48 the contradiction here basically what
+04:50 
+
+04:50 what value this essay website provided
+04:53 
+
+04:53 was added in a few more details of the
+04:56 
+
+04:56 limit of the essay as an example. I
+04:59 
+
+04:59 could do the same thing by myself. It it
+05:02 
+
+05:02 saved me the effort of writing the 10,00
+05:05 
+
+05:05 word. Yeah, I think we have the benefit
+05:07 
+
+05:07 of being software engineers, coders.
+05:10 
+
+05:10 Like I've never found myself using any
+05:12 
+
+05:12 of these AI rappers actually because I
+05:15 
+
+05:15 know how uh I know firstly that chat GBT
+05:19 
+
+05:19 is that interface into OpenAI model and
+05:22 
+
+05:22 I can use OpenAI's models directly to
+05:24 
+
+05:24 prompt whatever I want. Say if I want uh
+05:27 
+
+05:27 uh a a an essay about lamps. Did you
+05:31 
+
+05:31 mean lamp or like me lamp? Actually, I
+05:34 
+
+05:34 mean, lamps, lamp, light, light lamps.
+05:39 
+
+05:39 >> That's the first thing I saw and I'm
+05:40 
+
+05:40 like, lamp.
+05:41 
+
+05:41 >> But we have these lamps like staring
+05:43 
+
+05:43 straight into our soul and it's so like
+05:45 
+
+05:45 interrogation mode. But anyways, let's
+05:48 
+
+05:48 say we want to write an essay about
+05:49 
+
+05:49 lamps. I already know how to prompt uh
+05:53 
+
+05:53 chat GBT that hey uh I want it in say
+05:57 
+
+05:57 markdown format. I know what format to
+05:60 
+
+05:60 prompt it out in because I know the code
+06:03 
+
+06:03 primitive. I know how to bring things
+06:04 
+
+06:04 down on a code primitive level. I know
+06:06 
+
+06:06 that when it comes to generating text,
+06:08 
+
+06:08 there are different formats to it.
+06:09 
+
+06:09 Markdown, TXT, uh even JSON if I wanted
+06:12 
+
+06:12 to. I know that for images, I I can ask
+06:16 
+
+06:16 it to do SVGNG. I know all these code
+06:18 
+
+06:18 primitives that make it easy for me to
+06:20 
+
+06:20 directly access the model. But I can see
+06:23 
+
+06:23 the value ad for AI rappers is adding
+06:25 
+
+06:25 that little bit of contextual knowledge
+06:27 
+
+06:27 that the creator has.
+06:29 
+
+06:29 >> That's why I think AI rapper companies
+06:32 
+
+06:32 they you know they show up in like
+06:34 
+
+06:34 hordes like during the peas era of like
+06:37 
+
+06:37 generative AI right maybe 2021 to 2022
+06:42 
+
+06:42 almost every AI company is technically a
+06:46 
+
+06:46 rapper but it is solving a specialized
+06:49 
+
+06:49 use case. So it's essentially the value
+06:52 
+
+06:52 proposition I would say is their prompt
+06:53 
+
+06:53 engineering is how well their prompts
+06:56 
+
+06:56 are to chat GPT to right right
+06:59 
+
+06:59 >> in I mean to open AI's model basically
+07:02 
+
+07:02 that's how um that's how they
+07:04 
+
+07:04 differentiate from each other like from
+07:05 
+
+07:05 one AI rapper that's like you know
+07:07 
+
+07:07 helping you write your essay versus
+07:09 
+
+07:09 another AI rapper that's also helping
+07:11 
+
+07:11 you writing an essay how do you choose
+07:13 
+
+07:13 which one is better let's say you're a
+07:15 
+
+07:15 college student there's like two very
+07:16 
+
+07:16 similar AI essay writing um software
+07:19 
+
+07:19 where SAS right basically out there you
+07:22 
+
+07:22 would choose whichever one writes a
+07:23 
+
+07:23 better essay for you and what is a
+07:26 
+
+07:26 better essay is usually the one with a
+07:28 
+
+07:28 more specific prompts specific details
+07:31 
+
+07:31 specific structure you're looking for
+07:33 
+
+07:33 and so essentially they're competing on
+07:36 
+
+07:36 how well they prompt
+07:38 
+
+07:38 >> the same model
+07:39 
+
+07:39 >> and I think like going down to what does
+07:42 
+
+07:42 being a good prompter mean it means
+07:44 
+
+07:44 being a subject matter ex expert at your
+07:47 
+
+07:47 field So say okay let's let's talk about
+07:51 
+
+07:51 uh generative videos right I would
+07:54 
+
+07:54 expect somebody who is an animator to
+07:57 
+
+07:57 know the exact terminologies in
+07:59 
+
+07:59 animation I don't know like uh the the
+08:02 
+
+08:02 cinematography
+08:03 
+
+08:03 and all these terms VFX something white
+08:07 
+
+08:07 cut whatever cut these are not things
+08:09 
+
+08:09 that us as layman non-animators would be
+08:11 
+
+08:11 able to prompt to uh uh to any model um
+08:16 
+
+08:16 the so these uh animators ers can come
+08:18 
+
+08:18 in as subject matter experts for video
+08:20 
+
+08:20 generation to offer that extra value of
+08:25 
+
+08:25 um maybe templatizing the prompt where
+08:27 
+
+08:27 through the application they already
+08:29 
+
+08:29 serve up a form where you can feel fill
+08:31 
+
+08:31 up the form fields like oh I want I
+08:34 
+
+08:34 don't know like this filter this effect
+08:36 
+
+08:36 and stuff like that because you wouldn't
+08:37 
+
+08:37 have thought about these terms in the
+08:39 
+
+08:39 first place if you were a layman so it's
+08:41 
+
+08:41 also a good thing like if you're a
+08:43 
+
+08:43 subject matter expert I can see how you
+08:44 
+
+08:44 would be a good prompt engineer and how
+08:46 
+
+08:46 you could add value to AR rapper.
+08:48 
+
+08:48 >> That's why I like when you mention about
+08:50 
+
+08:50 the templates because it is true. It is
+08:52 
+
+08:52 almost like a template. These AR rappers
+08:54 
+
+08:54 they they're providing you templates
+08:55 
+
+08:55 that you can out of the box take and use
+08:58 
+
+08:58 for your specific use case. Like for
+08:60 
+
+08:60 example, when I was uh learning how to I
+09:02 
+
+09:02 was exploring different stable diffusion
+09:04 
+
+09:04 models, right? They have many different
+09:06 
+
+09:06 models that the community themselves
+09:08 
+
+09:08 created and deployed on hugging face,
+09:09 
+
+09:09 right? That is the open source for where
+09:11 
+
+09:11 people can share models on and there's
+09:13 
+
+09:13 like very specific like art styles you
+09:15 
+
+09:15 can use. So instead of like taking like
+09:18 
+
+09:18 a just a generic stable diffusion model
+09:20 
+
+09:20 out of the box and giving it a long
+09:22 
+
+09:22 prom, oh I want the anime art style with
+09:25 
+
+09:25 like a pretty but thin lines with
+09:27 
+
+09:27 vibrant colors like that. You'll just
+09:28 
+
+09:28 get an already pre-trained model
+09:31 
+
+09:31 >> uh from hugging face and then you'll
+09:33 
+
+09:33 just feed that in. It's called a Laura
+09:36 
+
+09:36 model. And because of that you can
+09:38 
+
+09:38 literally like have consistency in your
+09:41 
+
+09:41 image generation. Like let's say you
+09:42 
+
+09:42 want to only generate Winnie the Poo or
+09:44 
+
+09:44 something like that.
+09:46 
+
+09:46 there's already the pre-trained model
+09:47 
+
+09:47 for that. So that way you don't have to
+09:48 
+
+09:48 describe I want a yellow bear with a
+09:50 
+
+09:50 round tummy like like you don't have to
+09:52 
+
+09:52 always
+09:52 
+
+09:52 >> we need a proof
+09:54 
+
+09:54 >> suddenly think of it but but yeah
+09:57 
+
+09:57 basically it it ensures the consistency
+09:60 
+
+09:60 right so I guess what they're offering
+10:02 
+
+10:02 what these AI rappers are offering is
+10:04 
+
+10:04 that consistency also consistent results
+10:07 
+
+10:07 that you want
+10:08 
+
+10:08 >> and I'd say it's a good use case in
+10:11 
+
+10:11 general uh I but we are pointing out
+10:14 
+
+10:14 that there is um a long-term sustainable
+10:18 
+
+10:18 factor that we have to think about using
+10:21 
+
+10:21 these AI rapper companies because the
+10:23 
+
+10:23 moment like let's say OpenAI or Entropic
+10:26 
+
+10:26 decided well we're not sharing our
+10:27 
+
+10:27 models anymore you're on your own now.
+10:30 
+
+10:30 >> Yeah.
+10:32 
+
+10:32 >> What can they do?
+10:32 
+
+10:32 >> Exactly. Or or they could share their
+10:34 
+
+10:34 models but you're basically subject to
+10:37 
+
+10:37 their price increases right now. Yeah.
+10:39 
+
+10:39 APIs could be quite cheap because
+10:41 
+
+10:41 they're trying to encourage everybody to
+10:43 
+
+10:43 use them, right? But once they increase
+10:45 
+
+10:45 the uh price per API uh call, you're
+10:49 
+
+10:49 screwed, man. Not screwed, but then you
+10:51 
+
+10:51 your entire pricing model changes. You
+10:54 
+
+10:54 are basically beholden to whatever uh
+10:56 
+
+10:56 the owners of this model do with your
+10:58 
+
+10:58 model, right? And then you add on to the
+11:00 
+
+11:00 other fact that it's also very opaque to
+11:03 
+
+11:03 you. You don't know how they train your
+11:04 
+
+11:04 model. You know, you don't know what
+11:06 
+
+11:06 existing biases there are. There are
+11:08 
+
+11:08 currently no standards that enforce
+11:10 
+
+11:10 these companies to hey uh you need to be
+11:13 
+
+11:13 transparent with the data uh you need to
+11:16 
+
+11:16 be transparent with like how much uh
+11:19 
+
+11:19 environmental resources you're using to
+11:20 
+
+11:20 train you as the creator of an AI rapper
+11:24 
+
+11:24 solution. You don't know all of this
+11:26 
+
+11:26 because there's just no regulation. So
+11:28 
+
+11:28 it's it's quite a a dangerous risky
+11:31 
+
+11:31 endeavor to take right now to be an AI
+11:34 
+
+11:34 rapper if you don't own the proprietary
+11:37 
+
+11:37 uh uh model. And what we mean by
+11:39 
+
+11:39 proprietary model is where you actually
+11:42 
+
+11:42 own the proprietary data like the data
+11:44 
+
+11:44 is yours and then you train a model with
+11:46 
+
+11:46 very specific parameters uh that you're
+11:49 
+
+11:49 able to control and that by itself it's
+11:52 
+
+11:52 a value to the customers. I think the
+11:54 
+
+11:54 scary part is where your only value is
+11:56 
+
+11:56 the prompt in your AI rapper, right? So
+11:58 
+
+11:58 that means in the next couple years,
+12:00 
+
+12:00 three years, somebody could just come in
+12:02 
+
+12:02 and then steal the same idea. It's just
+12:05 
+
+12:05 so easily stolen. And I think uh in the
+12:09 
+
+12:09 uh startup community, um with it being
+12:12 
+
+12:12 saturated with these AI rapper companies
+12:14 
+
+12:14 right now, that may be what investors
+12:16 
+
+12:16 are wary of, especially there's talk of
+12:18 
+
+12:18 an AI bubble, too. So
+12:20 
+
+12:20 >> I I always hear uh I mean not sure if
+12:22 
+
+12:22 these are investors but a lot of techies
+12:25 
+
+12:25 definitely once they know of oh this is
+12:27 
+
+12:27 a app and then they figure out oh it's a
+12:29 
+
+12:29 AI rapper they immediately look down on
+12:31 
+
+12:31 you
+12:32 
+
+12:32 >> I mean
+12:33 
+
+12:33 >> like oh it's just a AI rapper.
+12:35 
+
+12:35 >> Yeah. Yeah. I guess that notion comes
+12:37 
+
+12:37 from like one I could do it too. That's
+12:40 
+
+12:40 one. Yeah. Because it's like it's like
+12:42 
+
+12:42 how do you stand out from the rest of
+12:44 
+
+12:44 the competition then if all you have is
+12:46 
+
+12:46 a prompt.
+12:47 
+
+12:47 >> Exactly. Exactly. Okay. And that's been
+12:49 
+
+12:49 the advice I've been giving um these uh
+12:53 
+
+12:53 founders who come to uh us for advice
+12:56 
+
+12:56 and I tell them like you need to be able
+12:58 
+
+12:58 to hone your value proposition to beyond
+13:01 
+
+13:01 the prompt, right? There needs to be
+13:02 
+
+13:02 something else. Do you have a dedicated
+13:04 
+
+13:04 user community you know that uh no other
+13:07 
+
+13:07 person can replicate you know uh or do
+13:10 
+
+13:10 you have like this very special edge uh
+13:14 
+
+13:14 of being a subject matter expert that
+13:16 
+
+13:16 you know nobody else uh has then only
+13:19 
+
+13:19 can you uh be confident that even if the
+13:23 
+
+13:23 uh AI model you're calling from like
+13:25 
+
+13:25 anything happens to it you you will
+13:27 
+
+13:27 still keep your customer base you know
+13:29 
+
+13:29 otherwise it is a very tricky uh arena
+13:31 
+
+13:31 to go into like I honestly wouldn't go
+13:34 
+
+13:34 into this space. Yeah, I would be
+13:36 
+
+13:36 scared. So, I actually have an a story
+13:39 
+
+13:39 of a company that used to be an AI
+13:41 
+
+13:41 rapper, but they're trying to pivot by
+13:44 
+
+13:44 building their own model.
+13:46 
+
+13:46 >> But now it comes the ethical part is how
+13:48 
+
+13:48 are they going to collect data to build
+13:50 
+
+13:50 their own model, right?
+13:51 
+
+13:51 >> Oh, yeah. So,
+13:52 
+
+13:52 >> it's tricky. I don't want to mention the
+13:54 
+
+13:54 company but basically they start
+13:58 
+
+13:58 stealing the users um basically they
+14:02 
+
+14:02 told the users that oh we are training
+14:04 
+
+14:04 our own model now but they're not being
+14:06 
+
+14:06 transparent how they're doing it
+14:08 
+
+14:08 >> and then essentially they're reading the
+14:10 
+
+14:10 users messages history and all the
+14:12 
+
+14:12 information
+14:13 
+
+14:13 >> and then finally when they release their
+14:15 
+
+14:15 model and all the users are like wow
+14:17 
+
+14:17 that's amazing so how do you how did you
+14:20 
+
+14:20 get and then they're like oh we just
+14:21 
+
+14:21 build it from um opt in users uh data
+14:25 
+
+14:25 opt in.
+14:26 
+
+14:26 >> Oh,
+14:26 
+
+14:26 >> and then basically in the small terms
+14:29 
+
+14:29 and conditions if you get you use their
+14:31 
+
+14:31 software, you're essentially opting in.
+14:34 
+
+14:34 So, it makes it like as as users, we
+14:37 
+
+14:37 just have to be vigilant in how
+14:39 
+
+14:39 companies use our data. Always read, I
+14:42 
+
+14:42 know probably people won't, but check
+14:44 
+
+14:44 the privacy settings. But even then,
+14:46 
+
+14:46 right, like these terms and conditions
+14:48 
+
+14:48 are designed for users to feel so
+14:51 
+
+14:51 burdened by reading them that you're
+14:53 
+
+14:53 just going to accept it because they
+14:54 
+
+14:54 don't offer a way for you to negotiate,
+14:58 
+
+14:58 right? It's either you accept our terms
+14:59 
+
+14:59 or you don't use the app. You don't get
+15:01 
+
+15:01 value from the app. There's no way to
+15:03 
+
+15:03 like, okay, if I opt out of data, then
+15:07 
+
+15:07 maybe I only use these features, right?
+15:08 
+
+15:08 Like different models. I I don't think
+15:10 
+
+15:10 something has been done to that extent
+15:13 
+
+15:13 um for for applications that there are
+15:16 
+
+15:16 no regulations in place to make these
+15:17 
+
+15:17 terms and negot uh terms and conditions
+15:20 
+
+15:20 negotiable by the users and I think
+15:23 
+
+15:23 that's a problem for companies who are
+15:27 
+
+15:27 seeking to get data from from consumers
+15:30 
+
+15:30 and I think consumers are increasingly
+15:31 
+
+15:31 aware about that and that's why a lot of
+15:34 
+
+15:34 these these big uh AI model companies
+15:37 
+
+15:37 are facing so much flack you
+15:39 
+
+15:39 because they're not transparent about
+15:41 
+
+15:41 how they get data. Um they also are not
+15:45 
+
+15:45 answering questions in the face when you
+15:47 
+
+15:47 know they they're summoned by uh
+15:50 
+
+15:50 governments and stuff to ask about that.
+15:53 
+
+15:53 Um and at the same time they know that
+15:55 
+
+15:55 they need to scale their data to make
+15:57 
+
+15:57 their model better. So they're allegedly
+16:00 
+
+16:00 using more underhanded means to get this
+16:03 
+
+16:03 data too. And I would like to like add a
+16:06 
+
+16:06 public service announcement where we did
+16:09 
+
+16:09 we did uh try to warn our rag tech
+16:11 
+
+16:11 followers on LinkedIn on LinkedIn's
+16:14 
+
+16:14 privacy setting where it it was actually
+16:17 
+
+16:17 reading all of our post and data and
+16:19 
+
+16:19 comments and and using it for I don't
+16:21 
+
+16:21 know what purpose. So we did try to warn
+16:24 
+
+16:24 our followers at least. So do follow us
+16:26 
+
+16:26 on LinkedIn where we do try to help
+16:28 
+
+16:28 everyone uh be a be more aware of such
+16:32 
+
+16:32 uh privacy settings that are on
+16:33 
+
+16:33 Instagram, LinkedIn, all these big apps
+16:36 
+
+16:36 that we are all using day-to-day without
+16:38 
+
+16:38 thinking. Even small small things like
+16:41 
+
+16:41 which kind of post you liked this
+16:44 
+
+16:44 information can be used against you. For
+16:46 
+
+16:46 example, if I like uh a video on a
+16:50 
+
+16:50 certain political party or something and
+16:53 
+
+16:53 people know that I like this part this
+16:56 
+
+16:56 party, I could be then start I could
+16:58 
+
+16:58 then be shown other like so that's how
+17:00 
+
+17:00 algorithms work basically. Right.
+17:02 
+
+17:02 >> That's right. They try to
+17:03 
+
+17:03 >> they are they'll try to brainwash you or
+17:05 
+
+17:05 things like that. So now this
+17:07 
+
+17:07 information can also be used in AI
+17:09 
+
+17:09 models where the AI models will answer
+17:11 
+
+17:11 back to you in a particular way some
+17:14 
+
+17:14 company wants it to be answered.
+17:16 
+
+17:16 >> Correct.
+17:17 
+
+17:17 >> Algorithm comes into play in AI models
+17:19 
+
+17:19 responses as well.
+17:21 
+
+17:21 >> Exactly. Because these AI models are not
+17:23 
+
+17:23 trained to challenge your opinions.
+17:25 
+
+17:25 Right.
+17:26 
+
+17:26 >> Psychopantic.
+17:27 
+
+17:27 >> Yes. Exactly. They're trained to like
+17:29 
+
+17:29 pander to your opinion so that you like
+17:31 
+
+17:31 it better. Uh so that you will continue
+17:34 
+
+17:34 using it. So yeah, I I think we need to
+17:37 
+
+17:37 be wary about how our data is being used
+17:39 
+
+17:39 by the AI models. And going back to the
+17:41 
+
+17:41 subject matter of like AI rappers,
+17:43 
+
+17:43 right? Um I it's dangerous being a a
+17:48 
+
+17:48 person owning an AI rapper company
+17:50 
+
+17:50 because you don't know what goes on with
+17:52 
+
+17:52 the AI model. You have no control. And I
+17:55 
+
+17:55 think it's an even bigger obstacle to
+17:56 
+
+17:56 jump through to want to then develop
+17:59 
+
+17:59 your own proprietary model because then
+18:01 
+
+18:01 what about the question of data you know
+18:04 
+
+18:04 and these are all teething issues that
+18:06 
+
+18:06 can only be solved uh uh through
+18:09 
+
+18:09 governmental regulations and those are
+18:11 
+
+18:11 not in place yet. So that's why I feel
+18:14 
+
+18:14 this entire AI landscape is very um just
+18:18 
+
+18:18 like you're walking on eggshells, right?
+18:20 
+
+18:20 I literally like when I you I do use uh
+18:23 
+
+18:23 uh AI tools uh extensively um uh in
+18:26 
+
+18:26 coding, but I'm always prepared for like
+18:29 
+
+18:29 if tomorrow this tool is not available
+18:31 
+
+18:31 for me like uh what what do I have to
+18:34 
+
+18:34 do? You know, it it feels like there is
+18:36 
+
+18:36 no certainty and I I think that's the
+18:39 
+
+18:39 extra precaution I've leed to take. Uh I
+18:42 
+
+18:42 am genuinely worried for uh people who
+18:45 
+
+18:45 depend on AI rappers who depend on who
+18:48 
+
+18:48 and also the owners of the AI rapper
+18:50 
+
+18:50 companies. Yeah. It's very
+18:53 
+
+18:53 >> I don't trust them.
+18:54 
+
+18:54 >> You don't trust them. Yeah. Exactly.
+18:56 
+
+18:56 Like that's why AI is still in this
+18:58 
+
+18:58 bubble. You can say it's a landscape
+19:01 
+
+19:01 where technically even the people who
+19:03 
+
+19:03 are supposed to be in power and help
+19:06 
+
+19:06 regulate this like for AI governance
+19:08 
+
+19:08 they're still learning actually even
+19:10 
+
+19:10 after you know it's been you know five
+19:12 
+
+19:12 six years of AI being out there and you
+19:15 
+
+19:15 know for consumers to use it's still a
+19:18 
+
+19:18 very relatively
+19:20 
+
+19:20 it's like a baby trying to walk you know
+19:22 
+
+19:22 like they're still so new at this that I
+19:24 
+
+19:24 think uh I recently read only South
+19:26 
+
+19:26 Korea was the first country that
+19:28 
+
+19:28 actually pass a AI regulation recently.
+19:31 
+
+19:31 And then what about the rest of the
+19:32 
+
+19:32 world? Like there's not yet any very
+19:35 
+
+19:35 good laws. You mentioned laws, right?
+19:37 
+
+19:37 There's not very like concrete laws
+19:39 
+
+19:39 placed for AI and for how companies are
+19:42 
+
+19:42 going to use our data to train AI
+19:44 
+
+19:44 models. Like there's so many of that.
+19:46 
+
+19:46 There's even news about like this is
+19:48 
+
+19:48 public information already. How Gmail
+19:50 
+
+19:50 was sued, you know, for $425 million
+19:54 
+
+19:54 because they're using people's emails.
+19:57 
+
+19:57 They're reading the systems were reading
+19:59 
+
+19:59 emails and personal information to train
+20:02 
+
+20:02 their models for you know ad targeting
+20:05 
+
+20:05 you know personalized ads and all that.
+20:07 
+
+20:07 So now comes the questions again like
+20:11 
+
+20:11 whi when is it um when training AI
+20:14 
+
+20:14 models right sure like you everyone
+20:16 
+
+20:16 wants their own proprietary models of
+20:18 
+
+20:18 course they want sustainability and all
+20:20 
+
+20:20 but what is the fine line between
+20:23 
+
+20:23 ethical and non-ethical like how do you
+20:25 
+
+20:25 actually collect these data ethically
+20:27 
+
+20:27 you know
+20:29 
+
+20:29 >> you cannot use it by like oh I hide my
+20:31 
+
+20:31 privacy settings secret and then I you
+20:34 
+
+20:34 you opt in like you know like that
+20:38 
+
+20:38 the underhanded way but
+20:39 
+
+20:39 >> but there's a lot of cases like this
+20:42 
+
+20:42 that's why
+20:42 
+
+20:42 >> uh the good thing is I did notice that
+20:44 
+
+20:44 there are uh slightly increas increasing
+20:48 
+
+20:48 standards on the use of AI there is now
+20:50 
+
+20:50 an ISO standard that companies can try
+20:53 
+
+20:53 to get certification uh uh from for uh
+20:56 
+
+20:56 the use of AI and it also includes um
+20:59 
+
+20:59 like um things like uh the ethics of the
+21:02 
+
+21:02 data collected and stuff like that. So,
+21:05 
+
+21:05 so that would mean if I do want to use a
+21:07 
+
+21:07 certain AI rapper app, I should look out
+21:10 
+
+21:10 for is this that particular ISO
+21:12 
+
+21:12 certified because then I'll have a
+21:14 
+
+21:14 little bit more confidence as it has
+21:16 
+
+21:16 been vetted through.
+21:18 
+
+21:18 >> Correct. Correct.
+21:19 
+
+21:19 >> I don't know if it pertains to AI rapper
+21:21 
+
+21:21 app. So it looks like the the AI models
+21:25 
+
+21:25 itself or if you there are also AI
+21:28 
+
+21:28 rappers who attempt who both have an AI
+21:30 
+
+21:30 rapper service as well as they're in the
+21:32 
+
+21:32 process of collecting data to move
+21:34 
+
+21:34 towards a proprietary model. So as
+21:37 
+
+21:37 consumers it's great to use uh solutions
+21:40 
+
+21:40 that have this standard uh will find
+21:43 
+
+21:43 that standard and then paste it like on
+21:45 
+
+21:45 the video. Um I also know that in terms
+21:47 
+
+21:47 of um the uh to certify whether a a
+21:52 
+
+21:52 media a certain piece of media is AI or
+21:54 
+
+21:54 not now there's the C2PA standard. It's
+21:56 
+
+21:56 like metadata within like a photo or a
+21:58 
+
+21:58 video that um almost shows you the
+22:01 
+
+22:01 entire life cycle of that specific media
+22:04 
+
+22:04 and that if you used AI in doing this
+22:07 
+
+22:07 like it will surface on uh this C2PA
+22:11 
+
+22:11 metadata and there's um I think
+22:13 
+
+22:13 increasingly uh big name companies are
+22:16 
+
+22:16 getting on it like Adobe and stuff and
+22:18 
+
+22:18 uh we may be moving towards a a standard
+22:21 
+
+22:21 where uh like Instagram or like
+22:24 
+
+22:24 Pinterest and stuff all these media or
+22:26 
+
+22:26 Tik Tok media companies will have to
+22:28 
+
+22:28 abide by this standard and start
+22:30 
+
+22:30 labeling content that's AI generated
+22:32 
+
+22:32 versus not. So yeah, that I think there
+22:35 
+
+22:35 is definitely it's moving but um a word
+22:38 
+
+22:38 of caution to those using air rappers
+22:40 
+
+22:40 while these regulations are still trying
+22:42 
+
+22:42 to find a norm. Um might want to be
+22:45 
+
+22:45 cautious around like the things that
+22:47 
+
+22:47 you're using as well as for the uh
+22:49 
+
+22:49 creators yourself like um a word of
+22:52 
+
+22:52 advice to try to create a value
+22:53 
+
+22:53 proposition beyond the AI model you're
+22:55 
+
+22:55 wrapping over so that um yeah you can
+22:58 
+
+22:58 protect yourself and your company too.
+23:01 
+
+23:01 So yeah, th this was our opinion on um
+23:04 
+
+23:04 AI rappers. I hope you took something
+23:07 
+
+23:07 away from this episode. If you didn't
+23:09 
+
+23:09 know what an AI rapper was before, we
+23:11 
+
+23:11 hope you understand it better now. If
+23:13 
+
+23:13 you're uh somebody who's using an AI
+23:16 
+
+23:16 rapper product, uh just be sure to see
+23:18 
+
+23:18 uh be more discerning in your use of it.
+23:21 
+
+23:21 Just know that uh it could, you know,
+23:24 
+
+23:24 disappear tomorrow if because it is uh
+23:26 
+
+23:26 very much tied to the AI model it's
+23:29 
+
+23:29 requesting from. look out for
+23:30 
+
+23:30 regulations that and certifications uh
+23:33 
+
+23:33 and then for those uh creators of these
+23:35 
+
+23:35 AI rappers um be more uh uh um mindful
+23:41 
+
+23:41 yeah in which models you use uh be more
+23:44 
+
+23:44 mindful in the problem you're trying to
+23:47 
+
+23:47 solve. Are there other ways that you
+23:48 
+
+23:48 could solve this problem that isn't that
+23:50 
+
+23:50 doesn't require the use of a third party
+23:52 
+
+23:52 AI model? I think that's the best way to
+23:54 
+
+23:54 go about too. So yeah, as always this
+23:57 
+
+23:57 was RTE. Thank you for tuning in and I
+23:59 
+
+23:59 we'll see you in the next episode. Don't
+24:01 
+
+24:01 forget to follow, like, subscribe, and
+24:03 
+
+24:03 comment and turn on notifications. Bye.

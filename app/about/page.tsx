@@ -14,7 +14,7 @@ const team = [
       'Software developer who loves breaking down complex concepts into bite-sized, understandable pieces.',
     color: 'from-primary/20 to-primary/5',
     roleColor: '#fda2a9',
-    image: '/assets/profilePics/saloni.png',
+    image: '/assets/team/saloni.png',
     email: 'saloni@ragtechdev.com',
     linkedInUrl: 'https://www.linkedin.com/in/saloni-kaur/',
   },
@@ -25,7 +25,7 @@ const team = [
       'Combines technical expertise with storytelling to make tech topics engaging and relatable.',
     color: 'from-secondary/20 to-secondary/5',
     roleColor: '#a2d4d1',
-    image: '/assets/profilePics/victoria.png',
+    image: '/assets/team/victoria.png',
     email: 'victoria@ragtechdev.com',
     linkedInUrl: 'https://www.linkedin.com/in/victoria2666/',
   },
@@ -36,7 +36,7 @@ const team = [
       'Passionate about making technology inclusive and accessible for everyone, regardless of their background.',
     color: 'from-accent/20 to-accent/5',
     roleColor: '#eec08c',
-    image: '/assets/profilePics/natasha.png',
+    image: '/assets/team/natasha.png',
     email: 'natasha@ragtechdev.com',
     linkedInUrl: 'https://www.linkedin.com/in/natashaannn/',
   },
@@ -98,7 +98,7 @@ export default function AboutPage() {
     <main>
       {/* Hero Section */}
       <Hero
-        heroImage="/assets/card.png"
+        heroImage="/assets/techybara/techybara-holding-card.png"
         title=""
         titleOnImage={true}
         subtitle="About Us"
@@ -156,7 +156,7 @@ export default function AboutPage() {
             className="mt-12"
           >
             <img
-              src="/assets/team.png"
+              src="/assets/team/ragtech-team.png"
               alt="ragTech Team"
               className="w-full rounded-2xl shadow-2xl"
             />

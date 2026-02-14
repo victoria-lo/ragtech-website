@@ -1,0 +1,907 @@
+00:00 I'm also incredibly cheap. I think both
+00:02 
+
+00:02 of you know that already. I refuse to
+00:04 
+
+00:04 even pay like 10 cents for anything and
+00:06 
+
+00:06 I need to find and exhaust all my
+00:08 
+
+00:08 options
+00:09 
+
+00:09 uh until I pay a single cent for a third
+00:11 
+
+00:11 party tool.
+00:14 
+
+00:14 [Music]
+00:16 
+
+00:16 So, as you know with blogging um with
+00:18 
+
+00:18 content management systems, you usually
+00:20 
+
+00:20 need to pay a fee and then they'll have
+00:22 
+
+00:22 restrictions and stuff like that. And it
+00:23 
+
+00:23 was really hard to work with the APIs
+00:26 
+
+00:26 specifically when I wanted like this
+00:27 
+
+00:27 specific look as well. Um so with this I
+00:32 
+
+00:32 actually wrote everything in markdown.
+00:35 
+
+00:35 So this was a special part where my blog
+00:40 
+
+00:40 this is how like my blog is written in
+00:43 
+
+00:43 my code repository itself in
+00:48 
+
+00:48 in markdown like this and I basically
+00:52 
+
+00:52 like um did it in such a way such that
+00:56 
+
+00:56 it would um render the markdown in the
+01:00 
+
+01:00 specific way I wanted. So basically I
+01:03 
+
+01:03 didn't have to use a content management
+01:04 
+
+01:04 system. I I would write it would just be
+01:07 
+
+01:07 as simple as adding like a file here and
+01:10 
+
+01:10 then just in a specific like format that
+01:13 
+
+01:13 I set for myself. It would render the
+01:17 
+
+01:17 blog post.
+01:19 
+
+01:19 Yeah. I also based this off of Medium
+01:20 
+
+01:20 because it was just like what's a good
+01:22 
+
+01:22 reading format. At first it was like I
+01:23 
+
+01:23 was using a lot of fun fonts and stuff
+01:25 
+
+01:25 like that and then I read it I was like
+01:26 
+
+01:26 wow it's actually kind of hard to read.
+01:29 
+
+01:29 So um
+01:30 
+
+01:30 >> yeah this this one
+01:32 
+
+01:32 >> I do one small feedback because I'm a
+01:34 
+
+01:34 I'm a technical writer myself is that
+01:37 
+
+01:37 you should add tags. So like in the
+01:39 
+
+01:39 markdown if you can have like tags you
+01:41 
+
+01:41 know so like if it's React or if it's um
+01:45 
+
+01:45 if it's about TypeScript you know so
+01:48 
+
+01:48 that's it's good for SEO as well if you
+01:50 
+
+01:50 can
+01:50 
+
+01:50 >> that's true yeah I never thought about
+01:52 
+
+01:52 that. So this is why like I think for
+01:54 
+
+01:54 the next like um revamp I actually want
+01:57 
+
+01:57 to um go to a proper like content
+02:00 
+
+02:00 management system so SEO can be
+02:03 
+
+02:03 considered. I wasn't considering SEO at
+02:04 
+
+02:04 that point of time because I was just
+02:06 
+
+02:06 like I just want to like do something
+02:07 
+
+02:07 for fun. But now after like exploring
+02:10 
+
+02:10 especially when you introduce us to
+02:12 
+
+02:12 hashnote through the rect blog I
+02:14 
+
+02:14 realized SEO is really important if you
+02:16 
+
+02:16 want people to find you and um by the
+02:19 
+
+02:19 way for the audience members SEO stands
+02:21 
+
+02:21 for search engine optimization. It's
+02:23 
+
+02:23 kind of like when you go on like any
+02:25 
+
+02:25 search engine and um you you hit uh you
+02:30 
+
+02:30 search any keyword you would want your
+02:32 
+
+02:32 article or your content to go up to the
+02:35 
+
+02:35 top of that search engine. So, search
+02:37 
+
+02:37 engine optimization is optimizing your
+02:40 
+
+02:40 own um content to be flagged out at the
+02:44 
+
+02:44 very top by search engines. And here
+02:46 
+
+02:46 Victoria is basically saying,
+02:48 
+
+02:48 >> "Yeah, tags are important." And a lot of
+02:50 
+
+02:50 like uh content management systems um
+02:53 
+
+02:53 and blogging platforms like hash node,
+02:55 
+
+02:55 the one we use for rag tech blog or like
+02:58 
+
+02:58 medium, they have inbuilt like search
+03:00 
+
+03:00 engine optimization. So like the people
+03:02 
+
+03:02 who write the posts don't have to like
+03:04 
+
+03:04 worry about it. Um, like for me right
+03:08 
+
+03:08 now, I don't think like mine comes up.
+03:11 
+
+03:11 Um,
+03:12 
+
+03:12 even even if I were to Google it, I
+03:15 
+
+03:15 don't think mine would see like nothing
+03:17 
+
+03:17 comes up even though I literally Googled
+03:19 
+
+03:19 like the exact title. But you can see
+03:22 
+
+03:22 like Reddit comes up, Medium comes up
+03:24 
+
+03:24 because Kora comes up because these are
+03:26 
+
+03:26 like platforms that uh already have like
+03:30 
+
+03:30 tags built in like Victoria mentioned
+03:32 
+
+03:32 and everything else. So yeah, that's why
+03:36 
+
+03:36 I was kind of considering I should
+03:38 
+
+03:38 probably might
+03:41 
+
+03:41 but
+03:43 
+
+03:43 need to
+03:43 
+
+03:43 >> you could just you could just like write
+03:45 
+
+03:45 on these other platforms and put a link
+03:49 
+
+03:49 >> so
+03:52 
+
+03:52 you're saying I should like let's say
+03:54 
+
+03:54 say for a medium I write there and then
+03:56 
+
+03:56 I link to my website
+03:59 
+
+03:59 >> and then those uh icons that you have on
+04:02 
+
+04:02 your tech blog the diary page. Those
+04:05 
+
+04:05 small icons are just hyperlinks.
+04:09 
+
+04:09 >> Oh, to to like the uh content management
+04:11 
+
+04:11 system platform.
+04:12 
+
+04:12 >> Yeah.
+04:14 
+
+04:14 >> Or maybe just the read more button here
+04:16 
+
+04:16 on the left side. The read more button
+04:18 
+
+04:18 would be to
+04:19 
+
+04:19 >> That's true.
+04:20 
+
+04:20 >> The actual platform.
+04:22 
+
+04:22 >> That's true. So if I were to use like
+04:24 
+
+04:24 their API, it would just be like uh uh
+04:27 
+
+04:27 trying to request the title and maybe
+04:30 
+
+04:30 like just a summary from like my indiv.
+04:33 
+
+04:33 >> Yeah, if they have. So I don't know if
+04:34 
+
+04:34 they provide such APIs.
+04:37 
+
+04:37 >> Yeah, I would need to like kind of
+04:38 
+
+04:38 explore like see if hashnote has it. I
+04:41 
+
+04:41 don't think medium
+04:42 
+
+04:42 >> hashnote has Yeah, definitely has.
+04:44 
+
+04:44 >> Yeah. Yeah, I've I've explored hashnote
+04:47 
+
+04:47 API before. The thing is
+04:49 
+
+04:49 >> Yeah. Yeah, they have. But uh Hashnote
+04:51 
+
+04:51 uses GraphQL A API.
+04:54 
+
+04:54 >> So you'll need Yeah, but they do have
+04:56 
+
+04:56 it. The thing I'm concerned about is if
+04:58 
+
+04:58 you redirect like from your main website
+05:01 
+
+05:01 to the hashnote, let's say like you have
+05:04 
+
+05:04 a all the full article written there
+05:06 
+
+05:06 instead of your own website, then most
+05:08 
+
+05:08 of the traffic would end up going to
+05:09 
+
+05:09 hashnote, right? But if you want your
+05:12 
+
+05:12 main website to be the main traffic then
+05:16 
+
+05:16 I would say you need to keep the
+05:19 
+
+05:19 articles there. So maybe you can do like
+05:22 
+
+05:22 opposite of it. So it's like on medium
+05:24 
+
+05:24 or on other blogging platforms you can
+05:26 
+
+05:26 write a good amount of your article and
+05:29 
+
+05:29 then you say read more. You you you
+05:31 
+
+05:31 redirect them to your main website read
+05:33 
+
+05:33 more and minor website if you want the
+05:35 
+
+05:35 traffic to be on your website. So it
+05:37 
+
+05:37 depends where you want people to visit
+05:40 
+
+05:40 more. Is it your medium page or your
+05:42 
+
+05:42 main website?
+05:44 
+
+05:44 >> That's
+05:45 
+
+05:45 I honestly haven't thought about that. I
+05:47 
+
+05:47 mean, I'm not earning anything from the
+05:50 
+
+05:50 traffic to my website. I think my
+05:52 
+
+05:52 website is just more of like a landing
+05:55 
+
+05:55 point to a landing page landing
+05:57 
+
+05:57 >> page. So, so it depends on on what you
+05:59 
+
+05:59 want. Yeah. But if you're making like
+06:01 
+
+06:01 your website your main then you know
+06:04 
+
+06:04 after every article you can also link.
+06:06 
+
+06:06 So backlinking is also good for SEO. So
+06:09 
+
+06:09 you can link to your own website right?
+06:11 
+
+06:11 So for example your current uh article
+06:14 
+
+06:14 the about the monor repo after that you
+06:17 
+
+06:17 say read more like here like at the
+06:19 
+
+06:19 bottom of the article you can say read
+06:20 
+
+06:20 more.
+06:21 
+
+06:21 >> So let's say this is like hash note and
+06:24 
+
+06:24 then underneath it I'll have like read
+06:27 
+
+06:27 more.
+06:28 
+
+06:28 >> Yeah
+06:30 
+
+06:30 >> something. I'm also thinking maybe it
+06:32 
+
+06:32 could just be uh to know more about the
+06:35 
+
+06:35 writer Natasha, go back to my website.
+06:38 
+
+06:38 That kind of thing. That's that's the
+06:41 
+
+06:41 because your website is more for your
+06:43 
+
+06:43 portfolio and what who is Natasha. It's
+06:46 
+
+06:46 not really about blogs.
+06:49 
+
+06:49 >> Yeah. Yeah.
+06:50 
+
+06:50 >> Right. So,
+06:53 
+
+06:53 >> yeah. It's it's it's more about what is
+06:55 
+
+06:55 the point what is the intent of your
+06:58 
+
+06:58 blog of your website.
+07:01 
+
+07:01 >> That's true. Okay. Okay. I I
+07:04 
+
+07:04 >> definitely some devs uh use their
+07:07 
+
+07:07 personal website as a blog as well. Some
+07:09 
+
+07:09 devs do that. So it depends what if you
+07:13 
+
+07:13 want to off offshore your blog to an a
+07:15 
+
+07:15 blogging platform that's also fine.
+07:17 
+
+07:17 >> Yeah.
+07:18 
+
+07:18 >> What about for you Victoria? Like how do
+07:20 
+
+07:20 you do it? So currently my blog itself
+07:23 
+
+07:23 is my entire personal portfolio/brand.
+07:26 
+
+07:26 So so that's why I just
+07:30 
+
+07:30 low Victoria right?
+07:32 
+
+07:32 >> Yeah. Yeah.
+07:34 
+
+07:34 >> Actually with a dash with with a dash
+07:35 
+
+07:35 low- Victoria.
+07:38 
+
+07:38 >> Yeah. So my entire portfolio is my
+07:41 
+
+07:41 articles since I I want my personal
+07:44 
+
+07:44 brand to be about writing. So that's why
+07:46 
+
+07:46 I don't find it necessary to have to
+07:49 
+
+07:49 offshore blog and my
+07:52 
+
+07:52 >> and Oh yeah. So actually I'm similar to
+07:56 
+
+07:56 you as in like I draw it by myself like
+07:58 
+
+07:58 this this GIF I draw it myself
+08:02 
+
+08:02 >> and then I use CSS to animate the the
+08:05 
+
+08:05 words.
+08:06 
+
+08:06 >> Oh
+08:07 
+
+08:07 >> yeah that's all I did but the art itself
+08:10 
+
+08:10 I draw it with Photoshop.
+08:12 
+
+08:12 >> Oh you use Photoshop?
+08:15 
+
+08:15 Yeah,
+08:16 
+
+08:16 >> it's so cool to see both of your
+08:18 
+
+08:18 personalities on your websites
+08:21 
+
+08:21 >> because this literally what my desk look
+08:23 
+
+08:23 like. My desk look like a monitor and my
+08:26 
+
+08:26 switch is literally on my right side
+08:27 
+
+08:27 right now and my cup is also on my right
+08:30 
+
+08:30 side.
+08:30 
+
+08:30 >> I don't have books right now. I have
+08:32 
+
+08:32 post-it notes right now. But and I don't
+08:34 
+
+08:34 have a picture of myself. That's that's
+08:35 
+
+08:35 the only thing that's different. The
+08:36 
+
+08:36 left side.
+08:37 
+
+08:37 >> It's you with TV and you don't have
+08:39 
+
+08:39 glasses right now. like right now and
+08:42 
+
+08:42 >> yeah I'm undergoing transformation.
+08:47 
+
+08:47 >> Do you have a personal website?
+08:50 
+
+08:50 >> I don't have a personal website but you
+08:52 
+
+08:52 can also go to my medium page. So I just
+08:55 
+
+08:55 write on medium and
+08:58 
+
+08:58 yeah maybe just
+09:01 
+
+09:01 uh that's yeah single L in my name.
+09:04 
+
+09:04 >> Oh why did I put two L's?
+09:06 
+
+09:06 this one.
+09:08 
+
+09:08 >> Uh, no. Maybe
+09:11 
+
+09:11 I don't think this is
+09:14 
+
+09:14 >> SEO. SEO is important. Everybody
+09:17 
+
+09:17 >> Yeah, this one looks me. The first one.
+09:21 
+
+09:21 >> Ah, wait. I didn't even know that you
+09:23 
+
+09:23 had a medium.
+09:25 
+
+09:25 >> Look at the stuff we're finding out
+09:26 
+
+09:26 about each other and finding out about
+09:28 
+
+09:28 SEO. Isn't that great? So now you know
+09:30 
+
+09:30 that if you type salon core medium then
+09:33 
+
+09:33 your thing comes out but salon medium
+09:35 
+
+09:35 doesn't come up.
+09:37 
+
+09:37 >> Also I also have a similar uh photo
+09:40 
+
+09:40 thingy that I created. I think if you go
+09:42 
+
+09:42 to like my first article
+09:45 
+
+09:45 uh I remember where it would be. Yeah
+09:48 
+
+09:48 the first one all the way
+09:50 
+
+09:50 >> I'm at the bottom.
+09:53 
+
+09:53 Or maybe I should go to lists
+09:56 
+
+09:56 blockchain. No about
+09:58 
+
+09:58 >> no
+10:01 
+
+10:01 no okay
+10:03 
+
+10:03 uh one of the article oh uh can you go
+10:05 
+
+10:05 up a bit up
+10:07 
+
+10:07 here the problems I face as a software
+10:10 
+
+10:10 developer that's my version of you of my
+10:13 
+
+10:13 >> Oh my gosh look at all of us
+10:18 
+
+10:18 so cute we all like unintentionally did
+10:21 
+
+10:21 the same thing
+10:23 
+
+10:23 >> we're on the same brain cell on the same
+10:26 
+
+10:26 >> brain cell We did all of this like
+10:28 
+
+10:28 before we all metish like formally too.
+10:31 
+
+10:31 >> We were meant to be together.
+10:34 
+
+10:34 >> We're meant to be together. And also
+10:36 
+
+10:36 >> and just describe Salon's desk so
+10:39 
+
+10:39 accurately cuz she's so neat. She's such
+10:41 
+
+10:41 a neat person and she always have
+10:43 
+
+10:43 essentials.
+10:44 
+
+10:44 >> Just the water and the tissue. That's
+10:46 
+
+10:46 the essentials. So
+10:47 
+
+10:47 >> yes.
+10:47 
+
+10:47 >> So I love how it's really showcased.
+10:49 
+
+10:49 This is who you are.
+10:50 
+
+10:50 >> And that's my editor is is that team and
+10:53 
+
+10:53 it's intelligent.
+10:55 
+
+10:55 >> I love it. Okay. I I will draw like mine
+10:58 
+
+10:58 because mine doesn't have me. But mine
+10:59 
+
+10:59 will be like the the uh light mode.
+11:03 
+
+11:03 >> Okay. But Victoria is neutral. Victoria
+11:05 
+
+11:05 is neutral.
+11:06 
+
+11:06 >> Neutral mode.
+11:06 
+
+11:06 >> But we all know she's a dark mode girly.
+11:10 
+
+11:10 >> Yes.
+11:12 
+
+11:12 >> Awesome. I love it. Nice. So, thank you
+11:15 
+
+11:15 for watching us on React Tech, the
+11:17 
+
+11:17 podcast for honest tech conversations
+11:19 
+
+11:19 from real people in the industry, or as
+11:21 
+
+11:21 we call it, for bites and banter.
+11:23 
+
+11:23 Remember to catch the previous episode
+11:25 
+
+11:25 to see Natasha showcase the idea and
+11:27 
+
+11:27 details behind her web phone and also in
+11:29 
+
+11:29 the next episode where we delve deeper
+11:31 
+
+11:31 into how to establish your personal
+11:33 
+
+11:33 brand, getting domain names and explore
+11:35 
+
+11:35 Victoria's journey in getting a GitHub
+11:37 
+
+11:37 star. Remember to like, comment, and
+11:39 
+
+11:39 share this video and subscribe to our
+11:41 
+
+11:41 channel and our other socials. We post
+11:44 
+
+11:44 episodes every two weeks on various real
+11:46 
+
+11:46 life topics like career tips, tech
+11:48 
+
+11:48 community participation, and even life
+11:50 
+
+11:50 as a parent in the tech industry. See
+11:52 
+
+11:52 you in the next episode.

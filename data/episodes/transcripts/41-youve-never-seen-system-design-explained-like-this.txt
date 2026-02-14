@@ -1,0 +1,1642 @@
+00:00 I'm going to pretend to do system design
+00:02 
+
+00:02 live in front of everybody.
+00:04 
+
+00:04 >> Suddenly slapping a system design
+00:05 
+
+00:05 interview for you. I would go for
+00:08 
+
+00:08 maybe I don't have the luxury to pick,
+00:11 
+
+00:11 you know.
+00:12 
+
+00:13 [Music]
+00:18 
+
+00:18 Hello everybody and welcome to Recag.
+00:20 
+
+00:20 This is the place where we talk about
+00:21 
+
+00:21 real life in tech and today we are
+00:23 
+
+00:23 starting on a very special new series.
+00:25 
+
+00:25 This series is AI is not taking my job
+00:28 
+
+00:28 insert role and we will basically be
+00:30 
+
+00:30 exploring different roles in tech as
+00:32 
+
+00:32 well as exploring why AI wouldn't be
+00:34 
+
+00:34 taking their jobs. So uh first we'll
+00:36 
+
+00:36 introduce ourselves. I'm Natasha. I'm a
+00:38 
+
+00:38 software engineer. I'm Victoria
+00:40 
+
+00:40 solutions engineer. Salon software
+00:42 
+
+00:42 developer. And today our guest is
+00:44 
+
+00:44 actually also our co-host Salon. So uh
+00:47 
+
+00:47 Salon is actually a software engineer.
+00:50 
+
+00:50 She's more than just a software
+00:51 
+
+00:51 engineer. She's also our co-director at
+00:53 
+
+00:53 Women Devs.
+00:54 
+
+00:54 >> Yes. and she's passionate about learning
+00:56 
+
+00:56 about you know giving back to the
+00:58 
+
+00:58 community as well as you know mentoring
+00:60 
+
+00:60 other software developers. She's also
+01:02 
+
+01:02 really super passionate about anything
+01:04 
+
+01:04 related to system design you know design
+01:06 
+
+01:06 patterns and all that. So and recently
+01:09 
+
+01:09 she's also been doing a lot of workshops
+01:11 
+
+01:11 on uh AI and how she feels about it uh
+01:14 
+
+01:14 as a software engineer. Uh but you know
+01:16 
+
+01:16 we don't want to take the spotlight away
+01:18 
+
+01:18 from Salon. So uh Salony you can
+01:20 
+
+01:20 introduce yourself this time uh
+01:22 
+
+01:22 highlighting more about your role as a
+01:24 
+
+01:24 software engineer.
+01:25 
+
+01:25 >> Hello everyone. So as a software
+01:28 
+
+01:28 engineer either we will be creating apps
+01:30 
+
+01:30 from scratch. So imagine creating an
+01:33 
+
+01:33 whole new app whole new WhatsApp app by
+01:36 
+
+01:36 itself or I would be fixing bugs on
+01:39 
+
+01:39 existing apps. So for example, if
+01:41 
+
+01:41 there's something you're not able to
+01:42 
+
+01:42 upload images onto WhatsApp uh and
+01:45 
+
+01:45 there's something wrong is a software
+01:47 
+
+01:47 developers who go in and fix it takes a
+01:49 
+
+01:49 couple of days to fix such things or we
+01:51 
+
+01:51 could be adding a new feature onto
+01:53 
+
+01:53 existing apps. So these are the kind of
+01:55 
+
+01:55 things we're usually working on but
+01:57 
+
+01:57 besides that we also have to collaborate
+01:60 
+
+02:00 with hum other teammates discuss system
+02:03 
+
+02:03 design uh how exactly we'll design
+02:05 
+
+02:05 certain bug fixes or certain features
+02:08 
+
+02:08 and should we or should we not even
+02:10 
+
+02:10 prioritize these features in the first
+02:12 
+
+02:12 place with our customers even like it
+02:14 
+
+02:14 get the numbers up uh you know run SQL
+02:17 
+
+02:17 queries to get all these analysis and
+02:19 
+
+02:19 stuff so in a nutshell that's what
+02:21 
+
+02:21 software developers be
+02:24 
+
+02:24 I know that was quite a technical
+02:25 
+
+02:25 explanation, but a great explanation
+02:27 
+
+02:27 nonetheless. But we're actually going to
+02:29 
+
+02:29 do something quite interesting today.
+02:31 
+
+02:31 So, you can see right here we have a few
+02:33 
+
+02:33 cards um system design cards and um this
+02:37 
+
+02:37 deck uh are actually works. So, just now
+02:39 
+
+02:39 you mentioned that you work with
+02:42 
+
+02:42 different members in the team. you know
+02:44 
+
+02:44 uh you're more than just working just
+02:46 
+
+02:46 with software engineers and even in the
+02:47 
+
+02:47 software engineering field um we also
+02:49 
+
+02:49 tend to divide ourselves into uh
+02:52 
+
+02:52 different uh sub uh expertise. Uh so you
+02:55 
+
+02:55 can take a look at these cards and see
+02:57 
+
+02:57 which ones uh you know you feel best
+02:60 
+
+02:60 describe your role uh as a software
+03:02 
+
+03:02 engineer. Also you can pick out a few uh
+03:04 
+
+03:04 if you want to talk about who you work
+03:05 
+
+03:05 with in a team.
+03:06 
+
+03:06 >> Interesting. I definitely see software
+03:10 
+
+03:10 engineer as my own role. Uh we do
+03:14 
+
+03:14 collaborate a lot with product managers.
+03:18 
+
+03:18 There is full stack front end and
+03:20 
+
+03:20 backend engineer. I would select full
+03:25 
+
+03:25 stack engineer as well like system
+03:28 
+
+03:28 design turn into a game. Uh yeah it's
+03:30 
+
+03:30 basically I think that's the concept
+03:32 
+
+03:32 behind it. Uh but honestly I haven't
+03:34 
+
+03:34 gotten the game logic pad. I was just
+03:36 
+
+03:36 more focusing on how can these be used
+03:38 
+
+03:38 to explain tech uh easier on our
+03:41 
+
+03:41 podcast. That's how I came up with it.
+03:42 
+
+03:42 But um yeah, these were a really great
+03:44 
+
+03:44 start. At least I know the role cards,
+03:46 
+
+03:46 you know, make sense to Kentucky alike.
+03:49 
+
+03:49 So okay, you've kind of picked out a
+03:51 
+
+03:51 software engineer and within the
+03:53 
+
+03:53 software engineer expertise, you've
+03:55 
+
+03:55 picked out full stack where full stack
+03:56 
+
+03:56 means uh you cover pretty much uh yeah
+03:60 
+
+03:60 the the front end which is like the more
+04:02 
+
+04:02 UI changes, clicking buttons, calling
+04:04 
+
+04:04 APIs to fetch data as well as the back
+04:07 
+
+04:07 end which is sending the data over or
+04:11 
+
+04:11 making some changes on the on the system
+04:13 
+
+04:13 the database side.
+04:14 
+
+04:14 >> I also remembered that you said you you
+04:16 
+
+04:16 do prefer back end more. I know some
+04:17 
+
+04:17 people have
+04:18 
+
+04:18 >> I do prefer back end. Yes,
+04:20 
+
+04:20 >> I think this is always a never- ending
+04:22 
+
+04:22 debate between software engineers like
+04:24 
+
+04:24 where do you want to specialize in? Um
+04:26 
+
+04:26 the thing about full stack even I think
+04:28 
+
+04:28 fullstack is not like everyone is super
+04:30 
+
+04:30 like proficient in both. There will be
+04:32 
+
+04:32 moods where like you know each one to do
+04:35 
+
+04:35 one over the other.
+04:36 
+
+04:36 >> Yeah, I agree.
+04:37 
+
+04:37 >> It's a never- ending battle.
+04:38 
+
+04:38 >> That's true. But well to uh I want to
+04:41 
+
+04:41 help you elucidate your role better
+04:43 
+
+04:43 especially for people who just haven't
+04:45 
+
+04:45 been in the world uh of tech and also we
+04:47 
+
+04:47 we will be using uh these cards as we go
+04:50 
+
+04:50 along. So the next part um I want to
+04:53 
+
+04:53 introduce you to these idea cards. So
+04:55 
+
+04:55 you're going to pretend to do system
+04:57 
+
+04:57 design live in front of everybody. Uh
+05:00 
+
+05:00 these are a stack of uh app ideas. So
+05:04 
+
+05:04 very vague uh idea cards. Pick one. Pick
+05:07 
+
+05:07 one that you like. Does it have to be
+05:09 
+
+05:09 related to your uh job could be
+05:12 
+
+05:12 something that you
+05:13 
+
+05:13 >> whichever one interests you.
+05:14 
+
+05:14 >> Yeah. And you feel confident in it
+05:16 
+
+05:16 because well we're doing live demo now.
+05:18 
+
+05:18 So
+05:19 
+
+05:19 >> Ooh. Okay.
+05:20 
+
+05:20 >> We're just suddenly slapping a system
+05:21 
+
+05:21 design interview for you. I say you're
+05:24 
+
+05:24 interview ready.
+05:26 
+
+05:26 I do recommend people to be that does
+05:29 
+
+05:29 not mean I am. Uh but
+05:33 
+
+05:33 to be honest I have not seen these
+05:35 
+
+05:35 cards. We did not we did not go through
+05:37 
+
+05:37 this before. Uh but yes, I think I mean
+05:40 
+
+05:40 they're all very interesting systems but
+05:43 
+
+05:43 if I had to be like confident about one
+05:46 
+
+05:46 one such app I would say it would be
+05:51 
+
+05:51 maybe
+05:52 
+
+05:52 >> what are you debating between?
+05:54 
+
+05:54 >> So I do see a few finance related ones.
+05:57 
+
+05:57 >> Read it out. Read it out to
+05:58 
+
+05:58 >> So I do see one which is called pay
+05:60 
+
+06:00 beam. So, Paybeam is uh global payments
+06:04 
+
+06:04 for freelancers and small businesses and
+06:07 
+
+06:07 >> sounds familiar. Yeah,
+06:09 
+
+06:09 >> it sounds like
+06:10 
+
+06:10 >> it sounds kind of familiar.
+06:11 
+
+06:11 >> Kind of familiar.
+06:12 
+
+06:12 >> Paybeam. Yes. And also I mean there's
+06:14 
+
+06:14 this like trade route which also
+06:17 
+
+06:17 >> these are not real businesses by the
+06:19 
+
+06:19 way. These are not real apps.
+06:20 
+
+06:20 >> Yes. These are just uh names that we
+06:23 
+
+06:23 have come up with for generic apps. So,
+06:26 
+
+06:26 a trade route would be a fintech
+06:27 
+
+06:27 platform for international transfers
+06:30 
+
+06:30 with transparent fees
+06:33 
+
+06:33 and fast settlement.
+06:35 
+
+06:35 Um, pick one. Pick one. I would go for
+06:39 
+
+06:39 maybe
+06:41 
+
+06:41 if you don't have the luxury to pick,
+06:42 
+
+06:42 you know what?
+06:43 
+
+06:43 >> Trade route.
+06:43 
+
+06:43 >> Trade route. Okay. Why? Why?
+06:46 
+
+06:46 >> Just Just cuz it looks interesting. It
+06:49 
+
+06:49 looks generic enough for a fintech
+06:50 
+
+06:50 platform
+06:51 
+
+06:51 >> so we can see what what feature we want
+06:53 
+
+06:53 to do.
+06:53 
+
+06:53 >> Okay. last choice cuz there's the next
+06:55 
+
+06:55 step.
+06:56 
+
+06:56 >> Yeah,
+06:56 
+
+06:56 >> let's start.
+06:58 
+
+06:58 >> Confident.
+06:58 
+
+06:58 >> All right. So, to explain what a
+07:00 
+
+07:00 software engineer does, uh we're going
+07:02 
+
+07:02 to use uh an app example and also she's
+07:06 
+
+07:06 going to show you what she does in her
+07:07 
+
+07:07 role to actually build out this app. And
+07:10 
+
+07:10 uh instead of actually writing code, we
+07:12 
+
+07:12 have these system cards. So, these are
+07:14 
+
+07:14 cards that have uh different elements to
+07:17 
+
+07:17 building a an app, a software. uh you
+07:20 
+
+07:20 have things like data warehouse, server,
+07:23 
+
+07:23 you know, these technical terms that uh
+07:25 
+
+07:25 usually come up when you hear about
+07:26 
+
+07:26 software, but I'm not going to explain
+07:29 
+
+07:29 them. My lady here going to explain
+07:32 
+
+07:32 them, but you have to uh use it to build
+07:35 
+
+07:35 uh trade route.
+07:36 
+
+07:36 >> Okay. Okay. So, you can it's quite a
+07:38 
+
+07:38 thick stack, so you can just kind of
+07:40 
+
+07:40 maybe flip through it and see what's
+07:41 
+
+07:41 relevant and then you can kind of
+07:43 
+
+07:43 verbalize, wow, this is really
+07:44 
+
+07:44 interview. Yeah,
+07:45 
+
+07:45 >> no pressure. um just keep it
+07:47 
+
+07:47 minimalistic if you don't have time to
+07:49 
+
+07:49 go deep dive.
+07:50 
+
+07:50 >> Okay. So I do see really generic system
+07:54 
+
+07:54 design components. So like database
+07:56 
+
+07:56 would definitely be one that I would be
+07:58 
+
+07:58 working with. Uh actually dashboard
+08:03 
+
+08:03 model API m exposes machine learning
+08:06 
+
+08:06 models. Okay. No I don't I wouldn't be
+08:08 
+
+08:08 going into machine learning and stuff.
+08:11 
+
+08:11 >> Not right now. Yeah.
+08:11 
+
+08:11 >> Another episode maybe. API gateway is
+08:14 
+
+08:14 very common commonly used. Payments API
+08:17 
+
+08:17 is something I would definitely need. Uh
+08:20 
+
+08:20 a server,
+08:22 
+
+08:22 why not?
+08:23 
+
+08:23 >> Well, on prem or cloud. There's als so
+08:25 
+
+08:25 so cloud load balancer cloud hosting.
+08:28 
+
+08:28 >> Oh wow, look at all the C. Pick out the
+08:30 
+
+08:30 like 1 2 3 4 5 6. Do I have to system
+08:33 
+
+08:33 like this is complicated?
+08:34 
+
+08:34 >> Yeah, it is a very complicated system
+08:36 
+
+08:36 and also right now trade route seems
+08:39 
+
+08:39 like really huge. we'll probably focus
+08:41 
+
+08:41 in on a particular portion and then
+08:44 
+
+08:44 it'll be more relevant. So maybe I think
+08:47 
+
+08:47 for now this will be enough to create
+08:49 
+
+08:49 something.
+08:50 
+
+08:50 >> Okay. Uh so basically now we've picked
+08:52 
+
+08:52 out the elements in your job. How do you
+08:56 
+
+08:56 like architect and put these elements
+08:58 
+
+08:58 together? You can maybe pick out say
+08:60 
+
+08:60 like oh I'm working on the database and
+09:02 
+
+09:02 the API gateway and now I have to write
+09:04 
+
+09:04 APIs uh for this specific function in
+09:07 
+
+09:07 trade route. like what do you do in your
+09:10 
+
+09:10 your day-to-day or if you were working
+09:11 
+
+09:11 on trade route and you can kind of
+09:13 
+
+09:13 assume a feature usual day-to-day as a
+09:16 
+
+09:16 software developer at trade route I
+09:19 
+
+09:19 would be working on CRUD operations
+09:22 
+
+09:22 maybe I'll be creating APIs and
+09:25 
+
+09:25 obviously payments related APIs you want
+09:27 
+
+09:27 to explain what cred is cuz I know cred
+09:29 
+
+09:29 sounds
+09:30 
+
+09:30 >> create read update delete these are
+09:33 
+
+09:33 basically just uh functionalities that
+09:36 
+
+09:36 can be done on a system so you can
+09:38 
+
+09:38 either create something. So in this
+09:40 
+
+09:40 case, create a payment, you can update a
+09:42 
+
+09:42 payment, you can read a payment like
+09:44 
+
+09:44 view what is this payment all about or
+09:47 
+
+09:47 you can delete a payment. So very on
+09:51 
+
+09:51 point with uh the fintech platform. Uh
+09:55 
+
+09:55 so yeah, that's that's something we'll
+09:57 
+
+09:57 be doing daytoday. And how do we write
+09:59 
+
+09:59 these payment APIs is I I'm more of a
+10:03 
+
+10:03 Java person. I would use a Java language
+10:06 
+
+10:06 to write uh a certain yeah these APIs
+10:10 
+
+10:10 either fix them, enhance them, create a
+10:13 
+
+10:13 new API and then these APIs are then
+10:16 
+
+10:16 deployed on servers.
+10:19 
+
+10:19 So yeah, these APIs are deployed on
+10:22 
+
+10:22 servers and the servers are sitting on
+10:24 
+
+10:24 something like cloud hosting.
+10:27 
+
+10:27 I love it that I can like put one on top
+10:29 
+
+10:29 of the other. It's literally a tech
+10:31 
+
+10:31 stack. Oh, that's a good one. That's a
+10:33 
+
+10:33 good one. I think that's a good name
+10:34 
+
+10:34 text the name direct right and then of
+10:38 
+
+10:38 course these payments APIs would need a
+10:41 
+
+10:41 database
+10:42 
+
+10:42 uh because all these payments are stored
+10:44 
+
+10:44 in a database so payments API talks to
+10:47 
+
+10:47 the database all this lives on a server
+10:50 
+
+10:50 which is cloud hosted
+10:53 
+
+10:53 done my day job
+10:54 
+
+10:54 >> this is this is great you literally like
+10:56 
+
+10:56 I I think you're kind of having fun with
+10:58 
+
+10:58 this right
+10:58 
+
+10:58 >> it is it is quite fun actually
+11:00 
+
+11:00 >> I like do another one
+11:02 
+
+11:02 >> there's other parts of it because now
+11:04 
+
+11:04 you've kind of uh used this stack to
+11:06 
+
+11:06 explain what you do as a software
+11:07 
+
+11:07 engineer. Hopefully to the non- techies
+11:09 
+
+11:09 out there, this makes it uh more uh uh
+11:11 
+
+11:11 uh relevant to um you um but the next
+11:15 
+
+11:15 part which is actually the title of the
+11:17 
+
+11:17 episode, right? AI isn't taking my job.
+11:20 
+
+11:20 I wanted to ask uh do you use AI in your
+11:23 
+
+11:23 day-to-day and also how do you use them?
+11:25 
+
+11:25 We've also we also have some tools cards
+11:28 
+
+11:28 and in them there are like uh AI tools
+11:31 
+
+11:31 as well. So you can um pick a couple if
+11:34 
+
+11:34 you feel like that's what you use. Can
+11:36 
+
+11:36 pick one or two to help you explain how
+11:38 
+
+11:38 you use AI in your job.
+11:39 
+
+11:39 >> I would like to say my job is not
+11:41 
+
+11:41 everything to me. I have a 5 to9 after
+11:43 
+
+11:43 my 9 to5. So but I do code both in 9 to5
+11:48 
+
+11:48 and 5 to9. Obviously I do use AI uh for
+11:52 
+
+11:52 coding definitely because if you don't
+11:55 
+
+11:55 it's not good. You should be using AI to
+11:57 
+
+11:57 be coding already by now. Like contrary
+11:60 
+
+11:60 to like popular belief, AI is not really
+12:03 
+
+12:03 like replacing replacing me. It is
+12:05 
+
+12:05 actually enhancing what I'm doing. So it
+12:07 
+
+12:07 actually makes me really productive.
+12:08 
+
+12:08 Okay. Like for example, Copilot.
+12:11 
+
+12:11 I think Copilot is like the simplest of
+12:13 
+
+12:13 AI tools out there. Uh it definitely is
+12:17 
+
+12:17 uh able to autocomplete a lot of my
+12:20 
+
+12:20 code. So I'll just be writing like
+12:22 
+
+12:22 halfway and then it'll autocomplete the
+12:24 
+
+12:24 rest of the code for me. So it and most
+12:28 
+
+12:28 of the time it is actually correct
+12:29 
+
+12:29 because it's actually reading from the
+12:31 
+
+12:31 rest of the code repository and
+12:32 
+
+12:32 therefore it's able to come up with a
+12:34 
+
+12:34 very good code autocomplete which is
+12:37 
+
+12:37 inconsistent with like the rest of the
+12:39 
+
+12:39 codebase. So copilot is one AI tool that
+12:42 
+
+12:42 I definitely use daily.
+12:44 
+
+12:44 >> Do you use it for vibe coding as well or
+12:46 
+
+12:46 just for the auto completion?
+12:47 
+
+12:47 >> We have a vibe coding. Oh cuz that's
+12:49 
+
+12:49 right. So bipe coding bipe coding as I
+12:53 
+
+12:53 see it is actually this concept of uh
+12:57 
+
+12:57 telling a tool exactly what you want to
+13:00 
+
+13:00 do like create this app or fix this bug
+13:03 
+
+13:03 and then it itself goes about doing that
+13:06 
+
+13:06 fix for you. So that's called wipe
+13:08 
+
+13:08 coding. So you are actually just talking
+13:09 
+
+13:09 to an AI and it does the thing for you.
+13:11 
+
+13:11 That's how I see wipe coding. And yes,
+13:14 
+
+13:14 sometimes I do use this uh this as well
+13:18 
+
+13:18 where I'll just be telling it what I
+13:19 
+
+13:19 want it to do or maybe I'll just be like
+13:21 
+
+13:21 actually having a discussion with it
+13:23 
+
+13:23 like this is what I intend to do and
+13:25 
+
+13:25 this is the problem solving. Does this
+13:27 
+
+13:27 make sense? Do you have any other uh you
+13:30 
+
+13:30 know opinions or something or something
+13:32 
+
+13:32 I missed out? So I do use wipe coding in
+13:35 
+
+13:35 that way.
+13:36 
+
+13:36 >> That makes sense. So I think these are
+13:37 
+
+13:37 tools that a lot of other software
+13:39 
+
+13:39 engineers like I use them too and I
+13:40 
+
+13:40 believe you use them uh as a solutions
+13:42 
+
+13:42 engineer. Another episode um and uh it
+13:46 
+
+13:46 seems from what you have said you've
+13:47 
+
+13:47 already said this that you feel like
+13:49 
+
+13:49 they don't replace but these tools
+13:51 
+
+13:51 empower you as a developer. Well beyond
+13:54 
+
+13:54 that though while they empower you is
+13:57 
+
+13:57 there a part of your job that you feel
+13:59 
+
+13:59 like AI can never replace if you want
+14:02 
+
+14:02 only if you want an eight. These are
+14:04 
+
+14:04 challenge cards but you know if they
+14:06 
+
+14:06 relate to your specific situation you
+14:08 
+
+14:08 feel like AI will never be able to solve
+14:10 
+
+14:10 these challenges. These kind of
+14:11 
+
+14:11 challenge are real life challenges.
+14:14 
+
+14:14 >> Yeah. So there's like scaling failure.
+14:16 
+
+14:16 You can't deploy new systems this time.
+14:18 
+
+14:18 So how would you go about do uh solving
+14:21 
+
+14:21 this? What for server crashes? Uh but I
+14:24 
+
+14:24 mean but if the question is about what
+14:26 
+
+14:26 can AI not replace exactly? All these AI
+14:30 
+
+14:30 agents and these kind they are all
+14:32 
+
+14:32 programs. So they can to some extent do
+14:35 
+
+14:35 what you tell it to do if it do if you
+14:37 
+
+14:37 tell it properly. So I wouldn't say it
+14:40 
+
+14:40 it can't exactly do exactly what I'm
+14:42 
+
+14:42 doing, but maybe it can't do it as well
+14:43 
+
+14:43 as me or as well as humans would in a
+14:48 
+
+14:48 setting maybe because a lot of these
+14:50 
+
+14:50 things require a lot of uh
+14:52 
+
+14:52 communication. What makes me a soft this
+14:55 
+
+14:55 software developer that I am is all of
+14:58 
+
+14:58 the life experiences and the work
+15:01 
+
+15:01 experiences and the communication and
+15:04 
+
+15:04 relationships I have with all these
+15:05 
+
+15:05 other software developers that's in me
+15:07 
+
+15:07 that makes me able to do things a
+15:09 
+
+15:09 certain way that I would I don't know if
+15:12 
+
+15:12 I can if you can give all of these
+15:14 
+
+15:14 things into a AI agent and then create a
+15:17 
+
+15:17 replica of a software developer right so
+15:21 
+
+15:21 not entirely I can't I I mean I I can't
+15:23 
+
+15:23 put words to what is missing.
+15:25 
+
+15:25 >> Right. Right.
+15:26 
+
+15:26 >> Uh but it's the entirety of a human
+15:30 
+
+15:30 software. So I kind of want to throw a
+15:32 
+
+15:32 curveball here because um you mentioned
+15:34 
+
+15:34 how you know your day-to-day job is this
+15:36 
+
+15:36 tech stack. All right. So technically
+15:38 
+
+15:38 yes you are a unique individual right
+15:40 
+
+15:40 but is that necessary for the work that
+15:43 
+
+15:43 you're doing right now? Because you
+15:44 
+
+15:44 mentioned like the AI would definitely
+15:46 
+
+15:46 not have your unique experiences
+15:48 
+
+15:48 individual uh cultural social cues
+15:51 
+
+15:51 values and all that. But is that needed
+15:53 
+
+15:53 for the job that you're currently doing
+15:55 
+
+15:55 right now?
+15:56 
+
+15:56 >> That's a good question.
+15:57 
+
+15:57 >> And so a lot of a lot of task that I do
+15:59 
+
+15:59 daily maybe not because they are
+16:01 
+
+16:01 probably repeatable and they are uh in
+16:04 
+
+16:04 nuanced in a way that it can be managed.
+16:06 
+
+16:06 But a lot of things for for example a
+16:09 
+
+16:09 senior software will be able to think of
+16:11 
+
+16:11 other scenarios where this particular
+16:13 
+
+16:13 feature might break or uh it there could
+16:17 
+
+16:17 be past experience that has happened in
+16:19 
+
+16:19 a company in this particular nuance
+16:22 
+
+16:22 feature
+16:22 
+
+16:22 >> right a very specific content
+16:23 
+
+16:23 >> that correct that for for example
+16:26 
+
+16:26 actually so then one of your thing comes
+16:28 
+
+16:28 up like feature creep for example I'm
+16:32 
+
+16:32 already working on a feature to uh send
+16:35 
+
+16:35 out money from uh one person to another
+16:38 
+
+16:38 and I already know when this happens
+16:41 
+
+16:41 billions of users will start using it
+16:43 
+
+16:43 suddenly because it's it's so fast in a
+16:45 
+
+16:45 second you get money from one end to end
+16:47 
+
+16:47 and and then people and then we have
+16:49 
+
+16:49 other like product managers or other
+16:52 
+
+16:52 other teams coming up to us saying like
+16:54 
+
+16:54 oh can you also help us do this at at a
+16:56 
+
+16:56 cost to it add this to that all this to
+16:58 
+
+16:58 it that's called feature creep and only
+17:01 
+
+17:01 like a person who has gone through this
+17:03 
+
+17:03 cycle a couple of times will be able to
+17:05 
+
+17:05 identif identify what's a feature creep
+17:07 
+
+17:07 and what is not a feature creep. What is
+17:08 
+
+17:08 actually a useful thing to add to the
+17:10 
+
+17:10 feature at the moment. And I think
+17:13 
+
+17:13 you're definitely right cuz if an AI
+17:14 
+
+17:14 were to do this, they'll probably just
+17:16 
+
+17:16 try to do everything. They'll think
+17:17 
+
+17:17 everything is an instruction and they'll
+17:19 
+
+17:19 just keep running and then adding adding
+17:20 
+
+17:20 adding without realizing that this is
+17:23 
+
+17:23 all uh choking up the system actually.
+17:25 
+
+17:25 So uh this is where humans actually come
+17:27 
+
+17:27 into play. I mean you did say that you
+17:29 
+
+17:29 work not just in a silo, you work with
+17:31 
+
+17:31 so many other people. So communication
+17:32 
+
+17:32 is this really big part about being a
+17:35 
+
+17:35 software engineer. Uh and that's not
+17:37 
+
+17:37 something that AI can immediately
+17:38 
+
+17:38 replace.
+17:39 
+
+17:39 >> Yeah.
+17:39 
+
+17:39 >> Yeah.
+17:39 
+
+17:39 >> And there's very very specific knowledge
+17:41 
+
+17:41 that has to be put into these agents
+17:44 
+
+17:44 that are going to be running this this
+17:47 
+
+17:47 feature for example that will make it
+17:51 
+
+17:51 replaced replace an entire team.
+17:53 
+
+17:53 >> No, that's true.
+17:54 
+
+17:54 >> A tech team, right?
+17:55 
+
+17:55 >> Yeah. I guess at the end of the day uh
+17:57 
+
+17:57 while a big uh good thing about AI is
+17:60 
+
+17:60 that it knows everything it's like a
+18:02 
+
+18:02 jack of all trades trades but master of
+18:04 
+
+18:04 none master of not one single context
+18:07 
+
+18:07 and that's where being you asked about
+18:08 
+
+18:08 being unique does that help and being a
+18:11 
+
+18:11 unique software engineer uh having this
+18:13 
+
+18:13 unique experience that you've gone
+18:14 
+
+18:14 through uh you wouldn't uh you you would
+18:17 
+
+18:17 be able to give more uh opinionated
+18:19 
+
+18:19 advice uh when certain situations happen
+18:22 
+
+18:22 based on that specific context whereas
+18:23 
+
+18:23 AI would need to like source through its
+18:26 
+
+18:26 like vast context to see what's
+18:29 
+
+18:29 relevant.
+18:30 
+
+18:30 >> Yeah. And I mean I would like to give
+18:31 
+
+18:31 like an example of this, right? So uh on
+18:34 
+
+18:34 a day-to-day basis, I use AI tools on
+18:36 
+
+18:36 the side when when I'm working. And a
+18:39 
+
+18:39 lot of times if I just had to rely on
+18:41 
+
+18:41 what they tell me, uh what it tells me
+18:44 
+
+18:44 off my prompt, uh a lot of times they're
+18:47 
+
+18:47 actually wrong cuz they need all this
+18:49 
+
+18:49 extra information like, "But what about
+18:51 
+
+18:51 this? Did you consider this?" And then
+18:52 
+
+18:52 it's always like, "Oh, yeah, you are
+18:54 
+
+18:54 right. I did not consider this. Oh yeah,
+18:56 
+
+18:56 you're right. I did not consider." Cuz
+18:58 
+
+18:58 how much can you put in the prompt,
+19:00 
+
+19:00 right? Uh it's it's only that much that
+19:02 
+
+19:02 it can be able to think of. So that
+19:06 
+
+19:06 that's where I'm coming from. uh
+19:08 
+
+19:08 basically that even though there are
+19:11 
+
+19:11 these tools out there that that have
+19:13 
+
+19:13 these infinite uh potential for it, you
+19:16 
+
+19:16 would still need a human to give it,
+19:20 
+
+19:20 prompt it, lead it, guide it in a
+19:22 
+
+19:22 certain manner.
+19:23 
+
+19:23 >> Yeah. No, I definitely agree. And I
+19:26 
+
+19:26 think like basically you've uh already
+19:28 
+
+19:28 clarified you don't think AI is going to
+19:30 
+
+19:30 take your job as a software engineer.
+19:32 
+
+19:32 And uh as a whole you're it's it's
+19:34 
+
+19:34 really refreshing to hear somebody be
+19:35 
+
+19:35 more excited about AI than afraid of it.
+19:38 
+
+19:38 And I think that's the kind of energy we
+19:39 
+
+19:39 want to bring uh into this room and also
+19:42 
+
+19:42 to those uh watches who are uh watching
+19:44 
+
+19:44 and listening to us right now. I think
+19:47 
+
+19:47 this was a really great episode. You
+19:48 
+
+19:48 summarized being a software engineer
+19:50 
+
+19:50 really well when being a software
+19:51 
+
+19:51 engineer is so complex. I hope the cards
+19:53 
+
+19:53 helped you. We're actually prototyping
+19:55 
+
+19:55 these uh for a sort of card game to help
+19:58 
+
+19:58 people um see uh uh system design as a
+20:02 
+
+20:02 game uh rather than something boring
+20:05 
+
+20:05 that like coders do. So yeah, do stay
+20:07 
+
+20:07 tuned to us. You will see these cards
+20:09 
+
+20:09 again hopefully in a more improved
+20:10 
+
+20:10 version uh not on construction colored
+20:13 
+
+20:13 paper laminate. But uh yes, as always,
+20:16 
+
+20:16 this was React Tech. Thank you so much
+20:18 
+
+20:18 for tuning in. Remember to follow all
+20:19 
+
+20:19 our socials and also like and comment
+20:21 
+
+20:21 and share this episode if you enjoyed
+20:23 
+
+20:23 it.

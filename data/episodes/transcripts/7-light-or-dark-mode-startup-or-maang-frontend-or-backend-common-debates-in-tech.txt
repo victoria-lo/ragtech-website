@@ -1,0 +1,2899 @@
+00:00 these are things that people outside of
+00:01 
+
+00:01 tech um like they hear
+00:05 
+
+00:05 about
+00:07 
+
+00:07 nice
+00:10 
+
+00:10 [Music]
+00:13 
+
+00:13 okay welcome to re Tech y uh this is
+00:16 
+
+00:16 where we indulge in bites and banter uh
+00:19 
+
+00:19 we'll start off with introductions I'm
+00:20 
+
+00:20 Salone a software engineer I'm Victoria
+00:23 
+
+00:23 Solutions engineer and I'm Natasha
+00:25 
+
+00:25 software engineer yes and today we'll be
+00:27 
+
+00:27 talking about some common debates that
+00:30 
+
+00:30 we have have in our Tech life Tech
+00:33 
+
+00:33 culture so one uh let's start off with
+00:36 
+
+00:36 like the very very obvious one which
+00:39 
+
+00:39 always has a binary when it comes to
+00:42 
+
+00:42 like software people it is light mode
+00:45 
+
+00:45 versus dark mode so let's start with
+00:48 
+
+00:48 like Victoria what's your preferred mode
+00:51 
+
+00:51 dark mode actually we should start with
+00:53 
+
+00:53 like uh describing what this actually
+00:55 
+
+00:55 means I think a lot of people might
+00:57 
+
+00:57 think that it's just like switching on
+00:58 
+
+00:58 the night mode and the oh it applies to
+01:01 
+
+01:01 everything even like um vs code theme so
+01:05 
+
+01:05 like the code editor I use it'll be all
+01:07 
+
+01:07 full and dark and now even Chrome web
+01:10 
+
+01:10 browsers have a dark mode light mode so
+01:12 
+
+01:12 we're talking about YouTube that kind of
+01:14 
+
+01:14 dark mode light mode yeah and I think
+01:16 
+
+01:16 this is important for uh people who uh
+01:18 
+
+01:18 are in Tech because we deal with our
+01:20 
+
+01:20 computer so much it's literally a bread
+01:22 
+
+01:22 and butter that uh this preference for
+01:25 
+
+01:25 light mode versus dark mode which
+01:26 
+
+01:26 actually um pertains a lot more to uh
+01:29 
+
+01:29 the co-editors we use yes um but at the
+01:31 
+
+01:31 same time like you said it's more of
+01:33 
+
+01:33 like in general what kind of mode do you
+01:35 
+
+01:35 prefer your computer to be in and I
+01:37 
+
+01:37 realized this is not uh just like a tech
+01:39 
+
+01:39 debate right I think everybody has their
+01:41 
+
+01:41 own preference it's just more prevalent
+01:43 
+
+01:43 in Tech because I think a lot of people
+01:45 
+
+01:45 when they watch like popular media on
+01:47 
+
+01:47 like hackers and stuff all they see is
+01:49 
+
+01:49 the dark mode it's always like dark mode
+01:50 
+
+01:50 but actually everybody has a preference
+01:52 
+
+01:52 and it's very similar to like um your
+01:54 
+
+01:54 own personal preference for a computer
+01:56 
+
+01:56 but yeah yeah I think when anyone like
+01:59 
+
+01:59 think of the word word software engineer
+02:01 
+
+02:01 they think they imagine a dark room and
+02:03 
+
+02:03 then they are on the dark computer dark
+02:06 
+
+02:06 mode and I fit into that stereotype I do
+02:08 
+
+02:08 I you do I do too it's just that my room
+02:11 
+
+02:11 is dark my room is not dark but my
+02:13 
+
+02:13 computer is quite dark with its
+02:15 
+
+02:15 Terminals and like my my code editor is
+02:18 
+
+02:18 dark but surprisingly my Chrome is light
+02:22 
+
+02:22 mode oh oh why why do you think that oh
+02:26 
+
+02:26 it's just like default and you just
+02:27 
+
+02:27 don't want to like touch it I have
+02:29 
+
+02:29 touched it tried dark mode on Chrome but
+02:32 
+
+02:32 then it started looking very gloomy
+02:33 
+
+02:33 gloomy like too much gloomy too much Glo
+02:36 
+
+02:36 I don't know it's just I prefer my cator
+02:39 
+
+02:39 in dark mode but everything else should
+02:41 
+
+02:41 be light and colored like I have a
+02:44 
+
+02:44 purple theme uh Macbook so all the
+02:47 
+
+02:47 windows that opens the tile above is
+02:49 
+
+02:49 purple color oh actually my bub sh oh
+02:52 
+
+02:52 yes favorite color and now that you
+02:55 
+
+02:55 mention it right I I'm really 100% dark
+02:59 
+
+02:59 like back before Chrome has that release
+03:01 
+
+03:01 that there's the Dark mode I have to
+03:03 
+
+03:03 hardcode my OS software so that
+03:06 
+
+03:06 everything open will be dark you hard
+03:09 
+
+03:09 Cod it you're there's like a custom
+03:12 
+
+03:12 chrome you can window settings dark so
+03:17 
+
+03:17 everything will be dark yeah but it's
+03:19 
+
+03:19 like not the off yeah so even why
+03:22 
+
+03:22 Windows like you know the operating
+03:25 
+
+03:25 system like usually it will be white
+03:26 
+
+03:26 with the accent color yours is purple
+03:29 
+
+03:29 mine is just dark
+03:30 
+
+03:30 and then the blue accent
+03:33 
+
+03:33 oh I don't know why well both of you are
+03:36 
+
+03:36 dark mode with one Chrome that's purple
+03:39 
+
+03:39 I guess I'm I think I'm majority light
+03:42 
+
+03:42 actually um but mine actually differs in
+03:44 
+
+03:44 terms of time of day and like my
+03:46 
+
+03:46 mood so majority of the time like um uh
+03:51 
+
+03:51 I if I'm using my desktop especially
+03:53 
+
+03:53 it's on light mode my code editors are
+03:55 
+
+03:55 usually on light mode um and but it can
+03:58 
+
+03:58 just be like the heart white high high
+04:00 
+
+04:00 contrast white um like light mode um it
+04:04 
+
+04:04 has to have some sort of color to it
+04:05 
+
+04:05 that's like more soft and I think
+04:07 
+
+04:07 usually pastel in like nature so I have
+04:10 
+
+04:10 this like more beigy um color theme that
+04:13 
+
+04:13 I use as well as a more purplish kind of
+04:15 
+
+04:15 past can we like put a screenshot of
+04:18 
+
+04:18 what your okay okay yeah yeah we can do
+04:20 
+
+04:20 that we can do that oh didn't we do it
+04:22 
+
+04:22 in our intros we did it on Instagram
+04:26 
+
+04:26 like on our social media so but I don't
+04:27 
+
+04:27 know if anyone noticed that like one
+04:30 
+
+04:30 more time in like our team yes yes okay
+04:34 
+
+04:34 we will put like little Snippets up on
+04:35 
+
+04:35 like this podcast just for fun um but
+04:38 
+
+04:38 yeah I think in terms of co-editor
+04:40 
+
+04:40 that's usually my go-to but I realized
+04:42 
+
+04:42 like once the sun sets um maybe because
+04:45 
+
+04:45 of I cream or I don't know what or
+04:46 
+
+04:46 Things become brighter I would change it
+04:48 
+
+04:48 to dark mode there like for code editor
+04:52 
+
+04:52 but I think like for Mo but for all the
+04:55 
+
+04:55 things outside of coeditor my entire
+04:56 
+
+04:56 phone is like dark
+04:58 
+
+04:58 mode but I think I us yeah I put like
+05:00 
+
+05:00 system white dark mode for everything um
+05:03 
+
+05:03 I think a lot of it was to save battery
+05:06 
+
+05:06 actually I read somewhere that because
+05:07 
+
+05:07 you know you're not using like a lot
+05:09 
+
+05:09 more uh electricity and dark mode so I
+05:11 
+
+05:11 use that but I've just kind of gotten
+05:13 
+
+05:13 used to it and that's also like
+05:14 
+
+05:14 scrolling at night with all like yeah I
+05:18 
+
+05:18 even have an additional app to like
+05:20 
+
+05:20 reduce the brightness even lower than
+05:22 
+
+05:22 the system brightness oh wao yeah so
+05:25 
+
+05:25 that when I use my phone at night I
+05:27 
+
+05:27 don't like stream oh that's good that's
+05:29 
+
+05:29 Co
+05:30 
+
+05:30 I actually do remember this one time
+05:32 
+
+05:32 where so I was working on my computer
+05:35 
+
+05:35 and when I referred to my colleague's
+05:37 
+
+05:37 computer he's using light mode on the
+05:39 
+
+05:39 editor I was like oh my ey my
+05:43 
+
+05:43 ey I wasn't I wasn't like dramatizing it
+05:47 
+
+05:47 it was actually quite painful to look at
+05:49 
+
+05:49 it cuz I was like in my dark mode editor
+05:53 
+
+05:53 mode and I looking at his like oh oh my
+05:56 
+
+05:56 God oh my eyes my eyes I actually relate
+05:60 
+
+05:60 to that because I have a similar story
+06:02 
+
+06:02 and I was just passing by just passing
+06:05 
+
+06:05 by the desk not even like looking to see
+06:07 
+
+06:07 the cat and I can see something very
+06:09 
+
+06:09 white and bright and I like ever it's
+06:11 
+
+06:11 like your eyes are not accustomed to it
+06:13 
+
+06:13 yeah whatever that is I don't want to
+06:14 
+
+06:14 look at the screen yeah but that's so
+06:17 
+
+06:17 Rel there's so this common stereotype
+06:19 
+
+06:19 like all the tech memes that you see
+06:21 
+
+06:21 everybody scared of the of the light mod
+06:23 
+
+06:23 person yeah I think this is a stereotype
+06:25 
+
+06:25 it's like majority of uh us I think use
+06:29 
+
+06:29 like dark mode uh uh most of the time
+06:31 
+
+06:31 but that one person that uses light mode
+06:34 
+
+06:34 especially the high contrast white
+06:37 
+
+06:37 background um uh light mode it's just
+06:40 
+
+06:40 like we fear you either that or we
+06:42 
+
+06:42 detest you who is that person can you
+06:45 
+
+06:45 imagine walking in an office and
+06:46 
+
+06:46 everybody like has their computers on
+06:48 
+
+06:48 but you will always know that one person
+06:50 
+
+06:50 mod light mode but of course we don't
+06:52 
+
+06:52 want to like say like light mode no like
+06:55 
+
+06:55 I'm all for like you know people's own
+06:57 
+
+06:57 preferences um I like how you also
+06:59 
+
+06:59 mentioned you adjust based on the time
+07:01 
+
+07:01 of day I think that's actually a healthy
+07:03 
+
+07:03 way to do it like to have Best of Both
+07:04 
+
+07:04 Worlds cuz I know that when I'm too
+07:07 
+
+07:07 immersed in darkness I for forgot to
+07:10 
+
+07:10 open my curtains you don't know if it's
+07:12 
+
+07:12 there night yeah like I have to look at
+07:15 
+
+07:15 the clock at the bottom the bottom you
+07:17 
+
+07:17 literally like block out black out
+07:19 
+
+07:19 curtains and then you just put on the
+07:20 
+
+07:20 hoodie I mean I don't have hoodies too
+07:23 
+
+07:23 hot
+07:24 
+
+07:24 but but I would see the clock so I know
+07:27 
+
+07:27 what time it is really need to work with
+07:30 
+
+07:30 the sun in general like I I just
+07:32 
+
+07:32 actually feel unproductive if I don't
+07:34 
+
+07:34 know like what time of day is so it like
+07:36 
+
+07:36 you you scare me the fact that like you
+07:38 
+
+07:38 like black out curtains and then you
+07:40 
+
+07:40 just work and you only look at the clock
+07:41 
+
+07:41 that's your only indication it's like
+07:42 
+
+07:42 dark and I'll I'll light a candle wow so
+07:46 
+
+07:46 cozy I mean that's just how I prefer to
+07:49 
+
+07:49 work that's so extra I'm sorry yeah I
+07:52 
+
+07:52 know I'm extra but then some people
+07:53 
+
+07:53 would like come in my room and open the
+07:56 
+
+07:56 curtain and I'll be like so what I do to
+07:60 
+
+07:60 this cuz I know like that's there's the
+08:01 
+
+08:01 importance of you know balancing right
+08:04 
+
+08:04 which I think you are great at so what I
+08:06 
+
+08:06 try to do to be less dark is I just got
+08:10 
+
+08:10 myself a
+08:12 
+
+08:12 plant what explain explain because you
+08:17 
+
+08:17 she has no I'm just like because when
+08:20 
+
+08:20 you got yourself a plant the plant needs
+08:23 
+
+08:23 the
+08:24 
+
+08:24 Sun so I will remember to like like I
+08:27 
+
+08:27 was in my dark room one day and I saw
+08:29 
+
+08:29 one leaf fall like oh I forgot to bring
+08:33 
+
+08:33 it out so I on my open my curtains like
+08:37 
+
+08:37 you know 10 cm and give it the sun it's
+08:40 
+
+08:40 the best thing
+08:42 
+
+08:42 ever but that's why that's one use of
+08:44 
+
+08:44 the pl if you see my Vlog in my about
+08:46 
+
+08:46 page I put my coding environment dark
+08:49 
+
+08:49 and I mean it literally some people
+08:51 
+
+08:51 think I I just put it there but no no
+08:54 
+
+08:54 you're like dark screen dark room dark
+08:55 
+
+08:55 everything yeah so I'm like the
+08:58 
+
+08:58 stereotype but interesting I I'm trying
+09:01 
+
+09:01 to be less of that so I'm trying to
+09:03 
+
+09:03 learn you know from you the sun does
+09:06 
+
+09:06 this hurt your eyes uh that's why
+09:09 
+
+09:09 actually this is a common TMI within my
+09:12 
+
+09:12 team is that if I stay in the office too
+09:14 
+
+09:14 long I will be so drained because the
+09:16 
+
+09:16 office lights are so white I will go
+09:20 
+
+09:20 into like a random Booth like in the
+09:22 
+
+09:22 office that's dark and I'll just
+09:23 
+
+09:23 recharge there for a while wow I'll came
+09:27 
+
+09:27 come out your reverse photosynthesizer
+09:30 
+
+09:30 oh my God I I don't know why but you do
+09:33 
+
+09:33 know that you need the sun right vitamin
+09:34 
+
+09:34 D is important that's why I take vitamin
+09:37 
+
+09:37 D oh my gosh I do have it on my Dash two
+09:41 
+
+09:41 bottles so one is like the capsule form
+09:43 
+
+09:43 and one is like the Milky candy
+09:46 
+
+09:46 form that's those are the things that
+09:48 
+
+09:48 like people in like London have to eat
+09:51 
+
+09:51 just to not get like seasonal uh
+09:53 
+
+09:53 depression but you're literally imposing
+09:56 
+
+09:56 that on yourself and you're like that's
+09:58 
+
+09:58 why I've not been sick
+09:60 
+
+09:60 technically I'm okay because I have my
+10:03 
+
+10:03 vitamins but but yeah I know it's very
+10:06 
+
+10:06 bad habit so I'm trying to like this a
+10:09 
+
+10:09 new thing I'm learning about Victoria I
+10:10 
+
+10:10 love it like when I started a
+10:12 
+
+10:12 conversation at light Mo versus dark W I
+10:13 
+
+10:13 didn't know she was like at that other
+10:15 
+
+10:15 extreme I am the definition of dark mod
+10:18 
+
+10:18 of dark I don't know it's me I I wear
+10:21 
+
+10:21 dark
+10:22 
+
+10:22 clothes I would have imagined that that
+10:24 
+
+10:24 was you actually but for you you're just
+10:28 
+
+10:28 she's like you're you're like neutral
+10:29 
+
+10:29 dark just chaotic like unlawful dark I'm
+10:32 
+
+10:32 unhinged dark
+10:36 
+
+10:36 unhinged I need to see the plant every
+10:38 
+
+10:38 day we need to check it on the plant oh
+10:39 
+
+10:39 you should see before and after before
+10:41 
+
+10:41 the plant was so full of leaves and now
+10:43 
+
+10:43 it's like it's it's like a coconut you
+10:47 
+
+10:47 see how many plants I have there oh my
+10:50 
+
+10:50 gosh your
+10:51 
+
+10:51 motivation much I don't have enough I
+10:55 
+
+10:55 only have one but it already looks like
+10:57 
+
+10:57 a palm tree because only the two upper
+10:58 
+
+10:58 leaves are
+11:02 
+
+11:02 okay it's
+11:03 
+
+11:03 okay okay getting back to the light mode
+11:07 
+
+11:07 versus dark mode so what we have
+11:09 
+
+11:09 realized is that personal preferences uh
+11:13 
+
+11:13 usually it is a stereotype that
+11:15 
+
+11:15 developers do use dark mode because I
+11:18 
+
+11:18 guess it's the the perception that we
+11:20 
+
+11:20 see right like usually screens are dark
+11:23 
+
+11:23 and when yeah and there are a fewers
+11:26 
+
+11:26 that do use the light mode and we judge
+11:28 
+
+11:28 them
+11:30 
+
+11:30 but but it's totally yeah it it depends
+11:33 
+
+11:33 what what your ice can take what how if
+11:36 
+
+11:36 it's better for you to read true cuz
+11:38 
+
+11:38 depends how long you're spending on the
+11:39 
+
+11:39 computer as well and things like that so
+11:42 
+
+11:42 yeah that's always going to be a debate
+11:43 
+
+11:43 I think it's not all developers use uh
+11:47 
+
+11:47 dark mode we have light mode users we
+11:50 
+
+11:50 have hybrid users and we have very
+11:51 
+
+11:51 extreme users yes yes and uh some people
+11:54 
+
+11:54 ask me how do you like how does your eye
+11:56 
+
+11:56 work in the dark right so I have blue
+11:59 
+
+11:59 light filter on these glasses and I blue
+12:03 
+
+12:03 light filter on this phone so everything
+12:07 
+
+12:07 by the way so that's how I keep my eyes
+12:10 
+
+12:10 from being so strained and I think
+12:12 
+
+12:12 whether you're a light M person or dark
+12:14 
+
+12:14 mood person you can do things to keep
+12:16 
+
+12:16 your eyes healthy right so ultimately
+12:18 
+
+12:18 it's about preference and keeping eyes
+12:21 
+
+12:21 healthy and having like healthy habits
+12:23 
+
+12:23 of taking eye breaks as well you should
+12:25 
+
+12:25 be looking out looking away from screens
+12:28 
+
+12:28 and things like that look at greener
+12:30 
+
+12:30 yes yes not just at one plant Greenery
+12:34 
+
+12:34 Greenery everywhere exactly everywhere
+12:37 
+
+12:37 nice nice okay we need this topic will
+12:40 
+
+12:40 bring us here but is hilarious I love
+12:43 
+
+12:43 that I found out so much more about you
+12:45 
+
+12:45 like such a TM love it okay on to the
+12:49 
+
+12:49 next on to the next the next one that we
+12:52 
+
+12:52 have is startup versus mang M M M do you
+12:58 
+
+12:58 want to Define what like yes so uh where
+13:01 
+
+13:01 this comes in is usually when we are
+13:04 
+
+13:04 like as teis as we are trying to look
+13:06 
+
+13:06 for a new job to switch to or to join
+13:09 
+
+13:09 should we join a startup which is a new
+13:12 
+
+13:12 company starting out where you will get
+13:15 
+
+13:15 much more things to do much more things
+13:18 
+
+13:18 to learn a little bit more chaotic less
+13:21 
+
+13:21 structure uh maybe there only two to
+13:23 
+
+13:23 three engineers in the beginning and
+13:26 
+
+13:26 versus a mang which is even even for
+13:29 
+
+13:29 mang that is the top tier which would be
+13:31 
+
+13:31 the mang which is meta Amazon Netflix I
+13:36 
+
+13:36 don't know why Netflix is there actually
+13:37 
+
+13:37 that was always my question why is
+13:39 
+
+13:39 Netflix there I have no idea I don't
+13:40 
+
+13:40 know if it's actually there
+13:42 
+
+13:42 recommendation system so actually so fun
+13:45 
+
+13:45 fact why why is mang mang right why are
+13:48 
+
+13:48 these companies in the mang it's
+13:49 
+
+13:49 actually because of their share
+13:53 
+
+13:53 value so if it's above it's the top few
+13:56 
+
+13:56 companies or it's it's above a certain
+13:58 
+
+13:58 thing I can remember so that's why they
+14:00 
+
+14:00 are M so that's why actually changes
+14:03 
+
+14:03 sometimes so Microsoft is also there
+14:06 
+
+14:06 Amazon uh Airbnb I think it came in once
+14:09 
+
+14:09 and then I don't know if it's still
+14:10 
+
+14:10 there so yeah so there's this bunch of
+14:12 
+
+14:12 companies and then there's also the the
+14:14 
+
+14:14 mid tier ones which would be uh Sony and
+14:19 
+
+14:19 you know things like that so they are
+14:20 
+
+14:20 they also there and then there also a
+14:22 
+
+14:22 few lower TI your ones so it's just like
+14:25 
+
+14:25 an umbrella like mang is just an
+14:26 
+
+14:26 umbrella term to talk about like really
+14:28 
+
+14:28 big high high Share value compies
+14:33 
+
+14:33 function correct so now uh why why is it
+14:37 
+
+14:37 even a startup versus this thing is
+14:39 
+
+14:39 because the experience you get working
+14:42 
+
+14:42 in a startup or working in mang or even
+14:45 
+
+14:45 like a mid tier company would be very
+14:47 
+
+14:47 different so you have to choose decide
+14:50 
+
+14:50 what you want and how it works so would
+14:53 
+
+14:53 any of you like to share like some pros
+14:56 
+
+14:56 cons of like working in startup working
+14:58 
+
+14:58 in mang uh yeah maybe I can start first
+15:01 
+
+15:01 so I literally encountered this
+15:03 
+
+15:03 situation uh in early in my career where
+15:06 
+
+15:06 I was offered two jobs one in a startup
+15:09 
+
+15:09 and one in a very highly valued public
+15:12 
+
+15:12 company so I asked the interviewer a lot
+15:16 
+
+15:16 of questions that day I remember I was
+15:18 
+
+15:18 asking I was as if I'm interviewing the
+15:21 
+
+15:21 interviewer because I wanted to know
+15:24 
+
+15:24 what are the advantages and
+15:26 
+
+15:26 disadvantages and I recognized there's a
+15:27 
+
+15:27 tradeoff so I just want to be
+15:29 
+
+15:29 transparent in that process that saying
+15:31 
+
+15:31 that I do have a job offer right now um
+15:35 
+
+15:35 so I'm just considering you as one of
+15:37 
+
+15:37 the options it took me a while to
+15:39 
+
+15:39 actually I created a pros and cons table
+15:42 
+
+15:42 That's My Style um and I realize that
+15:46 
+
+15:46 what I value in startup is you get to
+15:49 
+
+15:49 really be a voice your voice is more
+15:52 
+
+15:52 likely to be heard in such a small team
+15:54 
+
+15:54 and you get to take on different roles
+15:56 
+
+15:56 so it is definitely less structured and
+15:59 
+
+15:59 Celtic as you mentioned but if it's
+16:01 
+
+16:01 something that you want to like you know
+16:03 
+
+16:03 start learning right away that is
+16:05 
+
+16:05 something that you would maybe want to
+16:08 
+
+16:08 choose startup for basically like you
+16:09 
+
+16:09 want to learn a lot of things at once
+16:11 
+
+16:11 quickly and you want and you need to be
+16:13 
+
+16:13 able to adapt fast and then you like
+16:15 
+
+16:15 that fast-paced
+16:17 
+
+16:17 culture um and then the next one is the
+16:20 
+
+16:20 bigger company so that one you'll have
+16:21 
+
+16:21 more structure you'll go into the
+16:23 
+
+16:23 company there's a nice onboarding
+16:25 
+
+16:25 process for you you'll probably have a
+16:27 
+
+16:27 buddy assigned and everything just seems
+16:29 
+
+16:29 so natural it's like orientation when
+16:31 
+
+16:31 you first go into University right so
+16:34 
+
+16:34 institutional you know yeah so if you
+16:37 
+
+16:37 want that kind of like oh this is the
+16:39 
+
+16:39 right way to on board this is the right
+16:41 
+
+16:41 structure to have you know to have HR
+16:43 
+
+16:43 dealing with HR things for you you know
+16:46 
+
+16:46 then you everyone wears their own hats
+16:49 
+
+16:49 and you just do what you are SC yeah so
+16:52 
+
+16:52 the thing about that is that eventually
+16:54 
+
+16:54 you'll get quite specialized in that
+16:56 
+
+16:56 skill so if that's something what you're
+16:58 
+
+16:58 looking to build like being specialized
+16:60 
+
+16:60 and like really only focusing on doing
+17:02 
+
+17:02 one thing at a time then that is maybe
+17:06 
+
+17:06 the reason why you might choose a a
+17:08 
+
+17:08 bigger company yeah so at the end of the
+17:11 
+
+17:11 day I chose to go with like a bigger
+17:14 
+
+17:14 company first U it's just my personal
+17:16 
+
+17:16 preference just because I want to find
+17:18 
+
+17:18 out like a structure you know what is a
+17:21 
+
+17:21 normal like a normal like a a scalable
+17:23 
+
+17:23 organization will look like what does a
+17:26 
+
+17:26 product that has been scaled look like
+17:29 
+
+17:29 and how are they assigned like task to
+17:31 
+
+17:31 different people how is the organization
+17:33 
+
+17:33 structured and how things work in a
+17:36 
+
+17:36 bigger organization so that's just my
+17:38 
+
+17:38 personal preference but I'm definitely
+17:40 
+
+17:40 curious what you guys have to say about
+17:43 
+
+17:43 this I think for me um it's it's kind of
+17:48 
+
+17:48 strange to also kind of um describe my
+17:51 
+
+17:51 own experience because uh I've been in
+17:53 
+
+17:53 startups and I've been I am in a big
+17:56 
+
+17:56 organization right now but that big
+17:58 
+
+17:58 organization ation doesn't have a
+17:59 
+
+17:59 structure and process around what to do
+18:02 
+
+18:02 with um the the technical uh roles in
+18:06 
+
+18:06 their uh business function so I ended up
+18:10 
+
+18:10 kind of being a startup within a large
+18:13 
+
+18:13 organization yeah but in terms of like
+18:15 
+
+18:15 the both of your experiences where you
+18:17 
+
+18:17 are already in a um h a business where
+18:22 
+
+18:22 the tech fun functions are a heavy part
+18:24 
+
+18:24 of that domain and it's a big company so
+18:26 
+
+18:26 there's established processes around how
+18:28 
+
+18:28 like product teams work and stuff like
+18:29 
+
+18:29 that I haven't been in that uh scenario
+18:32 
+
+18:32 but um I have this more hybrid scenario
+18:35 
+
+18:35 where I know how like a big organization
+18:36 
+
+18:36 with structures and processes around
+18:38 
+
+18:38 established business functions work but
+18:40 
+
+18:40 at the same time they don't have
+18:41 
+
+18:41 established functions around um the
+18:44 
+
+18:44 technical uh side of things so I ended
+18:46 
+
+18:46 up doing a sh up so um in terms of that
+18:49 
+
+18:49 experience because I've um kind of had
+18:52 
+
+18:52 that I would say very clearly that for
+18:54 
+
+18:54 myself personal preference wise I know I
+18:57 
+
+18:57 thrive in more of a sort of kind of C
+18:59 
+
+18:59 that's where my main skill set lies
+19:00 
+
+19:00 that's where my personality thrives the
+19:03 
+
+19:03 bested because uh before I went into
+19:06 
+
+19:06 sofware engineering uh as a formal role
+19:09 
+
+19:09 um I was holding a different kind of
+19:12 
+
+19:12 position in a big organization where
+19:14 
+
+19:14 there was structures and processes
+19:16 
+
+19:16 already before I went to college
+19:17 
+
+19:17 actually and I knew I didn't really like
+19:21 
+
+19:21 um that process where uh my personal my
+19:25 
+
+19:25 personality is that I question
+19:27 
+
+19:27 everything if things don't seem right I
+19:28 
+
+19:28 want to be able to raise questions and I
+19:31 
+
+19:31 hope that these questions seat thoughts
+19:32 
+
+19:32 in people and U my intuition is that
+19:35 
+
+19:35 this should um kind of bring people
+19:37 
+
+19:37 together and we should Co like like get
+19:39 
+
+19:39 together to solve uh that problem and
+19:41 
+
+19:41 change that structure and process but I
+19:43 
+
+19:43 think with like um an established
+19:47 
+
+19:47 organization or at least for the
+19:48 
+
+19:48 organization I was in and am in right
+19:51 
+
+19:51 now um there wasn't a culture around
+19:53 
+
+19:53 that and I felt very different from
+19:56 
+
+19:56 everybody else so I could identify that
+19:58 
+
+19:58 but at that point point of time I didn't
+19:59 
+
+19:59 know what other options were available
+20:01 
+
+20:01 for me out there uh then when when I
+20:03 
+
+20:03 started to do my own startup and then
+20:05 
+
+20:05 eventually um know what it's like
+20:08 
+
+20:08 working at it structure I realize I like
+20:10 
+
+20:10 uh moving fast in small small teams
+20:12 
+
+20:12 where everybody is aligned uh to the
+20:13 
+
+20:13 same goal I like having like um autonomy
+20:17 
+
+20:17 as well um and having the freedom to uh
+20:20 
+
+20:20 have different ideas and solve a lot of
+20:22 
+
+20:22 problems in a fast-paced team with
+20:23 
+
+20:23 people I know and trust rather than
+20:26 
+
+20:26 having to relate them to a larger organ
+20:28 
+
+20:28 ganizational objective that isn't even
+20:31 
+
+20:31 like clear to me in the first place um
+20:34 
+
+20:34 and also I I just realized I'm really
+20:36 
+
+20:36 bad at like fighting politics I don't
+20:38 
+
+20:38 know if both of you like um experien
+20:40 
+
+20:40 this in your organizations but in a big
+20:42 
+
+20:42 um
+20:43 
+
+20:43 organization a lot of different people
+20:45 
+
+20:45 and individuals different stakeholders
+20:47 
+
+20:47 have different goals um and it's very
+20:50 
+
+20:50 difficult to align them into one
+20:51 
+
+20:51 organizational goal especially when they
+20:53 
+
+20:53 have different interpretations of it and
+20:55 
+
+20:55 I realize that seats a lot of like
+20:57 
+
+20:57 um uh I don't want to say unprofessional
+21:00 
+
+21:00 behavior but just Behavior I don't
+21:02 
+
+21:02 understand um because I'm a very
+21:04 
+
+21:04 rational and logical individual so for
+21:06 
+
+21:06 all those reasons I knew I wasn't um I
+21:09 
+
+21:09 wasn't going to thrive in that
+21:11 
+
+21:11 environment um but I've carved a space
+21:13 
+
+21:13 for myself in this large environment to
+21:15 
+
+21:15 build a startup and an isolated little
+21:17 
+
+21:17 bubble to practice and build an
+21:20 
+
+21:20 environment uh like a startup that I
+21:22 
+
+21:22 knew I would thrive in so um yeah I know
+21:26 
+
+21:26 like I went into a lot of natural
+21:28 
+
+21:28 explain but I think this is also a
+21:29 
+
+21:29 reflective process for me like now if I
+21:32 
+
+21:32 look towards like what do I want to do
+21:34 
+
+21:34 next um I kind of know I don't want to
+21:37 
+
+21:37 work in M actually um unless the offer
+21:41 
+
+21:41 that was put on on the table was more of
+21:43 
+
+21:43 like Can you short like a startup within
+21:45 
+
+21:45 like the larger company maybe an R&D um
+21:47 
+
+21:47 or like a Pathfinder kind of uh position
+21:50 
+
+21:50 yeah I I would definitely consider that
+21:52 
+
+21:52 um but I think top of my hit definitely
+21:55 
+
+21:55 um being in a startup I starting my own
+21:57 
+
+21:57 uh startup with uh be the best fit for
+21:59 
+
+21:59 my personality and that's where I will
+22:01 
+
+22:01 Thrive so yeah I think the conversation
+22:04 
+
+22:04 on Startup versus mang um for me it's a
+22:09 
+
+22:09 very clear preference only because I've
+22:11 
+
+22:11 gone through the process of
+22:12 
+
+22:12 understanding how it looks like um but I
+22:15 
+
+22:15 think um for uh you you literally were
+22:18 
+
+22:18 offered those two options on a table so
+22:20 
+
+22:20 it's kind of uh interesting that at that
+22:22 
+
+22:22 point because you did that was your
+22:24 
+
+22:24 first job right at that point sort of
+22:26 
+
+22:26 yeah like basically uh it was my first
+22:28 
+
+22:28 job in Tech so that's something like I
+22:31 
+
+22:31 want to explore first like on a bigger
+22:33 
+
+22:33 scale and then maybe in the future I
+22:36 
+
+22:36 would move to that kind of starup
+22:38 
+
+22:38 culture so in a way I don't have like a
+22:40 
+
+22:40 strong preference like you you are very
+22:42 
+
+22:42 sure that you you would want starup
+22:43 
+
+22:43 Culture Your for me it would depend on
+22:46 
+
+22:46 like my current goals at the time and it
+22:49 
+
+22:49 would depend on what I want to learn and
+22:51 
+
+22:51 want to focus on at the time yeah yeah
+22:53 
+
+22:53 like that what you want to learn yeah
+22:55 
+
+22:55 yeah yeah what about uh so I I've I've
+22:59 
+
+22:59 worked in uh startup before I've never
+23:02 
+
+23:02 worked in like the mang mang but maybe a
+23:04 
+
+23:04 a mid tier company uh so so I so
+23:09 
+
+23:09 truthfully speaking I always wanted to
+23:11 
+
+23:11 be in uh mang cuz you know it comes with
+23:14 
+
+23:14 its Prestige it comes with the high pay
+23:18 
+
+23:18 and uh working with like very the
+23:21 
+
+23:21 Imagine like the interview process is so
+23:22 
+
+23:22 difficult to get into those companies
+23:24 
+
+23:24 that if you do get in you're one of the
+23:26 
+
+23:26 top few people around so I wanted I
+23:30 
+
+23:30 wanted that for myself but uh over time
+23:33 
+
+23:33 I did real I realize like especially
+23:35 
+
+23:35 with like Co like all the tech layoffs
+23:38 
+
+23:38 happening and I realized uh I always
+23:40 
+
+23:40 thought that oh if I got into a man
+23:42 
+
+23:42 company it would be a very stable job
+23:45 
+
+23:45 and you know high paying stable job this
+23:47 
+
+23:47 is very working with people uh in that
+23:50 
+
+23:50 sorts but then when these Tech leops
+23:52 
+
+23:52 happen like okay nothing is stable
+23:56 
+
+23:56 nothing can be taken for granted so so
+23:59 
+
+23:59 that's when uh kind of like I started
+24:02 
+
+24:02 like taking the place where I'm at more
+24:06 
+
+24:06 for for Value that okay I don't have to
+24:09 
+
+24:09 be in those kind of companies to have
+24:11 
+
+24:11 that kind of prestige and things like
+24:13 
+
+24:13 that I can also find that in the other
+24:15 
+
+24:15 companies which are not mentioned in in
+24:17 
+
+24:17 M but they're also neighbors to that or
+24:20 
+
+24:20 like a little bit lower or something so
+24:22 
+
+24:22 it's not all about the name uh also I've
+24:26 
+
+24:26 been I've worked in Earth I wouldn't
+24:28 
+
+24:28 like I would not like to conclude my
+24:31 
+
+24:31 experience with startups with just
+24:33 
+
+24:33 because I've worked in one
+24:35 
+
+24:35 startup uh so it it was very interesting
+24:39 
+
+24:39 actually like you mentioned you get to
+24:41 
+
+24:41 wear different hats you have a say and
+24:44 
+
+24:44 but also there are also downsides to
+24:45 
+
+24:45 that that there because there wasn't a
+24:48 
+
+24:48 structure we would do things like you
+24:50 
+
+24:50 know in a hacky way for example get
+24:52 
+
+24:52 things out ASAP don't don't test that
+24:55 
+
+24:55 much don't write test maybe just test it
+24:57 
+
+24:57 out if it works it would work for the
+24:59 
+
+24:59 customer and like so uh things like that
+25:02 
+
+25:02 so if I if like a new graduate comes in
+25:06 
+
+25:06 and they ask should I Jo a startup or a
+25:08 
+
+25:08 mang I would say depends both have pros
+25:12 
+
+25:12 and cons uh just know that what you'll
+25:16 
+
+25:16 be losing out in a startup and what
+25:17 
+
+25:17 you'll be losing out in a m and I would
+25:20 
+
+25:20 say try both in your career and
+25:23 
+
+25:23 eventually try both eventually you
+25:24 
+
+25:24 should try both and learn both sides of
+25:27 
+
+25:27 it yeah
+25:28 
+
+25:28 because the pros from startup if you
+25:30 
+
+25:30 bring it to your big Large Scale Company
+25:34 
+
+25:34 it would also benefit uh if you bring
+25:36 
+
+25:36 your structured your best practices that
+25:39 
+
+25:39 you have the Liberty to practice in a
+25:41 
+
+25:41 big company to a startup you also bring
+25:43 
+
+25:43 a lot of value to that aspect uh and
+25:46 
+
+25:46 also like your goals in life if you
+25:48 
+
+25:48 eventually want to be opening own
+25:50 
+
+25:50 startup or something maybe startup is
+25:52 
+
+25:52 the better route for you see experiment
+25:54 
+
+25:54 that way if you are okay with a
+25:56 
+
+25:56 corporate job or uh if you like
+25:58 
+
+25:58 structure in your life things like that
+26:01 
+
+26:01 the large scale companies might be
+26:03 
+
+26:03 better for you yeah uh but definitely
+26:05 
+
+26:05 like if you ask me I think I had a very
+26:08 
+
+26:08 wrong perception of like mang Prestige
+26:11 
+
+26:11 name uh like only with experience I
+26:15 
+
+26:15 understood that so I think it's a right
+26:16 
+
+26:16 of passage everyone goes
+26:19 
+
+26:19 through yeah so yeah both both have
+26:23 
+
+26:23 their Frozen I think that's a very nice
+26:25 
+
+26:25 way to rap basically is understand
+26:28 
+
+26:28 depending what you're trading off you
+26:30 
+
+26:30 know when you're choosing one decision
+26:32 
+
+26:32 over the another yeah yeah yeah and like
+26:35 
+
+26:35 you know I know we went from light mode
+26:36 
+
+26:36 to dark mode and then now we're like so
+26:38 
+
+26:38 serious St but it actually like goes
+26:40 
+
+26:40 back to the same um essence of it's
+26:42 
+
+26:42 actually based on preference and what
+26:44 
+
+26:44 suits you better right but in the first
+26:46 
+
+26:46 place you have to experience both
+26:47 
+
+26:47 correct um so you it's a right of
+26:49 
+
+26:49 passage you know there doesn't have to
+26:51 
+
+26:51 be an order for it I think I heard like
+26:53 
+
+26:53 uh there was this uh first year
+26:55 
+
+26:55 university student who told me like the
+26:57 
+
+26:57 common uh conception is that you should
+26:59 
+
+26:59 start in a big company first for
+27:01 
+
+27:01 internship and then maybe do like U
+27:04 
+
+27:04 there there is no order you just have to
+27:06 
+
+27:06 experience both and see like what you
+27:08 
+
+27:08 thrive in and what your personal
+27:09 
+
+27:09 preference in is just like with light
+27:11 
+
+27:11 mode and dark mode you wouldn't know
+27:12 
+
+27:12 like which is better for you if you
+27:13 
+
+27:13 don't try both and we also don't want to
+27:16 
+
+27:16 emphasize that it's all about like this
+27:18 
+
+27:18 binary right there's always something in
+27:20 
+
+27:20 in between hybrid so like probably what
+27:23 
+
+27:23 you're experiencing or even likees so
+27:26 
+
+27:26 they already have structure and like
+27:28 
+
+27:28 still developing their teag team and all
+27:30 
+
+27:30 that so there's there's always something
+27:32 
+
+27:32 in the middle right it's whatever that
+27:34 
+
+27:34 suits you and it's actually technically
+27:36 
+
+27:36 a spectrum just in this episode we want
+27:38 
+
+27:38 to make it more like a fun debate oh
+27:40 
+
+27:40 yeah de like I love that definitely
+27:43 
+
+27:43 there's always the middle ground so it's
+27:46 
+
+27:46 really up yeah yeah yeah yeah I think we
+27:48 
+
+27:48 have time for like one more one more one
+27:51 
+
+27:51 quick and dirty so this is something we
+27:53 
+
+27:53 mentioned in uh in my episode that we
+27:56 
+
+27:56 did where I talked about full full stack
+27:58 
+
+27:58 development and how there's front end
+27:60 
+
+27:60 and back end so some people will lean
+28:03 
+
+28:03 more towards front end development and
+28:05 
+
+28:05 some people would lean more towards
+28:06 
+
+28:06 backend development so before we begin
+28:09 
+
+28:09 I'll just Define like front-end
+28:11 
+
+28:11 development would be client facing uh
+28:14 
+
+28:14 for example websites so the website that
+28:17 
+
+28:17 you see a front front end developer
+28:19 
+
+28:19 would have created uh would have
+28:21 
+
+28:21 implemented those components that you
+28:23 
+
+28:23 see on your website uh even the titles
+28:27 
+
+28:27 like the yeah the titles colors like uh
+28:30 
+
+28:30 usually front end Dev would work with a
+28:33 
+
+28:33 designer to get the the ux UI of it uh
+28:38 
+
+28:38 and versus backend developer would be
+28:41 
+
+28:41 someone who would create the databases
+28:43 
+
+28:43 the servers the backend logic to like uh
+28:47 
+
+28:47 for example if you sign in so the
+28:49 
+
+28:49 backend year would make the sign in
+28:52 
+
+28:52 portion of it and then return cookies
+28:54 
+
+28:54 and things like that to the front uh and
+28:56 
+
+28:56 save data in the database and then show
+28:59 
+
+28:59 the data back to the front end and the
+29:00 
+
+29:00 front end would show it in a nice manner
+29:02 
+
+29:02 in a list format in a table format
+29:04 
+
+29:04 things like that yeah so that's front
+29:06 
+
+29:06 end back end there are different
+29:08 
+
+29:08 languages used for different uh
+29:10 
+
+29:10 developers but yeah we I think that's
+29:14 
+
+29:14 what that's what I think that everyone
+29:16 
+
+29:16 would lean towards one you can't be Best
+29:18 
+
+29:18 of Both
+29:20 
+
+29:20 Worlds yeah or you could be best of both
+29:22 
+
+29:22 FS but not Jack of all trades thought
+29:25 
+
+29:25 Master you know so we still leaning
+29:27 
+
+29:27 towards one yeah I feel like very I I
+29:30 
+
+29:30 wouldn't um classify myself as like
+29:33 
+
+29:33 strictly front end or back end but I
+29:34 
+
+29:34 also feel very uncomfortable with the
+29:36 
+
+29:36 term full stack because yes the truth is
+29:38 
+
+29:38 I have done both front end and back end
+29:40 
+
+29:40 but what does it mean to be full stack I
+29:42 
+
+29:42 think full stack is basically somebody
+29:44 
+
+29:44 who knows both knows how to code in both
+29:47 
+
+29:47 um like like Frameworks um but at the
+29:50 
+
+29:50 same time what does knowing mean does it
+29:52 
+
+29:52 mean like you have 50% 50% confidence in
+29:56 
+
+29:56 boys I've always wondered this is really
+29:58 
+
+29:58 just open question I just really don't
+29:59 
+
+29:59 know or does it mean that I do heavy uh
+30:02 
+
+30:02 front end but I've dabbled in like some
+30:05 
+
+30:05 back end so I've always been conf
+30:08 
+
+30:08 confused by that but if you're talking
+30:09 
+
+30:09 about inclinations I think I would
+30:11 
+
+30:11 incline more front end um as in terms of
+30:14 
+
+30:14 like the actual work that I've done in
+30:16 
+
+30:16 front end but I also really love the
+30:19 
+
+30:19 process of Designing like uh the uh like
+30:22 
+
+30:22 the
+30:23 
+
+30:23 databases but in terms of the actual
+30:25 
+
+30:25 work that I've done in that I think
+30:27 
+
+30:27 comparatively time spent um there there
+30:30 
+
+30:30 is an imbalance there but it's very hard
+30:31 
+
+30:31 for me to part one or other I enjoy uh
+30:34 
+
+30:34 both processes and I think it activates
+30:36 
+
+30:36 like different parts of my brain yeah
+30:39 
+
+30:39 yeah but that's for me so but if you
+30:41 
+
+30:41 know I were had to say what I I would
+30:43 
+
+30:43 just like okay fine front end I guess
+30:45 
+
+30:45 yeah but for you like uh so I like I
+30:48 
+
+30:48 mentioned like I do call myself full St
+30:50 
+
+30:50 developer it's because I I say that for
+30:53 
+
+30:53 myself because I have done front end
+30:56 
+
+30:56 development quite a bit and I've done
+30:58 
+
+30:58 backend development quite a bit
+30:60 
+
+30:60 currently I'm doing more backend
+31:02 
+
+31:02 development so like currently currently
+31:04 
+
+31:04 I am leaning on backend more but uh if
+31:08 
+
+31:08 you ever do put me in like a reactjs
+31:11 
+
+31:11 front end project I will be able to
+31:14 
+
+31:14 catch on pretty quickly maybe I'm not up
+31:17 
+
+31:17 to date with like the latest react
+31:19 
+
+31:19 version and its uh nuances but I get I
+31:23 
+
+31:23 mean I would be able to understand it if
+31:25 
+
+31:25 given some time with Google access right
+31:28 
+
+31:28 uh so I would I would call that full
+31:31 
+
+31:31 stack but then also knowing that I do
+31:34 
+
+31:34 lean towards backend cuz that's where
+31:36 
+
+31:36 I'm more comfortable in right
+31:38 
+
+31:38 now I do like your definition of a full
+31:41 
+
+31:41 stack because it's about code
+31:42 
+
+31:42 comprehension right so if you can
+31:44 
+
+31:44 comprehend both sides that kind of means
+31:47 
+
+31:47 that you have the skills to understand
+31:49 
+
+31:49 like oh the logic how both sides work
+31:52 
+
+31:52 corre so that's kind of a good
+31:54 
+
+31:54 definition what full stack means I
+31:56 
+
+31:56 always find it also it's very hard to be
+31:58 
+
+31:58 an expert at both things that's why you
+32:00 
+
+32:00 also mention how you tend to Incline to
+32:03 
+
+32:03 one because it's so hard it's not like
+32:04 
+
+32:04 you can monitor yourself that you do
+32:07 
+
+32:07 things equally right 50/50 of the time
+32:09 
+
+32:09 and that was the same for me when I was
+32:11 
+
+32:11 starting my journey in software
+32:13 
+
+32:13 engineering I started with front end
+32:16 
+
+32:16 just cuz it's visual it's easier for me
+32:18 
+
+32:18 to see and understand and I received
+32:21 
+
+32:21 this question are you a front end or
+32:23 
+
+32:23 back end from my readers a lot and if
+32:26 
+
+32:26 you notice in my blog I I write a lot of
+32:29 
+
+32:29 um front end like react because it's
+32:33 
+
+32:33 just easier to show like in my have
+32:36 
+
+32:36 something to show yeah like I would like
+32:38 
+
+32:38 show them oh this is how you implement
+32:40 
+
+32:40 like a you know scroll element there I
+32:43 
+
+32:43 have a nice demo for you to see like
+32:45 
+
+32:45 visually but if you're talking about
+32:48 
+
+32:48 interest or like what I actually might
+32:52 
+
+32:52 like I would enjoy back end more just
+32:53 
+
+32:53 because when I'm really sitting down and
+32:55 
+
+32:55 coding and get into the flow State like
+32:58 
+
+32:58 back end just seems so wow rewarding
+33:02 
+
+33:02 like it activates a different part of my
+33:04 
+
+33:04 brain yeah yeah that I would be like I
+33:06 
+
+33:06 would find it so I I would find it
+33:08 
+
+33:08 joyful almost like when I code like
+33:11 
+
+33:11 after a backend session versus front end
+33:14 
+
+33:14 sometimes I'll be like it triggers my
+33:16 
+
+33:16 perfectionism for front end CU I'll be
+33:18 
+
+33:18 like the fing not enough I feel like I
+33:20 
+
+33:20 waste of first time in front end with
+33:23 
+
+33:23 very little reward yeah but that that's
+33:26 
+
+33:26 also a fun part of the process
+33:29 
+
+33:29 of brain ande for the te folks there I
+33:34 
+
+33:34 wanted to draw comparison uh in in this
+33:36 
+
+33:36 like whole front end and back end thing
+33:38 
+
+33:38 but it's kind of like um I don't know
+33:40 
+
+33:40 say like cooking um cooking there's two
+33:43 
+
+33:43 parts of the process the actual like uh
+33:45 
+
+33:45 you prepare the ingredients part of it
+33:47 
+
+33:47 and then you cook and plate it so I
+33:49 
+
+33:49 would say like the preparing ingredients
+33:51 
+
+33:51 part of it where you chop and your Dy
+33:52 
+
+33:52 and stuff like that um it's kind of like
+33:54 
+
+33:54 backend it's the Unseen part that's not
+33:56 
+
+33:56 what people eat eating the food would
+33:59 
+
+33:59 instinctively know when they see um the
+34:01 
+
+34:01 food um but then uh front end is kind of
+34:05 
+
+34:05 like the um plating part of the process
+34:07 
+
+34:07 where you arrange the cooked items
+34:09 
+
+34:09 already out there and that's what the
+34:11 
+
+34:11 client the user sees but if you were to
+34:14 
+
+34:14 ask the chef like which part of the
+34:16 
+
+34:16 process do you prefer he'll just look at
+34:19 
+
+34:19 you like what do you what do you mean
+34:20 
+
+34:20 it's all part of the same process but I
+34:22 
+
+34:22 think you know in a very organized
+34:24 
+
+34:24 kitchen not that I've like been in like
+34:25 
+
+34:25 an organized kitchen before I I assume
+34:27 
+
+34:27 that this role is divided into two um
+34:30 
+
+34:30 because it's just more efficient so a
+34:32 
+
+34:32 person would naturally like do one thing
+34:34 
+
+34:34 more than another because of the
+34:36 
+
+34:36 division of labor but it's not so much
+34:38 
+
+34:38 of like do they have a preference yeah
+34:41 
+
+34:41 because it's like it's part of the whole
+34:43 
+
+34:43 process so that's kind of how I see this
+34:46 
+
+34:46 whole thing and I I love what both of
+34:48 
+
+34:48 you have kind of brought out um that
+34:50 
+
+34:50 it's about quote comprehension actually
+34:52 
+
+34:52 now that you think about like yeah
+34:53 
+
+34:53 actually the fact that you can
+34:55 
+
+34:55 comprehend both like the preparing of of
+34:57 
+
+34:57 the ingredients and then like the
+34:58 
+
+34:58 presenting why it's important to the
+34:60 
+
+34:60 whole process you know and like it's
+35:03 
+
+35:03 also dependent on the current role that
+35:05 
+
+35:05 you're in you know if you happen to be
+35:07 
+
+35:07 doing more back and heavy stuff I guess
+35:09 
+
+35:09 like for now I will identify as a back
+35:10 
+
+35:10 and developer um but at the end of the
+35:13 
+
+35:13 day it is a preference and it is a
+35:16 
+
+35:16 circumstance of your external factors
+35:19 
+
+35:19 right now um it's actually part of the
+35:21 
+
+35:21 same process so yeah so whichever one
+35:24 
+
+35:24 you're more inclined to just enjoy the
+35:26 
+
+35:26 process just enjoy the process yeah just
+35:29 
+
+35:29 have fun right have fun yeah so I I
+35:32 
+
+35:32 think a lot of people they might get
+35:33 
+
+35:33 stressed out about it right like let's
+35:36 
+
+35:36 say there has been situations I've heard
+35:38 
+
+35:38 from um acquaintances where they're from
+35:42 
+
+35:42 a backend role and then they're forced
+35:44 
+
+35:44 to do front end stuff it happens a lot
+35:47 
+
+35:47 yeah and they end up not enjoying it at
+35:50 
+
+35:50 all but if you tell them like oh there's
+35:52 
+
+35:52 some things to enjoy in front end like
+35:55 
+
+35:55 they will actually slowly Discover it
+35:57 
+
+35:57 over time it just takes some time for
+35:59 
+
+35:59 different people but there's always
+36:01 
+
+36:01 something like if you have an open mind
+36:03 
+
+36:03 and like you you say like oh there's
+36:05 
+
+36:05 things that I can enjoy in both
+36:06 
+
+36:06 processes you know you'll eventually
+36:09 
+
+36:09 find something that you can like but of
+36:11 
+
+36:11 course maybe you there's a preference
+36:14 
+
+36:14 there but you can still find something
+36:15 
+
+36:15 basically so at the end of the day you
+36:18 
+
+36:18 know it doesn't matter what you are yeah
+36:20 
+
+36:20 you know I was think like at the end day
+36:22 
+
+36:22 it's still just coding it's you're still
+36:25 
+
+36:25 solving some issues some some problem
+36:28 
+
+36:28 loal problem yeah uh and and I I
+36:32 
+
+36:32 actually find it like hard to be good at
+36:35 
+
+36:35 both at the same time because there's
+36:37 
+
+36:37 like uh advancements happening in the
+36:39 
+
+36:39 backend world where you know there's a
+36:40 
+
+36:40 new database There's A New Concept to
+36:42 
+
+36:42 understand there a new way of
+36:44 
+
+36:44 architecting your back end and then on
+36:46 
+
+36:46 the front end there's a new library a
+36:48 
+
+36:48 new framework with it's oh now the new
+36:51 
+
+36:51 framework comes with new things where
+36:53 
+
+36:53 which you can use to do things even
+36:54 
+
+36:54 quicker even shorter lines of code so to
+36:57 
+
+36:57 be up to dat with both of it so I
+36:59 
+
+36:59 personally prefer to stay on one side
+37:03 
+
+37:03 just just that because it is big enough
+37:06 
+
+37:06 in itself already exactly so yeah that
+37:10 
+
+37:10 that's what it is but some people can do
+37:11 
+
+37:11 both I know of some really good full
+37:14 
+
+37:14 stack developers who are like able to
+37:15 
+
+37:15 provide input here and in the back end
+37:18 
+
+37:18 as well so yeah there are uh all all
+37:22 
+
+37:22 different kinds of people everywhere all
+37:23 
+
+37:23 kinds of chefs exactly all kinds of
+37:26 
+
+37:26 chefs chefs
+37:27 
+
+37:27 Co if anything like I know we have had
+37:30 
+
+37:30 like three sort of like major myths sort
+37:33 
+
+37:33 of debates kind of debunk but it wasn't
+37:36 
+
+37:36 really a debunking it was really like
+37:38 
+
+37:38 showing that these things you there are
+37:40 
+
+37:40 stereotypes attached to each but at the
+37:42 
+
+37:42 end of the day it's down to preference
+37:44 
+
+37:44 there is no right or wrong answer uh for
+37:47 
+
+37:47 anything um and um even in the tech
+37:50 
+
+37:50 industry uh nobody inclines to one more
+37:53 
+
+37:53 than another you might see it displayed
+37:55 
+
+37:55 in popular media in a certain in a way a
+37:58 
+
+37:58 majority of the time but you you know
+38:01 
+
+38:01 every developer is different every
+38:02 
+
+38:02 engineer is different every person in a
+38:04 
+
+38:04 tech industry is different so that's
+38:06 
+
+38:06 what I've come to realize from this
+38:07 
+
+38:07 conversation and um yeah I really
+38:11 
+
+38:11 enjoyed that conversation I like how we
+38:13 
+
+38:13 went from like super fun and bantery to
+38:16 
+
+38:16 like really serious
+38:18 
+
+38:18 like I mean technically they're all just
+38:20 
+
+38:20 fun topics but yeah it depends how you
+38:23 
+
+38:23 we articulate them sometimes as well
+38:26 
+
+38:26 yeah we just want to be sinere in how we
+38:27 
+
+38:27 like actually word it out cuz we don't
+38:29 
+
+38:29 want people to get the wrong
+38:31 
+
+38:31 idea it's binary or like anything like
+38:34 
+
+38:34 that yeah that's why sometimes we we get
+38:37 
+
+38:37 serious and it's also because we're
+38:38 
+
+38:38 passionate in talking about this so
+38:40 
+
+38:40 that's why so hope hope everyone uh
+38:43 
+
+38:43 benefited from this episode and do
+38:46 
+
+38:46 subscribe to us follow us and do all the
+38:48 
+
+38:48 socials comment on our on our episodes
+38:51 
+
+38:51 to let us know what else you would like
+38:52 
+
+38:52 us to talk about or if you have some
+38:54 
+
+38:54 opinion that we would we would be
+38:56 
+
+38:56 interested to know about regarding these
+38:58 
+
+38:58 three topics that we talked about today
+39:01 
+
+39:01 and yep thank you this is R Tech yay bye
+39:06 
+
+39:06 bye
