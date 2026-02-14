@@ -1,185 +1,197 @@
 {
-  "transcriptName": "CTO",
-  "videoId": "n8IVhPQnje8",
+  "transcriptName": "AI-Wrappers",
+  "videoId": "qw3dKhXV6Vw",
   "showLogo": false,
   "carousels": [
     {
-      "name": "what-makes-a-good-cto",
-      "description": "The skills a CTO needs beyond just coding",
+      "name": "what-is-an-ai-wrapper",
+      "description": "Defining what AI wrappers are and how they work — the thin layer of AI over existing models",
       "slides": [
         {
-          "topTimestamp": 249,
-          "bottomTimestamp": 256,
-          "topText": "It's probably easy to find a techie.",
-          "bottomText": "But what you actually need in a CTO is more than just a technical background."
+          "topTimestamp": 40,
+          "bottomTimestamp": 48,
+          "topText": "AI wrappers are applications that have a thin layer of AI over them.",
+          "bottomText": "They don't have their own proprietary model for AI."
         },
         {
-          "topTimestamp": 263,
-          "bottomTimestamp": 268,
-          "topText": "They can't just be junior level in tech.",
-          "bottomText": "They need to be mid-to-senior level."
+          "topTimestamp": 50,
+          "bottomTimestamp": 60,
+          "topText": "OpenAI has GPT-4 — they trained it, they invested resources.",
+          "bottomText": "Google has Gemini. Anthropic has Claude. Meta has Llama."
         },
         {
-          "topTimestamp": 268,
-          "bottomTimestamp": 278,
-          "topText": "They need product thinking.",
-          "bottomText": "Which honestly, as software engineers, we're not trained in. You have to learn it on the side."
+          "topTimestamp": 62,
+          "bottomTimestamp": 72,
+          "topText": "AI wrappers are the companies who access these models",
+          "bottomText": "and then build an application layer over them."
         },
         {
-          "topTimestamp": 279,
-          "bottomTimestamp": 291,
-          "topText": "You have to do side projects that teach you:",
-          "bottomText": "How do I find a problem? What are the minimum viable features? How do I validate it?"
+          "topTimestamp": 74,
+          "bottomTimestamp": 84,
+          "topText": "They don't own the models themselves.",
+          "bottomText": "They have no way to train their own models."
         },
         {
-          "topTimestamp": 291,
-          "bottomTimestamp": 300,
-          "topText": "These are not things we do as software engineers.",
-          "bottomText": "We sit there and wait for features to appear in a ticket."
+          "topTimestamp": 86,
+          "bottomTimestamp": 98,
+          "topText": "What they're doing is making an API request —",
+          "bottomText": "requesting data from models that OpenAI or Google owns."
         },
         {
-          "topTimestamp": 300,
-          "bottomTimestamp": 305,
-          "topText": "Cool. Code. Ship.",
-          "bottomText": "Not my problem anymore. Tell me what to do next."
+          "topTimestamp": 100,
+          "bottomTimestamp": 112,
+          "topText": "They receive that data back into their application",
+          "bottomText": "and serve it up to the clients."
         },
         {
-          "topTimestamp": 305,
-          "bottomTimestamp": 317,
-          "topText": "So you need somebody with product thinking",
-          "bottomText": "AND the ability to pitch — to explain tech in layman's terms."
+          "topTimestamp": 114,
+          "bottomTimestamp": 126,
+          "topText": "An example would be chatbots.",
+          "bottomText": "Or those essay-writing AI companies that say 'we help you write copy.'"
         }
       ]
     },
     {
-      "name": "vibe-coding-not-enough",
-      "description": "Why no-code and vibe coding won't scale",
+      "name": "competing-on-prompts",
+      "description": "AI wrapper companies compete on prompt engineering — subject matter expertise is the real differentiator",
       "slides": [
         {
-          "topTimestamp": 957,
-          "bottomTimestamp": 965,
-          "topText": "A lot of non-technical founders think they don't need a CTO at all.",
-          "bottomText": "They truly believe that vibe coding, no-code tools is enough to start a tech startup."
+          "topTimestamp": 408,
+          "bottomTimestamp": 418,
+          "topText": "AI wrapper companies showed up in hordes",
+          "bottomText": "during the generative AI era of 2021 to 2022."
         },
         {
-          "topTimestamp": 972,
-          "bottomTimestamp": 979,
-          "topText": "Oh yeah, I know what's an API. I know what's a database.",
-          "bottomText": "There are tools to get these things. Voila. I'm a tech."
+          "topTimestamp": 420,
+          "bottomTimestamp": 432,
+          "topText": "Almost every AI company is technically a wrapper",
+          "bottomText": "but it is solving a specialized use case."
         },
         {
-          "topTimestamp": 983,
-          "bottomTimestamp": 993,
-          "topText": "They truly believe the no-code platform will handle all of this for them.",
-          "bottomText": "But when asked: what happens when you scale to users beyond this region?"
+          "topTimestamp": 434,
+          "bottomTimestamp": 448,
+          "topText": "Their value proposition is their prompt engineering —",
+          "bottomText": "how well their prompts are to the AI model."
         },
         {
-          "topTimestamp": 996,
-          "bottomTimestamp": 1005,
-          "topText": "For us it's intuitive — data availability, provisioning.",
-          "bottomText": "But this is not intuitive to the layman because they've never encountered it."
+          "topTimestamp": 450,
+          "bottomTimestamp": 464,
+          "topText": "If you're choosing between two essay-writing AIs —",
+          "bottomText": "you'd pick whichever one writes a better essay. They're competing on how well they prompt the same model."
         },
         {
-          "topTimestamp": 1012,
-          "bottomTimestamp": 1022,
-          "topText": "A lot of no-code platforms are just wrappers over existing AI models.",
-          "bottomText": "They aren't equipped to create apps that scale."
+          "topTimestamp": 466,
+          "bottomTimestamp": 480,
+          "topText": "Being a good prompter means being a subject matter expert.",
+          "bottomText": "An animator knows the exact terminologies — cinematography, VFX, different cuts."
         },
         {
-          "topTimestamp": 1025,
-          "bottomTimestamp": 1038,
-          "topText": "These founders have never worked in a tech company before.",
-          "bottomText": "They don't know about unit testing, integration testing, end-to-end testing."
+          "topTimestamp": 482,
+          "bottomTimestamp": 498,
+          "topText": "These experts can templatize the prompt —",
+          "bottomText": "serve up a form where you fill in 'I want this filter, this effect.'"
+        },
+        {
+          "topTimestamp": 500,
+          "bottomTimestamp": 516,
+          "topText": "You wouldn't have thought about these terms as a layperson.",
+          "bottomText": "That's how a subject matter expert adds real value to an AI wrapper."
         }
       ]
     },
     {
-      "name": "engineering-not-coding",
-      "description": "Why software is engineering, not just coding",
+      "name": "danger-of-not-owning-your-model",
+      "description": "The risks of building on someone else's AI model — pricing, opacity, and the threat of being easily replicated",
       "slides": [
         {
-          "topTimestamp": 1084,
-          "bottomTimestamp": 1092,
-          "topText": "That's why it's called engineering.",
-          "bottomText": "It's more than coding — it's about the architecture."
+          "topTimestamp": 632,
+          "bottomTimestamp": 644,
+          "topText": "There's a long-term sustainability factor to think about.",
+          "bottomText": "The moment OpenAI or Anthropic decides 'we're not sharing our models anymore' —"
         },
         {
-          "topTimestamp": 1092,
-          "bottomTimestamp": 1100,
-          "topText": "It's like building a bridge.",
-          "bottomText": "You can't change one small part and ignore the rest."
+          "topTimestamp": 646,
+          "bottomTimestamp": 658,
+          "topText": "What can they do? Exactly.",
+          "bottomText": "Or they share their models but you're subject to their price increases."
         },
         {
-          "topTimestamp": 1100,
-          "bottomTimestamp": 1108,
-          "topText": "You're not considering the whole physics of it.",
-          "bottomText": "How it'll break or anything."
+          "topTimestamp": 660,
+          "bottomTimestamp": 674,
+          "topText": "APIs are cheap now because they want everyone to use them.",
+          "bottomText": "But once they increase the price per API call — your entire pricing model changes."
         },
         {
-          "topTimestamp": 1103,
-          "bottomTimestamp": 1115,
-          "topText": "Non-coders see it as: as long as the app looks like it works...",
-          "bottomText": "They don't understand the back end."
+          "topTimestamp": 676,
+          "bottomTimestamp": 692,
+          "topText": "You're basically beholden to whatever the model owners decide.",
+          "bottomText": "And it's also very opaque to you."
         },
         {
-          "topTimestamp": 1116,
-          "bottomTimestamp": 1125,
-          "topText": "They're not properly educated or trained in this.",
-          "bottomText": "So they don't see it as engineering. They see it as coding."
+          "topTimestamp": 694,
+          "bottomTimestamp": 710,
+          "topText": "You don't know how they train the model.",
+          "bottomText": "You don't know the existing biases. There are no standards enforcing transparency."
         },
         {
-          "topTimestamp": 1128,
-          "bottomTimestamp": 1137,
-          "topText": "A lot of my non-technical friends say 'Oh, you're a coder.'",
-          "bottomText": "They don't say engineer because it's an unfamiliar term."
+          "topTimestamp": 712,
+          "bottomTimestamp": 728,
+          "topText": "The scary part is when your only value is the prompt.",
+          "bottomText": "Somebody could come in and steal the same idea — it's so easily stolen."
         },
         {
-          "topTimestamp": 1137,
-          "bottomTimestamp": 1152,
-          "topText": "It shows in how they see vibe coding:",
-          "bottomText": "I'm building an app from zero to one and it works. What about the secrets? What about security?"
+          "topTimestamp": 730,
+          "bottomTimestamp": 746,
+          "topText": "In the startup community saturated with AI wrapper companies,",
+          "bottomText": "that's what investors are wary of. There's talk of an AI bubble."
         }
       ]
     },
     {
-      "name": "fractional-cto-trend",
-      "description": "The rise of fractional CTOs",
+      "name": "data-ethics-pivot",
+      "description": "A cautionary tale about an AI wrapper company that pivoted to a proprietary model by secretly harvesting user data",
       "slides": [
         {
-          "topTimestamp": 693,
-          "bottomTimestamp": 704,
-          "topText": "I've been seeing fractional CTOs becoming more common.",
-          "bottomText": "A company hires someone as a CTO on a part-time basis."
+          "topTimestamp": 852,
+          "bottomTimestamp": 864,
+          "topText": "I have a story of a company that used to be an AI wrapper",
+          "bottomText": "but they're trying to pivot by building their own model."
         },
         {
-          "topTimestamp": 711,
-          "bottomTimestamp": 722,
-          "topText": "A fractional CTO can advise multiple startups at once.",
-          "bottomText": "All the way from seed stage to Series B, C, D."
+          "topTimestamp": 866,
+          "bottomTimestamp": 880,
+          "topText": "How are they going to collect data to build their own model?",
+          "bottomText": "It's tricky. They started using users' data without being transparent."
         },
         {
-          "topTimestamp": 725,
-          "bottomTimestamp": 735,
-          "topText": "It's kind of like a lawyer on retainer.",
-          "bottomText": "You only call them when something happens."
+          "topTimestamp": 882,
+          "bottomTimestamp": 898,
+          "topText": "They told users 'We're training our own model now'",
+          "bottomText": "but essentially they were reading users' message history and all their information."
         },
         {
-          "topTimestamp": 755,
-          "bottomTimestamp": 768,
-          "topText": "For seed-stage startups, they'll ask for technical strategy:",
-          "bottomText": "Which developers do I hire? What tech stack do I need?"
+          "topTimestamp": 900,
+          "bottomTimestamp": 916,
+          "topText": "When they released the model, users asked 'How did you build this?'",
+          "bottomText": "'Oh, from opt-in users' data.' Opt-in."
         },
         {
-          "topTimestamp": 771,
-          "bottomTimestamp": 785,
-          "topText": "Once that groundwork is set up, they're like 'Okay, bye-bye.'",
-          "bottomText": "Until the next round: 'We need to refactor. What should we do?'"
+          "topTimestamp": 918,
+          "bottomTimestamp": 934,
+          "topText": "In the small terms and conditions, you're essentially opting in.",
+          "bottomText": "As users, we just have to be vigilant in how companies use our data."
         },
         {
-          "topTimestamp": 807,
-          "bottomTimestamp": 817,
-          "topText": "It's probably like a temporary CTO.",
-          "bottomText": "While you're finding someone really invested in the idea, get someone to solve immediate problems."
+          "topTimestamp": 936,
+          "bottomTimestamp": 952,
+          "topText": "These terms and conditions are designed to make you feel so burdened",
+          "bottomText": "that you just accept — they don't offer a way for you to negotiate."
+        },
+        {
+          "topTimestamp": 954,
+          "bottomTimestamp": 970,
+          "topText": "It's either you accept our terms or you don't use the app.",
+          "bottomText": "There are no regulations to make terms and conditions negotiable. And that's a problem."
         }
       ]
     }

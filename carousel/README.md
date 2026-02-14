@@ -20,6 +20,7 @@ Automated tool to generate Instagram/TikTok/LinkedIn carousel images from YouTub
 ```bash
 cd carousel
 npm install
+npx puppeteer browsers install chrome
 ```
 
 ## Configuration
